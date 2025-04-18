@@ -1,37 +1,48 @@
 const mongoose = require("mongoose");
-const { schema } = require("./User");
 
-const ArticleSchema = new schema({
-    title : {
-        type : String,
-        required : true
-    },
-    
-    url : {
-        type : String,
-        required : true
+const ArticleSchema = new mongoose.Schema({
+    title: {
+        type: String,
+        required: true
     },
 
-    excerpt : {
-        type : String
+    link: {
+        type: String,
+        required: true,
+        unique: true
     },
 
-    thumbnail : {
-        type : String
+    snippet: {
+        type: String
     },
 
-    date : {
-        type : String
+    photo_url: {
+        type: String
     },
 
-    authors : {
-        type : String
+
+    thumbnail_url: {
+        type: String
     },
 
-    publisher : {
-        type : String
+    published_datetime_utc: {
+        type: Date
+    },
+
+    authors: {
+        type: [String],
+        default: []
+    },
+
+    source_name: {
+        type: String
+    },
+
+    keywords: {
+        type: [String],
+        default: []
     }
-    
+
 })
 
 

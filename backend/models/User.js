@@ -9,7 +9,10 @@ const UserSchema = new mongoose.Schema({
     email: {
         type: String,
         required: true,
-        unique: true
+        unique: true,
+        lowercase: true,
+        match: [/^\S+@\S+\.\S+$/, 'Please use a valid email address.']
+
     },
 
     password: {
@@ -27,7 +30,11 @@ const UserSchema = new mongoose.Schema({
             {
                 name: {
                     type: String,
-                    required: true
+                    required: true,
+                    enum: [
+                        "WORLD", "NATIONAL", "BUSINESS", "TECHNOLOGY",
+                        "ENTERTAINMENT", "SPORTS", "SCIENCE", "HEALTH", "GENERAL"
+                    ]
                 },
 
                 count: {
@@ -37,16 +44,26 @@ const UserSchema = new mongoose.Schema({
             }
         ],
         default: [
-            {
-                name: "General",
-                count: 1
-            }
+            { name: "WORLD", count: 1 },
+            { name: "NATIONAL", count: 1 },
+            { name: "BUSINESS", count: 1 },
+            { name: "TECHNOLOGY", count: 1 },
+            { name: "ENTERTAINMENT", count: 1 },
+            { name: "SPORTS", count: 1 },
+            { name: "SCIENCE", count: 1 },
+            { name: "HEALTH", count: 1 },
+            { name: "GENERAL", count: 1 }
         ]
     },
-    
+
     totalCategoryCount: {
         type: Number,
-        default: 1
+        default: 9
+    },
+
+
+    history : {
+        
     }
 })
 

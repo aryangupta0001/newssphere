@@ -5,10 +5,11 @@ const { validationResult, body } = require('express-validator');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const fetchuser = require("../middleware/fetchuser");
+const Articles = require("../models/Articles");
 
 const JWT_SECRET = "#365$36884";
 
-// ROUTE 1 --->             create a user using : POST "/api/auth/createuser"          Doesn't require auth.
+// ROUTE 1 --->             create a news article using : POST "/api/article/createuser"          Doesn't require auth.
 
 router.post("/createuser",
 
