@@ -16,7 +16,9 @@ async function getArticleEmbedding(texts) {
     // Get raw token-level output
     const output = await classifier(texts); // output[0] = array of token embeddings
 
-    
+
+    /*
+    // Single Processing mode --->
     
     // Convert tensor to nested array
     const arrayOutput = await output.tolist(); //   Converts tensor to nested JS array
@@ -40,7 +42,40 @@ async function getArticleEmbedding(texts) {
         sentenceEmbedding[dimIdx] /= tokenEmbeddings.length;
     }
 
-    return sentenceEmbedding; // This is a 768-dim BERT vectors
+    */
+
+    /*
+    // Batch-Processing Mode --->
+    */
+
+    // Convert tensor to nested array
+    const arrayOutput = await Promise.all(output.map(item => item.tolist())); // Converts tensor to nested JS array
+
+    // Now, arrayOutput contains an array for each text in the batch
+    const sentenceEmbeddings = arrayOutput.map((tokenEmbeddings) => {
+        // shape: [tokens, 768] — tokenEmbeddings is [tokens, 768]
+
+        // Initialize an array of zeros with 768 dimensions for each sentence
+        const sentenceEmbedding = new Array(768).fill(0);
+
+        // Sum up all token embeddings
+        for (let tokenIdx = 0; tokenIdx < tokenEmbeddings.length; tokenIdx++) {
+            for (let dimIdx = 0; dimIdx < 768; dimIdx++) {
+                sentenceEmbedding[dimIdx] += tokenEmbeddings[tokenIdx][dimIdx];
+            }
+        }
+
+        // Divide by number of tokens to get the average
+        for (let dimIdx = 0; dimIdx < 768; dimIdx++) {
+            sentenceEmbedding[dimIdx] /= tokenEmbeddings.length;
+        }
+
+        return sentenceEmbedding; // This is a 768-dim BERT vector for each article
+    });
+
+
+
+    return sentenceEmbeddings; // This is a 768-dim BERT vectors
 
 }
 module.exports = {

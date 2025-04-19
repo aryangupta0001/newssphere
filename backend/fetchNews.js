@@ -1,6 +1,7 @@
 const Articles = require('./models/Articles');
 const { getArticleEmbedding } = require('./bertUtiils');
 const { api_response } = require('./api_repsonse_demo');
+const { text } = require('express');
 
 
 
@@ -59,8 +60,32 @@ async function fetchNews() {
 
         // For Bulk Article Processing --->
 
-        const texts = articles.map(a => `${a.title} ${a.snippet || ''}`.trim());
-        
+        const newArticles = articles.filter(article => !existingLinks.has(article.link));
+
+        if (newArticles.length == 0) {
+            return;
+        }
+
+        const texts = newArticles.map(a => `${a.title} ${a.snippet || ''}`.trim());
+
+        const embeddings = getArticleEmbedding(texts);
+
+        let i = 0;
+
+        for (const article of newArticles) {
+            article.bert_embedding = embeddings[i];
+            i++;
+        }
+
+        await Articles.bulkWrite(
+            articles.map(article => ({
+                updateOne: {
+                    filter: { link: article.link },
+                    update: { $setOnInsert: article },
+                    upsert: true
+                }
+            }))
+        );
 
 
 
@@ -113,6 +138,8 @@ async function fetchArticles() {
 
     try {
         const result = api_response;
+
+
 
         const articleData = result.data.map(({ title, link, snippet, photo_url, thumbnail_url, published_datetime_utc, authors, source_name }) => ({ title, link, snippet, photo_url, thumbnail_url, published_datetime_utc: new Date(published_datetime_utc), authors, source_name }));
 
