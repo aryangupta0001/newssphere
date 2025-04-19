@@ -38,9 +38,8 @@ const ArticleSchema = new mongoose.Schema({
         type: String
     },
 
-    keywords: {
-        type: [String],
-        default: []
+    bert_embedding: {
+        type: [Number]
     }
 
 })
