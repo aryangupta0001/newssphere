@@ -1,7 +1,7 @@
 const Articles = require('./models/Articles');
 const { getArticleEmbedding } = require('./bertUtiils');
 const { api_response } = require('./api_repsonse_demo');
-const { text } = require('express');
+const { set } = require('mongoose');
 
 
 
@@ -10,11 +10,29 @@ async function fetchNews() {
 
         // Fetch News Articles from API :-
         const articles = await fetchArticles();
-
+        
         if (articles == "API Expired") {
             console.log(articles[0]);
             return;
         }
+
+        
+        console.log("No. of articles in API Res : ", articles.length);
+
+        const uniqueArticles = new Set();
+        let dupli = 0;
+
+        for (const article of articles) {
+            if (uniqueArticles.has(article.link)) {
+                dupli++;
+            }
+            uniqueArticles.add(article.link);
+        }
+
+        console.log("No. of duplicate articles in API Response: ", dupli);
+
+
+
 
 
         // Step 1: Get all existing links from DB :-
@@ -24,58 +42,50 @@ async function fetchNews() {
         );
 
 
-        // For Individual Article Processing --->
-
-        /*
-
         // Step 2: Process new articles only :-
 
-        let i = 1;
+        console.time("Emebdding generation time");
+
+
+        let i = 0;
+        let failedEmbeddings = 0;
+
         for (const article of articles) {
             if (!existingLinks.has(article.link)) {
                 const text = `${article.title} ${article.snippet || ''}`.trim(); // Combine title & snippet
 
-                const embedding = await getArticleEmbedding(text);
-                article.bert_embedding = embedding;
+                try {
 
+
+                    const embedding = await getArticleEmbedding(text);
+
+                    if (!embedding || !Array.isArray(embedding) || embedding.length !== 768) {
+                        console.warn(`Skipping due to invalid embedding: ${article.title}`);
+                        failedEmbeddings++;
+                        continue;
+                    }
+
+                    article.bert_embedding = embedding;
+
+                    i += 1;
+                }
+                catch (e) {
+                    failedEmbeddings++;
+                    console.error(`Embedding error for article '${article.title}':`, err.message);
+                }
                 console.log("Articles processed : ", i);
-                i+=1;
+                console.log("Failed to embed:", failedEmbeddings);
+
+            }
+
+            else {
+                console.log(article.link);
             }
         }
 
+        console.log("New Articles fetched : ", i);
 
 
-        await Articles.bulkWrite(
-            articles.map(article => ({
-                updateOne: {
-                    filter: { link: article.link },
-                    update: { $setOnInsert: article },
-                    upsert: true
-                }
-            }))
-        );
-
-        */
-
-
-        // For Bulk Article Processing --->
-
-        const newArticles = articles.filter(article => !existingLinks.has(article.link));
-
-        if (newArticles.length == 0) {
-            return;
-        }
-
-        const texts = newArticles.map(a => `${a.title} ${a.snippet || ''}`.trim());
-
-        const embeddings = getArticleEmbedding(texts);
-
-        let i = 0;
-
-        for (const article of newArticles) {
-            article.bert_embedding = embeddings[i];
-            i++;
-        }
 
         await Articles.bulkWrite(
             articles.map(article => ({
@@ -87,13 +97,15 @@ async function fetchNews() {
             }))
         );
 
-
+        console.timeEnd("Emebdding generation time");
 
     }
 
     catch (error) {
         console.error("Inside fetchNews.js :\n", error.message);
     }
+
+
 
 }
 

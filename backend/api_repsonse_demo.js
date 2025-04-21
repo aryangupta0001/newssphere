@@ -4636,7 +4636,8942 @@ const api_response = {
                     "topic_name": "Jishika Madaan"
                 }
             ]
+        },
+        {
+            "title": "Three killed, over 100 rescued as heavy rain wreaks havoc in J-Ks Ramban",
+            "link": "https://www.greaterkashmir.com/gk-top-news/three-killed-over-100-rescued-as-heavy-rain-wreaks-havoc-in-j-ks-ramban/",
+            "snippet": "About 40 residential houses were damaged, with ten houses were fully destroyed, after a flash flood hit Dharam Kund village.",
+            "photo_url": "https://m.greaterkashmir.com/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JlYXRlcmthc2htaXItc29ydGQtcHJvLXByb2Qtc29ydGQvbWVkaWEzZTNkYTU5MC0xZGJjLTExZjAtYmNkYy0wZmZlZDUyNjRlMWUuanBn",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iNkNnNUdTVzUyZERVNGMyeHlNM3B5VFJDeEF4akVCU2dLTWc0SkVJQ0REaXNiV0VqTHFkSmlFUQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T07:44:38.000Z",
+            "authors": [],
+            "source_url": "https://www.greaterkashmir.com",
+            "source_name": "Greater Kashmir",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greaterkashmir.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWR5WldGMFpYSnJZWE5vYldseUxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Ramban rain causes destruction: Understanding the weather events affecting the region",
+                    "link": "https://indianexpress.com/article/explained/explained-climate/ramban-rain-cloudburst-landslide-flash-flood-9955153/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/ramban-1600.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVSbkY1WkVsak9Ya3dSbXBWVFJEb0FSaWVBeWdLTWdZQmdJUUl2Z00=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:35:45.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Jammu and Kashmir: Cloudburst, flash floods leave trail of death and destruction in Ramban",
+                    "link": "https://www.telegraphindia.com/gallery/jammu-and-kashmir-cloudburst-flash-floods-leave-trail-of-death-and-destruction-in-ramban-photogallery-prnt/cid/2095059",
+                    "photo_url": "https://assets.telegraphindia.com/telegraph/2025/Apr/1745147821_new-project-25.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXlZVkU1WW1wSWFFWndOakowVFJERUF4aW1CU2dLTWdrQlFJWlVLQ2l4aXdF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:46:54.000Z",
+                    "authors": [],
+                    "source_url": "https://www.telegraphindia.com",
+                    "source_name": "Telegraph India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.telegraphindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdWbmNtRndhR2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "J&K: Three killed, over 100 rescued as heavy rain wreaks havoc in Ramban",
+                    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/heavy-rain-triggers-flash-flood-in-jks-ramban-over-100-people-rescued/article69470647.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/c4boq4/article69470703.ece/alternates/LANDSCAPE_1200/PTI04_20_2025_000028B.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNWxYMkZhWWtGYUxUWkVZMDR3VFJDZkF4ampCU2dLTWdzQlFKZ2dKbWdtYVFyMHVR=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T06:24:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lYc0tYVkRSRWtfdGRVeGxycm55Z0FQAQ"
+        },
+        {
+            "title": "After BJP’s Dubey says CJI behind ‘civil wars’, J P Nadda says told him not to make such statements",
+            "link": "https://indianexpress.com/article/political-pulse/after-bjps-dubey-says-cji-behind-civil-wars-nadda-says-told-him-not-to-make-such-statements-9954010/",
+            "snippet": "Hours after BJP MP Nishikant Dubey launched a strong attack on the Supreme Court, including blaming Chief Justice of India Sanjiv Khanna for ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/nd.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUpXbm96YURWTlZXNVJURnBFVFJDZkF4ampCU2dLTWdtUk1aalZvT2lwWndJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T02:44:00.000Z",
+            "authors": [
+                "Vikas Pathak",
+                "Liz Mathew"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkhCNWRHUnFjQklDWlc0b0FBUAE",
+                    "topic_name": "Vikas Pathak"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhKa2R6Qm5NeElDWlc0b0FBUAE",
+                    "topic_name": "Liz Mathew"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Behind BJP MP's 'Crossing Limits' Jab, Supreme Court's Tamil Nadu Verdict",
+                    "link": "https://www.ndtv.com/india-news/supreme-court-nishikant-dubey-asaduddin-owaisi-tubelights-thumbs-up-a-owaisi-slams-bjp-mps-remarks-against-top-court-8208299",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/gn12glbc_owaisi-nishikant-supreme-court_625x300_20_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWtXblJrWlMxVlJuVjJOVEpIVFJDeUF4akNCU2dLTWdrQllKSURzeVllU0FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T04:34:49.000Z",
+                    "authors": [
+                        "Saikat Kumar Bose"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WDNkNU1YazVNUklDWlc0b0FBUAE",
+                            "topic_name": "Saikat Kumar Bose"
+                        }
+                    ]
+                },
+                {
+                    "title": "Nadda draws the line, but unease over Supreme Court’s moves continues to simmer within BJP",
+                    "link": "https://theprint.in/politics/nadda-draws-the-line-but-unease-over-supreme-courts-moves-continues-to-simmer-within-bjp/2596201/",
+                    "photo_url": "https://static.theprint.in/wp-content/uploads/2025/04/Untitled-design-3-1.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU1aMW80Y0hGdk4wSjVYeTEwVFJDZkF4ampCU2dLTWdtQklaYkFJbWsxYUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:11:05.000Z",
+                    "authors": [
+                        "Shanker Arnimesh"
+                    ],
+                    "source_url": "https://theprint.in",
+                    "source_name": "ThePrint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWlhCeWFXNTBMbWx1S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSeGFqbHdlaElDWlc0b0FBUAE",
+                            "topic_name": "Shanker Arnimesh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Criminal Contempt Action Sought Against BJP MP Nishikant Dubey For Remarks Against Supreme Court & CJI",
+                    "link": "https://www.livelaw.in/top-stories/criminal-contempt-action-sought-against-bjp-mp-nishikant-dubey-for-remarks-against-supreme-court-cji-289815",
+                    "photo_url": "https://www.livelaw.in/h-upload/2023/07/17/1500x900_481569-nishikant-dubey-and-sc.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxkVmRaUXpKVWFIaDRhMUZHVFJDdEF4akxCU2dLTWdhUmdJeVh1QVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T08:56:26.000Z",
+                    "authors": [],
+                    "source_url": "https://www.livelaw.in",
+                    "source_name": "Live Law",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbXhwZG1Wc1lYY3VhVzRvQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o1N3VmWERSRXNBUkdrZmFQT1lpZ0FQAQ"
+        },
+        {
+            "title": "AP DSC 2025: Mega DSC registration begins at apdsc.apcfss.in, link to apply",
+            "link": "https://www.hindustantimes.com/education/employment-news/ap-dsc-2025-mega-dsc-registration-begins-at-apdsc-apcfss-in-link-to-apply-101745123979069.html",
+            "snippet": "The computer-based recruitment examination is scheduled between June 6 and July 6. On the notification and information bulletin, candidates will ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/ap_dsc_2025_registration_1745127403624_1745127415906.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWthR05NY0ZWUlZHaHJhUzAyVFJDMUFoaW1CQ2dLTWdNQlV3SQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T05:38:56.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "AP DSC Recruitment 2025: Registration Begins For 16,347 Teacher Posts, Apply By May 15",
+                    "link": "https://www.ndtv.com/education/ap-dsc-recruitment-2025-registration-begins-for-16-347-teacher-posts-check-key-details-8209641",
+                    "photo_url": "https://c.ndtvimg.com/2022-09/6gmsimm8_bpsc-recruitment-2022-head-teacher-vacancy-_625x300_23_September_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWhTREJWVWxkVGNYQk5kVGxYVFJDeUF4akNCU2dLTWdrZEVKaVdGT3FLYUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T08:57:40.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Andhra Pradesh govt to issue notification to recruit 16,347 teachers on Sunday",
+                    "link": "https://www.deccanherald.com/india/andhra-pradesh/andhra-pradesh-govt-to-issue-notification-to-recruit-16347-teachers-on-sunday-3501423",
+                    "photo_url": "https://images.deccanherald.com/deccanherald%2F2023-09%2F2993e3a8-988e-4db5-b112-b60014734161%2Fchandrababu_naidu_reuters_1139326_1661445251_1177886_1672982043_1243012_1690920450.jpg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBlVk5GWVV0aWEyVjFaR2xVVFJDS0F4aThCU2dLTWdhdEpZRE5tUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:45:53.000Z",
+                    "authors": [],
+                    "source_url": "https://www.deccanherald.com",
+                    "source_name": "Deccan Herald",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsWTJOaGJtaGxjbUZzWkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Andhra Pradesh government to release mega DSC notification for 16,437 teacher posts on N Chandrababu Naid",
+                    "link": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-government-to-release-mega-dsc-notification-for-16437-teacher-posts-on-n-chandrababu-naidus-75th-birthday/articleshow/120447274.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120447282,width-1280,height-720,resizemode-72/120447282.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhiazVNVkV0aGJFdFRiWFp6VFJDZkF4ampCU2dLTWdZbFJwYnNJUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T03:09:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pnMU1QV0RSRzZwU01RbWxZclRpZ0FQAQ"
+        },
+        {
+            "title": "‘Felt like an earthquake’: Families of 11 killed in Delhi building collapse mourn irreplaceable loss",
+            "link": "https://indianexpress.com/article/cities/delhi/felt-like-an-earthquake-families-of-11-killed-in-delhi-building-collapse-mourn-irreplaceable-loss-9954182/",
+            "snippet": "Chand had lost one of his elder brothers, Aas Mohammad, in the 2020 Northeast Delhi riots. Apart from his wife, his father, Tehsin (60); his ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/Northeast-Delhi-Building-collapse-1.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDVjWE5EVkVwclZ6bEtlVmxpVFJDZkF4ampCU2dLTWdrQkFJam9tS1RCUlFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T02:51:00.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Delhi building collapse: Homes & many lives crumbled like cards",
+                    "link": "https://timesofindia.indiatimes.com/city/delhi/how-the-fortune-of-three-families-was-reduced-to-rubble/articleshow/120440011.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120446788,width-1280,height-720,resizemode-72/120446788.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNDJTMFZtVUhvMk5rbHpYM0UyVFJDZkF4ampCU2dLTWdzQkVJckNyS1U4TmttVHFR=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T18:43:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Mustafabad building collapse: a night of horror, a morning of grief",
+                    "link": "https://www.thehindu.com/news/cities/Delhi/mustafabad-building-collapse-a-night-of-horror-a-morning-of-grief/article69469254.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/y4jpsk/article69469258.ece/alternates/LANDSCAPE_1200/PTI04_19_2025_000041B.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZWRXhxTFdaaVNUSjVjV1ZMVFJDZkF4ampCU2dLTWdZbGhvcnNzUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T18:33:00.000Z",
+                    "authors": [
+                        "Samridhi Tewari"
+                    ],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwY0RJeGNUbHllaElDWlc0b0FBUAE",
+                            "topic_name": "Samridhi Tewari"
+                        }
+                    ]
+                },
+                {
+                    "title": "What led to the Delhi building collapse that killed 11? Experts weigh in",
+                    "link": "https://www.hindustantimes.com/cities/delhi-news/experts-on-what-led-to-the-delhi-building-collapse-that-killed-11-101745087455420.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/Rescue-operations-underway-at-the-site-in-Dayalpur_1745087452016.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNhV3hLVjFSdloxTnJPUzFJVFJDMUFoaW1CQ2dLTWdhSk1ZQW94UUk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T00:36:03.000Z",
+                    "authors": [
+                        "Snehil Sinha"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OdGRtdzFheElDWlc0b0FBUAE",
+                            "topic_name": "Snehil Sinha"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2paNXJyWERSRmdrXy1GWEd0U1dpZ0FQAQ"
+        },
+        {
+            "title": "Eknath Shinde was asked about possible Uddhav & Raj Thackeray reunion. How Maharashtra deputy CM reacted",
+            "link": "https://timesofindia.indiatimes.com/india/eknath-shinde-was-asked-about-possible-uddhav-raj-thackeray-reunion-how-maharashtra-deputy-cm-reacted/articleshow/120450157.cms",
+            "snippet": "India News: Maharashtra's Deputy CM Eknath Shinde reacted sharply to questions about a potential alliance between Uddhav and Raj Thackeray.",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120450178,width-1280,height-720,resizemode-4/120450178.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhTV3Q2YTBwM1RVd3dUMXBXVFJDZkF4ampCU2dLTWdZQmNKQnV0QWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T06:12:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "How Death In A Cinema Hall Paved The Way For Raj Thackeray's Shiv Sena Exit",
+                    "link": "https://www.ndtv.com/india-news/shiv-sena-raj-thackeray-uddhav-thackeray-from-sena-future-to-rebel-to-rival-what-led-to-raj-thackerays-party-exit-8210475",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/pb1k3ajk_raj-thackeray-uddhav-thackeray-split_625x300_20_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHdkemx3YUV0Q01FRmxNR0ZGVFJDeUF4akNCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:24:56.000Z",
+                    "authors": [
+                        "Saikat Kumar Bose"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WDNkNU1YazVNUklDWlc0b0FBUAE",
+                            "topic_name": "Saikat Kumar Bose"
+                        }
+                    ]
+                },
+                {
+                    "title": "'Did he seek his wife's permission?': BJP's Nitesh Rane mocks Uddhav over 'possible alliance' with estran",
+                    "link": "https://timesofindia.indiatimes.com/india/did-he-seek-his-wifes-permission-bjps-nitesh-rane-mocks-uddhav-over-possible-alliance-with-estranged-cousin-raj-thackeray/articleshow/120454637.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120455013,width-1280,height-720,resizemode-4/120455013.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNWFlVTFWUmtoRVJYQjVMV3d6VFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:05:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "No political alliance yet, Raj-Uddhav Thackeray talks only emotional: Sanjay Raut",
+                    "link": "https://www.indiatoday.in/india/story/no-political-alliance-maharashtra-raj-uddhav-thackeray-talks-only-emotional-sanjay-raut-2711743-2025-04-20",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/thackeray-20305087-16x9_0.jpg?VersionId=V0s2T4vIvjX_44ZBc5XZakroeNkl3JYn&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNWlYMEoyUW5CWVJHVTJTSFpzVFJDRUF4aXlCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T07:08:02.000Z",
+                    "authors": [
+                        "Sayan Ganguly"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYW1ReGJuWmlkeElDWlc0b0FBUAE",
+                            "topic_name": "Sayan Ganguly"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pxMU4zWERSRmlvWExsMEkyN0V5Z0FQAQ"
+        },
+        {
+            "title": "View: Why India needs disruptive change in governance",
+            "link": "https://www.hindustantimes.com/india-news/why-india-needs-disruptive-change-in-governance-101745134917200.html",
+            "snippet": "India cannot become a developed country with a big military-industrial complex in 2047 without the help of the Indian private sector, as slow- ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/PM_Modi_1745135524450_1745135524804.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVdjVW8zZG1kT1YxVnRiRGxKVFJDMUFoaWxCQ2dLTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T07:56:43.000Z",
+            "authors": [
+                "Shishir Gupta"
+            ],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR2d4Wm5kM1pCSUNaVzRvQUFQAQ",
+                    "topic_name": "Shishir Gupta"
+                }
+            ]
+        },
+        {
+            "title": "JEE Main Cut-Off 2025: Check qualifying marks for top engineering colleges here",
+            "link": "https://indianexpress.com/article/education/jee-main-cut-off-2025-out-qualifying-percentile-for-top-engineering-colleges-nit-iiit-gfti-jeeadvanced-jee-main-result-2025-direct-link-9952782/",
+            "snippet": "This year, 24 candidates secured a perfect 100 percentile score. The JEE Main 2025 April session was conducted from April 2 to 9, 2025, across ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/JEE-Main-2025-Session-2-Answer-Key-NTA-responds-to-claims-over-incorrect-answer-key-Photo-AI-Generated-via-Freepik-1.jpeg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5RazFCVTA1MGVuRjRTa0pQVFJDaUF4amRCU2dLTWdZTlE1SXlIUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T04:11:00.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Gurugram’s Amogh Bansal tops Haryana in JEE Mains 2025",
+                    "link": "https://www.hindustantimes.com/cities/gurugram-news/gurugrams-amogh-bansal-tops-haryana-in-jee-mains-2025-101745088595295.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/Amogh-Bansal-from-Gurugram-emerging-as-the-Haryana_1745088592395.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlSSGRtYWtZMk0xUkdXbWRWVFJDMUFoaW1CQ2dLTWdtSlFKaVJLR2g1aHdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:18:05.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "JEE Mains 2025: Who is Om Prakash Behera and how he became India’s JEE topper with 100 percentile",
+                    "link": "https://www.financialexpress.com/jobs-career/education-jee-mains-2025-who-is-om-prakash-behera-and-how-he-became-indias-jee-topper-with-100-percentile-3815825/",
+                    "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/04/diya-0001-43.jpg?w=440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhVa3B4T0hSR1kzVkRRV0p1VFJEM0FSaTRBeWdLTWdZSlFaSzNHQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:06:14.000Z",
+                    "authors": [],
+                    "source_url": "https://www.financialexpress.com",
+                    "source_name": "The Financial Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Kushagra Gupta from Karnataka Among 24 Students to Score 100 Percentile in JEE",
+                    "link": "https://www.deccanherald.com/india/karnataka/jee-k-taka-s-kushagra-among-24-with-100-percentile-3501418",
+                    "photo_url": "https://images.deccanherald.com/deccanherald%2F2025-04-19%2Fyyr012h5%2Ffile80a1b9dqfcz7wgnioz.jpeg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhiR0Y0WlhsdVkzVTNTa2xSVFJEaEFSaVFBeWdLTWdhMVpJNlFxUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T21:26:41.000Z",
+                    "authors": [],
+                    "source_url": "https://www.deccanherald.com",
+                    "source_name": "Deccan Herald",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsWTJOaGJtaGxjbUZzWkM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k3eWI3UERSSG5fbEthdUQ2NmZTZ0FQAQ"
+        },
+        {
+            "title": "'They want to divide us': Mamata Banerjee attacks BJP, RSS, urges people to maintain peace",
+            "link": "https://www.thehindu.com/news/national/they-want-to-divide-us-mamata-attacks-bjp-rss-urges-people-to-maintain-peace/article69469397.ece",
+            "snippet": "Mamata Banerjee on Murshidabad violence: Mamata Banerjee urges peace in West Bengal amid BJP-RSS \"vicious false campaign\", emphasizing unity ...",
+            "photo_url": "https://th-i.thgim.com/public/incoming/vz0q5v/article69462096.ece/alternates/LANDSCAPE_1200/PTI04_17_2025_000299B.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBMVkZPVUdSRk5YSm1TRWhGVFJDZkF4ampCU2dLTWdZaGhvWU1NZ1k=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T21:06:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Mamata Banerjee's \"RSS\" Stinger As BJP Corners Trinamool Over Violence",
+                    "link": "https://www.ndtv.com/india-news/mamata-banerjee-accuses-rss-bjp-of-instigating-violence-in-bengal-8206279",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/olcluajc_mamata-banerjee_625x300_17_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNNVjluUzNwSGNUWTBiemhXVFJDeUF4akNCU2dLTWdZaFpvd01LZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T18:34:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Murshidabad violence: Prime accused in father-son double murder case, Ziaul Sheikh, nabbed after week-long hunt – Here’s the latest development",
+                    "link": "https://www.financialexpress.com/india-news/murshidabad-violence-prime-accused-in-father-son-double-murder-case-ziaul-sheikh-nabbed-after-week-long-hunt-heres-the-latest-development/3815737/",
+                    "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/04/Waqf-protest-Murshidabad.jpg?w=440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTNhMXB2TkhwVWNsbHVkamxPVFJEM0FSaTRBeWdLTWdrSm9Jak1SQ1dERGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T08:30:39.000Z",
+                    "authors": [],
+                    "source_url": "https://www.financialexpress.com",
+                    "source_name": "The Financial Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "‘Did Mobs Come Out Of Air’: BJP’s Rejoinder To Mamata’s ‘Divide And Rule’ Charge In Riot-Hit Bengal- News18",
+                    "link": "https://www.news18.com/india/did-mobs-came-out-of-air-bjps-rejoinder-to-mamatas-divide-and-rule-charge-in-riot-hit-bengal-9306055.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/04/Untitled-design-2025-04-20T095609.716-2025-04-17c4170794087b742cb2d4a1df4c8917.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlaMUZLZG5NMWFsZENka0YzVFJDZkF4ampCU2dLTWdhVlFaYm9KQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T04:26:59.000Z",
+                    "authors": [
+                        "Ronit Singh"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYlhKdE9HTjNjaElDWlc0b0FBUAE",
+                            "topic_name": "Ronit Singh"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pRNTVUT0RSRnc3Slk3dVhncEdpZ0FQAQ"
+        },
+        {
+            "title": "Akshardham tour, dinner with PM Modi: What’s on US VP JD Vance’s agenda during his India visit?",
+            "link": "https://timesofindia.indiatimes.com/india/akshardham-tour-dinner-with-pm-modi-whats-on-us-vp-jd-vances-agenda-during-his-india-visit/articleshow/120447005.cms",
+            "snippet": "US Vice President JD Vance, accompanied by his family, will visit India from April 18-24 to discuss economic and geopolitical priorities with ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120447038,width-1280,height-720,resizemode-4/120447038.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNWlaRzR4U2tWZmRVSjJURkUwVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T05:40:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "JD Vance, Wife Usha To Visit Akshardham Temple, PM Modi To Host Dinner",
+                    "link": "https://www.ndtv.com/world-news/jd-vance-wife-usha-to-visit-akshardham-temple-pm-modi-to-host-dinner-8207637",
+                    "photo_url": "https://c.ndtvimg.com/2025-02/qen778fk_pm-modi-meets-jd-vance_625x300_12_February_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlNRkUxVFU5RFVHNXJOM0IwVFJDeUF4akNCU2dLTWdhWklwU3BHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:44:50.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "All you need to know about JD Vance’s India visit with family this week",
+                    "link": "https://indianexpress.com/article/world/jd-vance-visit-india-with-family-bilateral-talks-9954733/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/Vance-Modi.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNTRSbTEzWlc5S1RrbFNTRmRtVFJEb0FSaWVBeWdLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T09:25:18.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Will PM Modi convey India’s concerns on destruction of multilateral trading system: Congress on U.S. VP Vance’s visit",
+                    "link": "https://www.thehindu.com/news/national/will-pm-modi-convey-indias-concerns-on-destruction-of-multilateral-trading-system-congress-on-us-vp-vances-visit/article69470876.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/ceaoq5/article69470903.ece/alternates/LANDSCAPE_1200/VBK-stock-jairam%20ramesh-16_ABHISHEK_SINGHVI_16_04_DELHI.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXBNWE5XUVU5cGVqWmxjV1ZCVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:20:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p2d3BITURSRnpLNl9uRzVPQndTZ0FQAQ"
+        },
+        {
+            "title": "‘Easter truce’: Russian President Putin announces temporary Easter ceasefire in Ukraine",
+            "link": "https://www.thehindu.com/news/international/russian-president-putin-announces-temporary-easter-ceasefire-in-ukraine/article69468661.ece",
+            "snippet": "Russian President Vladimir Putin announced a temporary Easter ceasefire in Ukraine, the Kremlin said Saturday (April 19, 2025).",
+            "photo_url": "https://th-i.thgim.com/public/incoming/hsij09/article69468692.ece/alternates/LANDSCAPE_1200/2025-04-19T141839Z_714056950_RC221EAPJB33_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-CEASEFIRE.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9ORXBETkRkWVFVRjZNWGx1VFJDZkF4ampCU2dLTWdhNVE1WXlvUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T14:32:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Rosenberg: Is Putin's 'Easter truce' cause for scepticism or chance for peace?",
+                    "link": "https://www.bbc.com/news/articles/cy70vj2eejzo",
+                    "photo_url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0c2c/live/3974bbc0-1dd0-11f0-82ad-53180562e38b.jpg.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVJVSE40TFdVelpXbGpWVlZIVFJDb0FSaXNBaWdCTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:22:14.000Z",
+                    "authors": [
+                        "Steve Rosenberg"
+                    ],
+                    "source_url": "https://www.bbc.com",
+                    "source_name": "BBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRzQxZHpjMk54SUNaVzRvQUFQAQ",
+                            "topic_name": "Steve Rosenberg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Russia \"Repellled\" Ukraine Attacks Overnight Amid Easter Truce: Defence Ministry",
+                    "link": "https://www.ndtv.com/world-news/russia-repellled-ukraine-attacks-overnight-amid-easter-truce-defence-ministry-8210247",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/6auae62o_putin-easter_625x300_20_April_25.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJTbUoxYjBkc09HaGFkbkl3VFJDeUF4akNCU2dLTWdhdEpZek5tUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:47:48.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "’26 Russian assaults till noon despite Easter truce’: Zelenskyy amid Putin’s ceasefire",
+                    "link": "https://indianexpress.com/article/world/russian-assault-easter-truce-ukraine-zelenskyy-putin-ceasefire-9955182/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/Volodymyr-Zelenskyy-File-Photo.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlURWhtZG1GV2VUZHBOelZWVFJEb0FSaWVBeWdLTWdhcEpaak5tUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T12:02:42.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pnOF9UWERSSG5pQVk5Vi1KV2Z5Z0FQAQ"
+        },
+        {
+            "title": "'Inhuman Suffering': NCW Team Meets Murshidabad Violence Victims, Assures Help",
+            "link": "https://news.abplive.com/cities/ncw-team-meets-murshidabad-violence-victims-assures-help-vijaya-rahatkar-1766285",
+            "snippet": "National Commission of Women Chairperson Vijaya Rahatkar meets women affected by the Murshidabad riots, at the Parlalpur High School relief camp ...",
+            "photo_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/04/19/d0bcf307bc992cc195aeaf3b20de9fa41745044929312927_original.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHlVMHQyT1c1WWREWnlOMjlvVFJDZkF4ampCU2dLTWdrQk1aQzJHS3FRS2dJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T06:43:31.000Z",
+            "authors": [],
+            "source_url": "https://news.abplive.com",
+            "source_name": "ABP Live English",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzVsZDNNdVlXSndiR2wyWlM1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Murshidabad violence: NCW chief urges West Bengal government to address grievances of riot-hit people",
+                    "link": "https://www.thehindu.com/news/national/west-bengal/murshidabad-violence-ncw-chief-urges-west-bengal-government-to-address-grievances-of-riot-hit-people/article69470975.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/vv94nt/article69470998.ece/alternates/LANDSCAPE_1200/20250419306L.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVBZV0poV1hGTGNXRlZkM0JKVFJDZkF4ampCU2dLTWdrQlFvQ3JvYWVLc1FB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:09:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Bizarre, barbaric: Bengal Governor after visit to riot-hit Murshidabad",
+                    "link": "https://www.indiatoday.in/india/story/bengal-governor-cv-ananda-bose-visit-to-riot-hit-murshidabad-bizarre-barbaric-scene-exclusive-2711497-2025-04-19",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/bengal-waqf-violence-190407552-16x9_0.jpg?VersionId=c6dUCgpHKp2dRTlAvKa.foK063.zD7jc&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXpkVzFZWm5CTFV6RnlOV2QxVFJDRUF4aXlCU2dLTWdtQkFJZ2xFU290OEFB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T12:01:54.000Z",
+                    "authors": [
+                        "Suryagni Roy"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OdGVEY3liaElDWlc0b0FBUAE",
+                            "topic_name": "Suryagni Roy"
+                        }
+                    ]
+                },
+                {
+                    "title": "‘Notorious Commission of Whitepapers’: TMC has a new name for NCW, claims ‘S’khali playbook’ followed in",
+                    "link": "https://timesofindia.indiatimes.com/city/kolkata/notorious-commission-of-whitepapers-tmc-has-a-new-name-for-ncw-claims-skhali-playbook-followed-in-murshidabad/articleshow/120441730.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120441728,width-1280,height-720,resizemode-72/120441728.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1jSGREWmtGUk55MVlYMUZ3VFJDZ0F4amlCU2dLTWdhbFJwSU1JZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T19:49:00.000Z",
+                    "authors": [
+                        "Dwaipayan Ghosh Dastidar"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1ObVpuTmZOQklDWlc0b0FBUAE",
+                            "topic_name": "Dwaipayan Ghosh Dastidar"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o5bXZMVkRSSFRqTFdvRkNVa3FTZ0FQAQ"
+        },
+        {
+            "title": "India now has a waqf law, how Islamic countries regulate such properties",
+            "link": "https://www.firstpost.com/world/india-now-has-a-waqf-law-how-islamic-countries-regulate-such-properties-13881153.html",
+            "snippet": "Waqfs are an established Islamic practice and provisions to govern them exist in several countries. Even as there is criticism for the new ...",
+            "photo_url": "https://images.firstpost.com/uploads/2025/04/Firstpost-2025-04-19T082310.842-2025-04-1711619c589b9cd18c28fd623496b655.jpg?im=FitAndFill=(1200,675)",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhUVVprY1ROT1RrWlBhVlI2VFJDZkF4ampCU2dLTWdZNVVKQjRKQWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T02:55:49.000Z",
+            "authors": [],
+            "source_url": "https://www.firstpost.com",
+            "source_name": "Firstpost",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1pwY25OMGNHOXpkQzVqYjIwb0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "‘We will not bow our heads’: In show of strength against Waqf Act, Muslim Personal Law Board, Owaisi’s AIMIM rally several parties in Hyderabad",
+                    "link": "https://indianexpress.com/article/india/we-will-not-bow-our-heads-in-show-of-strength-against-waqf-act-muslim-personal-law-board-owaisis-aimim-rally-several-parties-in-hyderabad-9954074/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/waqfprotest-6cols.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXdSVFpKZFRGalZXbE9kbmxQVFJEb0FSaWVBeWdLTWdzQkFJWVZxQ1RRVEpraTZB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T03:05:00.000Z",
+                    "authors": [
+                        "Nikhila Henry"
+                    ],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NNE1IbHpaeElDWlc0b0FBUAE",
+                            "topic_name": "Nikhila Henry"
+                        }
+                    ]
+                },
+                {
+                    "title": "Muslims rally in Cuttack against new Waqf Act",
+                    "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/muslims-rally-in-cuttack-against-new-waqf-act/articleshow/120439566.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120439564,width-1280,height-720,resizemode-4/120439564.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFSVlYxTlVzNGIzZDFXaTFpVFJDZkF4ampCU2dLTWdZQm9JYWxQUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T18:13:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Majoritarian buffet",
+                    "link": "https://www.telegraphindia.com/opinion/majoritarian-buffet-the-waqf-amendment-act-is-an-offering-from-a-malignant-menu-prnt/cid/2094988",
+                    "photo_url": "https://assets.telegraphindia.com/telegraph/2025/Apr/1745110801_people-take-part-in-a-protest-against-the-central-government-over-waqf-amendment-act-2025-near-charminar-in-hyderabad-friday-april-18-2025.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5lR295YkVGdk0zbzJMWGhHVFJERUF4aW1CU2dLTWdZRndZQkczZ0U=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:01:56.000Z",
+                    "authors": [
+                        "Mukul Kesavan"
+                    ],
+                    "source_url": "https://www.telegraphindia.com",
+                    "source_name": "Telegraph India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.telegraphindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdWbmNtRndhR2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNREoyZDNwM2NCSUNaVzRvQUFQAQ",
+                            "topic_name": "Mukul Kesavan"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lJa3AzUURSRXVENWMyZ1NzSGVTZ0FQAQ"
+        },
+        {
+            "title": "UP Board Result 2025 Live: UPMSP class 10 and 12 results, where to check scorecards once declared",
+            "link": "https://www.indiatoday.in/education-today/news/story/up-board-result-2025-live-upmsp-class-10-12-results-latest-updates-2711763-2025-04-20",
+            "snippet": "UP Board Result 2025 Live: The Uttar Pradesh Madhyamik Shiksha Parishad (UPMSP) is getting ready to release the Class 10 and Class 12 board exam ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202504/up-board-result-203828679-16x9_0.jpeg?VersionId=I2EJQuYBhS9uvL8rr.XrPvg1TDAP45X7?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNMWFJ1VUV4M00ySnBkMnA2VFJDRUF4aXhCU2dLTWdZQmNKRHNOQWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T12:11:08.000Z",
+            "authors": [],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "UP Board Result 2025 Date: UPMSP Class 10, 12 result to be out SOON; check official date, guide to download marksheet",
+                    "link": "https://www.livemint.com/education/news/up-board-result-2025-date-upmsp-class-10-12-result-to-be-out-soon-check-official-date-guide-to-download-marksheet-11745113074694.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/600x338/20250224-DNO-SGH-MN-UPBoardExamClass10-012-0_1740498731240_1745114755811.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhOMjU0U21wRFJIazVMV2QzVFJEU0FoallCQ2dLTWdZQk1aNWpuUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T02:07:19.000Z",
+                    "authors": [],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "UP Board 10th Result 2025: Last Years' Performance, Pass Percentage And Toppers' Marks",
+                    "link": "https://www.ndtv.com/education/up-board-10th-result-2025-know-last-years-performance-pass-percentage-and-toppers-marks-8210694",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/g9j9igbo_exam-representative-image_625x300_20_April_25.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDFObE5zU2pWMVRtOXlSaloyVFJDeUF4akNCU2dLTWdhWlVZd1VTUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T12:04:57.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "UP Board Result 2025 Live: 10th, 12th UPMSP result to be out on HT Portal, official websites",
+                    "link": "https://www.hindustantimes.com/education/up-board-result-2025-live-10th-12th-upmsp-sarkari-result-upmsp-edu-in-upresults-in-date-time-toppers-news-101745119913438.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/up_board_result_upmsp_1745135904830_1745135905088.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHpWbEJIWjBkVk4xaHpjMmhKVFJDMUFoaWxCQ2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:30:31.000Z",
+                    "authors": [
+                        "Bishal Kalita"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWTJkeFpEQTNlUklDWlc0b0FBUAE",
+                            "topic_name": "Bishal Kalita"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lqMklmRURSRnljT2twZ3pydXhpZ0FQAQ"
+        },
+        {
+            "title": "Dhankhar’s remarks on judiciary draw widespread criticism from lawyers, politicians, legal experts",
+            "link": "https://www.telegraphindia.com/gallery/dhankhars-remarks-on-judiciary-draw-widespread-criticism-from-lawyers-politicians-legal-experts-photogallery-prnt/cid/2094893",
+            "snippet": "Vice President Jagdeep Dhankhar's remarks against the judiciary have triggered a wave of responses and rebuttals — from lawyers, politicians ...",
+            "photo_url": "https://assets.telegraphindia.com/telegraph/2025/Apr/1745061890_new-project-6.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5jRkpGTkU4MlpXb3lNRmRvVFJERUF4aW1CU2dLTWdhcFE1eU9JUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T11:34:32.000Z",
+            "authors": [],
+            "source_url": "https://www.telegraphindia.com",
+            "source_name": "Telegraph India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.telegraphindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdWbmNtRndhR2x1WkdsaExtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Spotlight this week: Justice JB Pardiwala",
+                    "link": "https://www.barandbench.com/news/spotlight-this-week-justice-jb-pardiwala",
+                    "photo_url": "https://media.assettype.com/barandbench/2025-04-18/7xjr7o3r/SPOT-LIGHT-copy.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdiakEyTTNwNlVrWldVRUZKVFJDZkF4ampCU2dLTWdZSm9vajBOQVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T14:13:30.000Z",
+                    "authors": [
+                        "Prashant Jha"
+                    ],
+                    "source_url": "https://www.barandbench.com",
+                    "source_name": "Bar and Bench",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.barandbench.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkpoY21GdVpHSmxibU5vTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Y0dab2F6UXhkeElDWlc0b0FBUAE",
+                            "topic_name": "Prashant Jha"
+                        }
+                    ]
+                },
+                {
+                    "title": "Unwarranted Diatribe : On Vice President's Comments Against Supreme Court's Timelines For Bills' Assent",
+                    "link": "https://www.livelaw.in/articles/unwarranted-diatribe-on-vice-presidents-comments-against-supreme-courts-timelines-for-bills-assent-289786",
+                    "photo_url": "https://www.livelaw.in/h-upload/2023/01/19/1500x900_454714-jagdeep-dhankhar-vice-president-of-india-and-sc.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpOSFZZVDIwd1QwTXdMVlE0VFJDdEF4akxCU2dLTWdhUmtvZ1V0UVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T07:32:55.000Z",
+                    "authors": [
+                        "Manu Sebastian"
+                    ],
+                    "source_url": "https://www.livelaw.in",
+                    "source_name": "Live Law",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbXhwZG1Wc1lYY3VhVzRvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKb2NUZDVjQklDWlc0b0FBUAE",
+                            "topic_name": "Manu Sebastian"
+                        }
+                    ]
+                },
+                {
+                    "title": "\"No Judical Overreach\": Ex-Top Court Judge On Jagdeep Dhankhar's Remarks",
+                    "link": "https://www.ndtv.com/india-news/no-judical-overreach-ex-supreme-court-judge-on-jagdeep-dhankhars-remarks-8204440",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/abeammjc_vice-president-top-court-split_625x300_19_April_25.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBka3RPUmxZd01GTkZWVlJzVFJDeUF4akNCU2dLTWdZSmNwYkZxZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T13:58:44.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lJMS1yTkRSSExYZEowUzUyOG5DZ0FQAQ"
+        },
+        {
+            "title": "PBKS vs RCB LIVE Cricket Score, IPL 2025: Virat Kohli, Devdutt Padikkal build strong base in run-chase; RCB 54/1 after 6 ovs (Target: 158)",
+            "link": "https://indianexpress.com/article/sports/cricket/pbks-vs-rcb-live-score-2025-ipl-37th-match-live-cricket-score-updates-punjab-kings-vs-royal-challengers-bengaluru-virat-kohli-shreyas-iyer-9953978/",
+            "snippet": "PBKS vs RCB LIVE Cricket Score, IPL 2025: Virat Kohli, Devdutt Padikkal build strong base in run-chase; RCB 54/1 after 6 ovs (Target: 158). IPL ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/PBKS-RCB-5.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTRaV2hsUXpFNU1rTmZZazlaVFJDZkF4ampCU2dLTWdtQlVJNERKeWdtQ2dJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T12:24:00.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "PBKS vs RCB live cricket score IPL 2025: Bengaluru (54/1 in 6 ovs), Kohli, Padikkal steady RCB in 158 chase",
+                    "link": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-live-score-today-pbks-vs-rcb-mullanpur-updates-2711776-2025-04-20",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202504/ipl-2025--punjab-kings-vs-royal-challengers-bengaluru-200051585-16x9_0.jpg?VersionId=yucS7XEeEEEVsJaIoxxIZxhBOYUuu_ZL",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtObVpHVGtJdE1ERmtjRFZmVFJDZkF4ampCU2dLTWdhQklwSlJrUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T12:26:08.000Z",
+                    "authors": [],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Suyash, Krunal, Bhuvneshwar restrict Punjab Kings to 157",
+                    "link": "https://www.espncricinfo.com/story/ipl-2025-pbks-vs-rcb-suyash-sharma-krunal-pandya-bhuvneshwar-kumar-restrict-punjab-kings-to-157-1482206",
+                    "photo_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/399500/399553.6.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWtjakJZVXpSSWVVNWplbFY1VFJDZkF4ampCU2dLTWdtQklJcURvS2lCSmdN=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:48:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.espncricinfo.com",
+                    "source_name": "ESPNcricinfo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Punjab Kings vs Royal Challengers Bengaluru LIVE Score, IPL 2025: Virat Kohli, Devdutt Padikkal On The Charge For RCB; Shreyas Iyer Goes Off The Field",
+                    "link": "https://sports.ndtv.com/ipl-2025/punjab-kings-vs-royal-challengers-bengaluru-live-score-ipl-2025-pbks-vs-rcb-live-updates-shreyas-iyer-rajat-patidar-virat-kohli-8208941",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/rn4letp4_virat-kohli-bcci_625x300_20_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZPWFZvVEc5UmVWbzFiRkZZVFJEQ0FSaURBaWdCTWdZOUk0UXlGUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T12:22:12.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ljdU92UURSRndWYmFsbjg1OURTZ0FQAQ"
+        },
+        {
+            "title": "Decoding Karnataka’s caste census: What really does the disputed data say?",
+            "link": "https://thesouthfirst.com/karnataka/decoding-karnatakas-caste-census-what-really-does-the-disputed-data-say/",
+            "snippet": "The survey sought to map Karnataka's demographic, social, educational and economic landscape and covered over 1.35 crore households.",
+            "photo_url": "https://images.thesouthfirst.com/wp-content/uploads/2025/04/Caste-census_V_jpg--442x260-4g.webp?sw=412&dsz=442x260&iw=382&p=false&r=2.625",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpkMTlwTlZCa2JrdzFaMWxHVFJDRUFoaTZBeWdLTWdaSllKUjRyQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T05:31:24.000Z",
+            "authors": [
+                "Rashmi Patil"
+            ],
+            "source_url": "https://thesouthfirst.com",
+            "source_name": "The South First",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thesouthfirst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFWFJvWlhOdmRYUm9abWx5YzNRdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TVdkMk5Hb3llUklDWlc0b0FBUAE",
+                    "topic_name": "Rashmi Patil"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Watch: Karnataka caste survey | Controversy within Congress party",
+                    "link": "https://www.thehindu.com/news/national/karnataka/watch-karnataka-caste-survey-controversy-within-congress-party/article69471078.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/3izdcv/article69471073.ece/alternates/FREE_1200/aka%20cast.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdTbkphUWs1NFdIZHJNRmRvVFJDZkF4ampCU2dLTWdhQk1JSlpUQVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:54:00.000Z",
+                    "authors": [
+                        "Nistula Hebbar"
+                    ],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZpZEY5b05YaGtaQklDWlc0b0FBUAE",
+                            "topic_name": "Nistula Hebbar"
+                        }
+                    ]
+                },
+                {
+                    "title": "'No hasty decision on caste census': DK Shivakumar",
+                    "link": "https://timesofindia.indiatimes.com/city/mangaluru/no-hasty-decision-on-caste-census-dk-shivakumar/articleshow/120451549.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120451543,width-1280,height-720,resizemode-4/120451543.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFiRTFHZUhwclFXcG9ORGxwVFJDZkF4ampCU2dLTWdZbFJZTE5wUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T08:36:00.000Z",
+                    "authors": [
+                        "Vinobha Kt"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRKeE9XaHRYeElDWlc0b0FBUAE",
+                            "topic_name": "Vinobha Kt"
+                        }
+                    ]
+                },
+                {
+                    "title": "JD(S) leader urges Karnataka govt to convene all-party meeting to discuss caste census",
+                    "link": "https://www.hindustantimes.com/cities/bengaluru-news/jds-leader-urges-karnataka-govt-to-convene-all-party-meeting-to-discuss-caste-census-101745123953909.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/WhatsApp_Image_2023-09-25_at_75334_AM_1695608654408_1745124058833.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHpPVTlSU1VGQk5VaFZkRlJuVFJDMUFoaWxCQ2dLTWdrRmNaRFFyR2E1N2dF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T04:42:50.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pFbmNQUERSR3ZRRlNmQmlzS2Z5Z0FQAQ"
+        },
+        {
+            "title": "Rain, Dust Storm Likely In Delhi Today; Severe Heatwave In Rajasthan As Temperature Crosses 45°C- News18",
+            "link": "https://www.news18.com/india/rain-dust-storm-likely-in-delhi-today-severe-heatwave-in-rajasthan-as-temperature-crosses-45c-ws-kl-9304940.html",
+            "snippet": "Rain, Dust Storm Likely In Delhi Today; Severe Heatwave In Rajasthan As Temperature Crosses 45°C · The IMD said that the sky will be partly ...",
+            "photo_url": "https://images.news18.com/ibnlive/uploads/2025/04/delhi-rain-2025-04-a9da5d645cd5fe69ae06dabaf7d20aba.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRaVmc1UjI0eWJWSlVSbVJoVFJDZkF4ampCU2dLTWdhQmdJcEx1UVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T02:41:47.000Z",
+            "authors": [
+                "Aveek Banerjee"
+            ],
+            "source_url": "https://www.news18.com",
+            "source_name": "News18",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzY2pGMmJIcDNjUklDWlc0b0FBUAE",
+                    "topic_name": "Aveek Banerjee"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "IMD issues 'yellow' alert for rain in Delhi today, AQI remains 'moderate'",
+                    "link": "https://www.business-standard.com/india-news/imd-issues-yellow-alert-for-rain-in-delhi-today-aqi-remains-moderate-125042000073_1.html",
+                    "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/09/full/1720510273-5531.jpg?im=FeatureCrop,size=(826,465)",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVpUMDFVVVhsR05FdHhhRFZqVFJDZkF4amlCU2dLTWdtQmNKSzFxT2FwRFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T02:53:53.000Z",
+                    "authors": [
+                        "Vrinda Goel"
+                    ],
+                    "source_url": "https://www.business-standard.com",
+                    "source_name": "Business Standard",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzWm1wa2VEbGpkaElDWlc0b0FBUAE",
+                            "topic_name": "Vrinda Goel"
+                        }
+                    ]
+                },
+                {
+                    "title": "IMD: Heatwave to grip NW, Central India; rain, storms in NE over next 5 days",
+                    "link": "https://www.hindustantimes.com/india-news/imd-heatwave-to-grip-nw-central-india-rain-storms-in-ne-over-next-5-days-101745145978992.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/The-maximum-temperature-is-likely-to-rise-in-NW-In_1745145972554.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNVlkVEJHYVRoYVVqZGtWbmcwVFJDMUFoaW1CQ2dLTWdNVlVRWQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:46:18.000Z",
+                    "authors": [
+                        "Jayashree Nandi"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsamMyaGlPQklDWlc0b0FBUAE",
+                            "topic_name": "Jayashree Nandi"
+                        }
+                    ]
+                },
+                {
+                    "title": "Delhi-NCR To See Thunderstorms Over Weekend, Predicts Weather Body",
+                    "link": "https://www.ndtv.com/delhi-news/delhi-ncr-to-see-thunderstorms-over-weekend-predicts-weather-body-8202373",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/aff944a_delhi-rain_625x300_19_April_25.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWlWMmhsWkhkTmIzWkdWMDVaVFJDeUF4akNCU2dLTWdNQmtBbw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T08:35:45.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kybnN2U0RSRi1GWW5OalRqWC1pZ0FQAQ"
+        },
+        {
+            "title": "Anti-Trump protesters rally in New York, Washington and elsewhere across the country",
+            "link": "https://www.thehindu.com/news/international/anti-trump-protesters-rally-in-new-york-washington-and-elsewhere-across-the-country/article69470431.ece",
+            "snippet": "Nationwide protests against Trump administration policies, calling for resistance to tyranny and protection of civil rights and ...",
+            "photo_url": "https://th-i.thgim.com/public/incoming/p6znum/article69470437.ece/alternates/LANDSCAPE_1200/2025-04-19T224121Z_221611259_RC231EAE0HRO_RTRMADP_3_USA-TRUMP-PROTESTS.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHhkRGRUWHpWUlprUjFlV1l3VFJDZkF4ampCU2dLTWdtUkFvd3lyZWFwQWdN=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T01:43:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Thousands across the US protest Trump, again",
+                    "link": "https://www.bbc.com/news/articles/czjn0410e3zo",
+                    "photo_url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7540/live/8f484790-1daa-11f0-9644-3ba2ec84c20a.jpg.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpiVUpJZG10QldXRm1TR1JPVFJDb0FSaXNBaWdCTWdZQjBJeEl4Z1E=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T00:20:32.000Z",
+                    "authors": [
+                        "Ana Faguy"
+                    ],
+                    "source_url": "https://www.bbc.com",
+                    "source_name": "BBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTVhaa2JuTXdNaElDWlc0b0FBUAE",
+                            "topic_name": "Ana Faguy"
+                        }
+                    ]
+                },
+                {
+                    "title": "Revolutionary-era costumes and outrage: Thousands protest what they call Trump’s authoritarian drift",
+                    "link": "https://timesofindia.indiatimes.com/world/us/revolutionary-era-costumes-and-outrage-thousands-protest-what-they-call-trumps-authoritarian-drift/photostory/120454536.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-120454542/120454542.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRhVkZXWTFKNFpraHVjR05qVFJDZkF4ampCU2dLTWdhMUE0YVFpUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:59:04.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trump news at a glance: Mass anti-Trump protests sweep nation; supreme court issues midnight order",
+                    "link": "https://www.theguardian.com/us-news/2025/apr/20/president-trump-administration-news-updates-today",
+                    "photo_url": "https://i.guim.co.uk/img/media/142e2d41e9f3d0a93802196da3da59755c99d634/0_115_5000_3002/master/5000.jpg?width=465&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDViMHRFTW5wUlQzWjZjbDlpVFJDWEFoalJBeWdLTWdZQnNKQkl2Z1U=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:56:11.000Z",
+                    "authors": [],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2llcTQ3VURSRmNWZ21VNU03U2ZTZ0FQAQ"
+        },
+        {
+            "title": "Mumbai: BMC transfers ward officer in Jain temple demolition case as community protests",
+            "link": "https://www.indiatvnews.com/maharashtra/jain-temple-demolition-in-mumbai-bmc-transfers-ward-officer-navnath-ghadge-in-unauthorised-case-protest-march-latest-updates-2025-04-19-986357",
+            "snippet": "Mumbai: BMC transfers ward officer in Jain temple demolition case as community protests · A protest march was taken to the ward office on ...",
+            "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/04/jain-temple-1745073113.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5TakYxZFRWa1JFNVhiRTVFVFJDZkF4ampCU2dLTWdZQm80YU13UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T18:19:58.000Z",
+            "authors": [
+                "Sheenu Sharma"
+            ],
+            "source_url": "https://www.indiatvnews.com",
+            "source_name": "India TV News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhRd1ozWnFOUklDWlc0b0FBUAE",
+                    "topic_name": "Sheenu Sharma"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Jains protest BMC bulldozing temple; ward officer transferred",
+                    "link": "https://www.hindustantimes.com/cities/mumbai-news/jains-protest-bmc-bulldozing-temple-ward-officer-transferred-101745090096647.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/Mumbai----90-year-old-Jain-temple-demolished-in-Mu_1745090513542.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpiRUV6UW05c2RGQldUWGRoVFJDMUFoaW1CQ2dLTWdZQlFKTFBKQVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T02:22:07.000Z",
+                    "authors": [
+                        "Ht Correspondent"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YzJObk4yZGpkQklDWlc0b0FBUAE",
+                            "topic_name": "Ht Correspondent"
+                        }
+                    ]
+                },
+                {
+                    "title": "Citizens’ group condemns demolition of Jain temple in Mumbai, demands action against BMC officer",
+                    "link": "https://www.thehindu.com/news/cities/mumbai/citizens-group-condemns-demolition-of-jain-temple-in-mumbai-demands-action-against-bmc-officer/article69470910.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/i9t299/article69470983.ece/alternates/LANDSCAPE_1200/20250419048L.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNDFSelZZVVVZeFFrWmFkalk1VFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:58:00.000Z",
+                    "authors": [
+                        "Purnima Sah"
+                    ],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1T0RreE9YQTBaaElDWlc0b0FBUAE",
+                            "topic_name": "Purnima Sah"
+                        }
+                    ]
+                },
+                {
+                    "title": "After Akhilesh Yadav, Trinamool Congress targets BJP over Jain temple demolition in Mumbai",
+                    "link": "https://www.telegraphindia.com/india/after-akhilesh-yadav-trinamool-congress-targets-bjp-over-jain-temple-demolition-in-mumbai/cid/2094924",
+                    "photo_url": "https://assets.telegraphindia.com/telegraph/2025/Apr/1745070686_jain-temple.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVPRzVSU1V0WFJGVk9XSFoyVFJERUF4aW1CU2dLTWdZTlVJSWFTQU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T13:56:08.000Z",
+                    "authors": [],
+                    "source_url": "https://www.telegraphindia.com",
+                    "source_name": "Telegraph India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.telegraphindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdWbmNtRndhR2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2phdjhmV0RSR3BKbWVZSGVxSVVTZ0FQAQ"
+        },
+        {
+            "title": "50% Indian students among revoked US visa cases, claims lawyers' body",
+            "link": "https://www.hindustantimes.com/world-news/50-indian-students-among-revoked-us-visa-cases-claims-lawyers-body-101745026340652.html",
+            "snippet": "The American Immigration Lawyers' Association (AILA) claimed that 50 per cent of 327 students whose visas were revoked are from India. According ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/Trump_1745026893780_1745026893992.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpibk13TmxjelEyUm1iMUJ4VFJDMUFoaWxCQ2dLTWdhcEZZRE5tUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T03:20:13.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "'Half of student visas US revoked are of Indians'",
+                    "link": "https://timesofindia.indiatimes.com/india/half-of-student-visas-us-revoked-are-of-indians/articleshow/120421897.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120426983,width-1280,height-720,resizemode-4/120426983.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXZkemhMUVZCSk5IcENSMWRLVFJDZkF4ampCU2dLTWdrQklKak5tZW5BS3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T01:43:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Students ‘opt out’ of US plans amid visa woes",
+                    "link": "https://www.financialexpress.com/business/investing-abroad-students-opt-out-of-us-plans-amid-visa-woes-3813310/",
+                    "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/04/visafreepik.jpg?w=440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFjVWRKUkRodE9HTlhOa3htVFJEM0FSaTRBeWdLTWdZQmNKSUxMUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T11:33:19.000Z",
+                    "authors": [
+                        "Manu Kaushik"
+                    ],
+                    "source_url": "https://www.financialexpress.com",
+                    "source_name": "The Financial Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxY0RWbU9YSnROQklDWlc0b0FBUAE",
+                            "topic_name": "Manu Kaushik"
+                        }
+                    ]
+                },
+                {
+                    "title": "50% of revoked US student visas under Trump 2.0 belong to Indians",
+                    "link": "https://m.economictimes.com/nri/latest-updates/50-of-revoked-us-student-visas-under-trump-2-0-belong-to-indians/articleshow/120428048.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120428165,width-1200,height-900,resizemode-4,imgsize-1617147/cms-31.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtUR05PVlc0eFVVbDJRak5TVFJEZ0F4aUFCU2dLTWdiQklaclVGQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T08:25:15.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pFNk5EVkRSSGtwU19KdTNOaXZTZ0FQAQ"
+        },
+        {
+            "title": "'No idea what time we will leave': Omar Abdullah fumes as Delhi-bound IndiGo flight gets diverted to Jaip",
+            "link": "https://timesofindia.indiatimes.com/india/no-idea-what-time-we-will-leave-omar-abdullah-fumes-as-delhi-bound-indigo-flight-gets-diverted-to-jaipur/articleshow/120442615.cms",
+            "snippet": "An IndiGo flight carrying Jammu and Kashmir's Chief Minister Omar Abdullah was diverted to Jaipur due to congestion at Delhi airport, causing ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120442624,width-1280,height-720,resizemode-4/120442624.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRibFpaWmxOdFVYZzFaSGhFVFJDZkF4ampCU2dLTWdZTkY0eEt3Z1E=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T22:37:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "\"No Mood To Be Polite\": Omar Abdullah Fumes As Delhi Flight Diverted",
+                    "link": "https://www.ndtv.com/india-news/omar-abdullah-slams-delhi-airport-after-flight-diverted-bloody-sh-t-show-8207711",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/l5e2gfdk_omar-abdullah_625x300_20_April_25.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVZazVXYUhkU1luaENiR1JrVFJDeUF4akNCU2dLTWdZQko0d3FRZ1U=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T02:04:00.000Z",
+                    "authors": [
+                        "Manjiri Chitre"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oNWNUaDJNaElDWlc0b0FBUAE",
+                            "topic_name": "Manjiri Chitre"
+                        }
+                    ]
+                },
+                {
+                    "title": "'In no mood to be polite': Omar Abdullah livid after Delhi flight diverted",
+                    "link": "https://www.indiatoday.in/india/story/jammu-kashmir-omar-abdullah-blasts-delhi-airport-after-srinagar-indigo-flight-diverted-jaipur-2711649-2025-04-20",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/omar-abdullah-204519229-16x9_0.png?VersionId=4uXTsfprv8S4Efz_eGLcehuZFie4OyxH&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZlazFHZWxsWFlUTlFiaTF1VFJDRUF4aXlCU2dLTWdZTko0cEtRZ1E=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:45:38.000Z",
+                    "authors": [
+                        "Sayan Ganguly"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYW1ReGJuWmlkeElDWlc0b0FBUAE",
+                            "topic_name": "Sayan Ganguly"
+                        }
+                    ]
+                },
+                {
+                    "title": "'Bloody sh*t show': Omar Abdullah slams Delhi Airport after IndiGo flight gets diverted",
+                    "link": "https://www.cnbctv18.com/india/jammu-and-kashmir-cm-omar-abdullah-slams-delhi-airport-flight-diverted-jaipur-srinagar-indigo-spcejet-issue-advisory-19591290.htm",
+                    "photo_url": "https://images.cnbctv18.com/uploads/2025/04/untitled-design-2025-04-20t091352177-2025-04-344d6517c3691fabad3af65ff0c719e5.jpg?impolicy=website&width=1200&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5RbVZuWW1ObFpGUTNhWEJZVFJEZ0F4aUFCU2dLTWdZTkI1QktOZ1k=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T04:06:50.000Z",
+                    "authors": [],
+                    "source_url": "https://www.cnbctv18.com",
+                    "source_name": "CNBC TV18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER051WW1OMGRqRTRMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pENTVEWURSRk16SUJ4b1FZcnJ5Z0FQAQ"
+        },
+        {
+            "title": "'Lady Don' Ziqra, prime suspect in Delhi’s Seelampur murder case who has terrorised Hindus in the area",
+            "link": "https://www.opindia.com/2025/04/who-is-lady-don-ziqra-prime-suspect-in-delhis-seelampur-murder-case-who-has-terrorised-hindus-in-the-area-read-details/",
+            "snippet": "Delhi Police have arrested a woman named Ziqra in connection with the killing of a 17-year-old Hindu boy, Kunal, who was stabbed to death on ...",
+            "photo_url": "https://i0.wp.com/www.opindia.com/wp-content/uploads/2025/04/Report-Image-2025-04-19T124759.513.jpg?resize=696%2C391&ssl=1",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDRVWE5wVDJoRU5XdE9OVk5HVFJDSEF4aTRCU2dLTWdrSklaN2tsdW90WndJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T10:04:43.000Z",
+            "authors": [],
+            "source_url": "https://www.opindia.com",
+            "source_name": "OpIndia",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjl3YVc1a2FXRXVZMjl0S0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "'Lady don' Zikra arrested in Seelampur murder case: Revenge for 2024 spat? What transpired",
+                    "link": "https://www.hindustantimes.com/india-news/lady-don-zikra-arrested-in-seelampur-murder-case-teens-killing-linked-to-2024-spat-what-transpired-101745023368016.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/seelampur_1745024661484_1745024661676.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZVemMwT0RFNFgyUkRkMlo2VFJDMUFoaWxCQ2dLTWdhQlFZaGlLUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T01:18:10.000Z",
+                    "authors": [
+                        "Hemani Bhandari"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4emFuQm9jeElDWlc0b0FBUAE",
+                            "topic_name": "Hemani Bhandari"
+                        }
+                    ]
+                },
+                {
+                    "title": "Seelampur murder case: Delhi Police arrest 7, including 3 key accused",
+                    "link": "https://timesofindia.indiatimes.com/city/delhi/seelampur-murder-case-delhi-police-arrest-7-including-3-key-accused/articleshow/120451128.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120451161,width-1280,height-720,resizemode-4/120451161.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1NMGxQVjJwcVpsbFVlRFY1VFJDZkF4ampCU2dLTWdZQnNJTE14QU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T07:57:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "'Lady Don' Ziqra Sent To 2-Day Police Custody In Delhi Teen Murder Case",
+                    "link": "https://www.ndtv.com/india-news/lady-don-ziqra-sent-to-2-day-police-custody-in-delhi-seelampur-teen-murder-case-8203620",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/nuqedlrs_ziqra-seelampur-murder_625x300_18_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVlja2R0TlVkYVRFcGhhVFowVFJDeUF4akNCU2dLTWdrTlVaYW1vcWN0Q1FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T11:52:47.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lQcHFYV0RSSFlRSFo1NGlTbHRDZ0FQAQ"
+        },
+        {
+            "title": "5.8 magnitude earthquake strikes Afghanistan, tremors felt in Kashmir",
+            "link": "https://www.greaterkashmir.com/gk-top-news/5-8-magnitude-earthquake-strikes-afghanistan-tremors-felt-in-kashmir-2/",
+            "snippet": "Srinagar, April 17: A 5.8 magnitude earthquake struck Afghanistan on Wednesday afternoon, sending tremors across parts of Jammu and Kashmir ...",
+            "photo_url": "https://m.greaterkashmir.com/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JlYXRlcmthc2htaXItc29ydGQtcHJvLXByb2Qtc29ydGQvbWVkaWE5MzJmYTNlMC0xY2ZhLTExZjAtYmNkYy0wZmZlZDUyNjRlMWUucG5n",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRVelpoVEdOVGFuTkhiMWQ1VFJESkF4aWdCU2dLTWdZQkVKNkZtQW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T07:25:06.000Z",
+            "authors": [],
+            "source_url": "https://www.greaterkashmir.com",
+            "source_name": "Greater Kashmir",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greaterkashmir.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWR5WldGMFpYSnJZWE5vYldseUxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Earthquake today: Tremors felt in Jammu, Srinagar, Punjab, Pakistan as magnitude 5.8 quake strikes Afghanistan",
+                    "link": "https://www.hindustantimes.com/india-news/earthquake-today-tremors-felt-in-jammu-srinagar-punjab-pakistan-magnitude-5-8-afghanistan-101745047399277.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/g6d53c5165db10989adf91cd21a1c71fb1dda19f0423ec157a6e2360d53c8c9462667c9a25284204b0f968f536cbd72feb931848e9812a05edbff9d0d61a0b0a7_1280_1745048765084_1745048777752.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZlVmx3ZDB4eVRHODFYeTF6VFJDMUFoaWxCQ2dLTWdhQkFZd21EUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T07:31:33.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "5.8 magnitude earthquake strikes Afghanistan, tremors felt across Delhi-NCR, Jammu & Kashmir and Pakistan",
+                    "link": "https://timesofindia.indiatimes.com/world/south-asia/5-8-magnitude-earthquake-hits-afghanistan-tremors-felt-in-delhi-ncr/articleshow/120427126.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120427219,width-1280,height-720,resizemode-4/120427219.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXlTRjlWUkRNemJXaEdaVUYzVFJDZkF4ampCU2dLTWdPcDBRUQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T08:24:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Earthquake of magnitude 5.8 strikes Afghanistan-Tajikistan border",
+                    "link": "https://www.thehindu.com/news/international/earthquake-of-magnitude-58-strikes-afghanistan-tajikistan-border/article69467523.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/v7oyrw/article69467536.ece/alternates/LANDSCAPE_1200/2014-05-03T111044Z_180699461_GM1EA531H3N01_RTRMADP_3_-AFGHANISTAN-LANDSLIDE.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpSV2wwVDBWWlFXd3piMDVEVFJDZkF4ampCU2dLTWdZcFVJQnpOQU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T07:20:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lFdUtYVERSRjBYSy1Sb2dqWjFTZ0FQAQ"
+        },
+        {
+            "title": "Ubse.uk.gov.in, UK Board 10th 12th Result 2025 Highlights: Result out, marksheet link at education.indianexpress.com",
+            "link": "https://indianexpress.com/article/education/uttarakhand-board-class-10th-12th-result-2025-live-ubse-uk-gov-in-uaresults-nic-declared-toppers-pass-9943355/",
+            "snippet": "The link to view the result is available at the official websites of the Uttarakhand board of School Education - ubse.uk.gov.in and uaresults.",
+            "photo_url": "https://images.indianexpress.com/2025/04/Result-Templates-11.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXlRamMwUmsxUFExUkVkbUZ6VFJDZEF4am5CU2dLTWdrQk1ZQ0ZZU0hRaGdJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T10:44:52.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "UK Board Result 2025 10th, 12th Direct Link: How to check scorecard at ubse.uk.gov.in",
+                    "link": "https://www.livemint.com/education/uk-uttarakhand-class-10-12-board-results-out-how-to-check-scorecard-at-ubse-uk-gov-in-direct-link-here-11745041624989.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/19/600x338/YEMEN-CONFLICT-EDUCATION-4_1716223591928_1745042305239.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXNNREJaWWt0NWQxOTVSR1J6VFJEU0FoallCQ2dLTWdrQllKRHF1S2JZYVFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T05:51:45.000Z",
+                    "authors": [
+                        "Akriti Anand"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5SdWNHWTVaeElDWlc0b0FBUAE",
+                            "topic_name": "Akriti Anand"
+                        }
+                    ]
+                },
+                {
+                    "title": "Uttarakhand board result 2025: UBSE Class 10, 12 results today, websites to check scores",
+                    "link": "https://www.hindustantimes.com/education/board-exams/uttarakhand-board-result-2025-ubse-class-10-12-results-today-websites-to-check-scores-101745031963868.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/results_222603a6-641a-11e8-b4a9-2154dcd09999_1745032133166.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpVRE5yZUVaUGRGUnJaRWt3VFJDMUFoaWxCQ2dLTWdZWkVJNUpQZ1U=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T03:33:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Siblings shine in Uttarakhand board exams; credit discipline, family support, staying off social media",
+                    "link": "https://timesofindia.indiatimes.com/city/dehradun/siblings-shine-in-uttarakhand-board-exams-credit-discipline-family-support-staying-off-social-media/articleshow/120436251.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-117726994,width-1280,height-720,resizemode-72/117726994.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNTRlR3ByZDJob2JXUTBOVTVOVFJDZkF4ampCU2dLTWd1WlU0eXRKZVdhYmprWFhB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T14:58:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPNV9ETERSRVB4bEg0VExMM1BpZ0FQAQ"
+        },
+        {
+            "title": "Happy Easter 2025: 200+ wishes, WhatsApp messages, greetings, images, Facebook status to share with loved ones",
+            "link": "https://www.livemint.com/news/trends/happy-easter-2025-70-wishes-whatsapp-messages-greetings-images-facebook-status-to-share-with-loved-ones-11745076242006.html",
+            "snippet": "Happy Easter 2025: Best Easter wishes to share with family · Wishing you a blessed Easter filled with joy, laughter, and cherished family moments ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/1600x900/Easter_1745079806903_1745145280578.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5WelpwVFhWUWFucE9UVTVpVFJDZkF4amlCU2dLTWdZZE1JZ3B5Z00=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T16:34:12.000Z",
+            "authors": [
+                "Kanishka Singharia"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TlhGNU4yaHdOeElDWlc0b0FBUAE",
+                    "topic_name": "Kanishka Singharia"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "11 Happy Easter 2025 images and wishes to share with loved ones on Easter Sunday",
+                    "link": "https://www.hindustantimes.com/photos/lifestyle/11-happy-easter-2025-images-and-wishes-to-share-with-loved-ones-on-easter-sunday-101745057951144.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/Easter_wishes_1745057995925_1745058063642.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNTRTV5ZHpKM1QyOWZNVXBSVFJDMUFoaW1CQ2dLTWdZQmNZWkpPUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T10:39:18.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Happy Easter Sunday 2025: Top 100 Wishes, Messages, Images,Greetings and Quotes to share with your family",
+                    "link": "https://timesofindia.indiatimes.com/life-style/relationships/family/happy-easter-sunday-2025-top-50-wishes-messages-greetings-quotes-images-pics-to-share-with-your-family-and-friends/articleshow/120438124.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120438119,width-1280,height-720,resizemode-4/120438119.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNaR3A2ZVVNMFpEUjJjRGM1VFJDZkF4ampCU2dLTWdhUmdvenByUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T18:01:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Why is 4/20 the unofficial weed holiday? The history behind pot's tie to April 20",
+                    "link": "https://www.usatoday.com/story/news/nation/2025/04/19/what-is-the-meaning-behind-420/83146771007/",
+                    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/03/20/USAT/82574900007-20230620-t-223433-z-1125262770-rc-27-n-1-a-2-kkvs-rtrmadp-3-colombiamarijuana.JPG?crop=3124,1757,x0,y0&width=660&height=371&format=pjpg&auto=webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRSVkpFVUhveFMybzFORWx5VFJEekFoaVVCU2dLTWdZbE5ZeXRIUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T10:05:22.000Z",
+                    "authors": [
+                        "Greta Cross"
+                    ],
+                    "source_url": "https://www.usatoday.com",
+                    "source_name": "USA Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTURacWQzYzVOUklDWlc0b0FBUAE",
+                            "topic_name": "Greta Cross"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l0OFBuT0RSR0UzWkJJRzZfVU1DZ0FQAQ"
+        },
+        {
+            "title": "HDFC Bank vs ICICI Bank: Which is better dividend stock? Yield, history, returns compared",
+            "link": "https://www.etnownews.com/markets/hdfc-bank-vs-icici-bank-which-is-better-dividend-stock-yield-history-returns-compared-article-151456223",
+            "snippet": "While Inia's largest lender HDFC Bank has an m-cap of Rs 14.58 lakh crore, ICICI Bank is worth Rs 10.01 lakh crore. Shares of both the lenders ...",
+            "photo_url": "https://images.etnownews.com/thumb/msid-151456223,width-1280,height-720,resizemode-75/151456223.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBRbWt0UVhJMlFqSXdjRk13VFJDZkF4ampCU2dLTWdhUk1ZclV4QVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T03:12:58.000Z",
+            "authors": [
+                "Himanshi Singh"
+            ],
+            "source_url": "https://www.etnownews.com",
+            "source_name": "ET Now",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1YwYm05M2JtVjNjeTVqYjIwb0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyY21vME4ydDVjaElDWlc0b0FBUAE",
+                    "topic_name": "Himanshi Singh"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "HDFC Bank declares Rs 22 dividend for FY25, fixes June 27 as record date",
+                    "link": "https://m.economictimes.com/markets/stocks/news/hdfc-bank-declares-rs-22-dividend-for-fy25-fixes-june-27-as-record-date/articleshow/120431119.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120431111,width-1200,height-900,resizemode-4,imgsize-57180/hdfc-bank-declares-rs-22-dividend-for-fy25-fixes-june-27-as-record-date.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBUbDh6U0RKSVRrbGFOazlyVFJEZ0F4aUFCU2dLTWdhRlVab0pLUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T10:31:20.000Z",
+                    "authors": [
+                        "Nishtha Awasthi"
+                    ],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVd3NWNERTJkeElDWlc0b0FBUAE",
+                            "topic_name": "Nishtha Awasthi"
+                        }
+                    ]
+                },
+                {
+                    "title": "HDFC Bank vs ICICI Bank: Which stock to buy after Q4 results 2025?",
+                    "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-which-stock-to-buy-after-q4-results-2025-11745135326679.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/600x338/stock_1745141887788_1745141887966.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxMVVpMWjJKM00wMHhjblpFVFJEUkFoallCQ2dLTWdZVmtvWk53UVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T09:43:37.000Z",
+                    "authors": [
+                        "Vaamanaa Sethi"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TW5odU5teDZaQklDWlc0b0FBUAE",
+                            "topic_name": "Vaamanaa Sethi"
+                        }
+                    ]
+                },
+                {
+                    "title": "Private sector banks finish fourth quarter on firm note, margin in focus as lenders hope for rate cut",
+                    "link": "https://www.telegraphindia.com/business/private-sector-banks-finish-fourth-quarter-on-firm-note-margin-in-focus-amid-rate-cut-hope-prnt/cid/2095000",
+                    "photo_url": "https://assets.telegraphindia.com/telegraph/2023/May/1683679627_profit_raymond.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDNTRlZGYUhOV01VWkhTVFExVFJERUF4aW1CU2dLTWdrbEJwTHRNYWVEaEFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T03:17:12.000Z",
+                    "authors": [],
+                    "source_url": "https://www.telegraphindia.com",
+                    "source_name": "Telegraph India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.telegraphindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdWbmNtRndhR2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pueW9iU0RSRWRuT0ZYTV83cDlDZ0FQAQ"
+        },
+        {
+            "title": "'Woke up to watch an 8th grader': Google CEO Sundar Pichai left awestruck by 14-year-old IPL debutant",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/woke-up-to-watch-an-8th-grader-google-ceo-sundar-pichai-left-awestruck-by-14-year-old-ipl-debutant/articleshow/120446920.cms",
+            "snippet": "Google CEO Sundar Pichai was among the many who were left awestruck by 14-year-old batting prodigy Vaibhav Suryavanshi.",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120446912,width-1280,height-720,resizemode-4/120446912.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWtNbk5vWmtsdlEwTlBhbFpmVFJDZkF4ampCU2dLTWdtZEpZUXFHbW1MTGdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T02:19:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Vaibhav Suryavanshi sent strict ‘mutton, pizza’ instructions as IPL preparations laid bare in 'mix of Yuvraj, Lara' take",
+                    "link": "https://www.hindustantimes.com/cricket/vaibhav-suryavanshi-sent-strict-mutton-pizza-instructions-ipl-preparations-laid-bare-mix-of-yuvraj-singh-brian-lara-take-101745137501572.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/PTI04-19-2025-000582B-0_1745137589754_1745137607139.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDFaMWMxUlZaM1ZqWnZVRzluVFJDMUFoaWxCQ2dLTWdhaEZZTHNFUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T09:08:41.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "14-year-old boy came to Rajasthan. Not for JEE prep but to play for Rajasthan Royals. How Vaibhav Sooryanv",
+                    "link": "https://m.economictimes.com/magazines/panache/14-year-old-boy-came-to-rajasthan-not-for-jee-prep-but-to-play-for-rajasthan-royals-how-vaibhav-sooryanvanshi-prepared-for-his-ipl-dream-debut/articleshow/120453757.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120453791,width-1200,height-900,resizemode-4,imgsize-72030/vaibhav-sooryavanshi.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHpWVVU0UVRjNFNYcHhVMUkzVFJEZ0F4aUFCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:17:23.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Google CEO Sundar Pichai praises Vaibhav Suryavanshi: Woke up to watch 8th grader",
+                    "link": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-sundar-pichai-google-ceo-vaibhav-suryavanshi-debut-rr-vs-lsg-2711730-2025-04-20",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/sundar-pichai--vaibhav-suryavanshi-201313448-3x4.jpeg?VersionId=bxbxekXOvsiIm2zW1byiOJeNtXfzFbcx",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNDVhM00wVnpac2RVWjZWbmhUVFJDQUJSamdBeWdLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T06:14:02.000Z",
+                    "authors": [],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lBaGNfUkRSSEozVlBfelJUMzV5Z0FQAQ"
+        },
+        {
+            "title": "Sanjiv Goenka jumps out of his seat to celebrate Avesh’s last-over heroics; Dravid's helpless look sums it up for RR",
+            "link": "https://www.hindustantimes.com/cricket/sanjiv-goenka-jumps-out-of-his-seat-celebrate-avesh-khan-last-over-heroics-rahul-dravid-helpless-look-sums-it-up-rr-lsg-101745111142728.html",
+            "snippet": "Rajasthan head coach Rahul Dravid sat helplessly after the team suffered their sixth defeat in the ongoing IPL 2025.",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/avesh_goenka_1745111472330_1745111479491.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFORXROU1c5MVVFOWlaVVZ0VFJDMUFoaWxCQ2dLTWdhSk1ZcW1HZ28=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T01:44:41.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "RR not panicking despite back-to-back close defeats, insists Bahutule",
+                    "link": "https://www.cricbuzz.com/cricket-news/134113/rr-not-panicking-despite-back-to-back-close-defeats-insists-bahutule",
+                    "photo_url": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c668736/rr-failed-to-get-nine-off-the-last-over-for-a-second-successive-game.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVTbDgyVWtOM1pubFdibkZ1VFJDb0FSaXJBaWdCTWdZdEU0Sk9HUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T03:18:55.000Z",
+                    "authors": [],
+                    "source_url": "https://www.cricbuzz.com",
+                    "source_name": "Cricbuzz.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cricbuzz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER055YVdOaWRYcDZMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "'Nahi crying, smile only': Nicholas Pooran’s heartwarming moment with Avesh Khan’s mother wins hearts - W",
+                    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/nahi-crying-smile-only-nicholas-poorans-heartwarming-moment-with-avesh-khans-mother-wins-hearts-watch/articleshow/120452749.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120453051,width-1280,height-720,resizemode-4/120453051.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNW9iRXM0TW05dWMydGxTV3BvVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T09:49:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "IPL: Rajasthan Royals coach bemoans lack of bowling partnerships in LSG loss",
+                    "link": "https://indianexpress.com/article/sports/ipl/rajasthan-royals-ipl-2025-bowling-lsg-sairaj-bahutule-rr-9954928/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/Rajasthan-bowling-coach-Sairaj-Bahutule.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlTSFZLVkhFM1JXaG1RVkJCVFJEb0FSaWVBeWdLTWdhdE5JaXVtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:44:03.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzc2VyVkRSRjM3QTdMTzhkMzN5Z0FQAQ"
+        },
+        {
+            "title": "MS Dhoni Chases Mumbai Indians Star With Bat In Hand. Video Breaks The Internet",
+            "link": "https://sports.ndtv.com/cricket/ms-dhoni-chases-mumbai-indians-star-deepak-chahar-with-bat-in-hand-video-breaks-the-internet-8205734",
+            "snippet": "IPL 2025: While MI are seventh with six points, CSK sit rock bottom with just two wins so far.",
+            "photo_url": "https://c.ndtvimg.com/2025-04/dr0jfb1s_dhoni-chahar_625x300_19_April_25.jpg?im=FaceCrop,algorithm=dnn,width=806,height=605",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHpjVmcyV25wTFMzazVkbU5yVFJEZ0F4al9CQ2dLTWdtQlFJNENINmt0Q1FJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T01:46:06.000Z",
+            "authors": [],
+            "source_url": "https://sports.ndtv.com",
+            "source_name": "NDTV Sports",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Watch: Jasprit Bumrah and MS Dhoni's heartwarming 'BHAIchaara' reunion ahead of MI vs CSK IPL clash",
+                    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-jasprit-bumrah-and-ms-dhonis-heartwarming-bhaichaara-reunion-ahead-of-mi-vs-csk-ipl-clash/articleshow/120434532.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120434576,width-1280,height-720,resizemode-4/120434576.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdSVmxvYVcxT2NrUlFOR0pYVFJDZkF4ampCU2dLTWdZaEpKU05GUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T13:39:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Jasprit Bumrah eyes redemption against CSK in IPL 2025, his least favourite opponent; A look into MI pacer’s stats",
+                    "link": "https://www.livemint.com/sports/cricket-news/jasprit-bumrah-eyes-redemption-against-csk-in-ipl-2025-his-least-favourite-opponent-a-look-into-mi-pacers-stats-11745142812699.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/600x338/PTI04-19-2025-000484B-0_1745143009624_1745143046386.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVRZblpKWWxkelZIRnJRa0pvVFJEUkFoallCQ2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:45:10.000Z",
+                    "authors": [
+                        "Ekambaram Raveendran"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyZVhrM1kxOXhPQklDWlc0b0FBUAE",
+                            "topic_name": "Ekambaram Raveendran"
+                        }
+                    ]
+                },
+                {
+                    "title": "MS Dhoni Runs To Hit Deepak Chahar With The Bat During CSK's Net Session, Video Goes Viral- News18",
+                    "link": "https://www.news18.com/cricket/ms-dhoni-runs-to-hit-deepak-chahar-with-the-bat-during-csks-net-session-video-goes-viral-9305849.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/04/MS-Dhoni-tries-to-hit-Deepak-Chahar-2025-04-fdc5788b9d917cf5e2fd280fec5675ca.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpUV290YTNOaVRUTk9WVFZSVFJDZkF4ampCU2dLTWdZQmdJNkF1QVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T17:14:07.000Z",
+                    "authors": [
+                        "Harshit Bisht"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1WXpaak1IWXdhaElDWlc0b0FBUAE",
+                            "topic_name": "Harshit Bisht"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o5clBfV0RSRU9pdG1Db0pCRUVpZ0FQAQ"
+        },
+        {
+            "title": "MeT issues alert, predicts intense showers with severe thunderstorm in next 6-8 hrs in J&K",
+            "link": "https://www.greaterkashmir.com/latest-news/met-issues-alert-predicts-intense-showers-with-severe-thunderstorm-in-next-6-8-hrs-in-jk/",
+            "snippet": "Advises general public to stay indoors and remain away from water bodies, loose structures and landslide prone areas.",
+            "photo_url": "https://m.greaterkashmir.com/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JlYXRlcmthc2htaXItc29ydGQtcHJvLXByb2Qtc29ydGQvbWVkaWEyNjFjZTkwMC0xZDBiLTExZjAtYmNkYy0wZmZlZDUyNjRlMWUuanBn",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdNVlpIVWs5RFZrcEZNbFY1VFJDb0F4alRCU2dLTWdZQlFJNEJNUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T10:43:15.000Z",
+            "authors": [],
+            "source_url": "https://www.greaterkashmir.com",
+            "source_name": "Greater Kashmir",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greaterkashmir.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWR5WldGMFpYSnJZWE5vYldseUxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "MeT issues advisory, says ‘more showers with gusty winds in next 4-6 hrs in J&K parts’",
+                    "link": "https://www.greaterkashmir.com/latest-news/met-issues-advisory-says-more-showers-with-gusty-winds-in-next-4-6-hrs-in-jk-parts/",
+                    "photo_url": "https://m.greaterkashmir.com/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JlYXRlcmthc2htaXItc29ydGQtcHJvLXByb2Qtc29ydGQvbWVkaWE5ZTk2YTM3MC0xZGQ0LTExZjAtYmNkYy0wZmZlZDUyNjRlMWUud2VicA==",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHpUbGRLUmtWTmVYY3RibFZIVFJDM0F4aTdCU2dLTWdrQjRJd0t4aVRnVXdF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:42:57.000Z",
+                    "authors": [],
+                    "source_url": "https://www.greaterkashmir.com",
+                    "source_name": "Greater Kashmir",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greaterkashmir.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWR5WldGMFpYSnJZWE5vYldseUxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Kashmir experiences fresh snow and heavy rainfall; Road closures, school suspensions as weather takes a tu",
+                    "link": "https://m.economictimes.com/news/india/kashmir-experiences-fresh-snow-and-heavy-rainfall-road-closures-school-suspensions-as-weather-takes-a-turn/articleshow/120427907.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120427933,width-1200,height-900,resizemode-4,imgsize-417768/kashmir-experiences-fresh-snow-and-heavy-rainfall-road-closures-school-suspensions-as-weather-takes-a-turn.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdWMUptYW5CRGRYaFVjMlZtVFJEZ0F4aUFCU2dLTWdZQjBJaW0wZ1E=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T08:07:57.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Weather today: IMD issues rainfall alert in J&K, heatwave likely to abate in Rajasthan; check forecast here",
+                    "link": "https://www.livemint.com/news/india/weather-today-imd-issues-rainfall-alert-in-j-k-heatwave-likely-to-abate-in-rajasthan-check-forecast-here-11745113605767.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/600x338/Delhi_rains_1723033147203_1745114051869.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUpkblJpZG1aMWFHcG9hMDVmVFJEU0FoallCQ2dLTWdtVkU0NXhsU21paGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:55:41.000Z",
+                    "authors": [
+                        "Akriti Anand"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5SdWNHWTVaeElDWlc0b0FBUAE",
+                            "topic_name": "Akriti Anand"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lVdFpqS0RSRTlvUWFpc1paUDFDZ0FQAQ"
+        },
+        {
+            "title": "Trump officials call Harvard demand letter a 'mistake' after clash: Report",
+            "link": "https://m.economictimes.com/news/international/global-trends/trump-officials-say-letter-to-harvard-university-sent-by-mistake-report/articleshow/120422006.cms",
+            "snippet": "Harvard University received a letter containing demands related to hiring, admissions, and curriculum from an official in former President ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120422015,width-1200,height-900,resizemode-4,imgsize-77258/harvard-university-trump-demands.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFURmRRVkdFeVQxODJUelF4VFJEZ0F4aUFCU2dLTWdZTlNackdJZ2s=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T02:07:59.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Donald Trump's 'Demand' Letter To Harvard Was Sent By \"Mistake\": Report",
+                    "link": "https://www.ndtv.com/world-news/donald-trumps-demand-letter-to-harvard-was-sent-by-mistake-report-8202057",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/hrjaug6o_donald-trump-afp_625x300_18_April_25.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVdlbEpJTFhOTFVIUmtUbTFyVFJDeUF4akNCU2dLTWdrZFlJeEtJcWtlN0FF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T07:38:59.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Harvard vs. Trump: A high-stakes clash creating financial turmoil at the Ivy League giant",
+                    "link": "https://timesofindia.indiatimes.com/education/news/harvard-vs-trump-a-high-stakes-clash-creating-financial-turmoil-at-the-ivy-league-giant/articleshow/120450932.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120450965,width-1280,height-720,resizemode-4/120450965.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHlVbEF3UldSUlQwNWxSRTQzVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:00:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "The Promise of American Higher Education",
+                    "link": "https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/",
+                    "photo_url": "https://www.harvard.edu/president/wp-content/uploads/sites/2/2025/04/062923_Features_SM_258_blur.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRXWEpoV25sdVZsWnFNVlpDVFJERUF4aW1CU2dLTWdhaEE0ZXRVUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-14T17:06:10.000Z",
+                    "authors": [],
+                    "source_url": "https://www.harvard.edu",
+                    "source_name": "Harvard University",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.harvard.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMmhoY25aaGNtUXVaV1IxS0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pub1pEUURSRUlXMXJ6VDBGYnp5Z0FQAQ"
+        },
+        {
+            "title": "Systematic persecution of Hindu minorities in Bangladesh under interim government: India",
+            "link": "https://www.thehindu.com/news/national/systematic-persecution-of-hindu-minorities-in-bangladesh-under-interim-government-india/article69467664.ece",
+            "snippet": "MEA condemns systematic persecution of Hindu minorities in Bangladesh, urging the interim government to protect all minorities.",
+            "photo_url": "https://th-i.thgim.com/public/incoming/m32lfs/article69461671.ece/alternates/LANDSCAPE_1200/vbk-stock-randhir%20jaiswal-20250417201L.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhkMjV0WHpaQlUyMXhTekpTVFJDZkF4ampCU2dLTWdhdFJZVE9vUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T09:18:00.000Z",
+            "authors": [
+                "Kallol Bhattacherjee"
+            ],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZrWkhwM1pHMW9OUklDWlc0b0FBUAE",
+                    "topic_name": "Kallol Bhattacherjee"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "India Tears Into Yunus Regime Over Hindu Leader's Killing In Bangladesh",
+                    "link": "https://www.ndtv.com/world-news/protect-all-minorities-india-slams-bangladesh-over-hindu-leaders-murder-8202258",
+                    "photo_url": "https://c.ndtvimg.com/2024-11/q2lv04lk_bangladesh-violence-targeting-hindus-ians_625x300_29_November_24.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhPRUZXYWsxNGNHWmZOWGN5VFJDeUF4akNCU2dLTWdZSmNvaFFOUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T08:12:00.000Z",
+                    "authors": [
+                        "Samiran Mishra"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TjJnMWVtYzFheElDWlc0b0FBUAE",
+                            "topic_name": "Samiran Mishra"
+                        }
+                    ]
+                },
+                {
+                    "title": "'CAA needs to be applied to future migrants as well': Zoho's Sridhar Vembu after Hindu leader killed in Bangladesh",
+                    "link": "https://www.businesstoday.in/india/story/bharats-duty-to-zohos-sridhar-vembu-backs-caa-for-future-migrants-as-well-after-hindu-leader-killed-in-bangladesh-472749-2025-04-20",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/6804ce61522fd-zoho-founder-and-chief-scientist-sridhar-vembu-203715648-16x9.jpg?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJVekZvVkhGWWFVdGFaWFJHVFJDZkF4ampCU2dLTWdZcEpwanRHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:44:23.000Z",
+                    "authors": [],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "'Smiling meeting between PM Modi, Yunus failed': Congress reacts to brutal murder of Hindu leader in Ban",
+                    "link": "https://timesofindia.indiatimes.com/india/smiling-meeting-between-pm-modi-yunus-failed-congress-reacts-to-brutal-murder-of-hindu-leader-in-bangladesh/articleshow/120429036.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120429532,width-1280,height-720,resizemode-4/120429532.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXROamt5YkVFMVRsQTJYMlF5VFJDZkF4ampCU2dLTWdZSkFLQkZrQXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T09:46:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ptcTRQWERSSG1DaGFHekk3WUF5Z0FQAQ"
+        },
+        {
+            "title": "IPL 2025: Match 38, MI vs CSK Match Prediction – Who will win today’s match between MI and CSK?",
+            "link": "https://www.crictracker.com/cricket-match-predictions/ipl-2025-match-38-mi-vs-csk-match-prediction-who-will-win-today-match/",
+            "snippet": "Mumbai Indians (MI) will look to avenge their defeat to arch-rivals Chennai Super Kings (CSK) from earlier in the IPL 2025 when the two ...",
+            "photo_url": "https://media.crictracker.com/media/attachments/1683379477638_CSK-vs-MI.jpeg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpaRlJKTnpKSE5HVXRUVTlaVFJDUUF4aUFCU2dLTWdhWlFvb1RIUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T07:15:00.000Z",
+            "authors": [],
+            "source_url": "https://www.crictracker.com",
+            "source_name": "CricTracker",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crictracker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMk55YVdOMGNtRmphMlZ5TG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "MI vs CSK Dream11 Prediction, IPL 2025: Probable XIs and Top Picks",
+                    "link": "https://sportstar.thehindu.com/cricket/ipl/ipl-news/mi-vs-csk-ipl-2025-dream11-prediction-predicted-playing-xi-lineups-fantasy-team-picks-squads/article69467875.ece",
+                    "photo_url": "https://ss-i.thgim.com/public/incoming/4u2wif/article69467837.ece/alternates/LANDSCAPE_1200/PTI04_17_2025_000414A.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpPVVJ2VWkxRmNHaE9jWFphVFJDZkF4ampCU2dLTWdhcEJZSU1oZ3M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:48:03.000Z",
+                    "authors": [],
+                    "source_url": "https://sportstar.thehindu.com",
+                    "source_name": "Sportstar",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://sportstar.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqNAgKIi5DQklTSEFnTWFoZ0tGbk53YjNKMGMzUmhjaTUwYUdWb2FXNWtkUzVqYjIwb0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "LIVE Cricket Score | MI vs CSK Live Score, IPL 2025: Chennai Supe Kings and Mumbai Indians clash to revive their IPL campaigns",
+                    "link": "https://www.financialexpress.com/sports/ipl-2025-mi-vs-csk-live-score-today-match-38-mumbai-indians-vs-chennai-super-kings-playing-11-wankhede-stadium-weather/3815867/",
+                    "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/04/CSK-vs-MI-2025-PTI.jpg?w=440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFaWGRJV1RKUVIyOXplQzFvVFJEM0FSaTRBeWdLTWdhVklwSm9tZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:59:54.000Z",
+                    "authors": [],
+                    "source_url": "https://www.financialexpress.com",
+                    "source_name": "The Financial Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "IPL 2025: MI vs CSK playing 11, MI batters vs CSK bowlers matchups",
+                    "link": "https://www.business-standard.com/cricket/ipl/ipl-2025-mi-vs-csk-playing-11-mi-batters-vs-csk-bowlers-matchups-125042000017_1.html",
+                    "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/20/full/1745090178-4588.jpg?im=FeatureCrop,size=(826,465)",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZia3hoTTI4MGFrNHlNSGMwVFJDZkF4amlCU2dLTWdZQklJeGltQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T09:00:52.000Z",
+                    "authors": [
+                        "Shashwat Nishant"
+                    ],
+                    "source_url": "https://www.business-standard.com",
+                    "source_name": "Business Standard",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzZHpKdGFqVm5OQklDWlc0b0FBUAE",
+                            "topic_name": "Shashwat Nishant"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2poX2J2V0RSRTRITHpzVGJQVEFDZ0FQAQ"
+        },
+        {
+            "title": "Nine held in massive engine theft from Kia Motors' plant in Andhra Pradesh",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/nine-held-in-massive-engine-theft-from-kia-motors-plant-in-andhra-pradesh/article69470871.ece",
+            "snippet": "Andhra Pradesh police arrest nine suspects in connection with the theft of 900 engines from Kia Motors' plant.",
+            "photo_url": "https://th-i.thgim.com/public/incoming/jgn51d/article69470879.ece/alternates/LANDSCAPE_1200/4842_23-3-2020_16-21-4_2_KIA2.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVBaREJHWDFGM1ZuTXRaVU13VFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T09:57:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "How 900 Kia engines went missing in a 5-year heist in Andhra Pradesh",
+                    "link": "https://m.economictimes.com/news/new-updates/how-900-kia-engines-went-missing-the-heist-the-hunt-and-the-security-nightmare/articleshow/120449464.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120449651,width-1200,height-900,resizemode-4,imgsize-5186/1-.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNDBOM05TVlhsak5DMUtiM05UVFJEZ0F4aUFCU2dLTWdNSm9Bdw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T05:36:23.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Nine arrested in Kia automotive engines’ theft",
+                    "link": "https://timesofindia.indiatimes.com/city/hyderabad/nine-arrested-in-kia-automotive-engines-theft/articleshow/120440550.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120440546,width-1280,height-720,resizemode-4/120440546.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlTV2szUnpVM2NYazBiVVE0VFJDZkF4ampCU2dLTWdtWllaYjJMR2lhS2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T19:07:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Kia engines sold to fishermen, sugarcane vendors?..",
+                    "link": "https://www.greatandhra.com/politics/andhra-news/kia-engines-sold-to-fishermen-sugarcane-vendors-145573",
+                    "photo_url": "https://mc-webpcache.readwhere.in/mcms.php?size=medium&in=https://mcmscache.epapr.in/post_images/website_49/post_45794325/thumb.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNU9iM2MwYjFJNWJWbENlSGRXVFJDc0FoaVFBeWdLTWdNQjRBSQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T07:44:04.000Z",
+                    "authors": [],
+                    "source_url": "https://www.greatandhra.com",
+                    "source_name": "Greatandhra.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.greatandhra.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmR5WldGMFlXNWthSEpoTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lIbmN2V0RSR0k0VFRTQWZTb195Z0FQAQ"
+        },
+        {
+            "title": "Pakistan will not travel to India for 2025 Women's ODI World Cup",
+            "link": "https://www.espncricinfo.com/story/2025-women-s-odi-world-cup-pakistan-will-not-travel-to-india-1482083",
+            "snippet": "PCB chairman Mohsin Naqvi has reiterated that Pakistan would not be travelling to India for the women's ODI World Cup later this year.",
+            "photo_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/397000/397084.6.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVWelUxUms1dVdGVk9kamhrVFJDZkF4ampCU2dLTWdhWk01REttUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T02:15:20.000Z",
+            "authors": [],
+            "source_url": "https://www.espncricinfo.com",
+            "source_name": "ESPNcricinfo",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "In Tit-For-Tat Move, Pakistan Refuses To Travel To India For Women's World Cup 2025",
+                    "link": "https://sports.ndtv.com/cricket/pakistan-refuse-to-travel-to-india-for-womens-world-cup-pcb-chief-delivers-sharp-message-8204860",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/iducid9g_pakistan-women-x-therealpcb_625x300_18_April_25.jpg?im=FaceCrop,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVhRlY2U0RkYVpEZGxlV1oxVFJEQ0FSaURBaWdCTWdZQmdKS2xOQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T14:54:03.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Fatima Sana named skipper of ICC Women’s World Cup Qualifiers 2025 Team of Tournament",
+                    "link": "https://www.dawn.com/news/1905466/fatima-sana-named-skipper-of-icc-womens-world-cup-qualifiers-2025-team-of-tournament",
+                    "photo_url": "https://i.dawn.com/primary/2025/04/20134712a276261.jpg?r=143317",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHlRbUZOV0d3MVRtcEplVWhwVFJDdEF4akxCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T09:54:09.000Z",
+                    "authors": [],
+                    "source_url": "https://www.dawn.com",
+                    "source_name": "Dawn",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dawn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1JoZDI0dVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "ICC announces Women’s Cricket World Cup Qualifier Team of the Tournament",
+                    "link": "https://www.icc-cricket.com/tournaments/womens-cwc-qualifier-2025/news/icc-announces-women-s-cricket-world-cup-qualifier-team-of-the-tournament",
+                    "photo_url": "https://images.icc-cricket.com/image/upload/t_ratio21_9-size60/prd/h6odvmmuyoeapovg05a1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUlXWFF4WjNGbGVIWlRWbnB1VFJDVEFSalhBaWdCTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T08:05:30.000Z",
+                    "authors": [],
+                    "source_url": "https://www.icc-cricket.com",
+                    "source_name": "ICC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.icc-cricket.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmxqWXkxamNtbGphMlYwTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k4NmFfTURSRWVlME1vc0Z4MWJpZ0FQAQ"
+        },
+        {
+            "title": "Kesari Chapter 2 Box Office Collection Day 2: In 48 Hours, Becomes The 9th Highest-Grossing Bollywood Film Of 2025!",
+            "link": "https://www.koimoi.com/box-office/kesari-chapter-2-box-office-collection-day-2-in-48-hours-becomes-the-9th-highest-grossing-bollywood-film-of-2025/",
+            "snippet": "In only two days, Akshay Kumar's film crushed the lifetime of Sohum Shah's Crazxy to become the 9th highest-grossing Bollywood film of 2025.",
+            "photo_url": "https://www.koimoi.com/wp-content/new-galleries/2025/04/kesari-chapter-2-box-office-collection-day-2-01.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNNVXA2Um1WQ1R6ZGpWRzk2VFJDUkF4ajhCU2dLTWdZbEk1eE9IUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T07:01:39.000Z",
+            "authors": [
+                "Jishika Madaan"
+            ],
+            "source_url": "https://www.koimoi.com",
+            "source_name": "Koimoi",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.koimoi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbXR2YVcxdmFTNWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGeGJtdGtiQklDWlc0b0FBUAE",
+                    "topic_name": "Jishika Madaan"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Kesari Chapter 2 box office collection day 2 (updated live): Akshay Kumar, Madhavan-starrer collects ₹7 crore",
+                    "link": "https://www.hindustantimes.com/entertainment/bollywood/kesari-chapter-2-box-office-collection-day-2-updated-live-akshay-kumar-ananya-panday-starrer-collects-6-crore-101745074152924.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/kesari_chapter_2_1745074520858_1745074521556.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdORXBqWDJ3eWVqVTBWSGRUVFJDMUFoaW1CQ2dLTWdZQllwUU1zUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T15:09:19.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Kesari 2: Aparshakti Khurana Asks Everyone To Watch Akshay Kumar Film, Says 'F@&$ Off If You Can't...'- New",
+                    "link": "https://www.news18.com/movies/kesari-2-aparshakti-khurana-asks-everyone-to-watch-akshay-kumar-film-says-f-off-if-you-cant-9306267.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/04/FotoJet-2025-04-20T152111.218-2025-04-c5448caf4bd2d6c672e9298f494f5e25.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNTFaRXRwWkVNeE1FMXNSVVpuVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:11:30.000Z",
+                    "authors": [
+                        "Shreyanka Mazumdar"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6ZEhOcmNuWTFlUklDWlc0b0FBUAE",
+                            "topic_name": "Shreyanka Mazumdar"
+                        }
+                    ]
+                },
+                {
+                    "title": "Katrina Kaif Reviews Akshay Kumar And R Madhavan's Kesari Chapter 2: \"Terrific\"",
+                    "link": "https://www.ndtv.com/entertainment/katrina-kaif-gives-a-shoutout-to-team-kesari-chapter-2-calls-it-terrific-8202917",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/t5gcuito_s_625x300_19_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJWazVuWm1OSU9WQTBSVTlWVFJDeUF4akNCU2dLTWdhcFZaTHRxUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T10:33:13.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKbE4zUURSSHItWHpRZWw2QUl5Z0FQAQ"
+        },
+        {
+            "title": "Vincy Aloshious’ allegations are fake – Shine Tom Chacko after arrest in drugs case",
+            "link": "https://www.123telugu.com/mnews/vincy-aloshious-allegations-are-fake-shine-tom-chacko-after-arrest-in-drugs-case.html",
+            "snippet": "Popular Malayalam actor Shine Tom Chacko, well-known to Telugu audiences for his roles in Dasara, Devara, and Daaku Maharaaj, was arrested ...",
+            "photo_url": "https://cdn.123telugu.com/content/wp-content/uploads/2024/03/Shine-Tom-Chacko.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhabXhVUzFWUmJEZElSbFJvVFJEU0FoakNBeWdLTWdZeGRJNXdzUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T21:30:00.000Z",
+            "authors": [],
+            "source_url": "https://www.123telugu.com",
+            "source_name": "123Telugu.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.123telugu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVEV5TTNSbGJIVm5kUzVqYjIwb0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Team ‘Soothravakyam’ supports ICC inquiry into actor Vincy Aloshious'' allegations",
+                    "link": "https://www.hindustantimes.com/entertainment/tamil-cinema/team-soothravakyam-supports-icc-inquiry-into-actor-vincy-aloshious-allegations-101745082247072.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2024/12/17/550x309/1000039774_1734431216022_1734431274482.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXRjVGRMVmpVM1RVNUNVRGRLVFJDMUFoaWxCQ2dLTWdtWlVJaFJvV2N0VVFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T17:04:06.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Kerala Minister Supports Vincy Aloshious' Stance on Not Working with Drug Users in Film Industry",
+                    "link": "https://www.deccanherald.com/india/kerala/film-industry-should-adopt-vincys-stand-of-not-working-with-those-using-drugs-minister-rajesh-3501683",
+                    "photo_url": "https://images.deccanherald.com/deccanherald/2025-03-25/yk9f7hum/deccanherald2025-03-1146zgnjawmbrajesh112333881688357989.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNPVWhQWW5Od1ZqRm9hMUU0VFJDZkF4ampCU2dLTWdhdFpZak9NUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:03:21.000Z",
+                    "authors": [],
+                    "source_url": "https://www.deccanherald.com",
+                    "source_name": "Deccan Herald",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsWTJOaGJtaGxjbUZzWkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Malayalam actor Shine Chacko held in NDPS case, granted bail",
+                    "link": "https://timesofindia.indiatimes.com/india/malayalam-actor-shine-chacko-held-in-ndps-case-granted-bail/articleshow/120446586.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120446610,imgsize-21742,width-400,resizemode-4/-.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBWV1ZKVG00elJreEdhbWczVFJEaEFSaVFBeWdLTWdhdFJaVE9JUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T00:58:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNdmZiT0RSR296N1pzNmxNZ2dpZ0FQAQ"
+        },
+        {
+            "title": "Manoj Muntashir challenges Anurag Kashyap's comment on Brahmins, says, 'If your income is less, restrain",
+            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-muntashir-challenges-anurag-kashyaps-comment-on-brahmins-says-if-your-income-is-less-restrain-your-expenses-/articleshow/120446719.cms",
+            "snippet": "Manoj Muntashir Shukla has strongly criticized Anurag Kashyap for his offensive remark about Brahmins, posting a video challenging the filmmaker ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120446718,width-1280,height-720,resizemode-4/120446718.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXhaWGhVYjJ0UFFXTnFka3M1VFJDZkF4ampCU2dLTWdrSllaVEdydWN0Q2dJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T01:32:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Phule director Ananth Mahadevan says films face backlash due to ‘immature society’; is amused by changes CBFC suggested",
+                    "link": "https://www.hindustantimes.com/entertainment/bollywood/phule-director-ananth-mahadevan-says-films-face-backlash-due-to-immature-society-is-amused-by-changes-cbfc-suggested-101745122376126.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/Ananth_Mahadevan_phule_1745124746878_1745124755740.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUhYMnN4ZEVVNU4wMXNUbE5hVFJDMUFoaWxCQ2dLTWdrQklad0xtdWt0cFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T05:22:49.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Anurag Kashyap apologises for remark against Brahmins, says daughter, family members getting rape and death threats",
+                    "link": "https://www.thehindu.com/entertainment/movies/anurag-kashyap-apologises-for-remark-against-brahmins-says-daughter-family-members-getting-rape-and-death-threats/article69467436.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/jw46rf/article69467441.ece/alternates/LANDSCAPE_1200/IMG_Anurag_2_1_80CU3HC4.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFSbTF2WWxKaFVteGhWVmRCVFJDZkF4ampCU2dLTWdhcFlwVE9yUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T06:17:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Anurag Kashyap issues apologies after 'I would urinate on Brahmins' comment: Abuse me all you want...",
+                    "link": "https://www.moneycontrol.com/entertainment/anurag-kashyap-issues-apologies-after-i-would-urinate-on-brahmins-comment-abuse-me-all-you-want-article-12998481.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250419075950_Anurag-Kashyap-aplogises-on-comment-on-Bhraman-community.jpg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBiWEp5VVZkWlJXMXhiakJvVFJDZkF4ampCU2dLTWdZbEZwN3NrUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T08:13:57.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2llbkw3WERSSDAwZkZlU2ItckNDZ0FQAQ"
+        },
+        {
+            "title": "ICC Women’s CWCQ 2025 final day wrap: Pakistan finish unbeaten, Bangladesh qualify after West Indies' narrow miss",
+            "link": "https://www.icc-cricket.com/tournaments/womens-cwc-qualifier-2025/news/west-indies-chase-equation-to-seal-women-s-world-cup-place-confirmed",
+            "snippet": "Bangladesh sealed the second qualification spot despite their loss to Pakistan, as West Indies fell short by the barest of margins.",
+            "photo_url": "https://images.icc-cricket.com/image/upload/t_ratio21_9-size60/prd/buyvf5cbfvtwlajfff4i",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFkWGxXUjFabFRHcHpka1IwVFJDVEFSalhBaWdCTWdhZE00UXFuUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T16:18:45.000Z",
+            "authors": [],
+            "source_url": "https://www.icc-cricket.com",
+            "source_name": "ICC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.icc-cricket.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmxqWXkxamNtbGphMlYwTG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "West Indies' historic chase ends in heartbreak as Bangladesh seal World Cup spot",
+                    "link": "https://www.espncricinfo.com/story/wwc-qualifiers-west-indies-historic-chase-ends-in-heartbreak-as-bangladesh-seal-world-cup-spot-1482079",
+                    "photo_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/389300/389381.6.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJkMVE0V1ZwcWFrODFaMlJJVFJDZkF4ampCU2dLTWdZcEJvTHNFUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T02:02:14.000Z",
+                    "authors": [
+                        "Firdose Moonda"
+                    ],
+                    "source_url": "https://www.espncricinfo.com",
+                    "source_name": "ESPNcricinfo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWDNoa2R6RnRkaElDWlc0b0FBUAE",
+                            "topic_name": "Firdose Moonda"
+                        }
+                    ]
+                },
+                {
+                    "title": "West Indies miss out by the barest of margins | WCWCQ 2025",
+                    "link": "https://www.icc-cricket.com/tournaments/womens-cwc-qualifier-2025/videos/west-indies-miss-out-by-the-barest-of-margins-wcwcq-2025",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-04-19T14:21:34.000Z",
+                    "authors": [],
+                    "source_url": "https://www.icc-cricket.com",
+                    "source_name": "ICC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.icc-cricket.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmxqWXkxamNtbGphMlYwTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "HEARTBREAK! West Indies miss Women's World Cup qualification by net run rate of 0.013",
+                    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/heartbreak-west-indies-miss-womens-world-cup-qualification-by-net-run-rate-of-0-013/articleshow/120436003.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120436013,width-1280,height-720,resizemode-4/120436013.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU1OVTkwY1RKRE1XTktNbFJGVFJDZkF4ampCU2dLTWdtQmNvd1FxU2U1NmdF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T14:50:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lqbF9fVURSRzhEdWQ4TE9HSzVTZ0FQAQ"
+        },
+        {
+            "title": "India, US push ahead on $500-billion trade pact target; Delhi team to visit Washington for key talks next",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/india-and-us-accelerate-trade-pact-talks-eyeing-500-billion-by-2030-with-new-19-chapter-agenda-sources/articleshow/120426707.cms",
+            "snippet": "Official sources said the negotiations are set to gain momentum with a high-level Indian delegation visiting Washington next week, reported PTI.",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120426904,width-1280,height-720,resizemode-4/120426904.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNU1aM0EyTWtGWU0wazBlSHB4VFJDZkF4ampCU2dLTWdNQllBNA=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T06:54:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "In tariff shadow, trade talks gather pace, team visits US on April 23, Commerce Minister Piyush Goyal in UK in May",
+                    "link": "https://indianexpress.com/article/business/in-tariff-shadow-trade-talks-gather-pace-team-visits-us-april-23-goyal-in-uk-in-may-9954132/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/lede.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDFVVVI2VkZKNlJEazVlamhWVFJEb0FSaWVBeWdLTWdrTllZU21xcVl0Q2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T04:43:00.000Z",
+                    "authors": [
+                        "Ravi Dutta Mishra"
+                    ],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TlhGeVh6RnVjaElDWlc0b0FBUAE",
+                            "topic_name": "Ravi Dutta Mishra"
+                        }
+                    ]
+                },
+                {
+                    "title": "India-US trade agreement talks gain pace: What you should know",
+                    "link": "https://m.economictimes.com/news/economy/foreign-trade/india-us-trade-agreement-talks-gain-pace-what-you-should-know/articleshow/120454650.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120454686,width-1200,height-900,resizemode-4,imgsize-53514/india-us-trade-deal.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRkWFF4ZEZobVZscExWMlJNVFJEZ0F4aUFCU2dLTWdhWmhJRE00UUE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:06:33.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trade talks: India looks at 'early tranche'",
+                    "link": "https://timesofindia.indiatimes.com/india/trade-talks-india-looks-at-early-tranche/articleshow/120443404.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120443424,width-1280,height-720,resizemode-4/120443424.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNURXVGRRUlZBMWIwNDBSVTlrVFJDZkF4ampCU2dLTWdrQlFZNmpwbVkxeVFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T22:38:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pUeFAzTERSR1BQTTFWREFHaUJpZ0FQAQ"
+        },
+        {
+            "title": "Indian student shot dead by stray bullet in Canada's Ontario",
+            "link": "https://www.moneycontrol.com/news/india/indian-student-shot-dead-by-stray-bullet-in-canada-s-ontario-12998412.html",
+            "snippet": "In a tragic incident in Hamilton, Ontario, 21-year-old Indian student Harsimrat Randhawa was fatally struck by a stray bullet while waiting ...",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250419043817_Randhwa.jpg?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdWbmRxWVZabU9HRTFjMHhWVFJDZkF4ampCU2dLTWdhOU01SXlIUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T04:41:19.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Indian Student Dies In Canada, Family Says Gunfire During Clash Killed Her",
+                    "link": "https://www.ndtv.com/world-news/harsimrat-kaur-randhawa-family-of-indian-student-killed-in-canada-firing-reacts-to-her-death-8201741",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/a8dgicfg_harsimrat-kaur-randhawa_625x300_19_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNOVVJSTVVOWlgxbFVORUpTVFJDeUF4akNCU2dLTWdZcEZZek9sUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T06:43:14.000Z",
+                    "authors": [
+                        "Samiran Mishra"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TjJnMWVtYzFheElDWlc0b0FBUAE",
+                            "topic_name": "Samiran Mishra"
+                        }
+                    ]
+                },
+                {
+                    "title": "Family's appeal to govt after Indian student Harsimrat Randhawa killed by stray bullet in Canada",
+                    "link": "https://www.hindustantimes.com/india-news/familys-appeal-to-govt-after-indian-student-harsimrat-randhawa-killed-by-stray-bullet-in-canada-101745051569818.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/Canada_1745032299433_1745054296810.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZWV3BWYVV3MmIzQmlaM293VFJDMUFoaW1CQ2dLTWdhdEJaVE5rUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T09:21:41.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Punjab Student Shot Dead in Canada; Caught in Crossfire at Bus Stop | Harsimrat Randhawa |",
+                    "link": "https://indianexpress.com/videos/international-video/punjab-student-shot-dead-in-canada-caught-in-crossfire-at-bus-stop-harsimrat-randhawa/",
+                    "photo_url": "https://i.ytimg.com/vi/s63Y9uXnR4Q/maxresdefault.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdNbmRMTjJ0blJtSm5NVFpwVFJDZkF4ampCU2dLTWdZQklZak1HQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T07:20:28.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kwdDhuV0RSRWtMcHZFWmxHUzJTZ0FQAQ"
+        },
+        {
+            "title": "GT vs DC HIGHLIGHTS, IPL 2025: Buttler, Rutherford knocks help Gujarat Titans beat Delhi Capitals by 7 wickets",
+            "link": "https://sportstar.thehindu.com/cricket/ipl/ipl-news/gt-vs-dc-live-score-ipl-2025-updates-scorecard-commentary-gujarat-titans-v-delhi-capitals-highlights/article69467552.ece",
+            "snippet": "GT vs DC LIVE: Catch the commentary and updates of the IPL 2025 game between Gujarat Titans and Delhi Capitals at the Narendra Modi Stadium ...",
+            "photo_url": "https://ss-i.thgim.com/public/incoming/cloyau/article69467549.ece/alternates/LANDSCAPE_1200/IPL%20Blog%203.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNOSGcyVG5KSVRHZzFTMDgwVFJDZkF4ampCU2dLTWdZTk1JeVNwQWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T14:03:45.000Z",
+            "authors": [],
+            "source_url": "https://sportstar.thehindu.com",
+            "source_name": "Sportstar",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://sportstar.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqNAgKIi5DQklTSEFnTWFoZ0tGbk53YjNKMGMzUmhjaTUwYUdWb2FXNWtkUzVqYjIwb0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "GT vs DC, IPL 2025: Jos Buttler masterclass helps Gujarat leapfrog Delhi to the top of IPL table - Action in Images",
+                    "link": "https://www.hindustantimes.com/photos/cricket/gt-vs-dc-ipl-2025-jos-buttler-masterclass-helps-gujarat-leapfrog-delhi-to-the-top-of-ipl-table-action-in-images-101745073494850.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/CRICKET-IPL-GT-DC--91_1745073475954_1745073707976.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRaV3hDYWswMFJUWmliV2t5VFJDMUFoaW1CQ2dLTWdZUlFwQ0huZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T15:42:53.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "\"Hopefully, Kagiso Rabada Will Come Back In 10 Days,\" Informs Gujarat Titans Captain Shubman Gill",
+                    "link": "https://sports.ndtv.com/cricket/hopefully-kagiso-rabada-will-come-back-in-10-days-informs-gujarat-titans-captain-shubman-gill-8202882",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/43mf2bdo_kagiso-rabada-bcci_625x300_03_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDFWM1JCVkhjdGFsVkpTRGRDVFJEZ0F4al9CQ2dLTWdZWko0WkpsZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T13:27:51.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Buttler told Tewatia 'don't look at my hundred'",
+                    "link": "https://www.espncricinfo.com/story/tewatia-says-buttler-told-him-to-forget-about-his-hundred-in-gt-s-win-against-dc-in-ipl-2025-1482114",
+                    "photo_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/399500/399521.6.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVSSEZwVlZkcU4xcFJVR2xyVFJDZkF4ampCU2dLTWdZZE1ZajBtQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T17:23:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.espncricinfo.com",
+                    "source_name": "ESPNcricinfo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lsbHJfVURSSHdtY09uZDJHSVVDZ0FQAQ"
+        },
+        {
+            "title": "Soyuz MS-26 spacecraft brings NASA, Russia astronauts back to earth",
+            "link": "https://www.aljazeera.com/news/2025/4/20/soyuz-ms-26-spacecraft-brings-us-russia-crew-back-to-earth",
+            "snippet": "Russian astronauts Alexey Ovchinin and Ivan Wagner have returned to Earth along with American Donald Pettit after a seven-month science ...",
+            "photo_url": "https://www.aljazeera.com/wp-content/uploads/2025/04/AP25110153297711-1745128261.jpg?resize=1200%2C675",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVFObXAxTFU1R2RscGxkR3N4VFJDZkF4ampCU2dLTWdrQlFKZzVJR2pJQ1FJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T07:15:35.000Z",
+            "authors": [],
+            "source_url": "https://www.aljazeera.com",
+            "source_name": "Al Jazeera",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0ZzYW1GNlpXVnlZUzVqYjIwb0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "NASA’s oldest active astronaut returns to Earth on 70th birthday",
+                    "link": "https://www.thehindu.com/sci-tech/nasas-oldest-active-astronaut-returns-to-earth-on-70th-birthday/article69471026.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/c1r8t1/article69471035.ece/alternates/LANDSCAPE_1200/2025-04-20T073228Z_240751766_RC2D1EAHDX9U_RTRMADP_3_SPACE-EXPLORATION-ISS.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxNRVoyWW1aaU1HUjNSRVV5VFJDZkF4ampCU2dLTWdZQlVKWlpLQWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:30:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "NASA’s oldest astronaut marks 70th birthday with Earth re-entry after 7 months at ISS",
+                    "link": "https://indianexpress.com/article/world/nasa-oldest-astronaut-don-petit-70-birthday-iss-9955099/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/Don-Pettit.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNWpRakZ2YW5SVExVdG5VRzVNVFJEb0FSaWVBeWdLTWdzQk1KbzVvS2pJS2VvY3Nn=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:57:10.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "NASA Sets Coverage for Astronaut Don Pettit, Crewmates Return",
+                    "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-don-pettit-crewmates-return/",
+                    "photo_url": "https://www.nasa.gov/wp-content/uploads/2025/04/screenshot-160.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtjbmxmVm05NVltVnhaSFV4VFJESUF4aWdCU2dLTWdZVlpJS3NMUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-14T14:56:11.000Z",
+                    "authors": [],
+                    "source_url": "https://www.nasa.gov",
+                    "source_name": "NASA (.gov)",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVoYzJFdVoyOTJLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKa0pUUERSRVdaaVBFQ0VHUHh5Z0FQAQ"
+        },
+        {
+            "title": "WWE WrestleMania 41, Night 1 Highlights: Shock Win For Seth Rollins; 2 New Champions Crowned",
+            "link": "https://sports.ndtv.com/othersports/wwe-wrestlemania-41-night-1-live-updates-cm-punk-roman-reigns-seth-rollins-gunther-jey-uso-tiffany-stratton-8206155",
+            "snippet": "WrestleMania 41, Night 1 Highlights: Seth Rollins defeated Roman Reigns and CM Punk in the main event after Tiffany Stratton defended the WWE ...",
+            "photo_url": "https://c.ndtvimg.com/2025-04/kvc14n8_s_625x300_20_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZRUzFOZWtKQ1kxUjRVbmxwVFJEQ0FSaURBaWdCTWdhaEVKSk9rUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T03:00:11.000Z",
+            "authors": [],
+            "source_url": "https://sports.ndtv.com",
+            "source_name": "NDTV Sports",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "WrestleMania 41 results: Tiffany Stratton beats Charlotte Flair to retain WWE Women's Championship",
+                    "link": "https://sports.yahoo.com/wrestling/article/wrestlemania-41-results-tiffany-stratton-beats-charlotte-flair-to-retain-wwe-womens-championship-015916018.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/eEcT8idGJMlSNf1eYfK3tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2025-04/c21dca70-1d8a-11f0-bde7-d96e529fb055",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZOSHBWWlVoUWJYcGFWRWxvVFJEb0FoaUFCU2dLTWdhcEJZak5sUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T06:56:25.000Z",
+                    "authors": [
+                        "Drake Riggs"
+                    ],
+                    "source_url": "https://sports.yahoo.com",
+                    "source_name": "Yahoo Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sports.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSE53YjNKMGN5NTVZV2h2Ynk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUc1blkzWjJkeElDWlc0b0FBUAE",
+                            "topic_name": "Drake Riggs"
+                        }
+                    ]
+                },
+                {
+                    "title": "Wrestlemania 41, Night 2 Live Streaming: When and where to watch live on TV and online",
+                    "link": "https://www.hindustantimes.com/sports/wwe-news/wrestlemania-41-night-2-live-streaming-when-and-where-to-watch-live-on-tv-and-online-101745039935360.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/john_cena_1678625695316_1745151280783.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVNXVXBxWjJzMWJVRkpaSEEwVFJDMUFoaWxCQ2dLTWdrTlVwVDByS2VwQ3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T12:15:44.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "WrestleMania 41 Night 1 results: Heyman turns on Reigns and Punk, Rollins wins main event",
+                    "link": "https://www.espn.in/wwe/story/_/id/44577473/wrestlemania-41-live-results-analysis-roman-reigns-cm-punk-seth-rollins-night-1",
+                    "photo_url": "https://a.espncdn.com/photo/2025/0420/r1481284_1296x729_16-9.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhNRzlLV2s5SVpHaEdlREp5VFJDb0FSaXNBaWdCTWdhSlFaTFZyQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T03:53:26.000Z",
+                    "authors": [],
+                    "source_url": "https://www.espn.in",
+                    "source_name": "ESPN India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.espn.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMlZ6Y0c0dWFXNG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pIc2F5X0RSRVJXR3ZnZktaTWFTZ0FQAQ"
+        },
+        {
+            "title": "World Liver Day 2025: Young Adults and Liver Health A Growing Concern- News18",
+            "link": "https://www.news18.com/lifestyle/health-and-fitness/world-liver-day-2025-young-adults-and-liver-health-a-growing-concern-9305605.html",
+            "snippet": "World Liver Day is observed on April 19. In recent years, a silent but deeply concerning trend has emerged across urban and semi-urban ...",
+            "photo_url": "https://images.news18.com/ibnlive/uploads/2025/04/Image-2025-04-6e037412a28170461f7be6a7937adfc8.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxNMTlCYlRKTlJWbEplbkJpVFJDZkF4ampCU2dLTWdZdEJZU3ZEUXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T12:54:46.000Z",
+            "authors": [
+                "Swati Chaturvedi"
+            ],
+            "source_url": "https://www.news18.com",
+            "source_name": "News18",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYUdRMWVtdDZjQklDWlc0b0FBUAE",
+                    "topic_name": "Swati Chaturvedi"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "World Liver Day 2025: Superfoods and drinks to add to your diet for a healthier liver",
+                    "link": "https://www.hindustantimes.com/lifestyle/health/world-liver-day-2025-superfoods-and-drinks-to-add-to-your-diet-for-a-healthier-liver-101745044456365.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/liver_1745047582864_1745047583091.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRURmRrWVRJMlNIUnVjVEJKVFJDMUFoaW1CQ2dLTWdZaEE0aFFyUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T07:44:21.000Z",
+                    "authors": [
+                        "Adrija Dey"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TW5kd2RHZHJhaElDWlc0b0FBUAE",
+                            "topic_name": "Adrija Dey"
+                        }
+                    ]
+                },
+                {
+                    "title": "World Liver Day: KEM hospital awaits more crowd to visit NASH clinic",
+                    "link": "https://timesofindia.indiatimes.com/world-liver-day-kem-hospital-awaits-more-crowd-to-visit-nash-clinic/articleshow/120450944.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T07:38:00.000Z",
+                    "authors": [
+                        "Eshan Kalyanikar"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVd4bWFHSnpkeElDWlc0b0FBUAE",
+                            "topic_name": "Eshan Kalyanikar"
+                        }
+                    ]
+                },
+                {
+                    "title": "On World Liver Day, PM Modi pitches for a fitter India",
+                    "link": "https://www.thehindu.com/incoming/on-world-liver-day-pm-modi-pitches-for-a-fitter-india/article69467991.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/m962wr/article69468009.ece/alternates/LANDSCAPE_1200/PTI04_17_2025_000282B.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNTFSMXAxWlhCcVdFVmhTbVZoVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T11:52:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ppNXZUTURSR1hkMC03ZHh5VkxTZ0FQAQ"
+        },
+        {
+            "title": "HCA ordered to remove Mohammed Azharuddin's name from Uppal Stadium stand, ex-India captain accused of bias: Report",
+            "link": "https://www.hindustantimes.com/cricket/hca-ordered-to-remove-mohammed-azharuddins-name-from-uppal-stadium-stand-ex-india-captain-accused-of-bias-101745122425916.html",
+            "snippet": "HCA ordered to remove Mohammed Azharuddin's name from Uppal Stadium stand, ex-India captain accused of bias: Report · Justice V Eswaraiah, the ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/PTI09-23-2022-000206A-0_1666081354780_1666081354780_1745122519200.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZUVXRLVWxsc2RrOTNOekkxVFJDMUFoaWxCQ2dLTWdhbGxZVE51UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T04:59:37.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Hyderabad Association Asked To Remove Ex-India Captain Mohammed Azharuddin's Name From Stand: Report..",
+                    "link": "https://sports.ndtv.com/cricket/hyderabad-association-asked-to-remove-ex-india-captain-mohammed-azharuddins-name-from-stand-report-8208500",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/54oucl2o_mohammad-azharuddin_625x300_20_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtTWFJYYWpWVmRub3RZM0I2VFJEZ0F4al9CQ2dLTWdZbEpwN3NtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T05:20:08.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "HCA told to remove Azhar stand in Uppal Stadium",
+                    "link": "https://www.cricbuzz.com/cricket-news/134110/hca-told-to-remove-azhar-stand-in-uppal-stadium",
+                    "photo_url": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c668733/the-mohammed-azharuddin-stand-is-set-to-be-renamed-as-the-vvs-laxman-pavilion.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlSMUJ1ZDFwYU5XeGpSVGxIVFJDb0FSaXJBaWdCTWdhaEJwNHJrZ28=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T01:22:42.000Z",
+                    "authors": [
+                        "Vijay Tagore"
+                    ],
+                    "source_url": "https://www.cricbuzz.com",
+                    "source_name": "Cricbuzz.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cricbuzz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER055YVdOaWRYcDZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4NU9XMDBjaElDWlc0b0FBUAE",
+                            "topic_name": "Vijay Tagore"
+                        }
+                    ]
+                },
+                {
+                    "title": "Azharuddin to move court against HCA ombudsman’s order removing his name from stadium stand",
+                    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/azharuddin-to-move-court-against-hca-ombudsmans-order-removing-his-name-from-stadium-stand/articleshow/120454031.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120454114,width-1280,height-720,resizemode-4/120454114.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9SVmN0ZEdnNFpYbDZNV1l3VFJDZkF4ampCU2dLTWdheEpJcVBHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:27:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2prLS1QWERSR0hVRmVqUmZuX2dTZ0FQAQ"
+        },
+        {
+            "title": "Obsessed with fundraising—BluSmart Jaggi brothers ‘wanted to become big too fast. They didn’t’",
+            "link": "https://theprint.in/ground-reports/obsessed-fundraising-blusmart-jaggi-brothers-wanted-become-big-too-fast/2596054/",
+            "snippet": "Obsessed with fundraising—BluSmart Jaggi brothers 'wanted to become big too fast. They didn't'. Anmol and Puneet Jaggi carried the 'Army kids' ...",
+            "photo_url": "https://static.theprint.in/wp-content/uploads/2025/04/feature-image-19.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHhUemN6ZGxrM2JWcDFYMHRYVFJDZkF4ampCU2dLTWdrTlVwYkdJbWc5Q2dJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T05:34:56.000Z",
+            "authors": [
+                "Shubhangi Misra"
+            ],
+            "source_url": "https://theprint.in",
+            "source_name": "ThePrint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWlhCeWFXNTBMbWx1S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5WXpNM2JHNXdlaElDWlc0b0FBUAE",
+                    "topic_name": "Shubhangi Misra"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "When Ashneer Grover told BluSmart’s Anmol Jaggi: Tere Saath Mil Kar … and … Ko Beat Karna hai",
+                    "link": "https://timesofindia.indiatimes.com/technology/social/when-ashneer-grover-told-blusmarts-anmol-jaggi-tere-saath-mil-kar-and-ko-beat-karna-hai/articleshow/120450356.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120450393,width-1280,height-720,resizemode-4/120450393.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTVNR0k1YmtNeFdFZGxiMFJhVFJDZkF4ampCU2dLTWdrTkdZekdQcVc1eFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T06:42:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Gensol, BluSmart under Corporate Ministry watch, may launch probe on corporate governance violation: Report",
+                    "link": "https://www.livemint.com/companies/news/gensol-blusmart-under-corporate-ministry-watch-may-launch-probe-on-corporate-governance-violation-report-11745146380983.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/600x338/investor_1683275732047_1745149306055.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBVa2xuYmtsdlgzZzFUbFpKVFJEU0FoallCQ2dLTWdhcEJZRHRFUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:47:03.000Z",
+                    "authors": [
+                        "Anubhav Mukherjee"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZW5aemNqYzNaQklDWlc0b0FBUAE",
+                            "topic_name": "Anubhav Mukherjee"
+                        }
+                    ]
+                },
+                {
+                    "title": "No EVs, just 2-3 workers: Sebi flags Gensol for misleading investors, fund diversion",
+                    "link": "https://www.moneycontrol.com/news/business/no-evs-just-2-3-workers-sebi-flags-gensol-for-misleading-investors-fund-diversion-12998854.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250320083458_SEBI1.jpg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVXVTlNZEVwemJXVndWbTFvVFJDZkF4ampCU2dLTWdZOWNvTDFMQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T09:39:47.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k5MVlqVURSSFRWVnkyamhiS01DZ0FQAQ"
+        },
+        {
+            "title": "AC Local Train: Tamil Nadu's 1st Vande Bharat-like AC EMU train from Chennai begins commercial run | Check route, features, speed & capacity",
+            "link": "https://www.etnownews.com/infrastructure/ac-local-train-tamil-nadus-1st-vande-bharat-like-ac-emu-train-from-chennai-begins-commercial-run-check-route-features-speed-capacity-article-151446649",
+            "snippet": "Chennai's new AC EMU train is at par with Metro Coaches but with a higher carrying capacity. The train has a seating capacity of 1116 passengers ...",
+            "photo_url": "https://images.etnownews.com/thumb/msid-151446649,width-1280,height-720,resizemode-75/151446649.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFjbGg2Y1hKWmJXeEplblYwVFJDZkF4ampCU2dLTWdZQllKTEtMQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T08:10:33.000Z",
+            "authors": [
+                "Anish Mondal"
+            ],
+            "source_url": "https://www.etnownews.com",
+            "source_name": "ET Now",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1YwYm05M2JtVjNjeTVqYjIwb0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1wNmFEVTVjaElDWlc0b0FBUAE",
+                    "topic_name": "Anish Mondal"
+                }
+            ]
+        },
+        {
+            "title": "Son of late Karnataka don Muthappa Rai shot at on Bengaluru outskirts, FIR against stepmother, former associate",
+            "link": "https://indianexpress.com/article/cities/bangalore/late-underworld-don-muthappa-rai-son-shot-at-by-unknown-assailants-9952988/",
+            "snippet": "Ricky Rai, son of the late underworld don Muthappa Rai was allegedly shot at by an armed gang while the 35-year-old was in his SUV, ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/Ricky-Rai.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTRRalIxVkRGRWNYVnlaMEpCVFJDZkF4ampCU2dLTWdrQkFKek5JV2dXNUFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T11:04:00.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Attack on Ricky Rai: A Nearly Perfect Attempt with Multiple Motives in Play",
+                    "link": "https://www.deccanherald.com/india/karnataka/bengaluru/attack-on-ricky-rai-near-perfect-3501434",
+                    "photo_url": "https://images.deccanherald.com/deccanherald%2F2025-04-19%2F2tlhv55s%2Ffile809xf5p8tttfp4elc2h.jpg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxTbEZqTkZoUE5rbDZTbXhmVFJDZkF4ampCU2dLTWdZaE1aQ3NtUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T20:13:14.000Z",
+                    "authors": [
+                        "Chetan Bc"
+                    ],
+                    "source_url": "https://www.deccanherald.com",
+                    "source_name": "Deccan Herald",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsWTJOaGJtaGxjbUZzWkM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6ZEY4elgzaG9NeElDWlc0b0FBUAE",
+                            "topic_name": "Chetan Bc"
+                        }
+                    ]
+                },
+                {
+                    "title": "Ricky Rai, son of late Karnataka don Muthappa Rai, shot at in Bengaluru",
+                    "link": "https://www.thehindu.com/news/national/karnataka/muthappa-rais-son-ricky-rai-shot-at-injured/article69467339.ece",
+                    "photo_url": "https://th-i.thgim.com/public/news/cities/bangalore/v5tx4f/article69467371.ece/alternates/LANDSCAPE_1200/Ricky%20Rai.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVUMkY1V0U1dFRWQm1VV0ozVFJDZkF4ampCU2dLTWdZQkE1S3VuUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T05:21:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Ricky Rai, son of former underworld don Muttappa Rai, shot at outside Bidadi bungalow in Karnataka",
+                    "link": "https://timesofindia.indiatimes.com/city/bengaluru/ricky-rai-son-of-late-muttappa-rai-shot-at-outside-bidadi-bungalow-in-karnataka/articleshow/120423412.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120426412,width-1280,height-720,resizemode-72/120426412.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHphM3BpVW5GUFdXdFlWVEkxVFJDZkF4ampCU2dLTWdhRkk1S3VvUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T06:54:00.000Z",
+                    "authors": [
+                        "Rajiv Kalkod"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZVdOa2NXNXlZeElDWlc0b0FBUAE",
+                            "topic_name": "Rajiv Kalkod"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lfaU1QWERSRUhoRS1QVUotQWlTZ0FQAQ"
+        },
+        {
+            "title": "Samson set to miss RR's game against LSG; Parag to lead again",
+            "link": "https://www.espncricinfo.com/story/vaibhav-suryavanshi-could-debut-with-sanju-samson-ruled-out-of-rr-vs-lsg-in-ipl-2025-1481947",
+            "snippet": "Rajasthan Royals (RR) captain Sanju Samson is set to miss the team's IPL 2025 fixture against Lucknow Super Giants (LSG) in Jaipur on ...",
+            "photo_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/398400/398430.6.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURVM0ZPTlUxNlpIWmlXREJ3VFJDZkF4ampCU2dLTWdZaEZvUUxrZ28=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T12:41:07.000Z",
+            "authors": [],
+            "source_url": "https://www.espncricinfo.com",
+            "source_name": "ESPNcricinfo",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "IPL 2025, RR vs LSG 36th Match Match Preview - RR sweat on Samson's fitness in a bid to revive their season",
+                    "link": "https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-lucknow-super-giants-36th-match-1473473/match-preview",
+                    "photo_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/esci/media/motion/2025/0418/dm_250418_INET_IPL25_M36P1_BRANDED_GLOBAL/dm_250418_INET_IPL25_M36P1_BRANDED_GLOBAL.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlOV3QxYjAxeGRIWmZZVUpaVFJDZkF4ampCU2dLTWdZQkVJcTJsQVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T05:15:00.000Z",
+                    "authors": [
+                        "Ashish Pant"
+                    ],
+                    "source_url": "https://www.espncricinfo.com",
+                    "source_name": "ESPNcricinfo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsc2FtcG1lUklDWlc0b0FBUAE",
+                            "topic_name": "Ashish Pant"
+                        }
+                    ]
+                },
+                {
+                    "title": "IPL 2025, RR vs LSG Live Score: Sanju Samson unavailable for crucial clash, Riyan Parag to lead Royals",
+                    "link": "https://www.hindustantimes.com/cricket/ipl-2025-live-rr-vs-lsg-live-score-match-36-rajasthan-royals-vs-lucknow-super-giants-t20-ipl-live-match-19-april-101745056163121.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/India-IPL-Cricket-102_1745085085147_1745085096621.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlRblZ2YlVOTVZUWnVVelZKVFJDMUFoaWxCQ2dLTWdZbEJvak5pUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T17:50:47.000Z",
+                    "authors": [
+                        "Aditya Maheshwari"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwYlhFMFpITnRZaElDWlc0b0FBUAE",
+                            "topic_name": "Aditya Maheshwari"
+                        }
+                    ]
+                },
+                {
+                    "title": "IPL 2025: Why is Sanju Samson missing RR vs LSG fixture at Sawai Mansingh Stadium?",
+                    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2025-why-is-sanju-samson-missing-rr-vs-lsg-in-ipl-2025/articleshow/120434433.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120434476,width-1280,height-720,resizemode-4/120434476.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhPRTFzWXpaTVFqZE9Semx2VFJDZkF4ampCU2dLTWdZdEZZRE9rUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T13:34:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lBa0k3WURSRUxCck9BXy1OX05DZ0FQAQ"
+        },
+        {
+            "title": "Watch: Arvind Kejriwal's viral 'Pushpa' dance with wife Sunita at daughter's engagement",
+            "link": "https://timesofindia.indiatimes.com/india/watch-arvind-kejriwals-viral-pushpa-dance-with-wife-sunita-at-daughters-engagement/articleshow/120425625.cms",
+            "snippet": "The Delhi high-flyer was spotted dancing with wife Sunita Kejriwal to the song 'Angaro Ka Ambar Sa' from Pushpa 2, and yes, the internet noticed ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120425707,width-1280,height-720,resizemode-4/120425707.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTRZMjFFWlhWa1NqZGxXazVJVFJDZkF4ampCU2dLTWdrQlFKUzFKQ2pvaGdJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T07:41:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Who is Sambhav Jain, man who married Arvind Kejriwal's daughter Harshita?",
+                    "link": "https://www.hindustantimes.com/india-news/who-is-sambhav-jain-man-who-married-arvind-kejriwals-daughter-harshita-101745124962092.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/550x309/kejriwal_new_1745126195512_1745126198748.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXVVSGRyWkdORGExTXhOSGxqVFJDMUFoaWxCQ2dLTWdzQkVJUjBxR2U1RE1waVBR=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T05:22:02.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "BJP, Congress slam Punjab CM Bhagwant Mann over Kejriwal's daughter's wedding at Kapurthala House",
+                    "link": "https://www.newindianexpress.com/nation/2025/Apr/19/bjp-congress-slam-punjab-cm-bhagwant-mann-over-kejriwals-daughters-wedding-at-kapurthala-house",
+                    "photo_url": "https://media.assettype.com/newindianexpress/2025-04-19/sa35cics/Go4tFNgaIAA6uwA.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTBNSGxNVEdNMlZVaERhbll6VFJEQ0F4aXBCU2dLTWdrRklKYWxHQ3FwUkFN=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T10:06:51.000Z",
+                    "authors": [
+                        "Harpreet Bajwa"
+                    ],
+                    "source_url": "https://www.newindianexpress.com",
+                    "source_name": "The New Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGRzVsZDJsdVpHbGhibVY0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJMU1uUnpOQklDWlc0b0FBUAE",
+                            "topic_name": "Harpreet Bajwa"
+                        }
+                    ]
+                },
+                {
+                    "title": "Watch: Arvind Kejriwal, Wife Dance To Pushpa Song At Daughter's Engagement",
+                    "link": "https://www.ndtv.com/india-news/arvind-kejriwal-wife-sunita-groove-to-pushpa-track-at-daughter-s-engagement-in-delhi-8201166",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/atnthc74_arvind-kejriwal-dance_625x300_19_April_25.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU9SR2xNTmpFMk1EbHFjMWRZVFJDeUF4akNCU2dLTWdtTlVKSzByS2VwQ1FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T05:30:23.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kzNXN2UURSR2lGVUtHTGJlQlFTZ0FQAQ"
+        },
+        {
+            "title": "Yes Bank share: Is this a stock to buy after Q4 results 2025?",
+            "link": "https://www.livemint.com/market/yes-bank-share-is-this-a-stock-to-buy-after-q4-results-2025-11745131348703.html",
+            "snippet": "Yes Bank share price closed 1.12 per cent higher at · “Yes Bank has corrected 51% in 57 weeks and is now consolidating in a tight 8-week range ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/1600x900/Yes_Bank_1745134904191_1745134904404.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxTVGxsTjFoRlNHMTFiazFxVFJDZkF4ampCU2dLTWdZcEFhek5nQXc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T07:42:12.000Z",
+            "authors": [
+                "Vaamanaa Sethi"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TW5odU5teDZaQklDWlc0b0FBUAE",
+                    "topic_name": "Vaamanaa Sethi"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "HDFC, ICICI & Yes Bank Q4 Results Highlights: Yes Bank profit up 63% y-o-y, HDFC Bank’s profit up 6.7%, ICICI profit grew 18%",
+                    "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-icici-bank-yes-bank-q4-results-live-updates-19-april-2025/article69465913.ece",
+                    "photo_url": "https://bl-i.thgim.com/public/incoming/97qqk4/article69463519.ece/alternates/LANDSCAPE_1200/Q4%20results%20222.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXZkWGR6UkhBelowMVpPR3BxVFJDZkF4ampCU2dLTWdtQklKSmtFcXM2U2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T11:46:50.000Z",
+                    "authors": [
+                        "Ks Badrinarayanan",
+                        "Badri Narayanan Gopalakrishnan"
+                    ],
+                    "source_url": "https://www.thehindubusinessline.com",
+                    "source_name": "BusinessLine",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqNggKIjBDQklTSGdnTWFob0tHSFJvWldocGJtUjFZblZ6YVc1bGMzTnNhVzVsTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTm1oNWJXY3dOaElDWlc0b0FBUAE",
+                            "topic_name": "Ks Badrinarayanan"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5T1RsdGJYUm9kaElDWlc0b0FBUAE",
+                            "topic_name": "Badri Narayanan Gopalakrishnan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Yes Bank Q4 profit surges 63% YoY to Rs 738 crore, NII beats estimates",
+                    "link": "https://timesofindia.indiatimes.com/business/india-business/yes-bank-q4-profit-surges-63-yoy-to-rs-738-crore-nii-beats-estimates/articleshow/120428946.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120428972,width-1280,height-720,resizemode-4/120428972.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdhVXB5VkU5RmIxZFNlVVZYVFJDZkF4ampCU2dLTWdZWkFJeXJqUXc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T09:27:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Yes Bank follows industry leaders, cuts savings rates to boost profitability: CEO Prashant Kumar",
+                    "link": "https://www.moneycontrol.com/banking/yes-bank-follows-industry-leaders-cuts-savings-rates-to-boost-profitability-ceo-prashant-kumar-article-12998534.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2024/05/20240523140652_Mr.-Prashant-Kumar-MD-and-CEO-YES-BANK_v11.jpg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRaRWhKU0UxV1Z6WXdXV1V6VFJDZkF4ampCU2dLTWdhbE5aek5uUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T11:46:35.000Z",
+                    "authors": [
+                        "Malvika Sundaresan"
+                    ],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWDJkemFubDNkaElDWlc0b0FBUAE",
+                            "topic_name": "Malvika Sundaresan"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l2M3VyVkRSSFVraENxQVBQb09TZ0FQAQ"
+        },
+        {
+            "title": "\"Hostile Manner\": Report Makes Big Revelation On Abhishek Nayar's Sacking",
+            "link": "https://sports.ndtv.com/cricket/report-makes-big-claim-on-abhishek-nayars-sacking-everyone-in-bcci-knew-8204682",
+            "snippet": "Days after his removal as India's assistant coach, Abhishek Nayar on Saturday returned to Kolkata Knight Riders fold but his exact role and ...",
+            "photo_url": "https://c.ndtvimg.com/2024-11/qjlkrsag_abhishek-nayar-with-gautam-gambhir-bcci_625x300_06_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUtXRlZvUWxadExYZ3lkV0p3VFJEZ0F4al9CQ2dLTWdrVklvNzBIQ21heEFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T02:06:04.000Z",
+            "authors": [],
+            "source_url": "https://sports.ndtv.com",
+            "source_name": "NDTV Sports",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Abhishek Nayar rejoins KKR's support staff",
+                    "link": "https://www.cricbuzz.com/cricket-news/134104/abhishek-nayar-rejoins-kkrs-support-staff",
+                    "photo_url": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c666954/abhishek-nayar-has-come.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdWRU56VEhkUFYyWmlia2ROVFJDb0FSaXJBaWdCTWdhbE5KVE1uUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T15:06:24.000Z",
+                    "authors": [
+                        "Vijay Tagore"
+                    ],
+                    "source_url": "https://www.cricbuzz.com",
+                    "source_name": "Cricbuzz.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cricbuzz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER055YVdOaWRYcDZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4NU9XMDBjaElDWlc0b0FBUAE",
+                            "topic_name": "Vijay Tagore"
+                        }
+                    ]
+                },
+                {
+                    "title": "India assistant coach Abhishek Nayar joins Shah Rukh Khan's IPL franchise mid-season; BCCI secretary yet",
+                    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/india-coach-joins-shah-rukh-khans-ipl-franchise-mid-season-bcci-secretary-yet-to-confirm-departure/articleshow/120433321.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120433369,width-1280,height-720,resizemode-4/120433369.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXpOREpXUTNOUlJuUTFTbFZGVFJDZkF4ampCU2dLTWdtWlVZelZxR2FhQ2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T12:25:00.000Z",
+                    "authors": [
+                        "Sahil Malhotra"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTVRCdVltNXViaElDWlc0b0FBUAE",
+                            "topic_name": "Sahil Malhotra"
+                        }
+                    ]
+                },
+                {
+                    "title": "KKR Batting Revival: Nayar's Return Sparks Hope Against Gujarat Titans",
+                    "link": "https://www.deccanherald.com/sports/cricket/ipl-2025-bolstered-by-nayars-presence-kolkata-knight-riders-eye-batting-revival-against-gujarat-titans-3501618",
+                    "photo_url": "https://images.deccanherald.com/deccanherald/2025-04-20/u0w3it89/file7xcj70c2o2win4xqe25.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUZSSEZCVGtwS1NIa3lNMGxLVFJDZ0F4amlCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T08:01:55.000Z",
+                    "authors": [],
+                    "source_url": "https://www.deccanherald.com",
+                    "source_name": "Deccan Herald",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsWTJOaGJtaGxjbUZzWkM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2prNmN6VkRSRWF4Tk1RZEhQTVFpZ0FQAQ"
+        },
+        {
+            "title": "Flight attendant 'digitally raped' at Gurgaon hospital: What does it mean?",
+            "link": "https://timesofindia.indiatimes.com/city/gurgaon/flight-attendant-digitally-raped-at-gurgaon-hospital-what-does-it-mean/articleshow/120426899.cms",
+            "snippet": "A technician at Medanta Hospital in New Delhi has been arrested for allegedly sexually assaulting a flight attendant who was on a ventilator ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120427319,width-1280,height-720,resizemode-72/120427319.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpTakpvTlc1RVUyNXVhSFV3VFJDZkF4ampCU2dLTWdZbGRZNnVMUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T07:05:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Man Who Sexually Assaulted Air Hostess In Gurugram Hospital ICU Arrested",
+                    "link": "https://www.ndtv.com/india-news/man-who-sexually-assaulted-air-hostess-in-gurugram-hospital-icu-arrested-8197466",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/l50t6m1k_gurugram-accused-_625x300_18_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDBRbmsxTmxOU1owNWZOVXhoVFJDeUF4akNCU2dLTWdtUkpKS1FsZXF4eGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T14:28:31.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Digital rape: What is this shocking crime that allegedly happened at Medanta Hospital ICU?",
+                    "link": "https://m.economictimes.com/news/india/digital-rape-what-is-this-shocking-crime-that-just-happened-at-medanta-hospital-icu/articleshow/120428437.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120428612,width-1200,height-900,resizemode-4,imgsize-85300/quiet-worry-in-a-hospital-room.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVllRlJGUVZSQ2FVWlZiVjlRVFJEZ0F4aUFCU2dLTWdZbFJaTE5JUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T09:05:41.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "How Gurugram Police nabbed technician who ‘digitally raped’ air hostess at Medanta hospital. Who is the suspect?",
+                    "link": "https://www.hindustantimes.com/india-news/how-gurugram-police-arrested-accused-who-digitally-raped-air-hostess-at-medanta-hospital-who-is-the-suspect-101745038330607.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/19/550x309/medanta_1745040881825_1745040893023.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpNVzFKWVhvMlUwWmxjbEpUVFJDMUFoaW1CQ2dLTWdhUkU1cFNFUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T05:38:37.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pqbzRfVURSSEI0R3E0bzlBZjlTZ0FQAQ"
+        },
+        {
+            "title": "Musk says he will visit India after talk with Modi",
+            "link": "https://www.reuters.com/world/india/musk-says-he-will-visit-india-after-talk-with-modi-2025-04-19/",
+            "snippet": "Elon Musk said on Saturday he was planning to visit India later in the year, a day after Indian Prime Minister Narendra Modi said he had ...",
+            "photo_url": "https://www.reuters.com/resizer/v2/SYIYGZBGUZJWVCKLAZPDRVARO4.jpg?auth=661869891500f45490c7c03135c29562e144ed0e85d72eabd5144448ae1ba683&width=5500&quality=80",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZSR2xaWlc5cVIwMWFRMEZHVFJERUF4aW1CU2dLTWdZcFVKTHNIUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T08:46:08.000Z",
+            "authors": [],
+            "source_url": "https://www.reuters.com",
+            "source_name": "Reuters",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Elon Musk's mother Maye Musk responds to PM Narendra Modi's Twitter post on Elon Musk",
+                    "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-mother-maye-musk-responds-to-pm-narendra-modis-twitter-post-on-elon-musk/articleshow/120442593.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120442594,width-1280,height-720,resizemode-4/120442594.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVpZVEp0UVRsUFpIZEpXRlowVFJDZkF4ampCU2dLTWdrUkFwS21FbXM5YUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T20:46:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Elon Musk says he looks forward to visiting India later this year",
+                    "link": "https://www.thehindu.com/news/national/elon-musk-says-he-looks-forward-to-visiting-india-later-this-year/article69471011.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/q8hc82/article69471054.ece/alternates/LANDSCAPE_1200/20250213322L.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUdkVWh3ZDJVM2IwUkxWV05pVFJDZkF4ampCU2dLTWdrUkVwTEdrbW85YUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:55:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Elon Musk Is Coming: What It Means For Tesla, Starlink, SpaceX, And India- News18",
+                    "link": "https://www.news18.com/india/elon-musk-is-coming-what-it-means-for-tesla-starlink-spacex-and-india-9305835.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/03/Elon-Musk-Donald-Trump-Reuters-Power-Broker-Of-Washington-2025-03-988e0243f1c3059d7eac6a0a11bc5741.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJNMUpFUVdGbVFXTkdabGMwVFJDZkF4ampCU2dLTWdhRkVhRHNFUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T16:57:31.000Z",
+                    "authors": [
+                        "Aman Sharma"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TVhkbWVtNTZhaElDWlc0b0FBUAE",
+                            "topic_name": "Aman Sharma"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pia3VUV0RSR3ZUajdMeXJMN0lpZ0FQAQ"
+        },
+        {
+            "title": "‘They never give up’ - Hansi Flick delighted with Barcelona’s comeback win over Celta Vigo",
+            "link": "https://www.barcablaugranes.com/barcelona-la-liga/2025/4/19/24411996/they-never-give-up-hansi-flick-delighted-with-barcelona-comeback-win-over-celta-vigo",
+            "snippet": "Barcelona manager Hansi Flick was euphoric after his team's epic 4-3 comeback win over Celta Vigo in a memorable La Liga clash on Saturday.",
+            "photo_url": "https://cdn.vox-cdn.com/thumbor/49THtBSIPKNpoLimyipu35OtKbQ=/0x0:6000x4000/1200x800/filters:focal(4884x809:5844x1769)/cdn.vox-cdn.com/uploads/chorus_image/image/74033093/2210362633.0.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTJVM2xNWXpWNFRXUXpTR05aVFJERUF4aW1CU2dLTWdrQllJNVBLV2U1S1FJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T18:00:00.000Z",
+            "authors": [
+                "Renato Goncalves"
+            ],
+            "source_url": "https://www.barcablaugranes.com",
+            "source_name": "Barca Blaugranes",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.barcablaugranes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMkpoY21OaFlteGhkV2R5WVc1bGN5NWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUcxNWRuSXhhQklDWlc0b0FBUAE",
+                    "topic_name": "Renato Goncalves"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Barcelona 4-3 Celta Vigo (19 Apr, 2025) Game Analysis",
+                    "link": "https://www.espn.in/football/report/_/gameId/704970",
+                    "photo_url": "https://a.espncdn.com/media/motion/2025/0419/dm_250419_COM_SOC_ANALYSIS_Garcia_Barcelonas_weaknesses_were_exposed_2024_4_19/dm_250419_COM_SOC_ANALYSIS_Garcia_Barcelonas_weaknesses_were_exposed_2024_4_19.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDVOVnB4WldoS1pWZ3pYMUo2VFJDb0FSaXNBaWdCTWdrRk01Z1RsU3JCQ2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T05:40:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.espn.in",
+                    "source_name": "ESPN India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.espn.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMlZ6Y0c0dWFXNG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "LaLiga Leaders Barcelona Make Stunning Comeback To Beat Celta Vigo",
+                    "link": "https://sports.ndtv.com/football/laliga-leaders-barcelona-make-stunning-comeback-to-beat-celta-vigo-8206247",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/kvkmt0c8_barcelona-afp_625x300_19_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRWR1pDWkdkUkxXVlFhRTVvVFJEZ0F4al9CQ2dLTWdZQk1KWnJtQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T18:30:14.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "FC Barcelona News: 20 April 2025; Happy Easter!",
+                    "link": "https://www.barcablaugranes.com/2025/4/20/24412094/fc-barcelona-news-20-april-2025-happy-easter",
+                    "photo_url": "https://cdn.vox-cdn.com/thumbor/5mvtciEK9n_ltXVn1Nd_R5qZnu8=/0x0:2604x1736/1200x800/filters:focal(1210x173:1626x589)/cdn.vox-cdn.com/uploads/chorus_image/image/74033801/2211012802.0.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNNM0J4VlV4bE1uaHJOR1F3VFJERUF4aW1CU2dLTWdZbFJKQ01JUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T09:00:00.000Z",
+                    "authors": [
+                        "Renato Goncalves"
+                    ],
+                    "source_url": "https://www.barcablaugranes.com",
+                    "source_name": "Barca Blaugranes",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.barcablaugranes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMkpoY21OaFlteGhkV2R5WVc1bGN5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUcxNWRuSXhhQklDWlc0b0FBUAE",
+                            "topic_name": "Renato Goncalves"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lfbDRYTkRSR0h0aElHRWJTaVdpZ0FQAQ"
+        },
+        {
+            "title": "Gold price jumps 25% in YTD. Will it hit ₹1 lakh soon or experience a sharp fall?",
+            "link": "https://www.livemint.com/market/stock-market-news/gold-price-jumps-25-in-ytd-will-it-hit-rs-1-lakh-soon-or-experience-a-sharp-fall-11745054541380.html",
+            "snippet": "In the YTD time, MCX gold rate has risen around 25%, whereas it has risen from ₹44,906 per 10 gm to ₹95,239 per 10 gm (from 17 April 2020 to 17 ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/19/1600x900/MCX_Gold_rate_today_Gold_price_US_China_Trade_war_1745055179672_1745055179893.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNUa3MyTW5aUVFrcDFPWEZLVFJDZkF4ampCU2dLTWdZSlFJaVRJQVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T09:38:23.000Z",
+            "authors": [
+                "Asit Manohar"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKamVHUjNhaElDWlc0b0FBUAE",
+                    "topic_name": "Asit Manohar"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Gold price today drops big. Why has gold rate recorded sharp fall from historic high?",
+                    "link": "https://m.economictimes.com/news/international/us/gold-price-today-drops-big-why-has-gold-rate-recorded-sharp-fall-from-historic-high/articleshow/120385775.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120385801,width-1200,height-900,resizemode-4,imgsize-93522/gold-price-today.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNiRzAxTFZkblZIQlRiV0p0VFJEZ0F4aUFCU2dLTWdZRkVZcUpvUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T15:42:52.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "From global risks to festive demand: What’s fuelling gold’s 2025 surge ahead of Akshaya Tritiya",
+                    "link": "https://www.businesstoday.in/personal-finance/investment/story/from-global-risks-to-festive-demand-whats-fuelling-golds-2025-surge-ahead-of-akshaya-tritiya-472687-2025-04-19",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/6803235b3be65-delhi-gold-price-today-191517146-16x9.jpeg?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBYMmxQWW1od2FVVjFNamhIVFJDZkF4ampCU2dLTWdZSkFveEdqZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T04:17:22.000Z",
+                    "authors": [],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Gold gains nearly 25 per cent in 2025, marking all-time highs on MCX and COMEX",
+                    "link": "https://www.indiatvnews.com/business/news/gold-gains-nearly-25-per-cent-in-2025-marking-all-time-highs-on-mcx-and-comex-business-news-latest-updates-2025-04-20-986435",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/04/gold-pixabay-1745143407.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUJaR0ZEZFd4eGNFcHNjaTF1VFJDZkF4ampCU2dLTWdrQk1JaXhwQ2VEaUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:27:31.000Z",
+                    "authors": [
+                        "Sheenu Sharma"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhRd1ozWnFOUklDWlc0b0FBUAE",
+                            "topic_name": "Sheenu Sharma"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lTakpqVkRSRklyd1ozT0lHQk5TZ0FQAQ"
+        },
+        {
+            "title": "Saying ‘Thank You’, ‘Please’ to ChatGPT? It’s costing OpenAI ‘millions of dollars’, says Sam Altman",
+            "link": "https://www.livemint.com/technology/tech-news/saying-thank-you-please-to-chatgpt-it-s-costing-openai-millions-of-dollars-says-sam-altman-11745084899074.html",
+            "snippet": "OpenAI CEO Sam Altman revealed that polite exchanges like saying “please” and “thank you” to ChatGPT contribute to tens of millions of dollars ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/19/1600x900/OPEN-AI-EUROPE--0_1745085672575_1745085684085.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdTUzA0UkVGNFJUTXhTeTFzVFJDZkF4ampCU2dLTWdZUmxJaW5zZ1U=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T18:02:05.000Z",
+            "authors": [
+                "Ravi Hari"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyTUdaeGNubG1laElDWlc0b0FBUAE",
+                    "topic_name": "Ravi Hari"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Saying \"Thankyou\" And \"Please\" To ChatGPT Costing OpenAI Millions Of Dollars, Says Sam Altman",
+                    "link": "https://www.ndtv.com/world-news/saying-thankyou-and-please-to-chatgpt-costing-openai-millions-of-dollars-says-sam-altman-8210245",
+                    "photo_url": "https://c.ndtvimg.com/2024-04/59i22pfg_chatgpt-_625x300_29_April_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtiMmhoVVdKbFpVOUJSSGxXVFJDeUF4akNCU2dLTWdhaFJvd3JKZ2c=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:47:25.000Z",
+                    "authors": [
+                        "Abhinav Singh"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzJOM1kyUTJZaElDWlc0b0FBUAE",
+                            "topic_name": "Abhinav Singh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Sam Altman: Saying 'please', 'thank you' to ChatGPT is costing OpenAI 'tens of millions of dollars'",
+                    "link": "https://www.moneycontrol.com/news/trends/sam-altman-saying-please-thank-you-to-chatgpt-is-costing-openai-tens-of-millions-of-dollars-12998767.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250403014329_samaltman.jpeg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlOVGx2VlY5cFN6SmhZVlEwVFJDZkF4ampCU2dLTWdZTldaREdxZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T06:52:45.000Z",
+                    "authors": [
+                        "Ankita Sengupta"
+                    ],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oNU9XWmZlUklDWlc0b0FBUAE",
+                            "topic_name": "Ankita Sengupta"
+                        }
+                    ]
+                },
+                {
+                    "title": "Should we be polite to AI? Sam Altman says 'Please', 'Thank You' to ChatGPT costs millions of dollars",
+                    "link": "https://www.indiatvnews.com/technology/news/should-we-be-polite-to-ai-sam-altman-says-please-thank-you-to-chatgpt-costs-millions-of-dollars-2025-04-20-986439",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/04/please-thank-you-to-chatgpt-1745146094.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDFOMkV6VDFGU00xSm5jMVE0VFJDZkF4ampCU2dLTWdrVklhQ0lFaXN0aHdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:51:46.000Z",
+                    "authors": [
+                        "Om Gupta"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyY0hwMGNIbzVkaElDWlc0b0FBUAE",
+                            "topic_name": "Om Gupta"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lzLS1fVkRSRXdrV2NxZ1g4WTVTZ0FQAQ"
+        },
+        {
+            "title": "Stock market weekly wrap: Sensex, Nifty 50 rallied over 4.5%; What to expect from Indian stock market next week?",
+            "link": "https://www.livemint.com/market/stock-market-news/stock-market-weekly-wrap-sensex-nifty-50-rallied-over-4-5-what-to-expect-from-indian-stock-market-next-week-11745121120689.html",
+            "snippet": "“Markets witnessed a robust recovery and surged over 4.5% in the holiday-shortened week, driven by favorable cues from both domestic and global ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/1600x900/stock_market_1745127294235_1745127294485.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNhVmRwUmxGMWNsOVRXVlIyVFJDZkF4ampCU2dLTWdhQlk0d0ROd1k=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T05:43:09.000Z",
+            "authors": [
+                "Vaamanaa Sethi"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TW5odU5teDZaQklDWlc0b0FBUAE",
+                    "topic_name": "Vaamanaa Sethi"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "D-Street Ahead: How will Indian stock market move next week? Your trading strategy—key technical calls for Nifty, Sensex",
+                    "link": "https://www.livemint.com/market/stock-market-news/dstreet-ahead-how-will-indian-stock-market-move-next-week-your-trading-strategy-key-technical-calls-for-nifty-sensex-11745085185315.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/19/600x338/largecaps_1731328144647_1745085215710.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVjRlZwVEZka2FsUTJiMFpqVFJEU0FoallCQ2dLTWdZNVFZWVRvUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T17:53:56.000Z",
+                    "authors": [
+                        "Nikita Prasad"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Rd09GODFZaElDWlc0b0FBUAE",
+                            "topic_name": "Nikita Prasad"
+                        }
+                    ]
+                },
+                {
+                    "title": "More than 100 small caps rise between 10-28% as broader indices rally",
+                    "link": "https://www.moneycontrol.com/news/business/markets/more-than-100-small-caps-rise-between-10-28-as-broader-indices-rally-12998382.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250419054333_Sensex_up_higher.jpg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZVMDQxYWxoelNFdFdhemM0VFJDZkF4ampCU2dLTWdhQlVZSUFvd2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T06:08:22.000Z",
+                    "authors": [
+                        "Rakesh Patil"
+                    ],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TVRsMGMyd3lOQklDWlc0b0FBUAE",
+                            "topic_name": "Rakesh Patil"
+                        }
+                    ]
+                },
+                {
+                    "title": "Smallcaps say 'Thank you Trump' as over 100 stocks log double-digit weekly gains. Will this sustain?",
+                    "link": "https://m.economictimes.com/markets/stocks/news/smallcaps-say-thank-you-trump-as-over-100-stocks-log-double-digit-weekly-gains-will-this-sustain/articleshow/120423458.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120423452,width-1200,height-900,resizemode-4,imgsize-109822/smallcaps-say-thank-you-trump-as-over-100-stocks-log-double-digit-weekly-gains-will-this-sustain.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDFXV0l5T1RKWGNWUjVSVFF0VFJEZ0F4aUFCU2dLTWdZdG80aFJ1UVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T04:29:06.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k3aWZEUURSSHVqNUNIekpmMkJTZ0FQAQ"
+        },
+        {
+            "title": "Q4 Results Updates: ICICI Bank Profit Rises, HDFC Bank Profit Down",
+            "link": "https://www.ndtvprofit.com/quarterly-earnings/q4-results-live-hdfc-bank-icici-bank-among-other-companies-set-to-announce-their-earnings-today",
+            "snippet": "Q4 Results Live: HDFC Bank, ICICI Bank Among Other Companies Set To Announce Their Earnings Today · Multiple companies across sectors are set to ...",
+            "photo_url": "https://media.assettype.com/bloombergquint/2024-11-05/zyijx04d/A%20HDFC%20Bank%20branch%20in%20Mumbai.%20(Photo%20Vijay%20Sartape%20Source%20BQ%20Prime).jpeg?w=1200&auto=format%2Ccompress&q=60&rect=0%2C0%2C3500%2C1969&",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVjamxKWjNGQ1gzQmlZVFk1VFJDZkF4ampCU2dLTWdZUklLS3BtQW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T15:08:59.000Z",
+            "authors": [
+                "Sreshti Srinivasan"
+            ],
+            "source_url": "https://www.ndtvprofit.com",
+            "source_name": "NDTV Profit",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbTVrZEhad2NtOW1hWFF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TW5keU56VjVNeElDWlc0b0FBUAE",
+                    "topic_name": "Sreshti Srinivasan"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Banking Stocks in Focus: HDFC, ICICI, Yes Bank Under Watch as Q4 Profits Rise",
+                    "link": "https://www.outlookbusiness.com/markets/hdfc-bank-icici-bank-yes-bank-stocks-under-watch-as-q4fy25-profits-rise-banking-stocks",
+                    "photo_url": "https://media.assettype.com/outlookbusiness/2024-09-19/j7nou4cv/Stock-market?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhOMFpqWVZvNFUySk1PRVprVFJDZkF4ampCU2dLTWdhVlFZYU9JUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T04:19:42.000Z",
+                    "authors": [],
+                    "source_url": "https://www.outlookbusiness.com",
+                    "source_name": "outlookbusiness.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMjkxZEd4dmIydGlkWE5wYm1WemN5NWpiMjBvQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Infosys Q4 quarterly results 2025: Announced! PAT, revenue numbers - Dividend 2025, record date details",
+                    "link": "https://www.etnownews.com/markets/infosys-q4-quarterly-results-2025-announced-pat-revenue-numbers-dividend-2025-record-date-details-article-151442631",
+                    "photo_url": "https://images.etnownews.com/thumb/msid-151442631,width-1280,height-720,resizemode-75/151442631.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTNlVlZIUVVOU1psZE1SelI1VFJDZkF4ampCU2dLTWdrUmdwVHpNT2V4N1FF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T10:56:51.000Z",
+                    "authors": [
+                        "Himanshi Singh"
+                    ],
+                    "source_url": "https://www.etnownews.com",
+                    "source_name": "ET Now",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1YwYm05M2JtVjNjeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyY21vME4ydDVjaElDWlc0b0FBUAE",
+                            "topic_name": "Himanshi Singh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Q4 results today: HDFC Bank, Yes Bank, ICICI Bank among major companies to announce earnings on April 19",
+                    "link": "https://www.livemint.com/market/stock-market-news/q4-results-today-hdfc-bank-yes-bank-icici-bank-among-major-companies-to-announce-earnings-on-april-19-11745023157987.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/19/600x338/HDFC_Bank_3C__1729689587197_1745025093852.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhaSGQ0VUVKMU1YZzBOekV5VFJEU0FoallCQ2dLTWdZaFJJeUxRUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T01:15:22.000Z",
+                    "authors": [
+                        "Riya Alex"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzZDJJek1XaHViUklDWlc0b0FBUAE",
+                            "topic_name": "Riya Alex"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pfdzVqVURSRjZzR0k5U1piNkFTZ0FQAQ"
+        },
+        {
+            "title": "'No Place In Cricket...': Sanjay Bangar Wanted Daughter Anaya To Quit Cricket- News18",
+            "link": "https://www.news18.com/cricket/no-place-in-cricket-sanjay-bangar-wanted-daughter-anaya-to-quit-cricket-9305229.html",
+            "snippet": "Anaya (formerly Aryan), the daughter of former Indian cricketer and batting coach Sanjay Bangar, has been placed in the spotlight currently, ...",
+            "photo_url": "https://images.news18.com/ibnlive/uploads/2025/04/Sanjay-Bangar-Anaya-Bangar-2025-04-68cedcbc58e4d28767a31da1b59afcb8.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTNObEJ2YjJ0dlNqVlhMVVphVFJDZkF4ampCU2dLTWdtSlVaalZJR214S1FJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-19T10:22:34.000Z",
+            "authors": [
+                "Siddarth Sriram"
+            ],
+            "source_url": "https://www.news18.com",
+            "source_name": "News18",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYWpaeE1IQTFiUklDWlc0b0FBUAE",
+                    "topic_name": "Siddarth Sriram"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Father Sanjay Bangar Asked Child Anaya To Quit Cricket, Said \"There's No Space For...\"",
+                    "link": "https://sports.ndtv.com/cricket/anaya-bangar-says-father-sanjay-asked-to-stop-playing-cricket-theres-no-space-for-me-8201212",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/ctru991s_anaya-bangar-insta_625x300_19_April_25.jpeg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTVWMGhRUWpBM2ExWklOR1JmVFJEQ0FSaURBaWdCTWdtUlFaajFLT2lwWndJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T05:02:25.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "'Veteran cricketer asked to sleep with me': Anaya Bangar, Sanjay Bangar's child, makes bold confession",
+                    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/veteran-cricketer-asked-to-sleep-with-me-anaya-bangar-sanjay-bangars-child-makes-bold-confession/articleshow/120424184.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120424432,width-1280,height-720,resizemode-4/120424432.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlUR2huY2poQ2FrcFFkbkJxVFJDZkF4ampCU2dLTWdtUkE1Nm1rcXBVcFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T05:09:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "'Well-known cricketers sent me nudes, harassed and abused me in front of my teammates': Anaya Bangar opens can of worms",
+                    "link": "https://www.hindustantimes.com/cricket/wellknown-cricketers-sent-me-nudes-harassed-and-abused-me-in-front-of-my-teammates-anaya-bangar-opens-can-of-worms-101744951176917.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/18/550x309/Untitled_design_1744951321075_1744951326493.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlMV2xJZUhKUFJrd3RWekZVVFJDMUFoaWxCQ2dLTWdhdGhJeXV0UVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T04:48:23.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l4a05IV0RSRUR5WXFNSW5DSHRpZ0FQAQ"
+        },
+        {
+            "title": "Who is Cardinal Kevin Farrell, the acting head of the Vatican?",
+            "link": "https://www.npr.org/2025/04/21/g-s1-61662/kevin-farrell-camerlengo-vatican-pope",
+            "snippet": "Cardinal Kevin Farrell, who announced Pope Francis' death on Monday morning, is now the acting head of the Vatican until a new pope is ...",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7087x3986+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F45%2Fab956a494780a6073f8b74f8c27b%2Fgettyimages-2211235413.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJTemMzTWtrNU1YZHNlak5ZVFJDZkF4amlCU2dLTWdZcE5wTHRJUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T14:34:12.000Z",
+            "authors": [
+                "Rachel Treisman"
+            ],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwcWNERnJNeElDWlc0b0FBUAE",
+                    "topic_name": "Rachel Treisman"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Live updates on the death of Pope Francis",
+                    "link": "https://www.cnn.com/world/live-news/pope-francis-death-04-21-25/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210487477.jpg?c=16x9&q=w_800,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNhV296VW5oSGJVSlRjMmMwVFJDZkF4ampCU2dLTWdZdFJZNnVJUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:23:00.000Z",
+                    "authors": [
+                        "Christopher Lamb",
+                        "Antoinette Radford",
+                        "Maureen Chowdhury"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZVRJMGRHMXdkeElDWlc0b0FBUAE",
+                            "topic_name": "Christopher Lamb"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OME9WOHphQklDWlc0b0FBUAE",
+                            "topic_name": "Antoinette Radford"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGMmJXMDNOQklDWlc0b0FBUAE",
+                            "topic_name": "Maureen Chowdhury"
+                        }
+                    ]
+                },
+                {
+                    "title": "Catholics across the U.S. grieve, pray and reflect on the pope's legacy",
+                    "link": "https://www.npr.org/2025/04/21/g-s1-61833/catholics-across-the-u-s-grieve-pray-and-reflect-on-the-popes-legacy",
+                    "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7447x4967+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fda%2F98%2F6af0015c4bf486fc01f489b74bd4%2Fap25111514410120-1.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpjWHBJWkcxamVYSjRVemhmVFJERUF4aW1CU2dLTWdhQnNKRFZPQVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:37:37.000Z",
+                    "authors": [
+                        "Juliana Kim"
+                    ],
+                    "source_url": "https://www.npr.org",
+                    "source_name": "NPR",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJMmFuUXlhaElDWlc0b0FBUAE",
+                            "topic_name": "Juliana Kim"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pope Francis, first Latin American pontiff who ministered with a charming, humble style, dies at 88",
+                    "link": "https://apnews.com/article/vatican-pope-francis-dead-01ca7d73c3c48d25fd1504ba076e2e2a",
+                    "photo_url": "https://dims.apnews.com/dims4/default/477f539/2147483647/strip/true/crop/512x288+0+27/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F42%2F22d62bf3d7a63c52245157d3f02e%2F7ffaa421181d48248c92a5f34b12b4c1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdlVE0zU0U5RlVuUmxTamwzVFJDZkF4ampCU2dLTWdZaFpZVE5zUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:26:00.000Z",
+                    "authors": [
+                        "Nicole Winfield"
+                    ],
+                    "source_url": "https://apnews.com",
+                    "source_name": "AP News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1Kb2Qyc3pOaElDWlc0b0FBUAE",
+                            "topic_name": "Nicole Winfield"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lMblpfWkRSSE5IVzlWNV8tMGFDZ0FQAQ"
+        },
+        {
+            "title": "Vance meeting was one of Pope Francis' final acts",
+            "link": "https://www.axios.com/2025/04/21/jd-vance-pope-last-meeting-before-death",
+            "snippet": "Pope Francis' meeting with Vice President Vance on Easter Sunday appears to have been one of his final engagements before he died Monday at ...",
+            "photo_url": "https://images.axios.com/6m3HlQW1tvvQUBz4CdZf9Jn-iho=/0x0:7087x3986/1920x1080/2025/04/21/1745236647207.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxWbWRVYVZSdFdXeHBhVlZaVFJDZkF4ampCU2dLTWdZTk1Jd0ZuZ2s=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T13:01:48.000Z",
+            "authors": [
+                "Dave Lawler"
+            ],
+            "source_url": "https://www.axios.com",
+            "source_name": "Axios",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV0Y0YVc5ekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWTNCbk5UWnVPQklDWlc0b0FBUAE",
+                    "topic_name": "Dave Lawler"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Vance meets Pope Francis on Easter Sunday after tangle over migration, gets chocolate eggs for kids",
+                    "link": "https://apnews.com/article/pope-vance-us-migration-c9fc577cabff138de7bd8026133994fc",
+                    "photo_url": "https://dims.apnews.com/dims4/default/f7bca81/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F94%2F82%2F93b407382cad2233335c960da413%2F1539c6046f2540bcaf1aae59cad6abdb",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFXbVpKYVRSMlJFRm5OR3d3VFJDUEF4alhCQ2dLTWdZTklJemxsUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T16:26:00.000Z",
+                    "authors": [
+                        "Nicole Winfield"
+                    ],
+                    "source_url": "https://apnews.com",
+                    "source_name": "AP News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1Kb2Qyc3pOaElDWlc0b0FBUAE",
+                            "topic_name": "Nicole Winfield"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pope Francis has died, Vatican says",
+                    "link": "https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/",
+                    "photo_url": "https://www.reuters.com/resizer/v2/KCH6FGG6CVGWTGLL4O6TXAC6UM.JPG?auth=13f941f06782cc3aaa9a78ce22f04fb236c416cb63d94b9799f94a398439d919&width=1080&quality=80",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXZWMG80YW1KdGRFMVpjRlY1VFJERkF4aWxCU2dLTWdrQkFJN0N0R2JZZ0FN=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T14:36:32.000Z",
+                    "authors": [
+                        "Joshua J. McElwee"
+                    ],
+                    "source_url": "https://www.reuters.com",
+                    "source_name": "Reuters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJQgKIh9DQkFTRVFvTEwyMHZNREV5ZG5oeE1HMFNBbVZ1S0FBUAE",
+                            "topic_name": "Joshua J. McElwee"
+                        }
+                    ]
+                },
+                {
+                    "title": "A Timeline of the Life of Pope Francis",
+                    "link": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-life-timeline.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/02/25/multimedia/00pope-francis-timeline-gwtb/00pope-francis-timeline-gwtb-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRVV05mWVZORGN6QTVhMGxIVFJDUUF4allCQ2dLTWdZQlFKS21wQWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T12:42:54.000Z",
+                    "authors": [
+                        "Jonathan Wolfe"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoemJHTXplQklDWlc0b0FBUAE",
+                            "topic_name": "Jonathan Wolfe"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2laOVBIV0RSRXVQb3pyUHhVM29pZ0FQAQ"
+        },
+        {
+            "title": "House Democrats land in El Salvador to push for return of Kilmar Ábrego García",
+            "link": "https://www.theguardian.com/us-news/2025/apr/21/democrats-el-salvador-abrego-garcia",
+            "snippet": "Four representatives join effort to challenge the Trump administration's refusal to facilitate the immigrant's release.",
+            "photo_url": "https://i.guim.co.uk/img/media/93ad658b748ef214da8f7e31bdd8a9fad8a24fe5/0_0_5568_3712/master/5568.jpg?width=465&dpr=1&s=none&crop=none",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVZPVWgxV1dOZlJUYzRObU4xVFJDMkFoalJBeWdLTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T15:43:00.000Z",
+            "authors": [
+                "Joseph Gedeon"
+            ],
+            "source_url": "https://www.theguardian.com",
+            "source_name": "The Guardian",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTlhBd2VUbGlOQklDWlc0b0FBUAE",
+                    "topic_name": "Joseph Gedeon"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Deported illegal alien and suspected MS-13 gang member transferred from notorious El Salvadoran mega-prison",
+                    "link": "https://www.foxnews.com/us/deported-illegal-alien-suspected-ms-13-gang-member-transferred-from-notorious-el-salvadoran-megaprison",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/1200/675/kilmar-abrego-garcia.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhhVXBOYTJsaVJVcExXVll3VFJDZkF4ampCU2dLTWdhQlFaTDByQVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T01:36:00.000Z",
+                    "authors": [
+                        "Stepheny Price",
+                        "David Spunt"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyWWpOcVozZHphQklDWlc0b0FBUAE",
+                            "topic_name": "Stepheny Price"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1vMk1YaHpaQklDWlc0b0FBUAE",
+                            "topic_name": "David Spunt"
+                        }
+                    ]
+                },
+                {
+                    "title": "Democrats challenge transparency in Kilmar Abrego Garcia's deportation case",
+                    "link": "https://komonews.com/news/nation-world/democrats-want-everyone-to-stop-talking-about-abrego-garcias-crime-links",
+                    "photo_url": "https://komonews.com/resources/media2/16x9/1024/986/0x54/90/171fcc2e-6847-4f46-a8cc-85dc12cde0c8-AP25106847496517.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdSMlJaZEhKME1VbFBRVk5TVFJDZkF4amlCU2dLTWdheFk0QndOUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T15:59:38.000Z",
+                    "authors": [],
+                    "source_url": "https://komonews.com",
+                    "source_name": "KOMO",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://komonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3R2Ylc5dVpYZHpMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trump Highlights: Maryland Senator Says President Is ‘Outright Defying’ Courts on Deported Man",
+                    "link": "https://www.nytimes.com/live/2025/04/20/us/trump-news",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-live-header-vanhollen-qkhw/20trump-news-live-header-vanhollen-qkhw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFUV05vT1hwTlZUSkRlSHBEVFJDUUF4allCQ2dLTWdhQk1aYk1sUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T15:11:00.000Z",
+                    "authors": [
+                        "Minho Kim",
+                        "Alan Feuer",
+                        "Catie Edmondson"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVcxNU5EazNlaElDWlc0b0FBUAE",
+                            "topic_name": "Minho Kim"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhScU1XMXNNaElDWlc0b0FBUAE",
+                            "topic_name": "Alan Feuer"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTVRCb1gyWndjUklDWlc0b0FBUAE",
+                            "topic_name": "Catie Edmondson"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lwNTh6U0RSRnFpMmM4UURaVVZ5Z0FQAQ"
+        },
+        {
+            "title": "Alito criticizes US Supreme Court's decision to 'hastily' block deportations",
+            "link": "https://www.reuters.com/legal/alito-criticizes-us-supreme-courts-decision-hastily-block-deportations-2025-04-20/",
+            "snippet": "April 20 (Reuters) - U.S. Supreme Court Justice Samuel Alito criticized the court majority for \"hastily and prematurely\" blocking the Trump ...",
+            "photo_url": "https://www.reuters.com/resizer/v2/SHLJDTWTQ5NKHA4IU75TOH2B4Q.jpg?auth=e8b62898894c63ffabe13c465d8fd4607d893e7c7c0f247b62affb7669e9aed0&width=5088&quality=80",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxTVFozWDAxclYzWlNNM1JsVFJERUF4aW1CU2dLTWdZUjBvcEl4Z1E=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T09:38:32.000Z",
+            "authors": [
+                "Daniel Trotta"
+            ],
+            "source_url": "https://www.reuters.com",
+            "source_name": "Reuters",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKb04yc3lOQklDWlc0b0FBUAE",
+                    "topic_name": "Daniel Trotta"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Patience runs thin as Trump’s battle with Supreme Court intensifies",
+                    "link": "https://thehill.com/regulation/court-battles/5258916-supreme-court-trump-administration/",
+                    "photo_url": "https://thehill.com/wp-content/uploads/sites/2/2025/04/Patience_Schonfeld_AP_AlexBrandon.jpg?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNWtSMVZYYTNoMVpXeDJOM1ZzVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:20:00.000Z",
+                    "authors": [
+                        "Zach Schonfeld"
+                    ],
+                    "source_url": "https://thehill.com",
+                    "source_name": "The Hill",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldocGJHd3VZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzYkdNMGR6WXdZeElDWlc0b0FBUAE",
+                            "topic_name": "Zach Schonfeld"
+                        }
+                    ]
+                },
+                {
+                    "title": "ACLU says Trump officials not complying with Supreme Court in deportation case",
+                    "link": "https://www.washingtonpost.com/politics/2025/04/21/supreme-court-aclu-deportations-alien-enemies-act/",
+                    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MOQ6PX5DOSET45WZUY24BV5RJE_size-normalized.jpg&w=1200",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtjRFJIVm5GMGJIQTBiRGxLVFJERUF4aW1CU2dLTWdZQlVaVEVKQWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:05:43.000Z",
+                    "authors": [
+                        "Ann Marimow"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJZelh6UTBjQklDWlc0b0FBUAE",
+                            "topic_name": "Ann Marimow"
+                        }
+                    ]
+                },
+                {
+                    "title": "Alito blasts 'unprecedented' SCOTUS move to halt Trump's Venezuelan deportations: 'Legally questionable'",
+                    "link": "https://www.foxnews.com/politics/alito-blasts-unprecedented-scotus-move-halt-trumps-venezuelan-deportations-legally-questionable",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/1200/675/alito-split.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlURWcxYTI1aFZ6QndjM2RNVFJDZkF4ampCU2dLTWdZTlNacW1JZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T19:54:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lhdWREVkRSRkZiME52VXlxTDZpZ0FQAQ"
+        },
+        {
+            "title": "Pete Hegseth’s Pentagon in ‘Full-Blown Meltdown,’ Ex-Spokesman Says",
+            "link": "https://www.bloomberg.com/news/articles/2025-04-21/hegseth-s-pentagon-in-full-blown-meltdown-ex-spokesman-says",
+            "snippet": "The criticism from Ullyot followed statements by three top Defense Department officials who were reportedly fired amid an inquiry into leaks.",
+            "photo_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id.i..VL6P_I/v1/-1x-1.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhWME5ZT0dwelYyczBVbGhCVFJERUF4aW1CU2dLTWdZTlZKSnNKUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T14:58:11.000Z",
+            "authors": [
+                "Derek Wallbank"
+            ],
+            "source_url": "https://www.bloomberg.com",
+            "source_name": "Bloomberg.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0pzYjI5dFltVnlaeTVqYjIwb0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURCNlpEYzFaeElDWlc0b0FBUAE",
+                    "topic_name": "Derek Wallbank"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Pete Hegseth Faces Heat After New Signal Chat Emerges and Claim of Pentagon ‘Chaos’ - WSJ",
+                    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-signal-chat-pentagon-e717ea84",
+                    "photo_url": "https://images.wsj.net/im-63995033?width=700&height=466",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJNMVJtWXpGcGQxRmFaVVZKVFJERUF4aW5CU2dLTWdhNVU0NVJxUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:41:15.000Z",
+                    "authors": [
+                        "Nancy Youssef",
+                        "Alex Ward"
+                    ],
+                    "source_url": "https://www.wsj.com",
+                    "source_name": "WSJ",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R6YWk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRGd3TldZd2R4SUNaVzRvQUFQAQ",
+                            "topic_name": "Nancy Youssef"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpOMk9HdzFNeElDWlc0b0FBUAE",
+                            "topic_name": "Alex Ward"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump offers private reassurance to embattled Hegseth",
+                    "link": "https://www.politico.com/news/2025/04/21/trump-hegseth-leadership-00301052",
+                    "photo_url": "https://www.politico.com/dims4/default/596de9e/2147483647/strip/true/crop/6747x4499+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F15%2Fa5%2Fd97c05c44f02a17e0b21f12d423e%2Funlimiteduse-04-21-2025-white-house-024.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9VakY2UTB0R2NEZHZhMGs1VFJDM0FSaVRBaWdCTWdZQmNJN3RzQVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:00:05.000Z",
+                    "authors": [],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Live updates: The latest on Donald Trump’s presidency | CNN Politics",
+                    "link": "https://www.cnn.com/politics/live-news/trump-presidency-04-21-25/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210784282.jpg?c=16x9&q=w_800,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUROblpYVGxJeFprVmpabEZDVFJDZkF4ampCU2dLTWdZcFZaYXRKUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:47:00.000Z",
+                    "authors": [
+                        "Michael Williams"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZGpSMk5qWmtlUklDWlc0b0FBUAE",
+                            "topic_name": "Michael Williams"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lDaV9IWURSR0dXZndQNXM1X3ZTZ0FQAQ"
+        },
+        {
+            "title": "Pope Francis Celebrated Easter and Met With JD Vance the Day Before He Died",
+            "link": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-easter-last-day.html",
+            "snippet": "Pope Francis kept a busy schedule until the day before his death, meeting with Vice President JD Vance and defying doctors' orders to rest.",
+            "photo_url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-last-day-hfjm/21pope-last-day-hfjm-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNMVkJWTTNwQlVtMTRjelZPVFJDUUF4allCQ2dLTWdZQnNJaFN3UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T11:26:45.000Z",
+            "authors": [
+                "Amelia Nierenberg"
+            ],
+            "source_url": "https://www.nytimes.com",
+            "source_name": "The New York Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpSeU9ESTVNaElDWlc0b0FBUAE",
+                    "topic_name": "Amelia Nierenberg"
+                }
+            ]
+        },
+        {
+            "title": "Obamacare returns to SCOTUS, with preventive care on the line",
+            "link": "https://www.politico.com/news/2025/04/21/obamacare-scotus-preventive-care-aca-00296631",
+            "snippet": "The U.S. Supreme Court will hear arguments Monday on Obamacare's mandate that insurance companies cover everything from depression ...",
+            "photo_url": "https://www.politico.com/dims4/default/918b07a/2147483647/strip/true/crop/8256x5504+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F46%2Fd3%2Ffa5105b145ffa9e3b44e2778ce1a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2159543450",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUdlbVpUVEcxbWRISTNXVTFSVFJDM0FSaVRBaWdCTWdNQm9BNA=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T11:43:32.000Z",
+            "authors": [
+                "Alice Miranda Ollstein"
+            ],
+            "source_url": "https://www.politico.com",
+            "source_name": "Politico",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuT1hJNFkxODVOaElDWlc0b0FBUAE",
+                    "topic_name": "Alice Miranda Ollstein"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Trump is defending Obamacare at the Supreme Court. A win could boost RFK Jr.’s influence",
+                    "link": "https://www.cnn.com/2025/04/20/politics/obamacare-affordable-care-act-supreme-court-rfk-jr/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210188376.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTBkMnQyYW5aQmMyaHBablpxVFJDZkF4amlCU2dLTWdrSk5KWlJHU3JCelFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T16:59:00.000Z",
+                    "authors": [
+                        "Tami Luhby",
+                        "Tierney Sneed",
+                        "Sarah Owermohle"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1KaloySjZkeElDWlc0b0FBUAE",
+                            "topic_name": "Tami Luhby"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhob2NucDVZaElDWlc0b0FBUAE",
+                            "topic_name": "Tierney Sneed"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWm1KM1luTnFiaElDWlc0b0FBUAE",
+                            "topic_name": "Sarah Owermohle"
+                        }
+                    ]
+                },
+                {
+                    "title": "Supreme Court seems likely to uphold ACA preventive services mandate",
+                    "link": "https://www.axios.com/2025/04/21/aca-supreme-court-preventive-services",
+                    "photo_url": "https://images.axios.com/mR4YDo1IdWIIP0vvsdCYgaQhaYI=/0x0:4000x2250/1920x1080/2025/04/21/1745242578191.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNjbDh6TkhCTWExaDBjbFZaVFJDZkF4ampCU2dLTWdhTnNZQ3NSUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:04:08.000Z",
+                    "authors": [
+                        "Maya Goldman"
+                    ],
+                    "source_url": "https://www.axios.com",
+                    "source_name": "Axios",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV0Y0YVc5ekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTVRCcWVtZG9YeElDWlc0b0FBUAE",
+                            "topic_name": "Maya Goldman"
+                        }
+                    ]
+                },
+                {
+                    "title": "US supreme court hears challenge to Obamacare free preventive healthcare",
+                    "link": "https://www.theguardian.com/us-news/2025/apr/21/supreme-court-obamacare-case",
+                    "photo_url": "https://i.guim.co.uk/img/media/ff6a739d5e7008f9519277e42aac0587a4bb2957/0_0_7712_5141/master/7712.jpg?width=465&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHlZM1J6VVZodk9XMVFkRmRVVFJDMkFoalJBeWdLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:14:00.000Z",
+                    "authors": [
+                        "Joseph Gedeon"
+                    ],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTlhBd2VUbGlOQklDWlc0b0FBUAE",
+                            "topic_name": "Joseph Gedeon"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p5bE1YSURSRS1aOG1pdWljUGpDZ0FQAQ"
+        },
+        {
+            "title": "Vance and Modi meet in New Delhi to discuss trade deal and avoid US tariffs",
+            "link": "https://apnews.com/article/jd-vance-india-modi-tariffs-trump-trade-036864827d8ec04745512e185e94d1f8",
+            "snippet": "The US Vice President has arrived in India as New Delhi looks to avoid U.S. tariffs, negotiate a bilateral trade deal with Washington and ...",
+            "photo_url": "https://dims.apnews.com/dims4/default/5821309/2147483647/strip/true/crop/5344x3552+0+0/resize/599x398!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F58%2Ffb47b37a09e409c87505c4638c8a%2F4799345764fa4a61953aa1582e09ced7",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBTbXAxTXpWUWFHVjRlWHAxVFJDT0F4alhCQ2dLTWdZRklKamxFUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T17:00:00.000Z",
+            "authors": [
+                "Sheikh Saaliq"
+            ],
+            "source_url": "https://apnews.com",
+            "source_name": "AP News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3Tmpjd2JqaG9OUklDWlc0b0FBUAE",
+                    "topic_name": "Sheikh Saaliq"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "JD Vance: US vice-president to meet Modi in Delhi amid tariff tensions",
+                    "link": "https://www.bbc.com/news/articles/c793rzx3l7vo",
+                    "photo_url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/69e0/live/418e9880-1e70-11f0-8e9f-fd5b1e90c28d.jpg.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdXSGRJU1ZJdFJtRmFRbXhUVFJDb0FSaXNBaWdCTWdZZElKRHNHUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T06:55:31.000Z",
+                    "authors": [
+                        "Neyaz Farooquee"
+                    ],
+                    "source_url": "https://www.bbc.com",
+                    "source_name": "BBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtWm5jd00yeHJiaElDWlc0b0FBUAE",
+                            "topic_name": "Neyaz Farooquee"
+                        }
+                    ]
+                },
+                {
+                    "title": "Taj closed for public on Wednesday till US V-P’s visit is over",
+                    "link": "https://www.hindustantimes.com/cities/lucknow-news/taj-closed-for-public-on-wednesday-till-us-v-p-s-visit-is-over-101745255514397.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/21/550x309/Vice-president-JD-Vance--along-with-his-wife-Usha-_1745255511394.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVjR3BTTUV0TmRuSlVSVlZXVFJDMUFoaW1CQ2dLTWdhSmNZb21MZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:11:54.000Z",
+                    "authors": [
+                        "Ht Correspondent"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YzJObk4yZGpkQklDWlc0b0FBUAE",
+                            "topic_name": "Ht Correspondent"
+                        }
+                    ]
+                },
+                {
+                    "title": "New Delhi rolls the red carpet for Vance as Trump's trade war rattles Asia",
+                    "link": "https://www.nbcnews.com/news/world/new-delhi-rolls-red-carpet-vance-trumps-trade-war-rattles-asia-rcna202079",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250421-vance-mb-0826-ddc4ca.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBTblpmTW1sU1NucFFZM1ZmVFJERUF4aW1CU2dLTWdhWkJJak5NUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T12:08:27.000Z",
+                    "authors": [],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p2d3BITURSR2ExTFJUOHdQWExTZ0FQAQ"
+        },
+        {
+            "title": "Trump tariffs: China warns nations against 'appeasing' US in trade deals",
+            "link": "https://www.bbc.com/news/articles/cx2708dl9n1o",
+            "snippet": "The comments come after reports that the US plans to pressure governments to restrict trade with China in exchange for exemptions to US tariffs.",
+            "photo_url": "https://ichef.bbci.co.uk/news/1024/branded_news/beff/live/a8618e90-1e53-11f0-85cc-67568620b395.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlaRGxtY0dwWkxVOTZWVTlqVFJDZkF4ampCU2dLTWdZRkJZeXRsUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T05:41:13.000Z",
+            "authors": [],
+            "source_url": "https://www.bbc.com",
+            "source_name": "BBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "China threatens countermeasures against countries that 'appease' US on trade war",
+                    "link": "https://www.foxbusiness.com/markets/china-threatens-countermeasures-against-countries-appease-us-trade-war",
+                    "photo_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2019/11/trump-xi-trade.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFUaTAxU25BME1uRkhkekp2VFJDZkF4ampCU2dLTWdrSmNaSzJNR2V4NndF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T15:14:00.000Z",
+                    "authors": [
+                        "Stephen Sorace"
+                    ],
+                    "source_url": "https://www.foxbusiness.com",
+                    "source_name": "Fox Business",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMlp2ZUdKMWMybHVaWE56TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NMFkzSnlhaElDWlc0b0FBUAE",
+                            "topic_name": "Stephen Sorace"
+                        }
+                    ]
+                },
+                {
+                    "title": "China Warns Countries Not to Team Up Against It to Gain Trump Tariff Reprieve",
+                    "link": "https://www.nytimes.com/2025/04/21/world/asia/china-tariffs-trade-warning.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-china-tariffs-ltgj/21int-china-tariffs-ltgj-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhPSEpIYmtoVlozSm5ia3htVFJDUUF4allCQ2dLTWdZQkVJU3NrUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T08:49:50.000Z",
+                    "authors": [
+                        "Vivian Wang"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJMU5EUmZhaElDWlc0b0FBUAE",
+                            "topic_name": "Vivian Wang"
+                        }
+                    ]
+                },
+                {
+                    "title": "China vows retaliation against countries that follow U.S. calls to isolate Beijing",
+                    "link": "https://www.cnbc.com/2025/04/21/china-to-retaliate-against-nations-that-work-with-us-to-isolate-beijing.html",
+                    "photo_url": "https://image.cnbcfm.com/api/v1/image/108130695-17443731112025-04-10t210317z_1230912817_rc28vdaw0pbf_rtrmadp_0_usa-trump-tariffs.jpeg?v=1744373176&w=1600&h=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtXall6ZEdoaWMzRTFlQzFYVFJDZkF4ampCU2dLTWdZQkk0NXFtUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T02:29:00.000Z",
+                    "authors": [
+                        "Evelyn Cheng"
+                    ],
+                    "source_url": "https://www.cnbc.com",
+                    "source_name": "CNBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsemVXd3lOUklDWlc0b0FBUAE",
+                            "topic_name": "Evelyn Cheng"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l1N3B6VkRSSEU3OUpBd1NFLWJTZ0FQAQ"
+        },
+        {
+            "title": "Homeland Security Secretary Kristi Noem’s bag, including $3,000 in cash, is stolen from DC restaurant",
+            "link": "https://www.cnn.com/2025/04/21/politics/homeland-security-kristi-noem-purse-stolen/index.html",
+            "snippet": "Homeland Security Secretary Kristi Noem's bag, including $3,000 in cash, is stolen from DC restaurant ... Homeland Security ...",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap25099707900433.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUllWFJYYlhaSE9WRlJjalJDVFJDZkF4amlCU2dLTWdZcFZwVHRKUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T15:29:00.000Z",
+            "authors": [
+                "Josh Campbell",
+                "Kit Maher"
+            ],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTVRoZlpuSnhlQklDWlc0b0FBUAE",
+                    "topic_name": "Josh Campbell"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwaWJqZDZkQklDWlc0b0FBUAE",
+                    "topic_name": "Kit Maher"
+                }
+            ]
+        },
+        {
+            "title": "How a security gap at FSU heightened students’ fears even with the speedy police response",
+            "link": "https://www.cnn.com/2025/04/21/us/shooting-fsu-student-petition-campus/index.html",
+            "snippet": "How a security gap at FSU heightened students' fears even with the speedy police response ... Local and state ...",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-25953258.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFjRTVsUjA5MVdGSnZVMVZ0VFJDZkF4amlCU2dLTWdhQklKb0VGUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T08:00:00.000Z",
+            "authors": [
+                "Emma Tucker"
+            ],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTWpOemR6SnhaeElDWlc0b0FBUAE",
+                    "topic_name": "Emma Tucker"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Grandma of Alleged FSU Shooter Calls His Parents 'Rotten Bastard People' After Deadly Campus Shooting",
+                    "link": "https://people.com/grandma-of-alleged-fsu-shooter-calls-his-parents-rotten-bastard-people-11718523",
+                    "photo_url": "https://people.com/thmb/1XI_T73G2Abo4O1bMKGVZqg1TLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(764x379:766x381)/Phoenix-Ikner-041725-7d1c5ede4b0741eab82ecb120d879f0d.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFWbkJEYjBVeVgwNXhORVkyVFJERUF4aW1CU2dLTWdZcFpZTE9yUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T08:30:00.000Z",
+                    "authors": [
+                        "Charlotte Phillipp"
+                    ],
+                    "source_url": "https://people.com",
+                    "source_name": "People.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://people.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkJsYjNCc1pTNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TXpoMGNIbHdaQklDWlc0b0FBUAE",
+                            "topic_name": "Charlotte Phillipp"
+                        }
+                    ]
+                },
+                {
+                    "title": "Three discharged from TMH following FSU campus shooting, 2 expected to be discharged Monday",
+                    "link": "https://www.wctv.tv/2025/04/21/three-discharged-tmh-following-fsu-campus-shooting-2-expected-be-discharged-monday/",
+                    "photo_url": "https://gray-wctv-prod.gtv-cdn.com/resizer/v2/KCIOAQ43VJFLTJZJPMIM6YQ7TY.jpg?auth=5d5a1c4d580709d133319c51bd8e3e9633945c828628410dee4a29a5a55e9c03&width=1200&height=600&smart=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBOeTFtU1VWV1kwOWhTbkJaVFJDSEF4aVBCaWdLTWdhSjBZcG55UVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T13:36:00.000Z",
+                    "authors": [
+                        "Jamiya Coleman"
+                    ],
+                    "source_url": "https://www.wctv.tv",
+                    "source_name": "WCTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wctv.tv&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2RqZEhZdWRIWW9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyTkdwemQzZGpjQklDWlc0b0FBUAE",
+                            "topic_name": "Jamiya Coleman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Florida State relents on Monday return to campus after outcry",
+                    "link": "https://www.nbcnews.com/news/us-news/florida-state-relents-monday-return-campus-outcry-rcna202002",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2025-04/25419-fsu-shooting-rc1017p-68c1c1.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFRM1JxYkdkV1owTldiMHRvVFJERUF4aW1CU2dLTWdZQkVKVGtsZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T03:02:00.000Z",
+                    "authors": [
+                        "Marin Scott"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYW1SaU5EQTBOUklDWlc0b0FBUAE",
+                            "topic_name": "Marin Scott"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2prdXB2V0RSR1ZOQ1Ntb01zVS1TZ0FQAQ"
+        },
+        {
+            "title": "Bukele Proposes Deal That Would Free Deported Venezuelans",
+            "link": "https://www.nytimes.com/2025/04/20/us/venezuela-bukele-maduro-prisoners-deported-immigration.html",
+            "snippet": "President Nayib Bukele said he would free the Venezuelans that the Trump administration deported to El Salvador if Venezuela released the same ...",
+            "photo_url": "https://static01.nyt.com/images/2025/05/20/multimedia/20trump-news-bukele-maduro-kmgv/20trump-news-bukele-maduro-kmgv-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFXRmRFVG1aQ2JFNWZXalF3VFJDUUF4allCQ2dLTWdZdGRaU3VyUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T14:47:00.000Z",
+            "authors": [
+                "Annie Correal",
+                "Julie Turkewitz"
+            ],
+            "source_url": "https://www.nytimes.com",
+            "source_name": "The New York Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvNWRtcHpaaElDWlc0b0FBUAE",
+                    "topic_name": "Annie Correal"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvd1puTTRNaElDWlc0b0FBUAE",
+                    "topic_name": "Julie Turkewitz"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Bukele offers to exchange Trump’s Venezuelan deportees for Maduro’s political prisoners",
+                    "link": "https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article304658266.html",
+                    "photo_url": "https://www.miamiherald.com/latest-news/6pmtwj/picture302260779/alternates/LANDSCAPE_1140/Venezuelan_deported_111.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9XVFpwTkVKS2RGVmlOV3gyVFJDZkF4ampCU2dLTWdrQkVJTHFHS1ZyUXdN=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T15:55:38.000Z",
+                    "authors": [],
+                    "source_url": "https://www.miamiherald.com",
+                    "source_name": "Miami Herald",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.miamiherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMjFwWVcxcGFHVnlZV3hrTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "El Salvador offers Venezuela prisoner swap involving US deportees",
+                    "link": "https://www.bbc.com/news/articles/cn5xl5ppzr2o",
+                    "photo_url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/d21e/live/4b500ad0-1e4c-11f0-86e6-e13957bc23df.png.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXRNVFI2T0daQ2RVZGhkRUZoVFJDb0FSaXNBaWdCTWdNQmR4SQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T03:10:31.000Z",
+                    "authors": [
+                        "Jaroslav Lukiv"
+                    ],
+                    "source_url": "https://www.bbc.com",
+                    "source_name": "BBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4MGJXNTBPQklDWlc0b0FBUAE",
+                            "topic_name": "Jaroslav Lukiv"
+                        }
+                    ]
+                },
+                {
+                    "title": "Salvadoran President Bukele proposes prisoner swap with Maduro for Venezuelan deportees",
+                    "link": "https://www.npr.org/2025/04/21/g-s1-61534/bukele-propose-prisoner-swap-maduro",
+                    "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fba%2Ff223c32448e19113bcd6474cdb83%2Fap25104660466320.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1UblJaT0d4eVdWWm9NSEEzVFJERUF4aW1CU2dLTWdhVlFKanNuUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T05:08:10.000Z",
+                    "authors": [],
+                    "source_url": "https://www.npr.org",
+                    "source_name": "NPR",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pULXZUWURSR2pnaUxhUTNNZENTZ0FQAQ"
+        },
+        {
+            "title": "PHOTOS: Anti-Trump protesters rally in cities and towns across the country",
+            "link": "https://www.pbs.org/newshour/politics/photos-anti-trump-protesters-rally-in-cities-and-towns-across-the-country",
+            "snippet": "PHOTOS: Anti-Trump protesters rally in cities and towns across the country · Re-enactors mark the 250th anniversary of the Battle of Lexington.",
+            "photo_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/04/2025-04-19T224439Z_1497149691_RC261EAXSLKV_RTRMADP_3_USA-TRUMP-PROTESTS-425x283.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNVNWaTFyYzNCWVZVTnlaRjlxVFJDM0FSaVRBaWdCTWdzQklJS0hPS09KUzJxeVl3=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T22:41:44.000Z",
+            "authors": [
+                "Philip Marcelo"
+            ],
+            "source_url": "https://www.pbs.org",
+            "source_name": "PBS",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM0JpY3k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUc1ZmVUWndlQklDWlc0b0FBUAE",
+                    "topic_name": "Philip Marcelo"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "‘Shame!’ Protesters Nationwide Rally Again to Condemn Trump Policies.",
+                    "link": "https://www.nytimes.com/2025/04/19/us/politics/trump-protests-nyc-florida-la.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-protests-chzk/19trump-news-protests-chzk-threeByTwoMediumAt2X.jpg?quality=75&auto=webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxVR05RVGtKaU9UZFpNMlJ6VFJERUF4aW1CU2dLTWdZQllJWWpOZ1E=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T16:59:09.000Z",
+                    "authors": [
+                        "Minho Kim",
+                        "Jesus A. Jimenez"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVcxNU5EazNlaElDWlc0b0FBUAE",
+                            "topic_name": "Minho Kim"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1KZk1HNXlPUklDWlc0b0FBUAE",
+                            "topic_name": "Jesus A. Jimenez"
+                        }
+                    ]
+                },
+                {
+                    "title": "National Day of Action Against Donald Trump Planned for May 1: What To Know",
+                    "link": "https://www.newsweek.com/may-day-trump-protest-demonstration-workers-2062098",
+                    "photo_url": "https://d.newsweek.com/en/full/2630594/anti-trump-protest.jpg?w=1200&f=e000a00ea4c9cf580671c3e9de87d63b",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpiV1JNU0VodVVtODFWV2xRVFJERUF4aW1CU2dLTWdhQmM0NUFzUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T14:44:43.000Z",
+                    "authors": [
+                        "Chloe Mayer"
+                    ],
+                    "source_url": "https://www.newsweek.com",
+                    "source_name": "Newsweek",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzVsZDNOM1pXVnJMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpSdWVUUmlOUklDWlc0b0FBUAE",
+                            "topic_name": "Chloe Mayer"
+                        }
+                    ]
+                },
+                {
+                    "title": "We Asked You to Share Protest Photos. Wow, You Delivered.",
+                    "link": "https://www.motherjones.com/politics/2025/04/protest-photos-audience-april-19-50501/",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-04-20T17:42:25.000Z",
+                    "authors": [
+                        "James West"
+                    ],
+                    "source_url": "https://www.motherjones.com",
+                    "source_name": "Mother Jones",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.motherjones.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMjF2ZEdobGNtcHZibVZ6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFF6YzJRMWVCSUNaVzRvQUFQAQ",
+                            "topic_name": "James West"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2llcTQ3VURSRnVLS2daZzZvY0R5Z0FQAQ"
+        },
+        {
+            "title": "Dow drops 1,100 points, S&P 500 loses 3% as Trump's Powell attacks add to investors' concerns: Live updates",
+            "link": "https://www.cnbc.com/2025/04/20/stock-market-today-live-updates.html",
+            "snippet": "The Dow Jones Industrial Average traded 1,163 points lower, or 3%. The S&P 500 shed 3.1%, and the Nasdaq Composite lost 3.4%.",
+            "photo_url": "https://image.cnbcfm.com/api/v1/image/108131511-1744642945406-gettyimages-2209683068-AFP_42B28AN.jpeg?v=1744643040&w=1600&h=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdWbTFoUVVsTGNWWTNTV0pSVFJDZkF4ampCU2dLTWdZUk1wYUlHZ28=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T17:18:00.000Z",
+            "authors": [
+                "Sean Conlon",
+                "Lisa Kailai Han"
+            ],
+            "source_url": "https://www.cnbc.com",
+            "source_name": "CNBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YzJNM016TmtheElDWlc0b0FBUAE",
+                    "topic_name": "Sean Conlon"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3WmpoaWFEWjJNQklDWlc0b0FBUAE",
+                    "topic_name": "Lisa Kailai Han"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "US Stocks Slump as Trump’s Threat to Fire Powell Adds Pressure",
+                    "link": "https://www.bloomberg.com/news/articles/2025-04-21/us-stocks-tumble-as-trump-s-threat-to-fire-powell-adds-pressure",
+                    "photo_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6nKoCPN28o0/v0/1200x800.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJNbGhDVXpsRmJqWTRSa1o1VFJERUF4aW1CU2dLTWdZQmtvb1NNUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:05:12.000Z",
+                    "authors": [
+                        "Joel Leon"
+                    ],
+                    "source_url": "https://www.bloomberg.com",
+                    "source_name": "Bloomberg.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0pzYjI5dFltVnlaeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTVhSamJXZHVZeElDWlc0b0FBUAE",
+                            "topic_name": "Joel Leon"
+                        }
+                    ]
+                },
+                {
+                    "title": "Dow tumbles more than 1,000 points and dollar hits three-year low as Trump continues to bash Fed Chair Powell",
+                    "link": "https://www.cnn.com/2025/04/21/investing/us-stock-market/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210074746.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNTNZMVJmWVZWRGVFTmxaREl0VFJDZkF4amlCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T14:22:01.000Z",
+                    "authors": [],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trump tariffs live updates: Stocks fall as Trump calls Fed chair to lower rates 'now'",
+                    "link": "https://abcnews.go.com/Politics/live-updates/trump-tariffs-live-updates/?id=121015075",
+                    "photo_url": "https://i.abcnewsfe.com/a/d619780f-37ee-4188-9576-edc3f3d4296e/jerome-powell-4-gty-gmh-250417_1744898515034_hpMain_16x9.jpg?w=992",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVBVRGx3YjI1RGF6QnRabmx1VFJDb0FSaXNBaWdCTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T15:33:00.000Z",
+                    "authors": [
+                        "William Mansell"
+                    ],
+                    "source_url": "https://abcnews.go.com",
+                    "source_name": "ABC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUd4emNtUTRaQklDWlc0b0FBUAE",
+                            "topic_name": "William Mansell"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pROF9mVkRSRzNoVk5ZZ1JlVnF5Z0FQAQ"
+        },
+        {
+            "title": "Exclusive | Trump Administration Irate at Harvard, Plans to Pull Additional $1 Billion in Funding - WSJ",
+            "link": "https://www.wsj.com/us-news/education/trump-administration-irate-at-harvard-will-pull-additional-1-billion-in-funding-8c209113",
+            "snippet": "Trump Administration Irate at Harvard, Plans to Pull Additional $1 Billion in Funding · The university publicized a government demand letter that ...",
+            "photo_url": "https://images.wsj.net/im-96538501?width=700&height=467",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVBOVVIyY0c5dE1rbGtSamxWVFJERUF4aW1CU2dLTWdrQk1KUkNHMm9lS1FJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T00:28:00.000Z",
+            "authors": [
+                "Douglas Belkin",
+                "Liz Essley Whyte"
+            ],
+            "source_url": "https://www.wsj.com",
+            "source_name": "WSJ",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R6YWk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNweWRuTTBaeElDWlc0b0FBUAE",
+                    "topic_name": "Douglas Belkin"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUcxb016RnRPQklDWlc0b0FBUAE",
+                    "topic_name": "Liz Essley Whyte"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "The Cost of Defunding Harvard",
+                    "link": "https://www.newyorker.com/news/the-lede/the-cost-of-defunding-harvard",
+                    "photo_url": "https://media.newyorker.com/photos/680504236320081fc9544e8d/16:10/w_2560%2Cc_limit/Gawande-GettyImages-2210108412.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhPREJvYUhCRVEzaDRTbk50VFJDMkF4aTlCU2dLTWdhQmdJYWxPZ1U=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:59:29.000Z",
+                    "authors": [
+                        "Atul Gawande"
+                    ],
+                    "source_url": "https://www.newyorker.com",
+                    "source_name": "The New Yorker",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newyorker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVzVsZDNsdmNtdGxjaTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGMyWm00d0VnSmxiaWdBUAE",
+                            "topic_name": "Atul Gawande"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump Officials Blame Mistake for Setting Off Confrontation With Harvard",
+                    "link": "https://www.nytimes.com/2025/04/18/business/trump-harvard-letter-mistake.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5hemRFUVhaVlgwbERZMnhXVFJDUUF4allCQ2dLTWdZRjg0YXIwUUk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T01:10:42.000Z",
+                    "authors": [
+                        "Michael S. Schmidt",
+                        "Michael Charles Bender"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR2RvTjJKdWN4SUNaVzRvQUFQAQ",
+                            "topic_name": "Michael S. Schmidt"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Y0hKM05uZzNiaElDWlc0b0FBUAE",
+                            "topic_name": "Michael Charles Bender"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump admin 'so furious' with Harvard, plans to pull another $1 billion in aid: report",
+                    "link": "https://komonews.com/news/nation-world/trump-admin-so-furious-with-harvard-plans-to-pull-another-1-billion-in-aid-report",
+                    "photo_url": "https://komonews.com/resources/media2/16x9/4421/986/0x231/90/948019fe-cb38-44eb-82b3-1e2e7a2a8ec2-AP251057249755801.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVaV1Z3T1dGdWFFcE5ibk5QVFJDZkF4amlCU2dLTWdZUlE0Q0lJZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:02:05.000Z",
+                    "authors": [
+                        "Jackson Walker"
+                    ],
+                    "source_url": "https://komonews.com",
+                    "source_name": "KOMO",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://komonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3R2Ylc5dVpYZHpMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1RNE1UWnVhaElDWlc0b0FBUAE",
+                            "topic_name": "Jackson Walker"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pub1pEUURSR0xDVEUxc21uYWxpZ0FQAQ"
+        },
+        {
+            "title": "Wall Street and the dollar tumble as investors retreat further from the United States",
+            "link": "https://apnews.com/article/stocks-markets-rates-inflation-trump-68a6a7f7765d78d46329abbecfbe0797",
+            "snippet": "U.S. stocks are tumbling as worries about President Donald Trump's trade war and his criticism of the Federal Reserve cause investors to ...",
+            "photo_url": "https://dims.apnews.com/dims4/default/35c7f15/2147483647/strip/true/crop/4834x3222+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F7a%2F6fac8403d06de250c9dba45707ca%2F682f0ee5a8bd44eea24f37a094897b32",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRjRkpoT1c1VGJWQTNWRmRqVFJDUEF4alhCQ2dLTWdhSkk0eHdGUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T15:34:00.000Z",
+            "authors": [
+                "Stan Choe"
+            ],
+            "source_url": "https://apnews.com",
+            "source_name": "AP News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwdE9URnhiQklDWlc0b0FBUAE",
+                    "topic_name": "Stan Choe"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Stock Market Today: Dow Drops 1,000 Points; Dollar Hits New Low on Trade and Tariff Worries — Live Updates",
+                    "link": "https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-21-25",
+                    "photo_url": "https://images.wsj.net/im-34062673/social",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUVOa05yTTIxRlEyTTFSelEzVFJDZkFSaS1BaWdCTWdrTkFJeHJrS3FDU3dF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:51:00.000Z",
+                    "authors": [
+                        "Krystal Hur",
+                        "Karen Langley",
+                        "Gunjan Banerji"
+                    ],
+                    "source_url": "https://www.wsj.com",
+                    "source_name": "WSJ",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R6YWk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGdVgzcDBkQklDWlc0b0FBUAE",
+                            "topic_name": "Krystal Hur"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhGeVptMDBjeElDWlc0b0FBUAE",
+                            "topic_name": "Karen Langley"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwck1HMDVaQklDWlc0b0FBUAE",
+                            "topic_name": "Gunjan Banerji"
+                        }
+                    ]
+                },
+                {
+                    "title": "Dow sinks 1,000 points as worries about Trump’s trade war and his criticism of the Federal Reserve spook investors",
+                    "link": "https://www.bostonglobe.com/2025/04/21/business/stock-markets-trump-tariffs/",
+                    "photo_url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/MH4SZIX2MKLJAOIUKOUD7LIQB4.jpg?auth=124195140fd947f8ecba619493318bc887e702e3c854bcf8bef95a4332a13bbd&width=1440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUJNVkpVV21JMVUyTkZiV1pMVFJERUF4aW1CU2dLTWdrQk1wU0dGbXBjREFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:16:02.000Z",
+                    "authors": [],
+                    "source_url": "https://www.bostonglobe.com",
+                    "source_name": "The Boston Globe",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bostonglobe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkp2YzNSdmJtZHNiMkpsTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Live updates: Dow drops 1,000 points amid worries about Trump’s trade war and criticism of the Fed",
+                    "link": "https://apnews.com/live/donald-trump-news-updates-4-21-2025",
+                    "photo_url": "https://dims.apnews.com/dims4/default/0b7858a/2147483647/strip/true/crop/3152x2100+0+1/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fcb%2F0e6b4a4915b73802a8d000c7d2ef%2F98f9c199fcc24fe2942eac019284065b",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtXbEZDVldGb1JsTjJNbGhtVFJDUEF4alhCQ2dLTWdZbHNJaXR1UVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:24:00.000Z",
+                    "authors": [
+                        "Michael Warren",
+                        "Bridget Brown"
+                    ],
+                    "source_url": "https://apnews.com",
+                    "source_name": "AP News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1KZmFIWjZhQklDWlc0b0FBUAE",
+                            "topic_name": "Michael Warren"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJeVoyczViUklDWlc0b0FBUAE",
+                            "topic_name": "Bridget Brown"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p5ek5QVkRSSEVnZUhsTlF3S2x5Z0FQAQ"
+        },
+        {
+            "title": "‘Full-blown meltdown’ at Pentagon after Pete Hegseth’s second Signal chat revealed",
+            "link": "https://www.theguardian.com/us-news/2025/apr/21/hegseth-second-signal-chat-pentagon",
+            "snippet": "Existence of group chat including Hegseth, his wife and others prompt calls for defense secretary to step down.",
+            "photo_url": "https://i.guim.co.uk/img/media/d87f774028916c012f68fd4fcff9915c95112ccf/0_0_3984_2390/master/3984.jpg?width=465&dpr=1&s=none&crop=none",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBiMDFUVjNkcWVsQkJaVkpNVFJDWEFoalJBeWdLTWdZbFJaVE5JUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T13:18:19.000Z",
+            "authors": [
+                "Edward Helmore"
+            ],
+            "source_url": "https://www.theguardian.com",
+            "source_name": "The Guardian",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1keWFuUTVkeElDWlc0b0FBUAE",
+                    "topic_name": "Edward Helmore"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Opinion | Former Top Pentagon Spokesperson Details ‘Month From Hell’ Inside the Agency",
+                    "link": "https://www.politico.com/news/magazine/2025/04/20/pentagon-chaos-ullyot-hegseth-00205594",
+                    "photo_url": "https://www.politico.com/dims4/default/f8bcd5f/2147483647/strip/true/crop/3809x2739+0+0/resize/1290x928!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F97%2F43%2Ff0d0d45a41259e194dcf54924aba%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2209595705",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBYM2hEYm10bFNFZzNTMUZXVFJDLUFSaUpBaWdCTWdZOVk0WXlyUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T23:15:00.000Z",
+                    "authors": [
+                        "John Ullyot"
+                    ],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuT1cxNk9EY3dkeElDWlc0b0FBUAE",
+                            "topic_name": "John Ullyot"
+                        }
+                    ]
+                },
+                {
+                    "title": "Former Pete Hegseth aide in op-ed: 'Total chaos at the Pentagon'",
+                    "link": "https://www.nbcnews.com/politics/national-security/john-ullyot-op-ed-pete-hegseth-rcna202071",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/25420-pete-hegseth-rc-1046p-f0401a.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlRMXBOVXpOclJqVkpVemczVFJERUF4aW1CU2dLTWdhdFpJak9xUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T04:23:00.000Z",
+                    "authors": [
+                        "Gordon Lubold"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwd1gyMXFaQklDWlc0b0FBUAE",
+                            "topic_name": "Gordon Lubold"
+                        }
+                    ]
+                },
+                {
+                    "title": "Former top DOD spokesperson: Pentagon in ‘disarray’ under Hegseth",
+                    "link": "https://thehill.com/policy/defense/5258195-john-ullyot-pentagon-disarray-hegseth/",
+                    "photo_url": "https://thehill.com/wp-content/uploads/sites/2/2025/04/AP25087252605876-e1743536279639.jpg?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlSak5tUWkwd2NucHpjRkoxVFJDZkF4amlCU2dLTWdZbEZwcnNGUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T03:11:00.000Z",
+                    "authors": [
+                        "Tara Suter"
+                    ],
+                    "source_url": "https://thehill.com",
+                    "source_name": "The Hill",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldocGJHd3VZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5WXpCM04ySmpZaElDWlc0b0FBUAE",
+                            "topic_name": "Tara Suter"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lGN0pqV0RSR0lta1hyYVI2YjlTZ0FQAQ"
+        },
+        {
+            "title": "Delta plane engine catches fire at Orlando airport, passengers evacuate on slides",
+            "link": "https://www.cbsnews.com/news/delta-plane-engine-fire-orlando-airport-passengers-evacuate/",
+            "snippet": "Delta Air Lines Flight 1213 was pushing back from the gate in Orlando when an engine caught fire, the FAA said.",
+            "photo_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/21/b9ff0ca8-bdb1-4794-b9b2-d958604fa4d8/thumbnail/1200x630g4/e0622abaf41b4dba31dd2edbb53e7f12/delta-evac.jpg?v=04a4ba26f526ed8207f014fe1018c4aa",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUxXVkpuV0c1V2NYYzNjaTFEVFJDUkF4ajhCU2dLTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T16:06:00.000Z",
+            "authors": [
+                "Stephen Smith"
+            ],
+            "source_url": "https://www.cbsnews.com",
+            "source_name": "CBS News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTTNaamRqQnpPUklDWlc0b0FBUAE",
+                    "topic_name": "Stephen Smith"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Passengers evacuate Delta flight after engine fire at Orlando airport",
+                    "link": "https://www.bbc.com/news/articles/cvgqr8drze7o",
+                    "photo_url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNVZSek16TURKUE5FOUxhamx5VFJDb0FSaXNBaWdCTWdNSnNoUQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:40:55.000Z",
+                    "authors": [],
+                    "source_url": "https://www.bbc.com",
+                    "source_name": "BBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Passengers evacuate on Orlando tarmac after engine fire",
+                    "link": "https://www.cnn.com/2025/04/21/travel/passengers-evacuate-on-orlando-tarmac-after-engine-fire/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21560811-573801-644-still.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlkbFI2T1hOUFpsaFBRVVJtVFJDZkF4amlCU2dLTWdrQlFJNXNNU1ltcHdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:15:00.000Z",
+                    "authors": [
+                        "Pete Muntean"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsdGVuSnpZeElDWlc0b0FBUAE",
+                            "topic_name": "Pete Muntean"
+                        }
+                    ]
+                },
+                {
+                    "title": "Delta plane catches fire at Orlando airport, passengers evacuate on slides",
+                    "link": "https://www.yahoo.com/news/delta-plane-catches-fire-orlando-162900011.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/UVpw0Zer_4SKO5otTm6R8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/cbs_news_897/1f5a1657a5520a907063f251386921fe",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWtMVnA0VWpCUVZqaGFiVEUzVFJEU0F4aVNCU2dLTWdrQmdKRHROYVlXN1FF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:48:59.000Z",
+                    "authors": [
+                        "Stephen Smith"
+                    ],
+                    "source_url": "https://www.yahoo.com",
+                    "source_name": "Yahoo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGxoYUc5dkxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTTNaamRqQnpPUklDWlc0b0FBUAE",
+                            "topic_name": "Stephen Smith"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k2c3NuWkRSSHA3MDVZOFhKSGhTZ0FQAQ"
+        },
+        {
+            "title": "Warriors are confident they’ve solved the Rockets — if they can limit mistakes",
+            "link": "https://www.nytimes.com/athletic/6295332/2025/04/21/warriors-playoffs-game-1-rockets-defense/",
+            "snippet": "HOUSTON — The Golden State Warriors led for nearly the entirety of a bruising, impressive 95-85 Game 1 road win in Houston late Sunday night ...",
+            "photo_url": "https://static01.nyt.com/athletic/uploads/wp/2025/04/21060035/butler-1-scaled.jpeg?width=1200&height=900&fit=cover",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXNMVTFzU2xONVduQmFkelozVFJERUF4aW1CU2dLTWdrSkZZakZzcVp6cEFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T13:33:55.000Z",
+            "authors": [
+                "Anthony Slater"
+            ],
+            "source_url": "https://www.nytimes.com",
+            "source_name": "The New York Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVRWc2FESnlOQklDWlc0b0FBUAE",
+                    "topic_name": "Anthony Slater"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Butler's poise helps Dubs win Game 1 out of '1997'",
+                    "link": "https://www.espn.com/nba/story/_/id/44777994/jimmy-butler-poise-helps-warriors-secure-game-1-win-vs-rockets",
+                    "photo_url": "https://a.espncdn.com/photo/2025/0421/r1481726_1296x729_16-9.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXFVMjk2Y1VnNU5YUTBWak5tVFJDb0FSaXNBaWdCTWdrUk1JSUpQdU1kYndF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T07:11:00.000Z",
+                    "authors": [
+                        "Ohm Youngmisuk"
+                    ],
+                    "source_url": "https://www.espn.com",
+                    "source_name": "ESPN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1Z6Y0c0dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTmpjMlpEYzVOaElDWlc0b0FBUAE",
+                            "topic_name": "Ohm Youngmisuk"
+                        }
+                    ]
+                },
+                {
+                    "title": "How the Warriors can fix their biggest Game 1 flaw against the ‘oversized’ Rockets",
+                    "link": "https://www.mercurynews.com/2025/04/21/warriors-rockets-rebounding-matchup-nba-playoffs-first-round/",
+                    "photo_url": "https://www.mercurynews.com/wp-content/uploads/2025/04/BNG-L-WARRIORS-0421-1.jpg?w=1024",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFSM28zT0RCelFWTlVWa0Z4VFJEa0F4ajVCQ2dLTWdtTlVvb3Z0YWFaU1FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:47:49.000Z",
+                    "authors": [
+                        "Joseph Dycus"
+                    ],
+                    "source_url": "https://www.mercurynews.com",
+                    "source_name": "The Mercury News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mercurynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMjFsY21OMWNubHVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvNWNuTTFOUklDWlc0b0FBUAE",
+                            "topic_name": "Joseph Dycus"
+                        }
+                    ]
+                },
+                {
+                    "title": "NBA playoffs: Stephen Curry leads Warriors past Rockets; Cavs guards dominate Heat; Celtics rally and Thunder roll",
+                    "link": "https://sports.yahoo.com/nba/article/nba-playoffs-stephen-curry-leads-warriors-past-rockets-cavs-guards-dominate-heat-celtics-rally-and-thunder-roll-192507659.html",
+                    "photo_url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/9656d88b-19ac-47f1-ad78-8ac7b6fe0dda/main/1280x720/30s496ms/match/image.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNUNjVlYyTVRFM1FrVndRbXRKVFJDZkF4ampCU2dLTWdzQmdJQUp0U0VtVjJndVhB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T04:18:45.000Z",
+                    "authors": [
+                        "Jason Owens"
+                    ],
+                    "source_url": "https://sports.yahoo.com",
+                    "source_name": "Yahoo Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sports.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSE53YjNKMGN5NTVZV2h2Ynk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Y0Rkc2RteG9NaElDWlc0b0FBUAE",
+                            "topic_name": "Jason Owens"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ptNjZuUkRSSG8tOUdaYzJyLTFDZ0FQAQ"
+        },
+        {
+            "title": "NFL insider 2025 mock draft: Shedeur Sanders falls out of first round, only one QB taken on Day 1",
+            "link": "https://www.cbssports.com/nfl/draft/news/nfl-insider-2025-mock-draft-shedeur-sanders-falls-out-of-first-round-only-one-qb-taken-on-day-1/",
+            "snippet": "Here's my one and only mock for the 2025 NFL draft. You may notice there's no Shedeur Sanders — or any quarterback of any name other than Cam ...",
+            "photo_url": "https://sportshub.cbsistatic.com/i/r/2024/11/21/073764a8-1c31-41ed-b814-47a6e7c03101/thumbnail/1200x675/ea01c970248a34fe78b5f5ca0474f409/cam-ward-miami-usatsi.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVhekpNY1VwTlpqZEROamN4VFJDZkF4ampCU2dLTWdhQkZJek5sUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T15:14:02.000Z",
+            "authors": [
+                "Jonathan Jones"
+            ],
+            "source_url": "https://www.cbssports.com",
+            "source_name": "CBS Sports",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbssports.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV05pYzNOd2IzSjBjeTVqYjIwb0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKd2RIQTVhaElDWlc0b0FBUAE",
+                    "topic_name": "Jonathan Jones"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Adam Schefter's NFL draft intel: Everything he's hearing ahead of Round 1",
+                    "link": "https://www.espn.com/nfl/draft2025/insider/story/_/id/44715900/2025-nfl-draft-notes-intel-buzz-adam-schefter-first-round-picks-teams-shedeur-sanders",
+                    "photo_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0419%2Fr1481046_1296x729_16%2D9.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUZTRUpOTFd0c1JFNVlaMmh6VFJDb0FSaXNBaWdCTWdrQkU1U2xvcWRNcFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T10:10:00.000Z",
+                    "authors": [
+                        "Adam Schefter"
+                    ],
+                    "source_url": "https://www.espn.com",
+                    "source_name": "ESPN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1Z6Y0c0dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNR2R3YlhkMkVnSmxiaWdBUAE",
+                            "topic_name": "Adam Schefter"
+                        }
+                    ]
+                },
+                {
+                    "title": "NFL mock draft from CBS Sports sees six Florida football players selected in 2025",
+                    "link": "https://sports.yahoo.com/article/nfl-mock-draft-cbs-sports-163856760.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/3hk5nUJxCQ68LZtHfpp.0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://media.zenfs.com/en/gators_wire_usa_today_articles_447/2b219f4c59d0f6aeaafd12b31a05ab0f",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJRa1Z2UWpsV1N6aHdTazk2VFJDckF4aUFCU2dLTWdZWlU1Q3RwUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:05:16.000Z",
+                    "authors": [
+                        "Adam Dubbin, BA, MSc, MS"
+                    ],
+                    "source_url": "https://sports.yahoo.com",
+                    "source_name": "Yahoo Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sports.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSE53YjNKMGN5NTVZV2h2Ynk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1jd2VEWnFhaElDWlc0b0FBUAE",
+                            "topic_name": "Adam Dubbin, BA, MSc, MS"
+                        }
+                    ]
+                },
+                {
+                    "title": "Eric Edholm 2025 NFL mock draft 3.0: Four first-round quarterbacks! Jaguars take RB Ashton Jeanty",
+                    "link": "https://www.nfl.com/news/eric-edholm-2025-nfl-mock-draft-3-0-four-first-round-quarterbacks-jaguars-take-rb-ashton-jeanty",
+                    "photo_url": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/mwwliojlfxdh1a7mqcpp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXJOMjFMYXpSUFMwOWxUMmxSVFJDb0FSaXNBaWdCTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T16:21:00.000Z",
+                    "authors": [
+                        "Eric Edholm"
+                    ],
+                    "source_url": "https://www.nfl.com",
+                    "source_name": "NFL.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nfl.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjVtYkM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJKMFozTjNjUklDWlc0b0FBUAE",
+                            "topic_name": "Eric Edholm"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPZzdmVkRSRWM1d2dYWWZwb0hDZ0FQAQ"
+        },
+        {
+            "title": "Pedro Pascal Speaks Out After ‘The Last of Us’ Twist and Says ‘I’m in Active Denial’; Bella Ramsey ‘Sobbed’ Reading It: A ‘Brilliant Achievement’ If It’s ‘Painful for People’",
+            "link": "https://variety.com/2025/tv/news/pedro-pascal-bella-ramsey-joel-death-last-of-us-1236373640/",
+            "snippet": "Pedro Pascal is speaking out about the “The Last of Us” Season 2 Episode 2, in which his beloved Joel is killed off after being beaten to death ...",
+            "photo_url": "https://variety.com/wp-content/uploads/2025/04/the-last-of-us.png?w=1000&h=667&crop=1",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZVbmhQVEVsT2NtRnZOWEl4VFJERUF4aW1CU2dLTWdrQk1wajBJT21oQ2dJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T03:36:00.000Z",
+            "authors": [
+                "Zack Sharf"
+            ],
+            "source_url": "https://variety.com",
+            "source_name": "Variety",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://variety.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1poY21sbGRIa3VZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW5Sa2REVjBkQklDWlc0b0FBUAE",
+                    "topic_name": "Zack Sharf"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "‘The Last of Us’ Season 2, Episode 2 Recap: Revenge",
+                    "link": "https://www.nytimes.com/2025/04/21/arts/television/the-last-of-us-recap-season-2-episode-2-joel.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/20/arts/20cul-lastofus-recap/20cul-lastofus-recap-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlTRmRwVURkdFNGRnpkVUZDVFJDUUF4allCQ2dLTWdZdGRaS3VMUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T14:56:56.000Z",
+                    "authors": [
+                        "Noel Murray"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvYkhBemF6bHVheElDWlc0b0FBUAE",
+                            "topic_name": "Noel Murray"
+                        }
+                    ]
+                },
+                {
+                    "title": "‘The Last of Us’ creators explain key changes to Joel’s shocking death — including why they cut a beloved video game moment between Ellie and Dina",
+                    "link": "https://www.yahoo.com/entertainment/articles/last-us-creators-explain-key-154259960.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/Vp12bQ6S2ZPzJtnGDuMcYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/gold_derby_993/402354b9704b0c2412772a26bc16282e",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdWM1JVY1Y5VlJrTTFNalZYVFJERUF4aW1CU2dLTWdhaE5KYXNuUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T15:42:59.000Z",
+                    "authors": [],
+                    "source_url": "https://www.yahoo.com",
+                    "source_name": "Yahoo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGxoYUc5dkxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pedro Pascal opens up about pivotal Last of Us twist: 'I'm in active denial' (exclusive)",
+                    "link": "https://ew.com/pedro-pascal-the-last-of-us-joel-abby-twist-active-denial-exclusive-11718560",
+                    "photo_url": "https://ew.com/thmb/x7nq8Z--6WdwBwRqEm_uZgRuJmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Last-of-Us-Cover-Episodics-041425-04-7ab3c2dc21ab44debecbf67fa53e286e.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFiM0EzTjFCd1FtRklUMDlXVFJERUF4aW1CU2dLTWdZMU5KaHdIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T02:45:00.000Z",
+                    "authors": [],
+                    "source_url": "https://ew.com",
+                    "source_name": "Entertainment Weekly",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ew.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqHggKIhhDQklTREFnTWFnZ0tCbVYzTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l4OXR2WERSRTVidVNNT2pDdzNDZ0FQAQ"
+        },
+        {
+            "title": "Brown and Horner share views on Verstappen’s penalty",
+            "link": "https://www.formula1.com/en/latest/article/brown-and-horner-share-contrasting-views-on-verstappens-penalty-in-saudi.4b7ohrLjWwogz8nKeGs7yk",
+            "snippet": "After surging to pole position in Saturday's Qualifying, Verstappen initially held the lead off the line when Sunday's race got underway.",
+            "photo_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2025/Miscellaneous/Horner%20Brown%20header%20image",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWtTWFZETjI1eWVFcERZWEJ6VFJDZkF4ampCU2dLTWdrSlVKU1hwR2lwQ1FJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T08:33:20.000Z",
+            "authors": [],
+            "source_url": "https://www.formula1.com",
+            "source_name": "Formula 1",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.formula1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER1p2Y20xMWJHRXhMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Max Verstappen says ‘people can’t handle the full truth’ after Saudi Arabia time-penalty",
+                    "link": "https://www.cnn.com/2025/04/21/sport/max-verstappen-saudi-arabia-time-penalty-spt-intl/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2211157960.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVYMmh4TFZWalNIZGxabWswVFJDZkF4amlCU2dLTWdZcEpJaXVHUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T10:13:00.000Z",
+                    "authors": [
+                        "Ben Church"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTUhsZmN6VnFkQklDWlc0b0FBUAE",
+                            "topic_name": "Ben Church"
+                        }
+                    ]
+                },
+                {
+                    "title": "Verstappen’s pseudo-silence spoke volumes of the dissatisfaction in F1 | Giles Richards",
+                    "link": "https://www.theguardian.com/sport/2025/apr/21/formula-one-max-verstappen-red-bull-fia-saudi-arabian-grand-prix",
+                    "photo_url": "https://i.guim.co.uk/img/media/8f9275ab80f6badf940158014769d0d443a3d0f2/0_153_4000_2400/master/4000.jpg?width=465&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFaMmhHV1VWMFVpMTRiRFpKVFJDWEFoalJBeWdLTWdhWko1QkptZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:02:00.000Z",
+                    "authors": [
+                        "Giles Richards"
+                    ],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURSek1WOHhaQklDWlc0b0FBUAE",
+                            "topic_name": "Giles Richards"
+                        }
+                    ]
+                },
+                {
+                    "title": "How Piastri-Verstappen incident led to McLaren's Saudi win",
+                    "link": "https://www.espn.com/racing/f1/story/_/id/44774829/how-oscar-piastri-max-verstappen-incident-led-mclaren-saudi-arabian-gp-f1-win",
+                    "photo_url": "https://a.espncdn.com/photo/2025/0421/r1481689_1296x729_16-9.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdNSEZXU2tZM01qQnRUbEF0VFJDb0FSaXNBaWdCTWdhQk1LQWxIUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T02:11:00.000Z",
+                    "authors": [
+                        "Laurence Edmondson"
+                    ],
+                    "source_url": "https://www.espn.com",
+                    "source_name": "ESPN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1Z6Y0c0dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5ReGNUY3pkaElDWlc0b0FBUAE",
+                            "topic_name": "Laurence Edmondson"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pmc2ViWURSSG9Jem5YdHRsODJDZ0FQAQ"
+        },
+
+        {
+            "title": "Oppo K13 5G launched for mid segment buyers with 7000 mAh battery, Snapdragon processor",
+            "link": "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-k13-5g-launched-for-mid-segment-buyers-with-7000-mah-battery-snapdragon-processor/article69473591.ece",
+            "snippet": "Oppo K13 5G has a 6.67-inch AMOLED FHD+ display with a 120 Hz refresh rate and 1200 nits of peak brightness. It also supports wet touch.",
+            "photo_url": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/27roch/article69473592.ece/alternates/LANDSCAPE_1200/wat5ggis.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRNbWMyWHpZeldXTkhSVlpNVFJDZkF4ampCU2dLTWdZWllKaVVLQWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T07:06:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Oppo K13 5G Launch: Budget Android phone with 7000mAh battery debuts in India",
+                    "link": "https://www.deccanherald.com/technology/gadgets/oppo-k13-5g-with-qualcomm-snapdragon-6-gen-4-silicon-launched-in-india-3503073",
+                    "photo_url": "https://images.deccanherald.com/deccanherald%2F2025-04-21%2Fc635fm99%2FOppo-K13-5G.jpg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFYMmxNVGtWTWVVcFlUMHRVVFJDZkF4ampCU2dLTWdZTkE0aVBpUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:10:25.000Z",
+                    "authors": [],
+                    "source_url": "https://www.deccanherald.com",
+                    "source_name": "Deccan Herald",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsWTJOaGJtaGxjbUZzWkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "OPPO's new brand film turns college canteen into gaming battleground",
+                    "link": "https://www.afaqs.com/news/advertising/oppos-new-brand-film-turns-college-canteen-into-gaming-battleground-8985624",
+                    "photo_url": "https://img-cdn.publive.online/fit-in/580x326/filters:format(webp)/afaqs/media/media_files/2025/04/21/FyFKEU8TDsGkB57Tz66d.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRZakpZWkVKU2VsRlhZVXN6VFJER0FoakVCQ2dLTWdhSlVJaXhyQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T10:03:46.000Z",
+                    "authors": [],
+                    "source_url": "https://www.afaqs.com",
+                    "source_name": "afaqs!",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.afaqs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV0ZtWVhGekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Oppo launches new smartphone with 7000mAh battery, 80W charging for Rs 18,000",
+                    "link": "https://www.indiatvnews.com/technology/gadgets/oppo-launches-new-smartphone-with-7000mah-battery-80w-charging-for-rs-18-000-2025-04-21-986561",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/355_-/2025/04/oppo-k13-launched-in-india-1745225467.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVhOR3MyUmkxUk1tWkZjalEwVFJESEFSampBaWdLTWdtZEpJYVBsZXFLS3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T08:51:24.000Z",
+                    "authors": [
+                        "Om Gupta"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyY0hwMGNIbzVkaElDWlc0b0FBUAE",
+                            "topic_name": "Om Gupta"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p6a2ZfTURSRXc2eTZPVDVNeXV5Z0FQAQ"
+        },
+        {
+            "title": "We've built a streamlined home cinema system around the awesome LG C5 OLED TV",
+            "link": "https://www.whathifi.com/tv-home-cinema/weve-built-a-streamlined-home-cinema-system-around-the-awesome-lg-c5-oled-tv",
+            "snippet": "Great pictures, great sound, and an endless amount of great content to consume.",
+            "photo_url": "https://cdn.mos.cms.futurecdn.net/NxaG5bdNZkXbiJUR2dNbpK.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNUhWa3BPV0Vac1dHcFBkVUZ6VFJDZkF4ampCU2dLTWdzRlFZYTBKQ2pKeG1wc05R=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T06:00:00.000Z",
+            "authors": [
+                "Jonathan Evans",
+                "Tom Parsons"
+            ],
+            "source_url": "https://www.whathifi.com",
+            "source_name": "What Hi-Fi?",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.whathifi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESGRvWVhSb2FXWnBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YmpabU0zWTVOaElDWlc0b0FBUAE",
+                    "topic_name": "Jonathan Evans"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTURablkzaHFheElDWlc0b0FBUAE",
+                    "topic_name": "Tom Parsons"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "LG C5 OLED TV Review: Great Picture; Now Wait for the Price Drop",
+                    "link": "https://www.cnet.com/tech/home-entertainment/lg-c5-oled-tv-review-great-picture-now-wait-for-the-price-drop/",
+                    "photo_url": "https://www.cnet.com/a/img/resize/8481d1cbc51243bb6ca7e4e2148f7ce0bc6a6dba/hub/2025/04/07/08b3d492-46b1-4320-84e5-ab0e6fa5f552/lg-c5-1.jpg?auto=webp&fit=crop&height=362&width=644",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdkazVTV2tWbk9VTXpNVVl4VFJEcUFoaUVCU2dLTWdhRmNvaUx0UVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-15T11:00:00.000Z",
+                    "authors": [
+                        "Ty Pendlebury"
+                    ],
+                    "source_url": "https://www.cnet.com",
+                    "source_name": "CNET",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WlhRdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhrNWJYQjNlaElDWlc0b0FBUAE",
+                            "topic_name": "Ty Pendlebury"
+                        }
+                    ]
+                },
+                {
+                    "title": "LG's brand-new C5 OLED TV already has a discount",
+                    "link": "https://mashable.com/article/april-15-lg-c5-oled-tv-deal",
+                    "photo_url": "https://helios-i.mashable.com/imagery/articles/02cJPen5umve7dDcpcVravQ/hero-image.fill.size_1248x702.v1744727114.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRVM1pZUjNNNFVtSm5UUzFKVFJDZkF4ampCU2dLTWdhWlJKRHBIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-15T14:36:10.000Z",
+                    "authors": [
+                        "Leah Stodart"
+                    ],
+                    "source_url": "https://mashable.com",
+                    "source_name": "Mashable",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzFoYzJoaFlteGxMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1OamJqQmljaElDWlc0b0FBUAE",
+                            "topic_name": "Leah Stodart"
+                        }
+                    ]
+                },
+                {
+                    "title": "Not sure if the LG G5 OLED TV is worth the price? These 5 viewing experience convinced me that it is",
+                    "link": "https://www.techradar.com/televisions/i-went-deep-with-the-lg-g5-oled-tv-and-these-5-viewing-experiences-show-how-awesome-its-picture-is",
+                    "photo_url": "https://cdn.mos.cms.futurecdn.net/VBmE6Rv2MdhpHvJ3LBYasB.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRPV2QwVFU0dFIxSm9OeTFqVFJDZkF4ampCU2dLTWdZWlVvd3JKUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-15T14:19:34.000Z",
+                    "authors": [],
+                    "source_url": "https://www.techradar.com",
+                    "source_name": "TechRadar",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJsWTJoeVlXUmhjaTVqYjIwb0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2poaHVYSkRSSENtTnlQZTB0LTlDZ0FQAQ"
+        },
+        {
+            "title": "Xiaomi launches new budget smartwatch Redmi Watch Move priced at Rs 1,999",
+            "link": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-new-budget-smartwatch-redmi-watch-move-9956984/",
+            "snippet": "Xiaomi's newly unveiled Redmi Watch Move comes with more than 140 workout modes and has Hindi language support.",
+            "photo_url": "https://images.indianexpress.com/2025/04/Tech-feature-images195.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWliSEJUUmxVek5WZE5SVzlrVFJDZkF4ampCU2dLTWdrbFlJcVFSR1Y3NmdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T11:48:00.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Gadget Launch Redmi Watch: Xiaomi launches Redmi Watch Move with AMOLED display, 14-Day battery life",
+                    "link": "https://www.deccanherald.com/technology/gadgets/xiaomi-unveils-redmi-watch-move-in-india-3503023",
+                    "photo_url": "https://images.deccanherald.com/deccanherald%2F2025-04-21%2F0mcb9j7i%2FRedmi-Watch-Move-CS.jpg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUxNRTVEVDFkaFFsOWlXSHBVVFJDZkF4ampCU2dLTWdrVk1ZcUptcWdqY1FF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T13:54:04.000Z",
+                    "authors": [],
+                    "source_url": "https://www.deccanherald.com",
+                    "source_name": "Deccan Herald",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsWTJOaGJtaGxjbUZzWkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "REDMI Watch Move with 1.85″ AMOLED display, Bluetooth calling, up to 14 days battery life launched in India for Rs. 1999",
+                    "link": "https://www.fonearena.com/blog/451744/redmi-watch-move-price-india-features.html",
+                    "photo_url": "https://images.fonearena.com/blog/wp-content/uploads/2025/04/REDMI-Watch-Move-India.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTNSVjlSUldNNGJqVk1PRFo0VFJDVEF4ajVCU2dLTWdtWkE0cVB1V1ZqQkFN=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T06:47:39.000Z",
+                    "authors": [],
+                    "source_url": "https://www.fonearena.com",
+                    "source_name": "FoneArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1p2Ym1WaGNtVnVZUzVqYjIwb0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Xiaomi launches its first locally made smartwatch Redmi Watch Move in India",
+                    "link": "https://www.thehindu.com/sci-tech/technology/gadgets/xiaomi-launches-its-first-locally-made-smartwatch-redmi-watch-move-in-india/article69473645.ece",
+                    "photo_url": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/etrjg5/article69473649.ece/alternates/LANDSCAPE_1200/Redmi%20Watch%20Move-02.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdUblZoU1hSRVQweHRMVEZYVFJDZkF4ampCU2dLTWdhQlFZNFRuUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T07:27:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pjczV6WkRSRjRwTjlOSjYyNGNDZ0FQAQ"
+        },
+        {
+            "title": "Nothing CMF Phone 2 Pro Set to Launch with 50MP Camera and Dimensity 7300 Pro on April 28",
+            "link": "https://www.thehansindia.com/tech/nothing-cmf-phone-2-pro-set-to-launch-with-50mp-camera-and-dimensity-7300-pro-on-april-28-964591",
+            "snippet": "Nothing's CMF Phone 2 Pro with a 50MP camera, Dimensity 7300 Pro, and new design debuts April 28 alongside fresh audio gear.",
+            "photo_url": "https://assets.thehansindia.com/h-upload/2025/04/21/1544290-nothing.webp?width=500&height=300",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdaVkpXWTJ4a1lYSXlURFZ5VFJDZkF4ampCU2dLTWdhRlVZb3pKUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T13:00:52.000Z",
+            "authors": [
+                "Kahekashan Kahekashan"
+            ],
+            "source_url": "https://www.thehansindia.com",
+            "source_name": "The Hans India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehansindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJvWldoaGJuTnBibVJwWVM1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5RNGJGOXlOQklDWlc0b0FBUAE",
+                    "topic_name": "Kahekashan Kahekashan"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "CMF Phone 2 Pro to get Essential Space and dual tone finish",
+                    "link": "https://www.thehindu.com/sci-tech/technology/gadgets/cmf-phone-2-pro-to-get-essential-space-and-dual-tone-finish/article69473929.ece",
+                    "photo_url": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/a8cvuf/article69473927.ece/alternates/LANDSCAPE_1200/Untitled.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDFSMDQyVTNoc2EyRjZhblJrVFJDZkF4ampCU2dLTWdhWlZJb3FMZ1U=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T09:29:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Nothing’s Sub-brand CMF to launch Phone 2 Pro on April 28th. Here is what you can expect",
+                    "link": "https://m.economictimes.com/magazines/panache/nothings-sub-brand-cmf-to-launch-phone-2-pro-on-april-28th-here-is-what-you-can-expect/articleshow/120477908.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120477976,width-1200,height-900,resizemode-4,imgsize-14522/cmf-phone-2-pro.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdlRU5hT0dKNmFuWlFXVjg1VFJEZ0F4aUFCU2dLTWdhQlJJck9wUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T07:52:06.000Z",
+                    "authors": [
+                        "Dhruv Mohan"
+                    ],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzNGMmJXaHNaeElDWlc0b0FBUAE",
+                            "topic_name": "Dhruv Mohan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Nothing to launch CMF Phone 2 Pro with 50MP rear camera and Dimensity 7300 Pro chipset on April 28",
+                    "link": "https://www.indiatoday.in/technology/news/story/nothing-to-launch-cmf-phone-2-pro-with-50mp-rear-camera-and-dimensity-7300-pro-chipset-on-april-28-2712138-2025-04-21",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/cmf-phone-2-pro-210436685-16x9_0.jpg?VersionId=wxncslLKxUJyobC7i85CoFANT.rI4YXA&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5lRGhRUlRKYWJFZzVlRVYwVFJDRUF4aXlCU2dLTWdhQlVZb3pKUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T08:19:34.000Z",
+                    "authors": [
+                        "Divya Bhati"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNwM05XWTJNQklDWlc0b0FBUAE",
+                            "topic_name": "Divya Bhati"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oza3REVERSSFNhM1FEYmhfZ0V5Z0FQAQ"
+        },
+        {
+            "title": "Vivo X200 Ultra With Snapdragon 8 Elite SoC, 200-Megapixel Telephoto Camera Launched: Price, Specificatio...",
+            "link": "https://www.gadgets360.com/mobiles/news/vivo-x200-ultra-price-launch-specifications-features-8219306",
+            "snippet": "The new camera flagship packs a Zeiss-branded triple rear camera unit, comprising two Sony LYT-818 sensors and a 200-megapixel telephoto sensor.",
+            "photo_url": "https://i.gadgets360cdn.com/large/ultra_vivo_x200_1745242034965.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNibWMxYzBoTWVscG5aSEZRVFJDZkF4ampCU2dLTWdhQk1KSVZOUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T14:12:53.000Z",
+            "authors": [
+                "Nithya Nair",
+                "Siddharth Suvarna"
+            ],
+            "source_url": "https://www.gadgets360.com",
+            "source_name": "Gadgets 360",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gadgets360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWRoWkdkbGRITXpOakF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WW1oMGVURm9hQklDWlc0b0FBUAE",
+                    "topic_name": "Nithya Nair"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGd2JuSnhPUklDWlc0b0FBUAE",
+                    "topic_name": "Siddharth Suvarna"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "vivo X200 Ultra debuts with an add-on lens, X200s joins along with a huge battery - GSMArena.com news",
+                    "link": "https://www.gsmarena.com/vivo_x200_ultra_x200s_official-news-67474.php",
+                    "photo_url": "https://fdn.gsmarena.com/imgroot/news/25/04/vivo-x200-ultra-x200s-ofic/-1220x526/gsmarena_001.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZOSE5YVUZjeFgyRjBWSFpJVFJEckFoak1CaWdLTWdZcFJZck9KUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T14:10:03.000Z",
+                    "authors": [],
+                    "source_url": "https://www.gsmarena.com",
+                    "source_name": "GSMArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2R6YldGeVpXNWhMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "vivo X200s with 6.67″ 1.5K 120Hz AMOLED display, Dimensity 9400+, 6200mAh battery, IP69 ratings announced",
+                    "link": "https://www.fonearena.com/blog/451844/vivo-x200s-price-specifications.html",
+                    "photo_url": "https://images.fonearena.com/blog/wp-content/uploads/2025/04/vivo-X200s-.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJabGs0YVhKWk5GSnRUbmRLVFJDOUF4aXdCU2dLTWdZZHdJenRRUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T12:20:38.000Z",
+                    "authors": [
+                        "Srivatsan Sridhar"
+                    ],
+                    "source_url": "https://www.fonearena.com",
+                    "source_name": "FoneArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1p2Ym1WaGNtVnVZUzVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTlhBMmVXSmlaaElDWlc0b0FBUAE",
+                            "topic_name": "Srivatsan Sridhar"
+                        }
+                    ]
+                },
+                {
+                    "title": "Vivo X200 Ultra has Launched and THIS is the Price",
+                    "link": "https://telecomtalk.info/vivo-x200-ultra-has-launched-and-this/993114/",
+                    "photo_url": "https://telecomtalk.info/wp-content/uploads/2025/04/vivo-x200-ultra-has-launched-and-this.jpg.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZVSFpSTFhWSlNrZEJRamREVFJERUF4aW1CU2dLTWdZQllKVFZ0QVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T14:56:28.000Z",
+                    "authors": [
+                        "Kiran Tanuja"
+                    ],
+                    "source_url": "https://telecomtalk.info",
+                    "source_name": "TelecomTalk",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://telecomtalk.info&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJsYkdWamIyMTBZV3hyTG1sdVptOG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TjNoZlpIUjVNQklDWlc0b0FBUAE",
+                            "topic_name": "Kiran Tanuja"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lQOW83VkRSR2xwdlU1R09LaDFTZ0FQAQ"
+        },
+        {
+            "title": "Deals: Poco X7 and X7 Pro get price cuts, Apple iPad Air (M2) discounted - GSMArena.com news",
+            "link": "https://www.gsmarena.com/deals_poco_x7_and_x7_pro_get_price_cuts_apple_ipad_air_m2_discounted-news-67442.php",
+            "snippet": "Right now, the Poco X7 Pro starts at €320 and you can add 4GB of RAM for €20, doubling the storage is another €20. While not quite a flagship ...",
+            "photo_url": "https://fdn.gsmarena.com/imgroot/news/25/04/weekly-deals-17/-1220x526/gsmarena_de.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUxWbGs0UVdkSU9EaG5abTV5VFJEckFoak1CaWdLTWdrQklJcVBHQ2NlY2dF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T16:34:02.000Z",
+            "authors": [],
+            "source_url": "https://www.gsmarena.com",
+            "source_name": "GSMArena.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2R6YldGeVpXNWhMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "POCO F7 Ultra review: A great gaming phone and a massive leap for POCO",
+                    "link": "https://www.gosugamers.net/entertainment/news/74741-poco-f7-ultra-review-a-great-gaming-phone-and-a-massive-leap-for-poco",
+                    "photo_url": "https://static.gosugamers.net/eb/d9/a2/c461b52db1e7876b3b3a8d6bb867df31bb13efdb70c2160a3b6eb33f82.webp?w=1600",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpiSEJ6WVhKdGJUSnFVWE52VFJDZkF4ampCU2dLTWdhQmdwQUVPUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T03:09:27.000Z",
+                    "authors": [],
+                    "source_url": "https://www.gosugamers.net",
+                    "source_name": "GosuGamers",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gosugamers.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWR2YzNWbllXMWxjbk11Ym1WMEtBQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Xiaomi Poco X7 Pro Price in Bangladesh And India",
+                    "link": "https://inews.zoombangla.com/xiaomi-poco-x7-pro-price-in-bangladesh-and-india/",
+                    "photo_url": "https://i0.wp.com/inews.zoombangla.com/wp-content/uploads/2025/04/v.jpg?resize=788%2C443&ssl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZZbmgxV1cxRFVEaFpVVVF4VFJDZkF4ampCU2dLTWdhaEVvYk9GUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T12:36:08.000Z",
+                    "authors": [],
+                    "source_url": "https://inews.zoombangla.com",
+                    "source_name": "Zoom Bangla News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://inews.zoombangla.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR2x1WlhkekxucHZiMjFpWVc1bmJHRXVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Xiaomi Poco F7 Ultra Review: What’s the Verdict for 2025?",
+                    "link": "https://www.mobiledokan.com/review/xiaomi-poco-f7-ultra-full-review",
+                    "photo_url": "https://www.mobiledokan.com/media/xiaomi-poco-f7-ultra-featured-image.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVVbmxoTmpoMFgwbHRTbDgyVFJDdUFSaWlBaWdCTWdhaEJZanNFUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T11:39:15.000Z",
+                    "authors": [],
+                    "source_url": "https://www.mobiledokan.com",
+                    "source_name": "mobiledokan.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.mobiledokan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMjF2WW1sc1pXUnZhMkZ1TG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pfODd2WURSRjlOSHFaTUo2ZnVTZ0FQAQ"
+        },
+        {
+            "title": "Garena Free Fire MAX redeem codes for April 21: Win rewards like diamonds, skins, and know how to redeem codes",
+            "link": "https://www.msn.com/en-in/money/news/garena-free-fire-max-redeem-codes-for-april-21-win-rewards-like-diamonds-skins-and-know-how-to-redeem-codes/ar-AA1DhX6B?ocid=finance-verthp-feeds",
+            "snippet": "Garena Free Fire Max is an upgraded version of the popular Garena Free Fire, which gained traction in India following the ban of its predecessor.",
+            "photo_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DibbB.img?w=768&h=432&m=6",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlRVTAyY1RaT1ZYTnlPREpSVFJDZkF4ampCU2dLTWdhUlE0NW9JUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T09:32:26.000Z",
+            "authors": [],
+            "source_url": "https://www.msn.com",
+            "source_name": "MSN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjF6Ymk1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Garena Free Fire Max: Redeem codes for April 21 to win emotes and diamonds",
+                    "link": "https://www.business-standard.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-april-21-to-win-emotes-and-diamonds-125042100157_1.html",
+                    "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/26/full/1742962612-2714.png?im=FitAndFill=(826,465)",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdOM2hCU2s5MlFuWnNjWHBCVFJDZkF4amlCU2dLTWdhQkE0aXR3UVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T04:30:18.000Z",
+                    "authors": [
+                        "Aashish Kumar Shrivastava"
+                    ],
+                    "source_url": "https://www.business-standard.com",
+                    "source_name": "Business Standard",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtY21kdE5tMTVPQklDWlc0b0FBUAE",
+                            "topic_name": "Aashish Kumar Shrivastava"
+                        }
+                    ]
+                },
+                {
+                    "title": "Garena Free Fire MAX redeem codes for April 21: Win rewards like diamonds, skins, and know how to redeem",
+                    "link": "https://timesofindia.indiatimes.com/technology/gaming/garena-free-fire-max-redeem-codes-for-april-21-win-rewards-like-diamonds-skins-and-know-how-to-redeem-codes/articleshow/120470793.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120471031,width-1280,height-720,resizemode-4/120471031.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5WMkZmUlhsUE5XZHBSMlUzVFJDZkF4ampCU2dLTWdhUlE0NW9JUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T03:52:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Free Fire Max Redeem Codes for April 20, 2025: Get Evo Gun Skins, Loot Crates, more for free",
+                    "link": "https://www.indiatvnews.com/technology/news/free-fire-max-redeem-codes-for-april-20-2025-get-evo-gun-skins-loot-crates-more-for-free-2025-04-20-986396",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/04/ff6-1745127295.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVJRMEZTT0ZSSVEzbFpMVzl1VFJDZkF4ampCU2dLTWdrQkVZYkZLR1V0eGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T05:37:53.000Z",
+                    "authors": [
+                        "Om Gupta"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyY0hwMGNIbzVkaElDWlc0b0FBUAE",
+                            "topic_name": "Om Gupta"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lrcVk3VkRSRWRJZGxBcEdqX0JpZ0FQAQ"
+        },
+        {
+            "title": "Scientists Reveal Olo – A Never-Before-Seen Colour Beyond Human Vision",
+            "link": "https://www.deccanchronicle.com/science/scientists-reveal-olo-a-never-before-seen-colour-beyond-human-vision-1874123",
+            "snippet": "Researchers have discovered 'olo', a colour outside the natural visual spectrum, using advanced laser technology.",
+            "photo_url": "https://www.deccanchronicle.com/h-upload/2025/04/21/1500x900_1909853-colours.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJPVnBJTnpCUExUTmxMV0poVFJDa0Foam1BeWdLTWdZQkFZb21HUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T05:33:46.000Z",
+            "authors": [],
+            "source_url": "https://www.deccanchronicle.com",
+            "source_name": "Deccan Chronicle",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanchronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMlJsWTJOaGJtTm9jbTl1YVdOc1pTNWpiMjBvQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Scientists Discover 'Olo': A New Colour Beyond Human Vision",
+                    "link": "https://www.ndtv.com/science/scientists-discover-olo-a-new-color-beyond-human-vision-8205075",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/l4tla8a4_as_625x300_19_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNU5aVFJVY0ZGSU56bFhjbGd5VFJDeUF4akNCU2dLTWdPQkJ5dw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T15:15:32.000Z",
+                    "authors": [
+                        "Abhinav Singh"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzJOM1kyUTJZaElDWlc0b0FBUAE",
+                            "topic_name": "Abhinav Singh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Scientists Just Invented a New Color — And Your Eyes Were Never Meant to See It",
+                    "link": "https://dailygalaxy.com/2025/04/scientists-just-invented-a-new-color/",
+                    "photo_url": "https://dailygalaxy.com/wp-content/uploads/2025/04/Scientists-Just-Invented-a-New-Color-380x230.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5iMUU1TTFKMk1URlJYMEZ2VFJEbUFSajhBaWdLTWdhZE01YU5vUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:00:00.000Z",
+                    "authors": [],
+                    "source_url": "https://dailygalaxy.com",
+                    "source_name": "The Daily Galaxy",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dailygalaxy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMlJoYVd4NVoyRnNZWGg1TG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Novel color via stimulation of individual photoreceptors at population scale",
+                    "link": "https://www.science.org/doi/10.1126/sciadv.adu1052",
+                    "photo_url": "https://www.science.org/cms/10.1126/sciadv.adu1052/asset/676ebf10-6471-4c5a-9b79-dfe102d331a1/assets/images/large/sciadv.adu1052-f1.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUZTa1ZmY2s1S00yVkdWMFZJVFJEMkF4ampCQ2dLTWdrQk1ZU2pWcUt4eHdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T18:08:06.000Z",
+                    "authors": [
+                        "Congli Wang",
+                        "Ramkumar Sabesan",
+                        "Austin Roorda"
+                    ],
+                    "source_url": "https://www.science.org",
+                    "source_name": "Science | AAAS",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.science.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM05qYVdWdVkyVXViM0puS0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1KblpIQXhNeElDWlc0b0FBUAE",
+                            "topic_name": "Congli Wang"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtWDJwNmMyYzJPQklDWlc0b0FBUAE",
+                            "topic_name": "Ramkumar Sabesan"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhjM2QyZHhPQklDWlc0b0FBUAE",
+                            "topic_name": "Austin Roorda"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p6eFozWERSRlNnX1I4YmlUV01pZ0FQAQ"
+        },
+        {
+            "title": "Best AI Phones to Buy in 2025",
+            "link": "https://www.analyticsinsight.net/phones/best-ai-phones-to-buy-in-2025",
+            "snippet": "Discover the best AI phones of 2025 including top picks like iQOO Neo 10R, vivo T4X, vivo V50, and OnePlus 13R. Explore powerful specs, AI ...",
+            "photo_url": "https://media.assettype.com/analyticsinsight/2025-04-21/qhc71cs0/Best-AI-Phones-to-Buy-in-2025.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhWVGRETWw4NGFYbGpXSE5qVFJDY0F4am5CU2dLTWdhWlJJQU1JZ2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T09:00:00.000Z",
+            "authors": [
+                "Pardeep Sharma"
+            ],
+            "source_url": "https://www.analyticsinsight.net",
+            "source_name": "Analytics Insight",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.analyticsinsight.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR0Z1WVd4NWRHbGpjMmx1YzJsbmFIUXVibVYwS0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TTNSelozZzVjaElDWlc0b0FBUAE",
+                    "topic_name": "Pardeep Sharma"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "6 Best Phones Under Rs 50000 In April 2025",
+                    "link": "https://www.timesnownews.com/web-stories/technology/6-best-phones-under-rs-50000-in-april-2025/photostory/151447365.cms",
+                    "photo_url": "https://static.sociofyme.com/thumb/msid-151447365,width-960,height-1280,resizemode-6.cms",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDNZVlpMTVZkSWNESTVZMk5VVFJDQUJSamdBeWdLTWdrQklvRFRsS3BabUFB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T07:20:32.000Z",
+                    "authors": [
+                        "Sparsh Sharma"
+                    ],
+                    "source_url": "https://www.timesnownews.com",
+                    "source_name": "Times Now",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJwYldWemJtOTNibVYzY3k1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzYldzemVUWjNNUklDWlc0b0FBUAE",
+                            "topic_name": "Sparsh Sharma"
+                        }
+                    ]
+                },
+                {
+                    "title": "Best camera phones under ₹30,000 in April 2025: Check the full list",
+                    "link": "https://www.livemint.com/technology/gadgets/best-camera-phones-under-rs-30-000-in-april-2025-check-the-full-list-11744906886928.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/17/600x338/P3_ULTRA_1742374555575_1744906966729.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNWZiR1pJVG5kRFRFZE1TV2RYVFJEU0FoallCQ2dLTWdzQlFZaE1wYWt0N0FsNmN3=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T16:25:16.000Z",
+                    "authors": [
+                        "Govind Choudhary"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTNaNU56azRPUklDWlc0b0FBUAE",
+                            "topic_name": "Govind Choudhary"
+                        }
+                    ]
+                },
+                {
+                    "title": "6 Best AI Phones Under Rs 30000 In April 2025",
+                    "link": "https://www.timesnownews.com/web-stories/technology/6-best-ai-phones-under-rs-30000-in-april-2025/photostory/151447271.cms",
+                    "photo_url": "https://static.sociofyme.com/thumb/msid-151447271,width-960,height-1280,resizemode-6.cms",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRlV3hUT1ZjMmIxbEZkWFZRVFJDQUJSamdBeWdLTWdZQklZRU5XZ00=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T07:04:10.000Z",
+                    "authors": [],
+                    "source_url": "https://www.timesnownews.com",
+                    "source_name": "Times Now",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJwYldWemJtOTNibVYzY3k1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l0dWJiVURSRnc0LXZtbldOY3ZpZ0FQAQ"
+        },
+        {
+            "title": "Redmi Turbo 4 Pro to launch in China on April 24th; first phone to feature Snapdragon 8s Gen 4 chipset",
+            "link": "https://www.91mobiles.com/hub/redmi-turbo-4-pro-china-launch-date-snapdragon-8s-gen-4-chipset/",
+            "snippet": "Redmi Turbo 4 Pro China launch date has been officially announced. it will be the first phone to feature the Snapdragon 8s Gen 4 chipset.",
+            "photo_url": "https://www.91-cdn.com/hub/wp-content/uploads/2025/04/Redmi-Turbo-4-Pro-featured-91.jpg?tr=w-781",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtjMnRDTFZoWU5qVmpWRzFFVFJDZkF4ampCU2dLTWdZQllKVFVKQWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T06:04:37.000Z",
+            "authors": [
+                "Basith Rahman"
+            ],
+            "source_url": "https://www.91mobiles.com",
+            "source_name": "91mobiles.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.91mobiles.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVGt4Ylc5aWFXeGxjeTVqYjIwb0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YTJJNWRsOWZlaElDWlc0b0FBUAE",
+                    "topic_name": "Basith Rahman"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "REDMI Turbo 4 Pro with to be announced on April 24th",
+                    "link": "https://www.fonearena.com/blog/451639/redmi-turbo-4-pro-launch-date.html",
+                    "photo_url": "https://images.fonearena.com/blog/wp-content/uploads/2025/04/Redmi-Turbo-4-Pro-launch-invite.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDFXbkYzWlVsbVJtcGtiR1ZmVFJEX0JCamdBeWdLTWdtaE1ZU3VHZXBiMWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T02:05:09.000Z",
+                    "authors": [
+                        "Srivatsan Sridhar"
+                    ],
+                    "source_url": "https://www.fonearena.com",
+                    "source_name": "FoneArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1p2Ym1WaGNtVnVZUzVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTlhBMmVXSmlaaElDWlc0b0FBUAE",
+                            "topic_name": "Srivatsan Sridhar"
+                        }
+                    ]
+                },
+                {
+                    "title": "Xiaomi to launch Redmi Turbo 4 Pro this week - GSMArena.com news",
+                    "link": "https://www.gsmarena.com/xiaomi_to_launch_redmi_turbo_4_pro_this_week-news-67470.php",
+                    "photo_url": "https://fdn.gsmarena.com/imgroot/news/25/04/xiaomi-redmi-turbo-4-pro-ofic-date/-1220x526/gsmarena_001.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpiVUpJTmpOYWRHMTFTRWxDVFJEckFoak1CaWdLTWdhdFZZRFBxUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T07:50:02.000Z",
+                    "authors": [],
+                    "source_url": "https://www.gsmarena.com",
+                    "source_name": "GSMArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2R6YldGeVpXNWhMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Redmi Turbo 4 Pro launching next week with 2.5K display, Snapdragon 8s Gen 4 chip",
+                    "link": "https://www.msn.com/en-in/lifestyle/shopping/redmi-turbo-4-pro-launching-next-week-with-2-5k-display-snapdragon-8s-gen-4-chip/ar-AA1DaY0F",
+                    "photo_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Db5qS.img?w=768&h=432&m=6",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVPVU5qV21oWGNsZE5RbEF6VFJDZkF4ampCU2dLTWdhUkVaQnVHUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T21:07:58.000Z",
+                    "authors": [
+                        "Divya Bhati"
+                    ],
+                    "source_url": "https://www.msn.com",
+                    "source_name": "MSN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjF6Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNwM05XWTJNQklDWlc0b0FBUAE",
+                            "topic_name": "Divya Bhati"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p3c05IV0RSR1ZydDBFbkd3MDlpZ0FQAQ"
+        },
+        {
+            "title": "Hackers Bypassed Gmail’s Security Filters Bypassed for Sophisticated Phishing Attacks",
+            "link": "https://cybersecuritynews.com/googles-oauth-system-flaws/",
+            "snippet": "A highly sophisticated phishing attack exploiting vulnerabilities in Google's OAuth system has been identified.",
+            "photo_url": "https://i1.wp.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidwblttMHGHT045wvAbv-KYQHOi_QR7lJNTf6poRrDgenlFkBXMBqGX6xUOJBsnO60rGeivwDuvrd3Zxmy-XiR28MdtJZCB9_2QOkv8yTnP8ZlSJ_ZgrhARPptgQPOZksvAWBqxx_btVotLbNaefx3crI-Kr9uxkWmp3wKi4PcXYBAEAK-cXlPDgDFa_dx/s16000/Hackers%20Bypassing%20%20Gmail%20Security%20Filters.webp?w=1600&resize=1600,900&ssl=1",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdOMXBvYTBwVFgyVkxMV0pPVFJDZkF4ampCU2dLTWdZTmdvVEh0UWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T06:23:12.000Z",
+            "authors": [
+                "Guru Baran"
+            ],
+            "source_url": "https://cybersecuritynews.com",
+            "source_name": "CybersecurityNews",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cybersecuritynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV041WW1WeWMyVmpkWEpwZEhsdVpYZHpMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsa2RtdzNOQklDWlc0b0FBUAE",
+                    "topic_name": "Guru Baran"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "New Gmail Warning — Do Not Open This Email From Google",
+                    "link": "https://www.forbes.com/sites/daveywinder/2025/04/21/new-gmail-warning---do-not-open-this-email-from-google/",
+                    "photo_url": "https://imageio.forbes.com/specials-images/imageserve/66f3d1193dc5e648eb57743b/Gmail-App-icon-/960x0.jpg?format=jpg&width=960",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDFjVEo1WDBsUFRqYzJielZrVFJERUF4aW5CU2dLTWdZbEZaTE1sUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T13:24:00.000Z",
+                    "authors": [
+                        "Davey Winder"
+                    ],
+                    "source_url": "https://www.forbes.com",
+                    "source_name": "Forbes",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbVp2Y21KbGN5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRFowYm1Oc0VnSmxiaWdBUAE",
+                            "topic_name": "Davey Winder"
+                        }
+                    ]
+                },
+                {
+                    "title": "New Gmail scam alert: It’s hard to spot and Google is rushing to fix it",
+                    "link": "https://www.hindustantimes.com/technology/new-gmail-scam-alert-it-s-hard-to-spot-and-google-is-rushing-to-fix-it-101745212154262.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/21/550x309/photo-1603791452906-af1740e171bc_1723447313965_1745212229050.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUlZMGRDTFZCdlNteE9SSG8wVFJDMUFoaWxCQ2dLTWdtaFlKRHR0U1ltU2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T05:20:24.000Z",
+                    "authors": [
+                        "Shaurya Sharma"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTVdkaWFHZGliUklDWlc0b0FBUAE",
+                            "topic_name": "Shaurya Sharma"
+                        }
+                    ]
+                },
+                {
+                    "title": "New Gmail phishing attack uses Google's garb: How to avoid it",
+                    "link": "https://m.economictimes.com/tech/technology/new-gmail-phishing-attack-uses-googles-garb-how-to-avoid-it/articleshow/120473674.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120473803,width-1200,height-900,resizemode-4,imgsize-53582/new-phishing-scam-hounds-gmail-users-.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVFVR2xTYmpCNWRWaHNReTF0VFJEZ0F4aUFCU2dLTWdrZE1KSUtOaVlQcndF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T05:20:45.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lyZ0lEVkRSRlREaWptVU1tWUJDZ0FQAQ"
+        },
+        {
+            "title": "iPhone 17 Pro: New design to large battery, expected upgrades from Apple",
+            "link": "https://www.business-standard.com/technology/tech-news/iphone-17-pro-new-design-to-large-battery-expected-upgrades-from-apple-125042100571_1.html",
+            "snippet": "Apple is reportedly planning a substantial design overhaul for the iPhone 17 Pro models, especially focused on the rear camera module. Moving ...",
+            "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/02/full/1733131518-8863.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNjakZvYWkxT1MxOUJPVFZrVFJDZkF4ampCU2dLTWdZUmc1SnFyUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T09:17:00.000Z",
+            "authors": [
+                "Harsh Shivam"
+            ],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzTm1veVlsODNaaElDWlc0b0FBUAE",
+                    "topic_name": "Harsh Shivam"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "iPhone 17 to get a better display",
+                    "link": "https://www.indiatoday.in/visualstories/technology/iphone-17-to-get-a-better-display-226650-18-04-2025",
+                    "photo_url": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2025/04/cropped-imageITG-1744968347419.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBjVlZ4ZDNWQmNVTkNTV2hZVFJEX0JCamdBeWdLTWdhQk01RExvUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T09:27:12.000Z",
+                    "authors": [
+                        "Divya Bhati"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNwM05XWTJNQklDWlc0b0FBUAE",
+                            "topic_name": "Divya Bhati"
+                        }
+                    ]
+                },
+                {
+                    "title": "Apple iPhone 17 Pro And iPhone 17 Pro Max: Latest Leaks Promise New Designs",
+                    "link": "https://www.forbes.com/sites/davidphelan/2025/04/19/apple-iphone-17-pro-latest-leak-shows-new-design-report-says/",
+                    "photo_url": "https://imageio.forbes.com/specials-images/imageserve/68022d87048dce3e0f56a221/The-new-iPhone-16-Pro-and-iPhone-16-Pro-max-on-display---/960x0.jpg?height=474&width=711&fit=bounds",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVRlRVZNUWtVdFRXbHNUMFY1VFJERUF4aW1CU2dLTWdtVlFwSXlKU2lxQ3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T12:58:00.000Z",
+                    "authors": [
+                        "David Phelan"
+                    ],
+                    "source_url": "https://www.forbes.com",
+                    "source_name": "Forbes",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbVp2Y21KbGN5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNSEJpWjNka2F4SUNaVzRvQUFQAQ",
+                            "topic_name": "David Phelan"
+                        }
+                    ]
+                },
+                {
+                    "title": "iPhone 17, 17 Air, 17 Pro, iPhone 17 Pro Max Launch Date, Price In India, Dubai, USA, Colors, Camera, Design,",
+                    "link": "https://www.timesnownews.com/technology-science/gadgets/iphone-17-17-air-17-pro-iphone-17-pro-max-launch-date-price-in-india-dubai-usa-colors-camera-design-specs-what-to-expect-in-september-article-151456112",
+                    "photo_url": "https://images.timesnownews.com/thumb/msid-151456116,thumbsize-812541,width-1280,height-720,resizemode-75/151456116.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHlTRW95UzIxZlJ6Qm5WVk50VFJDZkF4ampCU2dLTWdtcE5JS3NuV2hzdGdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T04:00:00.000Z",
+                    "authors": [
+                        "Shubham Arora"
+                    ],
+                    "source_url": "https://www.timesnownews.com",
+                    "source_name": "Times Now",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJwYldWemJtOTNibVYzY3k1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1KaWJIazNaeElDWlc0b0FBUAE",
+                            "topic_name": "Shubham Arora"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCd0xEVURSRmVSWXhEcjdXUEhpZ0FQAQ"
+        },
+        {
+            "title": "Motorola Edge 60, Edge 60s Monikers Confirmed Via HDR10+ Certification Site",
+            "link": "https://www.gadgets360.com/mobiles/news/motorola-edge-60-60s-moniker-hdr10-plus-site-listing-features-expected-8218734",
+            "snippet": "Motorola Edge 60 is expected to be powered by a MediaTek Dimensity 7300 SoC. · Motorola Edge 60 may pack a 5,200mAh battery with 68W charging ...",
+            "photo_url": "https://i.gadgets360cdn.com/large/motorola_edge_50_motorola_1745234807462.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRSWHBFVldSaWFscG9MVXMwVFJDZkF4ampCU2dLTWdZMVFJelRJQWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T12:17:09.000Z",
+            "authors": [
+                "Manas Mitul",
+                "Sucharita Ganguly"
+            ],
+            "source_url": "https://www.gadgets360.com",
+            "source_name": "Gadgets 360",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gadgets360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWRoWkdkbGRITXpOakF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSeGFucHdOeElDWlc0b0FBUAE",
+                    "topic_name": "Manas Mitul"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvZWpSc01qUjZkaElDWlc0b0FBUAE",
+                    "topic_name": "Sucharita Ganguly"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "I tried an affordable Motorola smartphone with a stylus, and it surprised me",
+                    "link": "https://indianexpress.com/article/technology/tech-reviews/motorola-edge-60-stylus-smartphone-review-9952052/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/Tech-feature-images192.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRWWEIxYTNnM1pWQlVhVXBRVFJEb0FSaWVBeWdLTWdhcE5ZRE5uUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T11:00:00.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Motorola Edge 60 key details revealed ahead of launch: 6.7-inch pOLED display, 5,200mAh battery and more",
+                    "link": "https://www.livemint.com/technology/gadgets/motorola-edge-60-key-details-revealed-ahead-of-launch-6-7-inch-poled-display-5-200mah-battery-and-more-11745198809794.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/21/600x338/moto-houston-IN-highlight-03-d-rsg8jn5l_1744701376183_1745199998881.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxSV0pFV0hKRGQwUmhNRWhDVFJEUkFoallCQ2dLTWdZVlpJeHdNUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T01:48:43.000Z",
+                    "authors": [],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Motorola Edge 60 Stylus quick review: 10 things we noticed about affordable stylus phone",
+                    "link": "https://www.moneycontrol.com/technology/motorola-edge-60-stylus-quick-review-10-things-we-noticed-about-affordable-stylus-phone-photo-gallery-12999519.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250421084953_Motorola-Edge-60-Stylus-4.jpeg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXdWWFppV2tWbk5XTklTa2hhVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T08:57:19.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p4dGNQVkRSR1VJNWd3aUp6bnZ5Z0FQAQ"
+        },
+        {
+            "title": "The OnePlus 13T leaks harder in the flesh, now in the compact company of Vivo, Oppo rivals",
+            "link": "https://www.phonearena.com/news/oneplus-13t-leaks-harder-in-the-flesh_id169646",
+            "snippet": "According to early details, the phone will feature a 50 MP main camera and a 50 MP telephoto lens with 2x optical zoom and up to 4x lossless ...",
+            "photo_url": "https://m-cdn.phonearena.com/images/article/169646-wide-two_1200/The-OnePlus-13T-leaks-harder-in-the-flesh-now-in-the-compact-company-of-Vivo-Oppo-rivals.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVNREEwY1Y5UlprazJTVnBYVFJDZkF4ampCU2dLTWdZQmNJeWxzZ2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T13:16:43.000Z",
+            "authors": [
+                "Sebastian Pier"
+            ],
+            "source_url": "https://www.phonearena.com",
+            "source_name": "PhoneArena",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbkJvYjI1bFlYSmxibUV1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyTlhkNE5tTnRheElDWlc0b0FBUAE",
+                    "topic_name": "Sebastian Pier"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "OnePlus 13T launching in 2 days: Full list of specs and when can it come to India",
+                    "link": "https://www.indiatoday.in/technology/news/story/oneplus-13t-launching-in-2-days-full-list-of-specs-and-when-can-it-come-to-india-2712017-2025-04-21",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/oneplus-13t-185835485-16x9_1.jpg?VersionId=rbwbx2wJvb8OC4S6ejcNQTZTYARJ5L0v&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVSRmxIV25STE0xRnNVR0owVFJDRUF4aXlCU2dLTWdhQlZab0RKd2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T05:11:12.000Z",
+                    "authors": [],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "OnePlus 13T's battery size confirmed, will have bypass charging - GSMArena.com news",
+                    "link": "https://www.gsmarena.com/oneplus_13t_battery_size_confirmed-news-67469.php",
+                    "photo_url": "https://fdn.gsmarena.com/imgroot/news/25/04/oneplus-13t-battery-size-confirmed/-1220x526/gsmarena_001.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNRM1ZwYldNeGMwRmtURGRFVFJEckFoak1CaWdLTWdZbFU0cU9LUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T05:30:02.000Z",
+                    "authors": [],
+                    "source_url": "https://www.gsmarena.com",
+                    "source_name": "GSMArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2R6YldGeVpXNWhMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "OnePlus 13s India Launch Tipped In The Next Few Months: What You Can Expect- News18",
+                    "link": "https://www.news18.com/tech/oneplus-13s-india-launch-tipped-in-the-next-few-months-what-you-can-expect-9303643.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/04/OnePlus-13s-India-launch-news-2025-2025-04-5f52f49b119568d341d7a52ecdbe7013.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVVVWxoUWxsVlJrTnlNV1IyVFJDZkF4ampCU2dLTWdZcE5aS3ZuUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T03:30:28.000Z",
+                    "authors": [
+                        "S Aadeetya"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OaVh6QnliQklDWlc0b0FBUAE",
+                            "topic_name": "S Aadeetya"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pXeGNiVURSSEJFRF95a1BjYThTZ0FQAQ"
+        },
+        {
+            "title": "Nubia confirms launch of Z70S Ultra Photographer Edition featuring vintage camera design: All the details",
+            "link": "https://www.moneycontrol.com/technology/nubia-confirms-launch-of-z70s-ultra-photographer-edition-featuring-vintage-camera-design-all-the-details-article-12999930.html",
+            "snippet": "Nubia has officially announced the launch date of its Z70S Ultra Photographer Edition, scheduled for next week.",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250421103729_nubia-zs.jpeg?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZVbXRXWTA5RWFEUnhXSEpNVFJDZkF4ampCU2dLTWdhVk1ZQm90Z1k=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T10:38:07.000Z",
+            "authors": [
+                "Sandip Chakraborty"
+            ],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TXpoM1lqbHpiUklDWlc0b0FBUAE",
+                    "topic_name": "Sandip Chakraborty"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "nubia Z70S Ultra Photographer Edition confirmed for April 28",
+                    "link": "https://www.fonearena.com/blog/451638/nubia-z70s-ultra-photographer-edition-launch-date.html",
+                    "photo_url": "https://images.fonearena.com/blog/wp-content/uploads/2025/04/nubia-Z70S-Ultra-Photographer-Edition-.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXhPV1F3TWtjdFNXSTVWR1ZWVFJDZ0JCaXpCQ2dLTWdrSkFvd0dCbTA5YlFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T03:58:11.000Z",
+                    "authors": [
+                        "Srivatsan Sridhar"
+                    ],
+                    "source_url": "https://www.fonearena.com",
+                    "source_name": "FoneArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1p2Ym1WaGNtVnVZUzVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTlhBMmVXSmlaaElDWlc0b0FBUAE",
+                            "topic_name": "Srivatsan Sridhar"
+                        }
+                    ]
+                },
+                {
+                    "title": "Nubia Z70S Ultra Photographer Edition Launch Date Revealed Alongside Design, Colourways",
+                    "link": "https://www.gadgets360.com/mobiles/news/nubia-z70s-ultra-photographer-edition-launch-date-design-colourways-8203955",
+                    "photo_url": "https://i.gadgets360cdn.com/large/nubia__z70s_ultra_nubia_1745066500268.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1iRzh5ZEVkMVlsbFZlRVJQVFJERUF4aW1CU2dLTWdZQmNJenlKQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T12:43:48.000Z",
+                    "authors": [
+                        "David Delima"
+                    ],
+                    "source_url": "https://www.gadgets360.com",
+                    "source_name": "Gadgets 360",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gadgets360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWRoWkdkbGRITXpOakF1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZVdOb01Hc3hheElDWlc0b0FBUAE",
+                            "topic_name": "David Delima"
+                        }
+                    ]
+                },
+                {
+                    "title": "nubia Z70S Ultra now has an official launch date, stars in many official images - GSMArena.com news",
+                    "link": "https://www.gsmarena.com/nubia_z70s_ultra_now_has_an_official_launch_date_stars_in_many_official_images-news-67462.php",
+                    "photo_url": "https://fdn.gsmarena.com/imgroot/news/25/04/nubia-z70s-ultra-launch-date-official-images/-1220x526/gsmarena_000.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpOM1F0YzFKT1VrUjVZVGhtVFJEckFoak1CaWdLTWdZQklJeTFsQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T10:34:02.000Z",
+                    "authors": [],
+                    "source_url": "https://www.gsmarena.com",
+                    "source_name": "GSMArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2R6YldGeVpXNWhMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pleEozWERSRWtGd3JlUU94V3BDZ0FQAQ"
+        },
+        {
+            "title": "Before Earth Day, Apple Announces 60% Emission Reduction, Says More Recycled Materials Used In Devices",
+            "link": "https://www.ndtvprofit.com/technology/before-earth-day-apple-announces-60-emission-reduction-says-more-recycled-materials-used-in-devices",
+            "snippet": "Apple has announced that it has surpassed a 60% reduction in its global greenhouse gas emissions compared to 2015 levels, as part of its 2030 ...",
+            "photo_url": "https://media.assettype.com/bloombergquint/2025-04-21/99ffp4v9/Apple-celebrates-Earth-Day-MacBook-Airinline.jpg.large2x.jpg?w=1200&auto=format%2Ccompress&q=60&rect=0%2C0%2C3500%2C1969&",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1ZWGxwY21wMVFVOHhXR1V4VFJDZkF4ampCU2dLTWdZZFVvd3dMUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T14:18:54.000Z",
+            "authors": [],
+            "source_url": "https://www.ndtvprofit.com",
+            "source_name": "NDTV Profit",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbTVrZEhad2NtOW1hWFF1WTI5dEtBQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Apple races to surpass rivals in quest to eliminate carbon pollution",
+                    "link": "https://techcrunch.com/2025/04/16/apple-races-to-surpass-rivals-in-quest-to-eliminate-carbon-pollution/",
+                    "photo_url": "https://techcrunch.com/wp-content/uploads/2024/10/Apple-iMac-M4-green-iMac_big.jpg.large_2x.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFkekkzWms5dlEzVlNlbGRpVFJDZkF4ampCU2dLTWdhbFpJQ3RxUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-16T15:59:10.000Z",
+                    "authors": [
+                        "Tim De Chant"
+                    ],
+                    "source_url": "https://techcrunch.com",
+                    "source_name": "TechCrunch",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEblJsWTJoamNuVnVZMmd1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhGcU1YbHliaElDWlc0b0FBUAE",
+                            "topic_name": "Tim De Chant"
+                        }
+                    ]
+                },
+                {
+                    "title": "Aluminium takes the spotlight in Apple’s circular materials strategy",
+                    "link": "https://www.alcircle.com/news/aluminium-takes-the-spotlight-in-apples-circular-materials-strategy-113859",
+                    "photo_url": "https://static.alcircle.com/Imagesopt/imagenew/_imgopt_media_imgopt_1743254782.28519_centre_banner_horizontal_(331_x_183_px).gif/0/0",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUVNVEZ6YWpOWVJrZE5kMUF5VFJDbkFSaXVBaWdCTWdPUmtnbw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T05:31:58.000Z",
+                    "authors": [
+                        "Prerana Pradhan"
+                    ],
+                    "source_url": "https://www.alcircle.com",
+                    "source_name": "alcircle",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.alcircle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER0ZzWTJseVkyeGxMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzZDJJNWQyTnVjaElDWlc0b0FBUAE",
+                            "topic_name": "Prerana Pradhan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Apple surpasses 60% reduction in global emissions, moves closer to 2030 climate goal",
+                    "link": "https://www.esgdive.com/news/apple-surpasses-60-percent-reduction-in-global-emissions-moves-closer-to-2030-climate-goal/745908/",
+                    "photo_url": "https://imgproxy.divecdn.com/iPgQyKLbLAZ9WnEpDG21WaLV_OLItcbo3Ygh1f3xjDA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcHBsZV8yLmpwZw==.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxaRkprT0MxMmNXNUZWVU5wVFJDZkF4ampCU2dLTWdhaGdZQnZOUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T17:50:57.000Z",
+                    "authors": [
+                        "Zoya Mirza"
+                    ],
+                    "source_url": "https://www.esgdive.com",
+                    "source_name": "ESG Dive",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.esgdive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlZ6WjJScGRtVXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YTJKNGQyeHpiQklDWlc0b0FBUAE",
+                            "topic_name": "Zoya Mirza"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lHckpQVURSR3A3eXplMEpPa01TZ0FQAQ"
+        },
+        {
+            "title": "In-Orbit Data Centers Market Analysis 2025: Focus on Future Deployment, Ecosystem and Challenges - ResearchAndMarkets.com",
+            "link": "https://www.businesswire.com/news/home/20250421770595/en/In-Orbit-Data-Centers-Market-Analysis-2025-Focus-on-Future-Deployment-Ecosystem-and-Challenges---ResearchAndMarkets.com",
+            "snippet": "The in-orbit data centers market is projected to be $1.77 billion in 2029, and it is expected to grow at a CAGR of 67.4% and reach $39.09 ...",
+            "photo_url": null,
+            "thumbnail_url": null,
+            "published_datetime_utc": "2025-04-21T14:10:00.000Z",
+            "authors": [],
+            "source_url": "https://www.businesswire.com",
+            "source_name": "Business Wire",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkMmx5WlM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "Mobile phones set to launch in India in April 2025: CMF Phone 2 Pro, Moto Razr 60 and more",
+            "link": "https://www.hindustantimes.com/technology/mobile-phones-set-to-launch-in-india-in-april-2025-cmf-phone-2-pro-moto-razr-60-and-more-101745220448751.html",
+            "snippet": "Mobile phones set to launch in India in April 2025: CMF Phone 2 Pro, Moto Razr 60 and more · April 2025 is going to be exciting for mobile phone ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/21/550x309/smartphone_launching_in_April_1745220943622_1745220943862.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFSVGR6TFZGbE5qRm9WbGxIVFJDMUFoaWxCQ2dLTWdhdEpKYXVtUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T07:41:57.000Z",
+            "authors": [
+                "Ijaj Khan"
+            ],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyTUdZNWVUUmpheElDWlc0b0FBUAE",
+                    "topic_name": "Ijaj Khan"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Vivo T4 5G launch in India on April 22: Snapdragon 7s Gen 3 chip, 7,300mAh battery and everything expected",
+                    "link": "https://www.livemint.com/technology/gadgets/vivo-t4-5g-with-7-300-mah-battery-launching-soon-what-to-expect-11744695298130.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/15/600x338/Vivo_t4_1744698461151_1744698471779.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9aak4wWmtZM1RIcExZamMzVFJEU0FoallCQ2dLTWdtaFVvZ3hMZWVDYVFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-15T06:35:22.000Z",
+                    "authors": [
+                        "Aman Gupta"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WTJod2F6VnhheElDWlc0b0FBUAE",
+                            "topic_name": "Aman Gupta"
+                        }
+                    ]
+                },
+                {
+                    "title": "Vivo T4 5G launching on April 22 with 7,300mAh battery, here is how much it may cost in India",
+                    "link": "https://www.msn.com/en-in/money/news/vivo-t4-5g-launching-on-april-22-with-7-300mah-battery-here-is-how-much-it-may-cost-in-india/ar-AA1D6wNQ?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+                    "photo_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1D6wNr.img?w=768&h=432&m=6&x=251&y=4&s=69&d=69",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNRVTB6V2tGNFltcGFkR0p3VFJDZkF4ampCU2dLTWdhaFJZanNxUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T21:03:02.000Z",
+                    "authors": [
+                        "Ankita Garg"
+                    ],
+                    "source_url": "https://www.msn.com",
+                    "source_name": "MSN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjF6Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OeWFHczNaeElDWlc0b0FBUAE",
+                            "topic_name": "Ankita Garg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Vivo T4-5G: From 7300mAh Battery To 90W Fast Charging, Here’s What To Expect",
+                    "link": "https://news24online.com/tech/vivo-t4-5g-to-launch-tomorrow-from-a-7300mah-battery-to-90w-fast-charging-heres-what-to-expect/538023/",
+                    "photo_url": "https://news24online.com/wp-content/uploads/2025/04/Vivo-T4.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXdMVTF2TnkxVlpsVk1RVGR2VFJDZkF4ampCU2dLTWdrWmNZN3p1S1dLS3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T06:17:09.000Z",
+                    "authors": [],
+                    "source_url": "https://news24online.com",
+                    "source_name": "news24online.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news24online.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzVsZDNNeU5HOXViR2x1WlM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o4aDliVERSSFEyTXZVUEp1bk9DZ0FQAQ"
+        },
+        {
+            "title": "Samsung Galaxy M56 vs Oppo F29 Pro: Display, performance, camera compared",
+            "link": "https://www.hindustantimes.com/technology/samsung-galaxy-m56-vs-oppo-f29-pro-display-performance-camera-compared-101745219320106.html",
+            "snippet": "For display, the Samsung Galaxy M56 features a 6.7-inch Super AMOLED+ display with Full HD+ resolution, 120Hz refresh rate, and Vision Booster ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/21/550x309/m56_v_f29_1745219334489_1745219345666.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHlaMWgxVVc5UVNGRTJlakZNVFJDMUFoaWxCQ2dLTWdrVlVKQUt1aVl1YVFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T07:18:10.000Z",
+            "authors": [
+                "Aishwarya Panda"
+            ],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzZW5GM05tY3hkaElDWlc0b0FBUAE",
+                    "topic_name": "Aishwarya Panda"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Samsung Galaxy A56 vs. Galaxy A55",
+                    "link": "https://www.gsmarena.com/samsung_galaxy_a56_vs_galaxy_a55_review_battery_camera_price_compared-news-67414.php",
+                    "photo_url": "https://fdn.gsmarena.com/imgroot/news/25/04/samsung-galaxy-a56-vs-galaxy-a55/-728x314/gsmarena_000.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNRakp4UVdsTU1WcDRUM0V0VFJDNkFoallCU2dLTWdZTkFKVEZsQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T22:41:02.000Z",
+                    "authors": [],
+                    "source_url": "https://www.gsmarena.com",
+                    "source_name": "GSMArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2R6YldGeVpXNWhMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Samsung Launches Galaxy M56 5G, Segment’s Slimmest Smartphone in India",
+                    "link": "https://news.samsung.com/in/samsung-launches-galaxy-m56-5g-segments-slimmest-smartphone-in-india",
+                    "photo_url": "https://img.global.news.samsung.com/in/wp-content/uploads/2025/04/M56-India-Launch-KV.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1Za1UwYUV4cWFWZ3RTMnBPVFJDU0FSallBaWdCTWdZSklZN3luQWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T11:22:55.000Z",
+                    "authors": [],
+                    "source_url": "https://news.samsung.com",
+                    "source_name": "Samsung Newsroom",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.samsung.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzVsZDNNdWMyRnRjM1Z1Wnk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Samsung sidelined Galaxy S21, S22 and S23 flagships, Galaxy M56 makes it crystal clear",
+                    "link": "https://www.sammyfans.com/2025/04/19/samsung-sidelined-galaxy-s21-and-s22-flagships-galaxy-m56-makes-it-crystal-clear/",
+                    "photo_url": "https://www.sammyfans.com/wp-content/uploads/2023/03/s22-ultra-samsung-brand-logo-img-1000x576.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBWSGh1VERKQ1JqSlRWUzFqVFJDa0F4amFCU2dLTWdZQkVJanJIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T12:07:21.000Z",
+                    "authors": [],
+                    "source_url": "https://www.sammyfans.com",
+                    "source_name": "Sammy Fans",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sammyfans.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWE5oYlcxNVptRnVjeTVqYjIwb0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ozbHJ2UURSSGUtRjJHckxaS2dpZ0FQAQ"
+        },
+        {
+            "title": "iPhone 15 Plus price drops by Rs 8,410",
+            "link": "https://www.indiatoday.in/visualstories/technology/iphone-15-plus-price-drops-by-rs-8410-227387-21-04-2025",
+            "snippet": "The iPhone 15 Plus is listed on Croma with a price tag of Rs 71,490, which is down from its current official retail price of Rs 79,900.",
+            "photo_url": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2025/04/cropped-imageITG-1745230881983.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFWM1o2ZW5CRVUzRkhXbnBGVFJEX0JCamdBeWdLTWdZTk1wTHhvQVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T10:23:43.000Z",
+            "authors": [
+                "Ankita Garg"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OeWFHczNaeElDWlc0b0FBUAE",
+                    "topic_name": "Ankita Garg"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "iPhone 16e is selling at a lower price",
+                    "link": "https://www.indiatoday.in/visualstories/technology/iphone-16e-is-selling-at-a-lower-price-226971-19-04-2025",
+                    "photo_url": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2025/04/cropped-imageITG-1745072376632.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhaSGRxUzJob2MydFpaWGxJVFJEX0JCamdBeWdLTWdZWmM1QlJzUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T14:21:12.000Z",
+                    "authors": [],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "iPhone 15 128GB gets Rs 16,000 discount for Samsung Galaxy S22 users",
+                    "link": "https://www.indiatvnews.com/technology/news/iphone-15-128gb-gets-rs-16-000-discount-for-samsung-galaxy-s22-users-2025-04-20-986401",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/04/iphone-15-128gb-discount-for-samsung-galaxy-s22-users-1745130313.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHdOWGhOVFhvd1dIaGhNVzFHVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T06:25:35.000Z",
+                    "authors": [
+                        "Om Gupta"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyY0hwMGNIbzVkaElDWlc0b0FBUAE",
+                            "topic_name": "Om Gupta"
+                        }
+                    ]
+                },
+                {
+                    "title": "Apple iPhone 16 Pro And iPhone 16 Pro Max Prices Cut By Amazon In Rare Deals",
+                    "link": "https://www.forbes.com/sites/davidphelan/2025/04/17/apple-iphone-16-pro-amazon-slashes-prices-as-it-launches-rare-deals/",
+                    "photo_url": "https://imageio.forbes.com/specials-images/imageserve/67fe32508645f5f7d514144b/A-customer-holds-the-new-Apple-iPhone-16-Pro-in-her-hand---/960x0.jpg?height=474&width=711&fit=bounds",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBWVzlDT0hOWlJIbEtSMGhMVFJERUF4aW1CU2dLTWdhZEZKSkttZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T17:00:00.000Z",
+                    "authors": [
+                        "David Phelan"
+                    ],
+                    "source_url": "https://www.forbes.com",
+                    "source_name": "Forbes",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbVp2Y21KbGN5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNSEJpWjNka2F4SUNaVzRvQUFQAQ",
+                            "topic_name": "David Phelan"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oycXNMUERSR01RYUJDZVdic2J5Z0FQAQ"
+        },
+        {
+            "title": "Infinix Note 50s 5G+ vs Realme P3 5G: Which one to buy under ₹20000",
+            "link": "https://www.hindustantimes.com/technology/infinix-note-50s-5g-vs-realme-p3-5g-which-one-to-buy-under-rs-20000-101745214585198.html",
+            "snippet": "The Infinix Note 50s 5G+ features a 6.78-inch full-HD+ AMOLED display with up to 144Hz refresh rate and a peak brightness of 1300 nits. The ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/21/550x309/Infinix_Note_50s_5G_vs_Realme_P3_5G_1745215293476_1745215293703.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhNbGRhUTFGNFoyZzFSa2x1VFJDMUFoaWxCQ2dLTWdZTlFKQ25uZ28=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T06:08:12.000Z",
+            "authors": [
+                "Ijaj Khan"
+            ],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyTUdZNWVUUmpheElDWlc0b0FBUAE",
+                    "topic_name": "Ijaj Khan"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Infinix Note 50s vs iQOO Z10x vs Realme P3: Which 5G phone offers best value under ₹20,000?",
+                    "link": "https://www.livemint.com/technology/gadgets/infinix-note-50s-vs-iqoo-z10x-vs-realme-p3-which-5g-phone-offers-best-value-under-rs-20000-11745130040403.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/20/600x338/Infinix_Note_50x_iqoo_z10x_1745134057043_1745134064049.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVVZakZxTmtWTFNqVm5aVXd5VFJEU0FoallCQ2dLTWdrSk1KYlZvR25CYUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T07:31:16.000Z",
+                    "authors": [
+                        "Aman Gupta"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WTJod2F6VnhheElDWlc0b0FBUAE",
+                            "topic_name": "Aman Gupta"
+                        }
+                    ]
+                },
+                {
+                    "title": "Infinix Note 50x 5G+ review: Budget brilliance with a few pixelated edges",
+                    "link": "https://www.businesstoday.in/technology/reviews/story/infinix-note-50x-5g-review-budget-brilliance-with-a-few-pixelated-edges-472759-2025-04-21",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/68052024ba36f-infinix-note-50x-5g-202611348-16x9.jpg?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZjVmhRUW5kMFpHTkRlRGN3VFJDZkF4ampCU2dLTWdhaFJJcXRvUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T02:27:40.000Z",
+                    "authors": [
+                        "Pranav Dixit"
+                    ],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oa2RIbGpPUklDWlc0b0FBUAE",
+                            "topic_name": "Pranav Dixit"
+                        }
+                    ]
+                },
+                {
+                    "title": "Infinix Note 50s 5G+ With MediaTek Dimensity 7300 Ultimate SoC, 64-Megapixel Rear Camera Launched in Indi...",
+                    "link": "https://www.gadgets360.com/mobiles/news/infinix-note-50s-5g-price-india-launch-availability-specifications-8193856",
+                    "photo_url": "https://i.gadgets360cdn.com/large/infinix_note_50s_infinix_1744722912773.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNSM00xV0c5YUxYUjJjMDF6VFJDZkF4ampCU2dLTWdZTlk0eG9yUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T06:33:24.000Z",
+                    "authors": [
+                        "Sucharita Ganguly",
+                        "Siddharth Suvarna"
+                    ],
+                    "source_url": "https://www.gadgets360.com",
+                    "source_name": "Gadgets 360",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gadgets360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWRoWkdkbGRITXpOakF1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvZWpSc01qUjZkaElDWlc0b0FBUAE",
+                            "topic_name": "Sucharita Ganguly"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGd2JuSnhPUklDWlc0b0FBUAE",
+                            "topic_name": "Siddharth Suvarna"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pIaWVMU0RSSHRqZ01mdXFpd1ZDZ0FQAQ"
+        },
+        {
+            "title": "Gigantamax Snorlax Event issues spark outrage among Pokémon GO players, Niantic offers apology and extens",
+            "link": "https://timesofindia.indiatimes.com/sports/esports/pokemon/gigantamax-snorlax-event-issues-spark-outrage-among-pokmon-go-players-niantic-offers-apology-and-extension/articleshow/120475450.cms",
+            "snippet": "Esports News: The Gigantamax Snorlax Max Battle Day in Pokémon GO on April 19, 2025, faced significant technical difficulties.",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120475479,width-1280,height-720,resizemode-4/120475479.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9Va05mTjJSMlh6UkdRVUZWVFJDZkF4ampCU2dLTWdZbE1Zek5IUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T07:11:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Gigantamax Snorlax Snoozes into a Pokémon GO Max Battle Day",
+                    "link": "https://www.pokemon.com/us/pokemon-news/gigantamax-snorlax-snoozes-into-a-pokemon-go-max-battle-day",
+                    "photo_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-go/2025/04/16/pokemon-go-169.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtjR2xNU1dwaWNYcGFNRWg2VFJDb0FSaXNBaWdCTWdZbE1Zek5IUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-16T15:06:07.000Z",
+                    "authors": [],
+                    "source_url": "https://www.pokemon.com",
+                    "source_name": "Pokemon.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pokemon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0J2YTJWdGIyNHVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pokemon GO Gigantamax Snorlax Max Battle: Best Counters, Weaknesses, & Shiny Gigantamax Snorlax",
+                    "link": "https://gamerant.com/pokemon-go-gigantamax-snorlax-max-battle-best-counters/",
+                    "photo_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/04/pokemon-go-gigantamax-snorlax.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpPR3BXYjNKSGRHNWxaRXhKVFJDSEF4aVBCaWdLTWdhcEVJck5uUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T17:34:00.000Z",
+                    "authors": [
+                        "Diwas Budhathoki"
+                    ],
+                    "source_url": "https://gamerant.com",
+                    "source_name": "Game Rant",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://gamerant.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2RoYldWeVlXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyTkdwNmJUWm1jeElDWlc0b0FBUAE",
+                            "topic_name": "Diwas Budhathoki"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pokémon Go Gigantamax Snorlax counters, weaknesses and tactics explained",
+                    "link": "https://www.eurogamer.net/pokemon-go-gigantamax-snorlax-counters-weaknesses-tactics-9505",
+                    "photo_url": "https://assetsio.gnwcdn.com/Pokemon-Go-Gigantamax-Snorlax-Header.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpRbWRaZEdVeE9HWkJWRzh4VFJDZkF4ampCU2dLTWdhcEU0U3ZrUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T23:01:00.000Z",
+                    "authors": [
+                        "Nic Bunce"
+                    ],
+                    "source_url": "https://www.eurogamer.net",
+                    "source_name": "Eurogamer",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.eurogamer.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1YxY205bllXMWxjaTV1WlhRb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsMmJXWjBjeElDWlc0b0FBUAE",
+                            "topic_name": "Nic Bunce"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lvOF9EUURSSGVXMS12R1RiTTRDZ0FQAQ"
+        },
+        {
+            "title": "Samsung One UI 7.0 is around the corner, Galaxy M56 arrives, new Moto tablet and laptop, Week 16 in review - GSMArena.com news",
+            "link": "https://www.gsmarena.com/samsung_one_ui_70_is_around_the_corner_galaxy_m56_arrives_new_moto_tablet_and_laptop_week_16_in_revi-news-67468.php",
+            "snippet": "Samsung One UI 7.0 is around the corner, Galaxy M56 arrives, new Moto tablet and laptop, Week 16 in review · Samsung Galaxy A56 vs. Galaxy A55.",
+            "photo_url": "https://fdn.gsmarena.com/imgroot/news/25/04/week-in-review-16/-1220x526/gsmarena_001.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXllRU5tZVZKd2QyY3RkVzlSVFJEckFoak1CaWdLTWdhZFk0aXVNUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T04:20:02.000Z",
+            "authors": [],
+            "source_url": "https://www.gsmarena.com",
+            "source_name": "GSMArena.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2R6YldGeVpXNWhMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Samsung One UI 7 update India release timeline, eligible devices, features and everything else we know",
+                    "link": "https://www.digit.in/news/general/samsung-one-ui-7-update-india-release-timeline-eligible-devices-features-and-everything-else-we-know.html",
+                    "photo_url": "https://static.digit.in/OneUI-7-2.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZPRFZ4V0hCNE1qbHViV2x1VFJDZkF4ampCU2dLTWdZbFJZVHVwUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T04:55:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.digit.in",
+                    "source_name": "digit.in",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.digit.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1JwWjJsMExtbHVLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "One UI 7 starts rolling out to more Galaxy S24 devices after a week's pause",
+                    "link": "https://www.indiatoday.in/technology/news/story/one-ui-7-starts-rolling-out-to-more-galaxy-s24-devices-after-a-weeks-pause-2710885-2025-04-18",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/samsung-one-ui-7-update-confirmed-to-come-on-april-7-image-samsung-193624233-16x9.jpg?VersionId=YoUC1G4U27Diu1I6X8WxshBzFeVS4.sN&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRSVEI2YTNacGNsQXRTWGhzVFJDRUF4aXlCU2dLTWdZVlk1RHZPUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T05:52:12.000Z",
+                    "authors": [
+                        "Aman Rashid"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoZmNHMXFOUklDWlc0b0FBUAE",
+                            "topic_name": "Aman Rashid"
+                        }
+                    ]
+                },
+                {
+                    "title": "Samsung rolls out Software Update App v4.3.25 for smoother One UI 7 installs",
+                    "link": "https://www.sammyfans.com/2025/04/21/samsung-rolls-out-software-update-app-v4-3-25/",
+                    "photo_url": "https://www.sammyfans.com/wp-content/uploads/2023/05/samsung-software-update-interface-img-1000x576.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVViVEZRUzBseFUyZFZTVXhzVFJDa0F4amFCU2dLTWdZbFZKQ05xUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T06:20:07.000Z",
+                    "authors": [],
+                    "source_url": "https://www.sammyfans.com",
+                    "source_name": "Sammy Fans",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sammyfans.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWE5oYlcxNVptRnVjeTVqYjIwb0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lFakkzVkRSSFlGR0pKTFMzTGpDZ0FQAQ"
+        },
+        {
+            "title": "Switch 2’s first commercial featuring Paul Rudd has a connection to Nintendo’s classic SNES console",
+            "link": "https://indianexpress.com/article/technology/gaming/nintendo-switch-2-first-commercial-featuring-paul-rudd-classic-snes-console-9956882/",
+            "snippet": "Hollywood actor Paul Rudd reprises his role in a new commercial for the Nintendo Switch 2.",
+            "photo_url": "https://images.indianexpress.com/2025/04/nintendo-switch2-2.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdiRUpmTlhWSlVqWkxOV2xEVFJDZkF4ampCU2dLTWdZdEpJcHdwUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T11:00:02.000Z",
+            "authors": [
+                "Anuj Bhatia"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5ONVptZzFlUklDWlc0b0FBUAE",
+                    "topic_name": "Anuj Bhatia"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Nintendo Switch 2 Launch Game List – Release dates for all major Day 1 titles and the rest of 2025 [Updated]",
+                    "link": "https://9to5toys.com/2025/04/20/nintendo-switch-2-launch-game-list/",
+                    "photo_url": "https://9to5toys.com/wp-content/uploads/sites/5/2025/04/Switch-2-Launch-Games.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUVZamN6UTBkTWRuaG1TbU54VFJDSEF4aVBCaWdLTWdrQkFJRENDV3dkT1FB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T15:22:27.000Z",
+                    "authors": [
+                        "Justin Kahn"
+                    ],
+                    "source_url": "https://9to5toys.com",
+                    "source_name": "9to5Toys",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5toys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERGwwYnpWMGIzbHpMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUcxcmFIYzNPUklDWlc0b0FBUAE",
+                            "topic_name": "Justin Kahn"
+                        }
+                    ]
+                },
+                {
+                    "title": "Nintendo Kicks Off Mario Kart World Marketing In Japan With A Trio Of New Trailers",
+                    "link": "https://www.nintendolife.com/news/2025/04/nintendo-kicks-off-mario-kart-world-marketing-in-japan-with-a-trio-of-new-trailers",
+                    "photo_url": "https://images.nintendolife.com/8b0b6fe59ab19/1280x720.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1WRFJHVDJWVGNUQlZRazAzVFJDZkF4ampCU2dLTWdheFVvWVNwUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T17:15:00.000Z",
+                    "authors": [
+                        "Jim Norman"
+                    ],
+                    "source_url": "https://www.nintendolife.com",
+                    "source_name": "Nintendo Life",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nintendolife.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzVwYm5SbGJtUnZiR2xtWlM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5TjE5d2VIZDJiaElDWlc0b0FBUAE",
+                            "topic_name": "Jim Norman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Nintendo Switch 2 ad campaign goes retro in the best possible way",
+                    "link": "https://www.eurogamer.net/nintendo-switch-2-ad-campaign-goes-retro-in-the-best-possible-way",
+                    "photo_url": "https://assetsio.gnwcdn.com/Screenshot-2025-04-20-at-15.03.58.png?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNTViVk5YTTNKVmVTMUNhMUZyVFJDZkF4ampCU2dLTWd1QlVZampMcVk5NnVrY1BR=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T14:09:00.000Z",
+                    "authors": [
+                        "Vikki Blake"
+                    ],
+                    "source_url": "https://www.eurogamer.net",
+                    "source_name": "Eurogamer",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.eurogamer.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1YxY205bllXMWxjaTV1WlhRb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhseU9XZHRjeElDWlc0b0FBUAE",
+                            "topic_name": "Vikki Blake"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o2dFlYWERSR3U5eEZTclNwMmRDZ0FQAQ"
+        },
+        {
+            "title": "Motorola Launches First Laptop In India: Check Price, Features Of Moto Book 60",
+            "link": "https://www.ndtvprofit.com/technology/motorola-launches-first-laptop-in-india-check-price-features-of-moto-book-60",
+            "snippet": "Motorola has launched its maiden laptop, the Moto Book 60, in India. It will come in the Pantone colours that the brand is known for.",
+            "photo_url": "https://media.assettype.com/bloombergquint/2025-04-21/ijm211ew/image-by-nvnbhanwala-naveen-bhanwala.jpg?w=1200&auto=format%2Ccompress&q=60&rect=0%2C0%2C3500%2C1969&",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFWR3hVYVZaMVYxWkRSR3RDVFJDZkF4ampCU2dLTWdZeEFJd3hrUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T05:30:17.000Z",
+            "authors": [],
+            "source_url": "https://www.ndtvprofit.com",
+            "source_name": "NDTV Profit",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbTVrZEhad2NtOW1hWFF1WTI5dEtBQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Motorola Launched Its First Laptop: Moto Book 60",
+                    "link": "https://m.rediff.com/getahead/report/slide-show-1-motorola-lauched-its-first-laptop-moto-book-60/20250420.htm",
+                    "photo_url": "https://im.rediff.com/getahead/2025/apr/17-motorola-laptop-1.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlXazFIUVZoeFNsSXdVR3BYVFJEakJSaWZBeWdLTWdhTkVwS05tUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T16:47:55.000Z",
+                    "authors": [],
+                    "source_url": "https://m.rediff.com",
+                    "source_name": "Rediff",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://m.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkpsWkdsbVppNWpiMjBvQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "moto pad 60 PRO with 12.7″ 3K 144Hz display, Quad JBL speakers launched in India",
+                    "link": "https://www.fonearena.com/blog/451448/moto-pad-60-pro-price-india-specifications.html",
+                    "photo_url": "https://images.fonearena.com/blog/wp-content/uploads/2025/04/moto-pad-60-PRO-1.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJaRzFpZDJKQlV6Qk1VemQyVFJDU0JCakNCQ2dLTWdhNU1vNFNvUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T06:33:40.000Z",
+                    "authors": [
+                        "Srivatsan Sridhar"
+                    ],
+                    "source_url": "https://www.fonearena.com",
+                    "source_name": "FoneArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1p2Ym1WaGNtVnVZUzVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTlhBMmVXSmlaaElDWlc0b0FBUAE",
+                            "topic_name": "Srivatsan Sridhar"
+                        }
+                    ]
+                },
+                {
+                    "title": "Motorola launches Moto Pad 60 Pro tablet, Moto Book 60 laptop - GSMArena.com news",
+                    "link": "https://www.gsmarena.com/motorola_launches_moto_pad_60_pro_tablet_moto_book_60_laptop-news-67431.php",
+                    "photo_url": "https://fdn.gsmarena.com/imgroot/news/25/04/motorola-moto-pad-60-pro-ofic/-1220x526/gsmarena_001.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpSRWxWWWxoc04yaE5UMWsxVFJEckFoak1CaWdLTWdhcEZvTHNtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T12:16:02.000Z",
+                    "authors": [],
+                    "source_url": "https://www.gsmarena.com",
+                    "source_name": "GSMArena.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2R6YldGeVpXNWhMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lic1lmTkRSSDd3c1gtZjNoOUl5Z0FQAQ"
+        },
+        {
+            "title": "The Pixel 9a smashes the iPhone 16e on the Android Police podcast",
+            "link": "https://www.androidpolice.com/the-pixel-9a-smashes-the-iphone-16e-on-the-android-police-podcast/",
+            "snippet": "Android Police · The Pixel 9a smashes the iPhone 16e on the Android Police podcast.",
+            "photo_url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/04/google-pixel-9a-review-9.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJhelJQWmxKTVozZExNbVptVFJDZkF4amlCU2dLTWdZaFFJd0xIZ2s=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T01:01:00.000Z",
+            "authors": [
+                "Jules Wang"
+            ],
+            "source_url": "https://www.androidpolice.com",
+            "source_name": "Android Police",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidpolice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV0Z1WkhKdmFXUndiMnhwWTJVdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oa2NHMXNjUklDWlc0b0FBUAE",
+                    "topic_name": "Jules Wang"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Google Pixel 9a Now Available In India After Some Delays: Price, Specs- News18",
+                    "link": "https://www.news18.com/tech/google-pixel-9a-now-available-in-india-after-some-delays-price-specs-9303842.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/03/Pixel-9a-Sale-date-delay-2025-03-a8af62fd6dde38ac1dd216f9de7a1d2b.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVaRFV6TWxnd05WSk1SelpxVFJDZkF4ampCU2dLTWdZbEpJcVBIUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T10:02:06.000Z",
+                    "authors": [
+                        "S Aadeetya"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OaVh6QnliQklDWlc0b0FBUAE",
+                            "topic_name": "S Aadeetya"
+                        }
+                    ]
+                },
+                {
+                    "title": "Google Pixel 9a Vs iPhone 16e: Which Value Flagship Should You Buy?",
+                    "link": "https://www.msn.com/en-in/money/news/google-pixel-9a-vs-iphone-16e-which-value-flagship-should-you-buy/vi-AA1DdGjO?ocid=hpmsn",
+                    "photo_url": "https://th.bing.com/th?id=ORMS.79b2bddb95c662066dd860ba46430be1&pid=Wdp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWFaMkZhVGxFd1lVc3hTRmxsVFJDSkF4aThCU2dLTWdrQlFKYmpvbWcxYUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T07:00:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.msn.com",
+                    "source_name": "MSN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjF6Ymk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pixel 9a goes on sale: How to get Rs 5,000 off",
+                    "link": "https://www.indiatoday.in/visualstories/technology/pixel-9a-goes-on-sale-how-to-get-rs-5000-off-226089-16-04-2025",
+                    "photo_url": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2025/04/cropped-Screenshot-2025-04-16-at-162107ITG-1744801147100.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhkRXhpZEZGNlZGWjFTMkZXVFJEX0JCamdBeWdLTWdhVk1KUXdtUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-16T11:20:57.000Z",
+                    "authors": [],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oyN2Q3WERSSFhCTjNMYzFQSVNTZ0FQAQ"
+        },
+        {
+            "title": "NIV’s unceasing refusal to share vital data before publication",
+            "link": "https://www.thehindu.com/sci-tech/science/nivs-unceasing-refusal-to-share-vital-data-before-publication/article69464945.ece",
+            "snippet": "Two-year-old girl in Andhra Pradesh dies from H5N1; NIV delays sharing genome data, unlike NIHSAD, raising concerns about virus spread.",
+            "photo_url": "https://th-i.thgim.com/public/incoming/otzrue/article69469163.ece/alternates/LANDSCAPE_1200/2025-03-15T212523Z_1667811380_RC2ODDAPO6RR_RTRMADP_3_TOTW-PETS.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDRia3hyTW1GYU9XZEdXWGhuVFJDZkF4ampCU2dLTWdrQkVvalVKT2pJMVFB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T05:53:00.000Z",
+            "authors": [
+                "R. Prasad"
+            ],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNSHBrYXpnMmVoSUNaVzRvQUFQAQ",
+                    "topic_name": "R. Prasad"
+                }
+            ]
+        },
+        {
+            "title": "Asus Chromebook CX14 and CX15 With Intel Celeron Processor Announced Alongside Chromebook Plus Models",
+            "link": "https://www.gadgets360.com/laptops/news/asus-chromebook-cx14-price-launch-features-specifications-cx15-8216188",
+            "snippet": "Asus Chromebooks come with 14-inch and 15.6-inch full HD screens · They are powered by Intel Celeron N4500 processors and Titan C chip ...",
+            "photo_url": "https://i.gadgets360cdn.com/large/asus_chromebook_cx14_1745218550873.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFNR2QxUlhsRVVYcHVXalpmVFJDZkF4ampCU2dLTWdtZFFvWVJIYWhyMHdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T07:58:56.000Z",
+            "authors": [
+                "Shaurya Tomer",
+                "Manas Mitul"
+            ],
+            "source_url": "https://www.gadgets360.com",
+            "source_name": "Gadgets 360",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gadgets360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWRoWkdkbGRITXpOakF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTVhRMmVXaGllQklDWlc0b0FBUAE",
+                    "topic_name": "Shaurya Tomer"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSeGFucHdOeElDWlc0b0FBUAE",
+                    "topic_name": "Manas Mitul"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Asus Chromebook CX14, CX15 laptops launched; Gets Intel Celeron processor",
+                    "link": "https://kalingatv.com/technology/asus-chromebook-cx14-cx15-laptops-launched-gets-intel-celeron-processors/",
+                    "photo_url": "https://kalingatv.com/wp-content/uploads/2025/04/Asus-Chromebook-CX14-launch.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlhSEpXU2tobWMzZzFNVFpVVFJDSEF4aUFCU2dLTWdZbFk0cU9xUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T14:34:13.000Z",
+                    "authors": [],
+                    "source_url": "https://kalingatv.com",
+                    "source_name": "KalingaTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://kalingatv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV3RoYkdsdVoyRjBkaTVqYjIwb0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Announcing the New ASUS Chromebook CX14/CX15 Series",
+                    "link": "https://press.asus.com/news/press-releases/asus-chromebook-cx14-cx15-stylish-eco-conscious-design-enhanced-performance/",
+                    "photo_url": "https://press.asus.com/assets/w_1266,h_901/220d3dd9-b2e2-4d12-ac64-c3e9b75f3ec7/CX15%20Scenario%20photo%201.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNiM1oxWlhCcU16Sndhbkp1VFJDOUFSaUtBaWdCTWdZQmtKS2p0QWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T06:43:20.000Z",
+                    "authors": [],
+                    "source_url": "https://press.asus.com",
+                    "source_name": "ASUS Pressroom",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://press.asus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbkJ5WlhOekxtRnpkWE11WTI5dEtBQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Asus Launches Chromebook CX14 and CX15 Featuring Intel Celeron Processors",
+                    "link": "https://observervoice.com/asus-launches-chromebook-cx14-and-cx15-featuring-intel-celeron-processors-111767/",
+                    "photo_url": "https://observervoice.com/wp-content/uploads/2025/04/Asus-Launches-Chromebook-CX14-and-CX15-Featuring-Intel-Celeron-Processors.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9OVGRRVEhsNFNHTkJUVlk1VFJDZkF4ampCU2dLTWdtZE1vWVJIYWhyMHdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T10:13:24.000Z",
+                    "authors": [],
+                    "source_url": "https://observervoice.com",
+                    "source_name": "Observer Voice",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://observervoice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFVzlpYzJWeWRtVnlkbTlwWTJVdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPcnVEV0RSSHZsU1pJZ1dYZ0dTZ0FQAQ"
+        },
+        {
+            "title": "Gemini Live's real-time screen sharing is now available to all Android users",
+            "link": "https://www.androidcentral.com/apps-software/android-os/gemini-live-real-time-screen-sharing-now-available-to-all-android-users",
+            "snippet": "Google's Gemini Live, which allows real-time video and screen sharing with the AI assistant, is now available to all Android users.",
+            "photo_url": "https://cdn.mos.cms.futurecdn.net/VPAaa9HeDidGkJhtGSoLtf-1200-80.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFaemsxTm1seFFrNXJYMlZMVFJDb0FSaXNBaWdCTWdZcEJZU3RsUUk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T03:45:37.000Z",
+            "authors": [
+                "Vishnu Sarangapurkar"
+            ],
+            "source_url": "https://www.androidcentral.com",
+            "source_name": "Android Central",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidcentral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbUZ1WkhKdmFXUmpaVzUwY21Gc0xtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TjJkemJuSm5jQklDWlc0b0FBUAE",
+                    "topic_name": "Vishnu Sarangapurkar"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Google Brings Gemini Live Screen Sharing Free Of Cost For All Android Users: How It Works- News18",
+                    "link": "https://www.news18.com/tech/google-brings-gemini-live-screen-sharing-free-of-cost-for-all-android-users-how-it-works-9303922.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/02/Gemini-Live-summary-test-2025-02-246223a6042df7675e43d6ef2c5740f9.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdRVUZ2VDFwTFdUQnRVVGw0VFJDZkF4ampCU2dLTWdhVmNveUh1Z1k=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T05:23:10.000Z",
+                    "authors": [
+                        "S Aadeetya"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OaVh6QnliQklDWlc0b0FBUAE",
+                            "topic_name": "S Aadeetya"
+                        }
+                    ]
+                },
+                {
+                    "title": "Google makes Gemini Live camera & screen sharing free on Android",
+                    "link": "https://9to5google.com/2025/04/16/gemini-live-camera-free/",
+                    "photo_url": "https://9to5google.com/wp-content/uploads/sites/4/2025/04/Gemini-Live-Video-interface-close-up-1.jpg?quality=82&strip=all&w=1600",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdNbkl3ZDNOUExVVlhYekJsVFJDSEF4aVBCaWdLTWdZbElwTE5JUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-16T20:09:00.000Z",
+                    "authors": [
+                        "Abner Li"
+                    ],
+                    "source_url": "https://9to5google.com",
+                    "source_name": "9to5Google",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://9to5google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEamwwYnpWbmIyOW5iR1V1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURSME1XNDBiQklDWlc0b0FBUAE",
+                            "topic_name": "Abner Li"
+                        }
+                    ]
+                },
+                {
+                    "title": "Google expands Gemini’s advanced capabilities to everyone for free",
+                    "link": "https://indianexpress.com/article/technology/artificial-intelligence/google-expands-geminis-advanced-capabilities-to-everyone-for-free-9956473/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/Google-Gemini.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRTVVJuTXpOcVlXMHhOVXN5VFJEb0FSaWVBeWdLTWdhQnNKQ0VQZ1k=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T13:24:00.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lqdTRiVkRSR253Z0lOSUNQRlBpZ0FQAQ"
+        },
+        {
+            "title": "Samsung Galaxy S24 Ultra Price Drops By Rs 44,000 Online: Check The Offers Here",
+            "link": "https://www.timesnownews.com/technology-science/gadgets/samsung-galaxy-s24-ultra-price-drops-by-rs-44000-online-check-the-offers-here-article-151460987",
+            "snippet": "Samsung Galaxy S24 Ultra has received a major price cut, now available for Rs 85,999 on Vijay Sales, down from its original price of Rs 1,29,999 ...",
+            "photo_url": "https://images.timesnownews.com/thumb/msid-151460981,thumbsize-1553719,width-1280,height-720,resizemode-75/151460981.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVSakpxY0RVeVUwTTRhRFJ2VFJDZkF4ampCU2dLTWdhbFJZYnRvUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T03:48:03.000Z",
+            "authors": [
+                "Shubham Arora"
+            ],
+            "source_url": "https://www.timesnownews.com",
+            "source_name": "Times Now",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJwYldWemJtOTNibVYzY3k1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1KaWJIazNaeElDWlc0b0FBUAE",
+                    "topic_name": "Shubham Arora"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Samsung Galaxy S24 price cut on Amazon",
+                    "link": "https://www.indiatoday.in/visualstories/technology/samsung-galaxy-s24-price-cut-on-amazon-226470-17-04-2025",
+                    "photo_url": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2025/04/cropped-imageITG-1744896585154.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBUSFV4UXpOR1FtRlNlVlUzVFJEX0JCamdBeWdLTWdZSlFwSTBNUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T13:31:58.000Z",
+                    "authors": [
+                        "Ankita Garg"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OeWFHczNaeElDWlc0b0FBUAE",
+                            "topic_name": "Ankita Garg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Samsung announces special offers on Galaxy S25 Ultra in India: Last date of discounts, cashback and more",
+                    "link": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-announces-special-offers-on-galaxy-s25-ultra-in-india-last-date-of-discounts-cashback-and-more/articleshow/120281829.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120281969,width-1280,height-720,resizemode-4/120281969.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1VRXhWYVV0ZmVVZHBVazF5VFJDZkF4ampCU2dLTWdhdFE0Z3l0UVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-14T12:44:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Samsung Galaxy S23 Ultra 5G price drops by Rs 27,568 on Amazon",
+                    "link": "https://www.digit.in/news/mobile-phones/samsung-galaxy-s23-ultra-5g-price-drops-by-rs-27568-on-amazon.html",
+                    "photo_url": "https://static.digit.in/Samsung-Galaxy-S23-Ultra-5G-price.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFSMGN0TWxGd2RXNDJNbE5sVFJDZkF4ampCU2dLTWdZdFJZVE9VUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T08:10:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.digit.in",
+                    "source_name": "digit.in",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.digit.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1JwWjJsMExtbHVLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l3LTdYUkRSRnJySFpiazEzSTJDZ0FQAQ"
+        },
+        {
+            "title": "Nintendo faces trade war test with Switch 2 launch",
+            "link": "https://indianexpress.com/article/technology/gaming/nintendo-faces-trade-war-test-with-switch-2-launch-9956430/",
+            "snippet": "For Nintendo, trade barriers complicate one of the hottest product launches this year as the success of the Switch 2 is vital for the future ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/Switch-2-FB.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUpXa0pQYTFsU1ZtY3lUbkJPVFJDZkF4ampCU2dLTWdtSmdKS2xOdVk4elFF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T07:29:40.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Nintendo Switch 2 U.S. price unchanged; pre-orders begin on April 24",
+                    "link": "https://www.thehindu.com/sci-tech/technology/gadgets/nintendo-switch-2-us-price-unchanged-pre-orders-begin-on-april-24/article69473243.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/h77fq8/article69473238.ece/alternates/LANDSCAPE_1200/2025-04-21T010729Z_555736506_RC21QDALPR08_RTRMADP_3_USA-TRUMP-TARIFFS-NINTENDO.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNZbHBWWVhwaGR6TjRRbEptVFJDZkF4ampCU2dLTWdZQlVJWm5JZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T05:46:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Nintendo Maintains Nintendo Switch 2 Pricing, Retail Pre-Orders to Begin April 24 in Canada",
+                    "link": "https://www.nintendo.com/en-ca/whatsnew/nintendo-maintains-nintendo-switch-2-pricing-retail-pre-orders-to-begin-april-24-in-canada/",
+                    "photo_url": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/en_US/articles/2025/nintendo-maintains-nintendo-switch-2-pricing-retail-pre-orders-to-begin-april-24-in-u-s/NCOM-Nintendo-Switch-2-PO-2",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUllVXRwYzFVMmN6RlRTVzVJVFJDb0FSaXJBaWdCTWdZSlFJakZ0Z1U=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T13:14:48.000Z",
+                    "authors": [],
+                    "source_url": "https://www.nintendo.com",
+                    "source_name": "Nintendo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nintendo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzVwYm5SbGJtUnZMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Nintendo Switch 2 pre-orders date out: There’s ‘good news’ and ‘bad news’ for gamers",
+                    "link": "https://timesofindia.indiatimes.com/technology/gaming/nintendo-switch-2-pre-orders-date-out-theres-good-news-and-bad-news-for-gamers/articleshow/120462522.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120460644,width-1280,height-720,resizemode-4/120460644.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHdaa001WDNWblRXcG1PRWxmVFJDZkF4ampCU2dLTWdtSmdKS2x0dVk4elFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T18:53:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pBOWV2VURSRUR2YklCVjNDRzR5Z0FQAQ"
+        },
+        {
+            "title": "AI Influencers: Your Next Brand Ambassador Might Not Be Human",
+            "link": "https://www.designrush.com/agency/social-media-marketing/influencer-marketing/trends/ai-influencers",
+            "snippet": "AI influencers are landing brand deals, driving millions in engagement, and reshaping digital marketing. See who these influencers are.",
+            "photo_url": "https://media.designrush.com/articles/823125/conversions/ai-influencers-details_mobile.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdOMUJpZVMxblRFeFhXRTFHVFJEZ0FSajJBaWdLTWdZSk00cW5IZ3M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T17:39:01.000Z",
+            "authors": [],
+            "source_url": "https://www.designrush.com",
+            "source_name": "DesignRush",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.designrush.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbVJsYzJsbmJuSjFjMmd1WTI5dEtBQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "YouTube Publishes New Insights Into the Rise of Virtual Influencers",
+                    "link": "https://www.socialmediatoday.com/news/youtube-report-rise-virtual-influencers/745841/",
+                    "photo_url": "https://imgproxy.divecdn.com/vVVSNPLOdDJWG-qq7wg6bFFiSSVXTDNOc_JDSDbwSrk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95b3V0dWJlX3ZpcnR1YWxfY3JlYXRvcnMucG5n.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxTM1oyTUZscWVUSm1hVmhqVFJDcEF4allCQ2dLTWdZVk1vWUpLUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T00:01:22.000Z",
+                    "authors": [
+                        "Andrew Hutchinson"
+                    ],
+                    "source_url": "https://www.socialmediatoday.com",
+                    "source_name": "Social Media Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.socialmediatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGSE52WTJsaGJHMWxaR2xoZEc5a1lYa3VZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR3QyWkdwdWR4SUNaVzRvQUFQAQ",
+                            "topic_name": "Andrew Hutchinson"
+                        }
+                    ]
+                },
+                {
+                    "title": "The rise of virtual creators: a new frontier on YouTube",
+                    "link": "https://blog.youtube/culture-and-trends/youtube-culture-trends-report-virtual-creators/",
+                    "photo_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT-Trends-Report-Covers-Deskto.max-500x3000.format-webp.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdXVmhDZVZKelNsUTBkM2g1VFJDb0FSaXNBaWdCTWdZZFk1SnJMUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T09:25:43.000Z",
+                    "authors": [],
+                    "source_url": "https://blog.youtube",
+                    "source_name": "YouTube Official Blog",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.youtube&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER0pzYjJjdWVXOTFkSFZpWlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kycFAzWURSR01SU0JtM3ZIbVl5Z0FQAQ"
+        },
+        {
+            "title": "New data: Google AI Overviews are hurting click-through rates",
+            "link": "https://searchengineland.com/google-ai-overviews-hurt-click-through-rates-454428",
+            "snippet": "Google's AI Overviews are significantly decreasing clicks to traditional organic listings, especially for non-branded, informational queries.",
+            "photo_url": "https://searchengineland.com/wp-content/seloads/2024/08/google-broken-1920.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpSVkV3V21zeVUwaDRWa2h3VFJDaUF4amRCU2dLTWdZZEU0Nk1KUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T16:02:00.000Z",
+            "authors": [
+                "Danny Goodwin"
+            ],
+            "source_url": "https://searchengineland.com",
+            "source_name": "Search Engine Land",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://searchengineland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGSE5sWVhKamFHVnVaMmx1Wld4aGJtUXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1JM2RqTm5jQklDWlc0b0FBUAE",
+                    "topic_name": "Danny Goodwin"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Google Search boss: AI Overviews boost click quality",
+                    "link": "https://searchengineland.com/google-search-boss-ai-overviews-boost-click-quality-454386",
+                    "photo_url": "https://searchengineland.com/wp-content/seloads/2024/08/google-logo-broken-1920.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUtTM1pXVTFGbWNtcEpaRGRxVFJDaUF4amRCU2dLTWdNTmNoSQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T18:38:00.000Z",
+                    "authors": [
+                        "Danny Goodwin"
+                    ],
+                    "source_url": "https://searchengineland.com",
+                    "source_name": "Search Engine Land",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://searchengineland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGSE5sWVhKamFHVnVaMmx1Wld4aGJtUXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1JM2RqTm5jQklDWlc0b0FBUAE",
+                            "topic_name": "Danny Goodwin"
+                        }
+                    ]
+                },
+                {
+                    "title": "The 60% Problem — How AI Search Is Draining Your Traffic",
+                    "link": "https://www.forbes.com/sites/torconstantino/2025/04/14/the-60-problem---how-ai-search-is-draining-your-traffic/",
+                    "photo_url": "https://imageio.forbes.com/specials-images/imageserve/67fd191422a8cec0a894a172/Robot-hand-touching-on-search-bar-for-Search-Engine-Optimization-or-SEO-concept-to/960x0.jpg?format=jpg&width=960",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUhiVUpaTjBNMlZtcElXR2hpVFJDZkF4ampCU2dLTWdrbGdJaVdzQ2FEREFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-14T14:46:12.000Z",
+                    "authors": [
+                        "Tor Constantino"
+                    ],
+                    "source_url": "https://www.forbes.com",
+                    "source_name": "Forbes",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbVp2Y21KbGN5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuT1hJMlpteDNNeElDWlc0b0FBUAE",
+                            "topic_name": "Tor Constantino"
+                        }
+                    ]
+                },
+                {
+                    "title": "Google’s AI Overviews and the Fate of the Open Web",
+                    "link": "https://www.unite.ai/googles-ai-overviews-and-the-fate-of-the-open-web/",
+                    "photo_url": "https://www.unite.ai/wp-content/uploads/2025/04/20250421_1253_AI-Search-Transformation_simple_compose_01jscgv4hff0k8hbn63hxqn9pj.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVWek5GWmpadU4yOVpSVFJoVFJERUF4aW1CU2dLTWdZaEZKS01sUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T15:58:45.000Z",
+                    "authors": [
+                        "Alex Mcfarland"
+                    ],
+                    "source_url": "https://www.unite.ai",
+                    "source_name": "Unite.AI",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.unite.ai&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSFZ1YVhSbExtRnBLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WnpSemRESnNlUklDWlc0b0FBUAE",
+                            "topic_name": "Alex Mcfarland"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pUa29UVkRSRjB3ZVFQOG0zdHdpZ0FQAQ"
+        },
+        {
+            "title": "ASUS ExpertBook P1 Review: Business laptop for everyone",
+            "link": "https://www.cnbctv18.com/technology/asus-expertbook-p1-business-laptop-review-ws-l-19591389.htm",
+            "snippet": "The ASUS ExpertBook P1, priced at ₹72,990 and available on Flipkart, has a 13th Gen Intel Core i7, 32GB DDR5 RAM, and a 14-inch Full HD display.",
+            "photo_url": "https://images.cnbctv18.com/uploads/2025/04/asus-expertbook-p1-2025-04-47d04c10d6fe7f852353edf23286a515.jpeg?impolicy=website&width=1200&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxlVkppYlZremFHdG5keTFWVFJEZ0F4aUFCU2dLTWdZbFE0WnZKUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T10:41:18.000Z",
+            "authors": [
+                "Vijay Anand"
+            ],
+            "source_url": "https://www.cnbctv18.com",
+            "source_name": "CNBC TV18",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER051WW1OMGRqRTRMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TVdSdWJHNXVlUklDWlc0b0FBUAE",
+                    "topic_name": "Vijay Anand"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Asus launches new ExpertBook P series laptops for business and commercial users",
+                    "link": "https://www.businesstoday.in/technology/news/story/asus-launches-new-expertbook-p-series-laptops-for-business-and-commercial-users-472095-2025-04-15",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/67fe39cce3fba-dinesh-sharma-of-asus-india-launches-the-new-expertbook-p-series-laptops-in-india-154945219-16x9.jpg?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhUamMxTlhoT2QzbEpWMHg2VFJDZkF4ampCU2dLTWdZMVJJeHdIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-15T10:51:22.000Z",
+                    "authors": [
+                        "Lakshay Kumar"
+                    ],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTTNjME9XTndkeElDWlc0b0FBUAE",
+                            "topic_name": "Lakshay Kumar"
+                        }
+                    ]
+                },
+                {
+                    "title": "ASUS ExpertBook P1 P1403CVA Review: A business laptop for everyone?",
+                    "link": "https://www.91mobiles.com/hub/asus-expertbook-p1-p1403cva-review-a-business-laptop-for-everyone/",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-04-18T16:51:44.000Z",
+                    "authors": [
+                        "Varun Mirchandani"
+                    ],
+                    "source_url": "https://www.91mobiles.com",
+                    "source_name": "91mobiles.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.91mobiles.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVGt4Ylc5aWFXeGxjeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZUhCNloyWmlaaElDWlc0b0FBUAE",
+                            "topic_name": "Varun Mirchandani"
+                        }
+                    ]
+                },
+                {
+                    "title": "ASUS Announces Latest ExpertBook P1 Models",
+                    "link": "https://press.asus.com/news/press-releases/asus-announces-expertbook-p1-laptops-amd-ryzen7-ai-enhancements/",
+                    "photo_url": "https://press.asus.com/assets/w_1266,h_844/1f1c2fb6-de80-41a7-a756-94cd40c54ffb/ExpertBook%20P1_%20PM1403CDA_%20Scenario%20photo_01.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhRa3cxZUU5dU5reFZiVlZhVFJDM0FSaVRBaWdCTWdhWlFaQVNuUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-15T02:42:03.000Z",
+                    "authors": [],
+                    "source_url": "https://press.asus.com",
+                    "source_name": "ASUS Pressroom",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://press.asus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbkJ5WlhOekxtRnpkWE11WTI5dEtBQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pqazdET0RSRXhTb3BxYlhKNmdDZ0FQAQ"
+        },
+        {
+            "title": "Gadgets Weekly Update: New laptops, smartphones, accessories and More from HP, Lenovo, Apple, and others",
+            "link": "https://www.deccanherald.com/technology/gadgets/gadgets-weekly-hp-omen-max-16-and-more-3500151",
+            "snippet": "Tech Innovations: Check out the latest gadgets from HP, Lenovo, Beats, Infinix, and more, including laptops, smartphones, TVs, ...",
+            "photo_url": "https://images.deccanherald.com/deccanherald%2F2025-04-18%2Flwvvx2z3%2FHP-Omen-Max-16.jpg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNVMkZGZEhFeWRGcFhMVTFWVFJDZkF4ampCU2dLTWdhZFZJeXRLUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T00:30:00.000Z",
+            "authors": [],
+            "source_url": "https://www.deccanherald.com",
+            "source_name": "Deccan Herald",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsWTJOaGJtaGxjbUZzWkM1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Omen Max 16: HP's Latest Beast In The Gaming Arena",
+                    "link": "https://m.rediff.com/getahead/report/slide-show-1-omen-max-16-hps-latest-beast-in-the-gaming-arena/20250419.htm",
+                    "photo_url": "https://im.rediff.com/getahead/2025/apr/17-hp-laptop-1.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRRMGhLTVhGNU1WWnBVRXRaVFJEakJSaWZBeWdLTWdZQlVJeEhJUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T18:26:02.000Z",
+                    "authors": [],
+                    "source_url": "https://m.rediff.com",
+                    "source_name": "Rediff",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://m.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkpsWkdsbVppNWpiMjBvQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "HP Omen Max 16 With Intel Core Ultra 9 CPU, Nvidia GeForce RTX 5080 Graphics Launched in India",
+                    "link": "https://www.gadgets360.com/laptops/news/hp-omen-max-16-price-in-india-launch-sale-specifications-features-8177402",
+                    "photo_url": "https://i.gadgets360cdn.com/large/omen_16_hp_1744793236788.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBjRmxOYnpKS1RVaDNURWRsVFJERUF4aW1CU2dLTWdZaE00Z3hIUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-16T08:37:44.000Z",
+                    "authors": [
+                        "David Delima"
+                    ],
+                    "source_url": "https://www.gadgets360.com",
+                    "source_name": "Gadgets 360",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gadgets360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWRoWkdkbGRITXpOakF1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZVdOb01Hc3hheElDWlc0b0FBUAE",
+                            "topic_name": "David Delima"
+                        }
+                    ]
+                },
+                {
+                    "title": "\"I can’t remember the last time I’ve seen a display this drop-dead gorgeous.\": The new HP Omen Max is putting in maximum effort",
+                    "link": "https://www.laptopmag.com/laptops/gaming-laptops-pcs/hp-omen-max-16-rtx-5090-review",
+                    "photo_url": "https://cdn.mos.cms.futurecdn.net/zeqivnwCc9q7B3JqzGHz7J-1200-80.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVkRGwyT1VVMFNXOTVjREZEVFJDVEFSalhBaWdCTWdZbE5Zck5uUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T17:30:00.000Z",
+                    "authors": [
+                        "Rami Tabari"
+                    ],
+                    "source_url": "https://www.laptopmag.com",
+                    "source_name": "Laptop Mag",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.laptopmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV3hoY0hSdmNHMWhaeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpaM01uRTBOeElDWlc0b0FBUAE",
+                            "topic_name": "Rami Tabari"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pqMkxEUERSRVBJeHlZX1ZtTm5DZ0FQAQ"
+        },
+        {
+            "title": "Amazon’s Android replacement for Fire TV is almost ready: Report",
+            "link": "https://indianexpress.com/article/technology/tech-news-technology/amazons-android-replacement-vega-os-2025-launch-9956842/",
+            "snippet": "Amazon is preparing to launch Vega OS, a custom Linux-based operating system designed to replace Android on its smart TVs, tablets, ...",
+            "photo_url": "https://images.indianexpress.com/2024/01/fire-tv-streaming-report-india-2023.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1OVWhwZVY5UlozQlJXRTVtVFJDZkF4ampCU2dLTWdZZE1vU3RsUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T13:24:00.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Scoop: Amazon's secret Vega OS inches closer to launch",
+                    "link": "https://www.lowpass.cc/p/amazon-vega-os-2025-release-kepler-sdk",
+                    "photo_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/56024933-d055-4043-8a7b-ca36f1f63b34/cropped_6b878044-5489-49c0-b3d4-2d661da450ac_1744828247957.png?t=1744828252",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURhWFZITVdOa1UzQkRNM1ZuVFJDM0FSaVRBaWdCTWdhbHhJNnRQUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T17:26:42.000Z",
+                    "authors": [
+                        "Janko Röttgers"
+                    ],
+                    "source_url": "https://www.lowpass.cc",
+                    "source_name": "lowpass.cc",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lowpass.cc&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbXh2ZDNCaGMzTXVZMk1vQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJQgKIh9DQkFTRVFvTEwyY3ZNVEl4WDNwbU9XUVNBbVZ1S0FBUAE",
+                            "topic_name": "Janko Röttgers"
+                        }
+                    ]
+                },
+                {
+                    "title": "Amazon may ditch Android for its own OS on Fire TV devices",
+                    "link": "https://www.moneycontrol.com/technology/amazon-may-ditch-android-for-its-own-os-on-fire-tv-devices-article-12998440.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250419054731_glenn-carstens-peters-EOQhsfFBhRk-unsplash-2.jpg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRNME5PUTFCaFdHSTBablZoVFJDZkF4ampCU2dLTWdZWlVvb3hxUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-19T06:59:39.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Amazon's Vega TV OS Expected to Debut on First Streaming Device in 2025: Report",
+                    "link": "https://www.gadgets360.com/tv/news/amazon-vega-tv-os-first-device-launch-timeline-report-8194337",
+                    "photo_url": "https://i.gadgets360cdn.com/large/smart_tv_glenn_carstens_peters_unsplash_1744960382559.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJhMkpsTTJzM2VrOVRiRU5SVFJERUF4aW1CU2dLTWdZVllJcnpzQVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T07:17:32.000Z",
+                    "authors": [
+                        "David Delima"
+                    ],
+                    "source_url": "https://www.gadgets360.com",
+                    "source_name": "Gadgets 360",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gadgets360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWRoWkdkbGRITXpOakF1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZVdOb01Hc3hheElDWlc0b0FBUAE",
+                            "topic_name": "David Delima"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pmMmFIV0RSR1QzMjZ4c1pzUG1TZ0FQAQ"
+        },
+        {
+            "title": "How to create cinematic AI videos in Gemini with Veo 2 and Whisk: Step-by-step guide",
+            "link": "https://www.hindustantimes.com/technology/how-to-create-cinematic-ai-videos-in-gemini-with-veo-2-and-whisk-step-by-step-guide-101745208301661.html",
+            "snippet": "Know how to create short, AI-generated videos using Google's Gemini and Veo 2 tools with this step-by-step guide, including Whisk Animate ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/21/550x309/Veo_2_1745208748494_1745208748771.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNVblJsV0d0V1VqZDFjR2hmVFJDMUFoaWxCQ2dLTWdZaGRJNXZ0UVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T04:14:30.000Z",
+            "authors": [
+                "Ijaj Khan"
+            ],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyTUdZNWVUUmpheElDWlc0b0FBUAE",
+                    "topic_name": "Ijaj Khan"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Generate videos in Gemini and Whisk with Veo 2",
+                    "link": "https://blog.google/products/gemini/video-generation/",
+                    "photo_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/GenerateVideos_Static1_1920x1080.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDRWQzFpWWxkR1dXbFdNa1JXVFJDb0FSaXNBaWdCTWdrQm9Zb052YVhRemdF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-15T17:06:01.000Z",
+                    "authors": [
+                        "Angela Sun"
+                    ],
+                    "source_url": "https://blog.google",
+                    "source_name": "Google Blog",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMkpzYjJjdVoyOXZaMnhsS0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3WHpkck56UnhZaElDWlc0b0FBUAE",
+                            "topic_name": "Angela Sun"
+                        }
+                    ]
+                },
+                {
+                    "title": "How to try Google's Veo 2 AI video generator - and what you can do with it",
+                    "link": "https://www.zdnet.com/article/how-to-try-googles-veo-2-ai-video-generator-and-what-you-can-do-with-it/",
+                    "photo_url": "https://www.zdnet.com/a/img/resize/01ed57831e6774702829e6da0694f1d779264d0c/2023/12/06/ecbc85ff-68ca-49bf-a3aa-b7fd3d41c679/gemini2.jpg?auto=webp&width=1280",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNXams0VHpWclFVOHpiV0V6VFJDZkF4ampCU2dLTWdZbFJack5JUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T12:45:00.000Z",
+                    "authors": [
+                        "Sabrina Ortiz"
+                    ],
+                    "source_url": "https://www.zdnet.com",
+                    "source_name": "ZDNET",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zdnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWHBrYm1WMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1T0dZelgxOXFheElDWlc0b0FBUAE",
+                            "topic_name": "Sabrina Ortiz"
+                        }
+                    ]
+                },
+                {
+                    "title": "Google rolls out its AI video generator to Gemini Advanced subscribers",
+                    "link": "https://www.theverge.com/news/648816/google-veo-2-ai-video-generation-gemini-advanced",
+                    "photo_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/veo-2-french-bulldog.png?quality=90&strip=all&crop=0,0,100,100",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZOa1pPY1VzeGFUWldjR0pOVFJERUF4aW1CU2dLTWdZbGdKanNNUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-15T17:00:00.000Z",
+                    "authors": [
+                        "Emma Roth"
+                    ],
+                    "source_url": "https://www.theverge.com",
+                    "source_name": "The Verge",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWlhabGNtZGxMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTm00M1lteG9iQklDWlc0b0FBUAE",
+                            "topic_name": "Emma Roth"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ladExIUERSRnp3V0JvVkJXR25pZ0FQAQ"
+        },
+        {
+            "title": "Overwatch 2 Season 16 release timings for all regions explored",
+            "link": "https://timesofindia.indiatimes.com/sports/esports/news/overwatch-2-season-16-release-timings-for-all-regions-explored/articleshow/120461073.cms",
+            "snippet": "Overwatch 2 is gearing up for the launch of Season 16 on April 22. This is going to be one of the biggest seasonal updates the game has ever ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120461123,width-1280,height-720,resizemode-4/120461123.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU5aR1ZJY0dKRmFrcENiMmxUVFJDZkF4ampCU2dLTWdrQmNJd2lyeWRVcmdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T18:07:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Overwatch 2 Reveals Stadium Items and Powers for Every Hero",
+                    "link": "https://www.msn.com/en-us/news/technology/overwatch-2-reveals-stadium-items-and-powers-for-every-hero/ar-AA1Dg3Sn",
+                    "photo_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Dg1pF.img?w=768&h=384&m=6",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBaMmgzWTJ4WVdqaEJVVEp3VFJDQUF4aUFCaWdLTWdZQlFZWkZPUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-20T10:59:17.000Z",
+                    "authors": [
+                        "Eric Law"
+                    ],
+                    "source_url": "https://www.msn.com",
+                    "source_name": "MSN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjF6Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WjNoZlptNW1lQklDWlc0b0FBUAE",
+                            "topic_name": "Eric Law"
+                        }
+                    ]
+                },
+                {
+                    "title": "Overwatch 2 Stadium Leagues: All Ranks & Rewards",
+                    "link": "https://www.analyticsinsight.net/ampstories/tech-news/overwatch-2-stadium-leagues-all-ranks-rewards",
+                    "photo_url": "https://media.assettype.com/analyticsinsight/2025-04-21/4g6qyazj/Overwatch-2-Stadium-Leagues.jpg?w=640&mode=crop&ar=3:4",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNha1JDU2sxUFdUVndVVXhIVFJEUEJSaXJBeWdLTWdZQk1JanBxQVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-21T11:14:28.000Z",
+                    "authors": [
+                        "Shiva Ganesh"
+                    ],
+                    "source_url": "https://www.analyticsinsight.net",
+                    "source_name": "Analytics Insight",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.analyticsinsight.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR0Z1WVd4NWRHbGpjMmx1YzJsbmFIUXVibVYwS0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVcxcVpIa3laeElDWlc0b0FBUAE",
+                            "topic_name": "Shiva Ganesh"
+                        }
+                    ]
+                },
+                {
+                    "title": "'It was always an option': Overwatch 2 devs reveal that going third person isn't as big a leap as some players think",
+                    "link": "https://www.pcgamer.com/games/third-person-shooter/it-was-always-an-option-overwatch-2-devs-reveal-that-going-third-person-isnt-as-big-a-leap-as-some-players-think/",
+                    "photo_url": "https://cdn.mos.cms.futurecdn.net/hAT4vddiPNEjGLjFu9GQLH.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNObkpDY1ZsRFJFeExWWEpLVFJDZkF4ampCU2dLTWdhUk00VE5HUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-16T11:25:58.000Z",
+                    "authors": [
+                        "Elie Gould"
+                    ],
+                    "source_url": "https://www.pcgamer.com",
+                    "source_name": "PC Gamer",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pcgamer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0JqWjJGdFpYSXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YzNJNU5tTjZheElDWlc0b0FBUAE",
+                            "topic_name": "Elie Gould"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lnNU5ETkRSSFFGNXc3U2ctOThpZ0FQAQ"
+        },
+        {
+            "title": "Harish Kohli on Acer’s push for AI and edge solutions in India’s enterprise market",
+            "link": "https://www.techcircle.in/2025/04/21/harish-kohli-on-acer-s-push-for-ai-and-edge-solutions-in-india-s-enterprise-market",
+            "snippet": "Acer, a global leader in computing, has deep roots in India's enterprise sector, having started its operations focused on commercial solutions.",
+            "photo_url": "https://assets.techcircle.in/uploads/article-image/2025/04/images/36259-harish-kohli.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhNRzVVTVZscVptRjJhV0oxVFJET0FoaUFCU2dLTWdZbE5wZ01IZ2s=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T03:38:06.000Z",
+            "authors": [
+                "Pahi Mehra"
+            ],
+            "source_url": "https://www.techcircle.in",
+            "source_name": "Techcircle",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techcircle.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJsWTJoamFYSmpiR1V1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwZERKak5XNXROUklDWlc0b0FBUAE",
+                    "topic_name": "Pahi Mehra"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Four Ways Employees and SMBs Can Benefit From AI-Enabled PCs",
+                    "link": "https://biztechmagazine.com/article/2025/04/four-ways-employees-and-smbs-can-benefit-ai-enabled-pcs",
+                    "photo_url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202504/GettyImages-1416048929.jpg?itok=mY2MfeCo",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBaVWxRYnkxV1lXOXhSRUYxVFJDRUFSajlBaWdCTWdhdEpaRE9tUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-18T20:23:58.000Z",
+                    "authors": [
+                        "Steven Forsberg"
+                    ],
+                    "source_url": "https://biztechmagazine.com",
+                    "source_name": "BizTech Magazine",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://biztechmagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMkpwZW5SbFkyaHRZV2RoZW1sdVpTNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVd4a1gyNXdaaElDWlc0b0FBUAE",
+                            "topic_name": "Steven Forsberg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Acer Aims to Make AI PCs Accessible to Every Indian, Not Just the Elite",
+                    "link": "https://analyticsindiamag.com/ai-features/acer-aims-to-make-ai-pcs-accessible-to-every-indian-not-just-the-elite/",
+                    "photo_url": "https://analyticsindiamag.com/wp-content/uploads/2025/04/ACer-1300x731.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFObTF1YzJFNVZYRTFWRVl5VFJDZkF4ampCU2dLTWdhdE5aRE9KUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-17T08:33:32.000Z",
+                    "authors": [
+                        "Mohit Pandey"
+                    ],
+                    "source_url": "https://analyticsindiamag.com",
+                    "source_name": "Analytics India Magazine",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://analyticsindiamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0Z1WVd4NWRHbGpjMmx1WkdsaGJXRm5MbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGemJHUmlOaElDWlc0b0FBUAE",
+                            "topic_name": "Mohit Pandey"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p4X2IzWURSRzhRbWlCNHk5STRpZ0FQAQ"
+        },
+        {
+            "title": "Google's New AI Can Talk to Dolphins!",
+            "link": "https://yourstory.com/2025/04/googles-new-ai-talk-dolphins",
+            "snippet": "This is DolphinGemma, Google's latest AI model designed in partnership with the Wild Dolphin Project. And it's not just recording dolphin sounds ...",
+            "photo_url": "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/Image6vuo-1745080095199.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNlR2g2U2pRMlNqZHpkVVptVFJDSEF4aVBCaWdLTWdZSllwSUlzUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-20T06:23:24.000Z",
+            "authors": [],
+            "source_url": "https://yourstory.com",
+            "source_name": "YourStory.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://yourstory.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWGx2ZFhKemRHOXllUzVqYjIwb0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "DolphinGemma: How Google AI is helping decode dolphin communication",
+                    "link": "https://blog.google/technology/ai/dolphingemma/",
+                    "photo_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DolphinGemma_SocialExplainers_16x.width-700.format-webp.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5NRzl0Y205NU0xa3liamRQVFJDSkF4aThCU2dLTWdZaGhKS3NzUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-14T13:02:48.000Z",
+                    "authors": [
+                        "Denise L. Herzing"
+                    ],
+                    "source_url": "https://blog.google",
+                    "source_name": "Google Blog",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMkpzYjJjdVoyOXZaMnhsS0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJQgKIh9DQkFTRVFvTEwyMHZNREV6TkhSdWFqUVNBbVZ1S0FBUAE",
+                            "topic_name": "Denise L. Herzing"
+                        }
+                    ]
+                },
+                {
+                    "title": "Google created a new AI model for talking to dolphins",
+                    "link": "https://arstechnica.com/science/2025/04/google-created-a-new-ai-model-for-talking-to-dolphins/",
+                    "photo_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/2-spotted_dolphin_pod.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNU1OR1l0Wm5seWNuSnlhRlZ4VFJEaEF4ajlCQ2dLTWdNaE1BWQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-14T13:00:55.000Z",
+                    "authors": [
+                        "Ryan Whitwam"
+                    ],
+                    "source_url": "https://arstechnica.com",
+                    "source_name": "Ars Technica",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkZ5YzNSbFkyaHVhV05oTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURSNGJqZHFOaElDWlc0b0FBUAE",
+                            "topic_name": "Ryan Whitwam"
+                        }
+                    ]
+                },
+                {
+                    "title": "Google AI learns to speak dolphin",
+                    "link": "https://newatlas.com/biology/build-ai-translator-dolphins-dolphingemma/",
+                    "photo_url": "https://assets.newatlas.com/dims4/default/a23311c/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8b%2F32%2F0a8d773442c1b71de7709710ead4%2Funderstanding-the-patterns-and-structure-of-dolhpinspeak-could-give-us-a-whole-new-perspective-on-how-they-communicate-and-operate-in-the-wild.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdVVE16YzE5cldHdGlVbEJJVFJERUF4aW1CU2dLTWdZWmNveHNMUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-16T02:20:09.000Z",
+                    "authors": [
+                        "Abhimanyu Ghoshal"
+                    ],
+                    "source_url": "https://newatlas.com",
+                    "source_name": "New Atlas",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newatlas.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzVsZDJGMGJHRnpMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OM2FtSjVOeElDWlc0b0FBUAE",
+                            "topic_name": "Abhimanyu Ghoshal"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lUeDQzVERSR1luWXpVd1NVWm5pZ0FQAQ"
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ]
 }
 
