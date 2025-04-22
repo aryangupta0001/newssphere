@@ -2,13 +2,17 @@ import { useState } from "react"
 import articleContext from "./articleContext"
 
 
+
+
+
 const ArticleState = (props) => {
-
+    
     const HOST = "http://localhost:5000";
-
+    
     const [toggleLogin, setToggleLogin] = useState(false);
-
-
+    const [alertObj, setAlert] = useState(null);
+    
+    
     const userAuth = async () => {
         try {
             const response = await fetch(`${HOST}/api/auth/userauth`, {
@@ -33,8 +37,23 @@ const ArticleState = (props) => {
 
 
 
+
+
+
+
+
+    const showAlert = (alertObj) => {
+        setAlert(alertObj)
+
+        setTimeout(() => {
+            setAlert(null);
+        }, 750);
+    }
+
+
+
     return (
-        <articleContext.Provider value={{ userAuth, setToggleLogin, toggleLogin }}>
+        <articleContext.Provider value={{ userAuth, setToggleLogin, showAlert, toggleLogin, alertObj }}>
             {props.children}
         </articleContext.Provider>
     )

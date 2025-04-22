@@ -1,6 +1,8 @@
 const connectToMongo = require("./db");
 const express = require('express')
+const cors = require('cors');
 const { fetchNews } = require('./fetchNews');
+
 
 connectToMongo();
 fetchNews();
@@ -8,6 +10,9 @@ fetchNews();
 const app = express()
 const port = 5000
 
+
+// CORS Middleware :-
+app.use(cors());
 
 // Middleware to use req.body :-
 app.use(express.json());

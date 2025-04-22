@@ -1,8 +1,6 @@
 const Articles = require('./models/Articles');
 const { getArticleEmbedding } = require('./bertUtiils');
 const { api_response } = require('./api_repsonse_demo');
-const { set } = require('mongoose');
-
 
 
 async function fetchNews() {

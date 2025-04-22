@@ -9,6 +9,8 @@ import {
   Route,
   Routes
 } from "react-router-dom";
+import Home from './components/Home';
+import Alert from './components/Alert';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,11 +21,11 @@ function App() {
         <Router>
           <div className="d-flex flex-column sticky-top">
             <Navbar />
-            {/* <Alert /> */}
+            <Alert />
           </div>
 
           <Routes>
-            <Route path="/" element={<Login />} />
+            <Route path="/" element={<Home />} />
           </Routes>
         </Router>
       </ArticleState>

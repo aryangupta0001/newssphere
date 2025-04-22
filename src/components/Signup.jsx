@@ -1,18 +1,18 @@
 import React, { useState, useContext } from 'react';
 import { useNavigate } from "react-router-dom";
-import articleContext from '../context/notes/articleContext'
+import articleContext from '../context/articles/articleContext'
 
 
 const Signup = () => {
 
-    const HOST = "http://127.0.0.1:5173";
+    const HOST = "http://127.0.0.1:5000";
 
     const context = useContext(articleContext);
     const navigate = useNavigate();
 
     const { showAlert, setToggleLogin } = context;
 
-    const [credentials, setCred] = useState({ username: "", email: "", password: "", cnfpassword: "" });
+    const [credentials, setCred] = useState({ name: "", email: "", password: "", cnfpassword: "" });
 
     const onChange = (e) => {
         setCred({ ...credentials, [e.target.name]: e.target.value });
@@ -21,9 +21,9 @@ const Signup = () => {
     const handleOnSubmit = async (e) => {
         e.preventDefault();
 
-        const { username, email, password } = credentials;
+        const { name, email, password } = credentials;
 
-        setCred({ username: "", email: "", password: "", cnfpassword: "" });
+        setCred({ name: "", email: "", password: "", cnfpassword: "" });
 
         const response = await fetch(`${HOST}/api/auth/createuser`, {
 
@@ -32,13 +32,14 @@ const Signup = () => {
                 "Content-Type": "application/json"
             },
 
-            body: JSON.stringify({ username, email, password })
+            body: JSON.stringify({ name, email, password })
         });
 
         const json = await response.json();
+        console.log(json);
 
-        if (json.success) {
-            localStorage.setItem("token", json.authtoken);
+        if (json.authToken) {
+            localStorage.setItem("token", json.authToken);
             showAlert({ type: "User", operation: "Signup" });
             document.getElementById("signUpForm").reset();
         }
@@ -57,9 +58,9 @@ const Signup = () => {
                 <form onSubmit={handleOnSubmit} id='signUpForm'>
                     <div className='py-5 m-auto' style={{ width: "50%", boxShadow: "0 10px 24px hsla(0,0%,0%,0.05), 0 20px 48px hsla(0, 0%, 0%, 0.05), 0 1px 4px hsla(0, 0%, 0%, 0.1)", }}  >
                         <div className="m-auto" style={{ width: "90%" }}>
-                            <label htmlFor="name" className="form-label fw-semibold fs-5 d-inline" style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif' }}>User Name</label>
-                            <span className={`${credentials.username.length >= 5 && 'd-none'} text-danger`}>&emsp;[Min. 5 characters]</span>
-                            <input type="text" className="form-control m-auto" id="username" name="username" aria-describedby="username" value={credentials.username} onChange={onChange} />
+                            <label htmlFor="name" className="form-label fw-semibold fs-5 d-inline" style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif' }}>Name</label>
+                            <span className={`${credentials.name.length >= 1 && 'd-none'} text-danger`}> *</span>
+                            <input type="text" className="form-control m-auto" id="username" name="name" aria-describedby="name" value={credentials.name} onChange={onChange} />
                         </div>
 
                         <div className="m-auto mt-3 mb-3" style={{ width: "90%" }}>

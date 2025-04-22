@@ -2,6 +2,7 @@ import { useContext } from "react";
 import Login from "./Login";
 import Signup from "./Signup";
 import articleContext from "../context/articles/articleContext";
+import News from './News'
 
 
 const Home = () => {
