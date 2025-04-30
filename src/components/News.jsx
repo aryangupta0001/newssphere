@@ -29,13 +29,6 @@ const News = () => {
         // eslint-disable-next-line
     }, []);
 
-    const displayNews = (article) => {
-        console.log(article.bert_embedding);
-
-        <NewsItem key={article._id} article={article} />
-
-    }
-
 
     return (
         <>
@@ -44,14 +37,18 @@ const News = () => {
                     newsArticles.length === 0 ? (
                         <p>Loading...</p>
                     ) : (
-                        newsArticles.map((article) => (
-                            // displayNews(article)
-
-                            <NewsItem key={article._id} article={article} />
+                        newsArticles.map((article, i) => (
+                            <NewsItem key={article._id} article={article} i = {i} />
                         ))
                     )
 
                 }
+            </div>
+
+            <div id="readdMore">
+                <button>
+                    Read More
+                </button>
             </div>
         </>
     )

@@ -43,21 +43,44 @@ router.get("/fetcharticles", fetchuser, async (req, res) => {
 
             articles.push(...recentArticles);
 
+
+            console.log(Object.keys(articles[0].toObject()));
+            // console.log(articles[0]);
+
+
+            for (let i = articles.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [articles[i], articles[j]] = [articles[j], articles[i]]; // Swap elements
+            }
+
+            console.log("Articles sent to ArticleState : ", articles.length);
+            res.json(articles)
+
+
+
         }
 
-        console.log(Object.keys(articles[0].toObject()));
-        // console.log(articles[0]);
+        else {
 
+            const N = 40;                    // No. of articles to fetch from the sorted list.
 
-        for (let i = articles.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [articles[i], articles[j]] = [articles[j], articles[i]]; // Swap elements
+            const userVec = user.bertEmbeddings;
+
+            const articles = await Articles.find({});
+
+            const rankedArticles = articles.map(article => ({
+                ...article.toObject(),
+
+                score: cosineSimilarity(userVec, article.bert_embedding)
+            }))
+                .sort((a, b) => b.score - a.score);
+
+            const topArticles = rankedArticles.slice(0, N);
+
+            console.log("Articles sent to ArticleState : ", topArticles.length);
+            res.json(topArticles);
         }
 
-
-        console.log("Articles sent to ArticleState : ", articles.length);
-
-        res.json(articles)
     }
 
     catch (error) {
@@ -66,6 +89,20 @@ router.get("/fetcharticles", fetchuser, async (req, res) => {
     }
 }
 )
+
+
+
+// coosineSimilarity function --->
+
+const cosineSimilarity = (userVec, articleVec) => {
+    const dotProduct = userVec.reduce((sum, val, i) => sum + val * articleVec[i], 0);
+
+    const userNormmal = Math.sqrt(userVec.reduce((sum, val) => sum + val * val, 0));
+    const articleNormal = Math.sqrt(articleVec.reduce((sum, val) => sum + val * val, 0));
+
+    return dotProduct / (userNormmal * articleNormal);
+
+}
 
 
 // ROUTE 2 ---> fetch images

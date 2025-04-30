@@ -1,10 +1,21 @@
 #news {
     box-sizing: border-box;
 
-    min-height: 80vh;
-    max-height: 80vh;
+    min-height: 45vh;
+    max-height: 45vh;
     margin-bottom: 5px;
     display: flex;
+
+
+}
+
+
+.even {
+    background-image: linear-gradient(to left, rgb(0, 162, 255), white);
+}
+
+.odd {
+    background-image: linear-gradient(to right, rgb(0, 162, 255), white);
 }
 
 #info {
@@ -20,8 +31,8 @@
 #title {
     padding: 0 10px;
     text-align: justify;
-    margin-bottom: 25px;
-    background-image: linear-gradient(to right, rgb(117, 214, 255), white);
+    margin-bottom: 15px;
+    /* background-image: linear-gradient(to right, rgb(117, 214, 255), white); */
     line-height: 1.6;
 }
 
@@ -31,20 +42,22 @@
 }
 
 #snippet {
-    margin: 35px 10px;
+    margin: 10px 10px;
     text-align: justify;
     line-height: 1.32;
 }
 
 #link {
     margin: 0 10px;
+    margin-bottom: 5px;
 }
 
 #photo {
     display: flex;
-    align-items: flex-start;
+    /* align-items: flex-start; */
+    align-items: center;
     justify-content: center;
-    padding: 5px;
+    /* padding: 5px; */
 }
 
 #photo>img {

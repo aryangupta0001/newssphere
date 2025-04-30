@@ -13529,12 +13529,5968 @@ const api_response = {
                 }
             ],
             "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lUeDQzVERSR1luWXpVd1NVWm5pZ0FQAQ"
+        },
+        {
+            "title": "Trump 100 days: tariffs, egg prices, Ice arrests and approval rating – in charts",
+            "link": "https://www.theguardian.com/us-news/ng-interactive/2025/apr/30/trumps-first-100-days-charts",
+            "snippet": "The first 100 days of Donald Trump's second term has been full of them: immigration arrests spiking. Markets falling. Emission trends reversing.",
+            "photo_url": "https://i.guim.co.uk/img/media/8df5067a96f0259c78ac3c85493877ea84d8d51c/0_0_12500_7500/master/12500.png?width=465&dpr=1&s=none&crop=none",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNjamhHVURKblIyZzVXWEJWVFJDWEFoalJBeWdLTWdhaGhJcnJ0UVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T15:02:00.000Z",
+            "authors": [
+                "Will Craft",
+                "Andrew Witherspoon",
+                "Aliya Uteuova"
+            ],
+            "source_url": "https://www.theguardian.com",
+            "source_name": "The Guardian",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURSeVkzSjNaeElDWlc0b0FBUAE",
+                    "topic_name": "Will Craft"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TmpaNmRqVTJjeElDWlc0b0FBUAE",
+                    "topic_name": "Andrew Witherspoon"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WnpZelgydHVjeElDWlc0b0FBUAE",
+                    "topic_name": "Aliya Uteuova"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Here’s What 7 Americans Think of Trump’s First 100 Days",
+                    "link": "https://www.nytimes.com/2025/04/30/us/trump-100-days-voter-reaction.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/03/22/multimedia/30nat-100days-promo/22nat-100days-promo-mccloud-pztf-googleFourByThree.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNDVXRmM0U1hjMWQxa3hNR3hsVFJEZ0F4aUFCU2dLTWdzSkVZaTMwS00xeFZvc3VR=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:05:22.000Z",
+                    "authors": [],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trump has reshaped these 3 major things in his first 100 days",
+                    "link": "https://www.pbs.org/newshour/politics/trump-has-reshaped-these-3-major-things-in-his-first-100-days",
+                    "photo_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/04/GettyImages-2212066597-1024x683.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNSRTVXTVRkS1Z6WkZVMkU1VFJERUF4aW1CU2dLTWdhVnBZVEt1UVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:50:16.000Z",
+                    "authors": [
+                        "Lisa Desjardins"
+                    ],
+                    "source_url": "https://www.pbs.org",
+                    "source_name": "PBS",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM0JpY3k1dmNtY29BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJQgKIh9DQkFTRVFvTEwyMHZNREV4Ym5SeGRtWVNBbVZ1S0FBUAE",
+                            "topic_name": "Lisa Desjardins"
+                        }
+                    ]
+                },
+                {
+                    "title": "The Trump Voters Who Like What They See",
+                    "link": "https://www.theatlantic.com/politics/archive/2025/04/satisfied-trump-voters/682645/",
+                    "photo_url": "https://cdn.theatlantic.com/thumbor/vU9o3wzziCYDoRLh_pNANio-Nh4=/0x0:2700x1519/960x540/media/img/mt/2025/04/2025_04_28_trump_supporters_az/original.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXBjV05zVm1aRllUTjZNa0V4VFJDZkF4ampCU2dLTWdrQk1JekJLV2NlaFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T11:00:00.000Z",
+                    "authors": [
+                        "Elaine Godfrey"
+                    ],
+                    "source_url": "https://www.theatlantic.com",
+                    "source_name": "The Atlantic",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldGMGJHRnVkR2xqTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhseWRtTTBNUklDWlc0b0FBUAE",
+                            "topic_name": "Elaine Godfrey"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lYLWI3WERSR1MtX2VQRXVSSmdDZ0FQAQ"
+        },
+        {
+            "title": "Judge frees Columbia student activist whom Trump administration wants to deport",
+            "link": "https://www.politico.com/news/2025/04/30/judge-frees-columbia-student-activist-whom-trump-administration-wants-to-deport-00317981",
+            "snippet": "Mohsen Mahdawi was arrested as part of a crackdown on pro-Palestinian students who were legally studying in the United States.",
+            "photo_url": "https://www.politico.com/dims4/default/eb59fb3/2147483647/strip/true/crop/5712x4284+0+0/resize/630x473!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F3b%2Fa9%2F2eb70610459cb6d5830b490eb124%2Fimg-4822.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNU9ibmRwVWxaT1NHaDZYMEpSVFJEQ0FSaURBaWdCTWdNQnNBZw=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T16:11:52.000Z",
+            "authors": [
+                "Kyle Cheney",
+                "Liz Crampton"
+            ],
+            "source_url": "https://www.politico.com",
+            "source_name": "Politico",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvZW5CdWRqWjNkeElDWlc0b0FBUAE",
+                    "topic_name": "Kyle Cheney"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsdGRtUm9ZaElDWlc0b0FBUAE",
+                    "topic_name": "Liz Crampton"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Mohsen Mahdawi, Columbia Student Detained by Trump Administration, is Freed",
+                    "link": "https://www.nytimes.com/2025/04/30/nyregion/columbia-student-mohsen-mahdawi-freed.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/05/29/multimedia/29Mahdawi-vidcover-jkvt/29Mahdawi-vidcover-jkvt-superJumbo.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNDRWbU5PT0haNE9EQnZYMVJXVFJERUF4aW1CU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T15:31:58.000Z",
+                    "authors": [
+                        "Ana Ley"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oblgydzRiUklDWlc0b0FBUAE",
+                            "topic_name": "Ana Ley"
+                        }
+                    ]
+                },
+                {
+                    "title": "Anti-Israel Columbia protester detained by ICE is freed after federal judge's order",
+                    "link": "https://www.foxnews.com/politics/anti-israel-columbia-protester-detained-ice-freed-after-federal-judges-order",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/1200/675/immigration-palestinian-student-detained-mohsen-mahdawi.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZVUzFvTUZZd1pWQm9kMDh6VFJDZkF4ampCU2dLTWdZRk1KYkxHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T15:13:00.000Z",
+                    "authors": [
+                        "Anders Hagstrom"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTNGdE4zZG5keElDWlc0b0FBUAE",
+                            "topic_name": "Anders Hagstrom"
+                        }
+                    ]
+                },
+                {
+                    "title": "Vermont judge orders release of a Palestinian man arrested at his US citizenship interview",
+                    "link": "https://www.cnn.com/2025/04/30/us/vermont-judge-orders-release-of-mohsen-mahdawi/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap25120568908212.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXZjRkJwYVdGbVREQjJiekJMVFJDZkF4amlCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:37:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l4cGU3Y0RSR3VZWTBHS2lOWnZ5Z0FQAQ"
+        },
+        {
+            "title": "Supreme Court Seems Open to a Religious Charter School in Oklahoma",
+            "link": "https://www.nytimes.com/2025/04/30/us/politics/supreme-court-charter-school.html",
+            "snippet": "The Supreme Court appeared open on Wednesday to allowing Oklahoma to use government money to run the nation's first religious charter school ...",
+            "photo_url": "https://static01.nyt.com/images/2025/04/30/multimedia/30dc-scotus/30dc-scotus-ltkg-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXhORzR0ZDBGV1oyaFdSRlZsVFJDUUF4allCQ2dLTWdNQmdBSQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T19:21:56.000Z",
+            "authors": [
+                "Adam Liptak"
+            ],
+            "source_url": "https://www.nytimes.com",
+            "source_name": "The New York Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNREp3YTI1NWVoSUNaVzRvQUFQAQ",
+                    "topic_name": "Adam Liptak"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Justice Amy Coney Barrett Recuses Herself in a Charter School Case",
+                    "link": "https://www.nytimes.com/2025/04/30/us/politics/amy-coney-barrett-recuse.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/30/multimedia/30scotus-schools-recuse-bclt/30scotus-schools-recuse-bclt-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFMV3BxY1dOalgzVXpPR3hCVFJDUUF4allCQ2dLTWdhQkVKRERuQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:32:10.000Z",
+                    "authors": [
+                        "Abbie Vansickle",
+                        "Sarah Mervosh"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvek5qUjNZeElDWlc0b0FBUAE",
+                            "topic_name": "Abbie Vansickle"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OeWNYQnljaElDWlc0b0FBUAE",
+                            "topic_name": "Sarah Mervosh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Supreme Court weighs religious liberty dispute over public funding for Catholic charter school",
+                    "link": "https://www.foxnews.com/politics/supreme-court-weighs-religious-liberty-dispute-over-public-funding-catholic-charter-school",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/1200/675/scotus-ruling.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNjVWhsVjA5WVl6WnZkMU54VFJDZkF4ampCU2dLTWdhVklJeTJGQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:29:00.000Z",
+                    "authors": [
+                        "Bill Mears",
+                        "Shannon Bream"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYUhRMFptWnVkeElDWlc0b0FBUAE",
+                            "topic_name": "Bill Mears"
+                        },
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRGRyWTNSNVl4SUNaVzRvQUFQAQ",
+                            "topic_name": "Shannon Bream"
+                        }
+                    ]
+                },
+                {
+                    "title": "Supreme Court’s conservative majority open to endorsing the use of state funds for a Catholic charter school",
+                    "link": "https://www.cnn.com/2025/04/30/politics/religious-charter-school-scotus-argument/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2209056030.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURVVWh3WlMxVlkxaEtTbGs1VFJDZkF4amlCU2dLTWdZQmdJN09zUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:49:00.000Z",
+                    "authors": [
+                        "John Fritze"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhobmEyZzFNUklDWlc0b0FBUAE",
+                            "topic_name": "John Fritze"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pJaVB6VkRSSDJyN2RHRmgwMmZ5Z0FQAQ"
+        },
+        {
+            "title": "El Salvador Is Said to Have Spurned U.S. Request to Return Abrego Garcia",
+            "link": "https://www.nytimes.com/2025/04/30/us/politics/trump-abrego-garcia-bukele-el-salvador.html",
+            "snippet": "The Trump administration recently sent a diplomatic note to officials in El Salvador to inquire about releasing a Salvadoran immigrant whom ...",
+            "photo_url": "https://static01.nyt.com/images/2025/04/30/multimedia/30dc-immig-topart-kbtj/30dc-immig-topart-kbtj-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJMV2xsWDNWWFJUbFJPV3R1VFJDUUF4allCQ2dLTWdhcEpZenNGUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T15:43:00.000Z",
+            "authors": [
+                "Alan Feuer",
+                "Maggie Haberman",
+                "Michael S. Schmidt"
+            ],
+            "source_url": "https://www.nytimes.com",
+            "source_name": "The New York Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhScU1XMXNNaElDWlc0b0FBUAE",
+                    "topic_name": "Alan Feuer"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZqYlhSMGJteHhaQklDWlc0b0FBUAE",
+                    "topic_name": "Maggie Haberman"
+                },
+                {
+                    "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR2RvTjJKdWN4SUNaVzRvQUFQAQ",
+                    "topic_name": "Michael S. Schmidt"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Trump Says He Could Free Abrego Garcia From El Salvador, but Won’t",
+                    "link": "https://www.nytimes.com/2025/04/29/us/politics/trump-abrego-garcia-deported.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/05/29/multimedia/29trump-news-abrego-garcia-jvqm/29trump-news-abrego-garcia-jvqm-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZjMVZSUlhOTGFVdDRRVWRhVFJDUUF4allCQ2dLTWdhcE00U1FIUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T14:45:00.000Z",
+                    "authors": [
+                        "Zolan Kanno-Youngs"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTkY5ek56azJNUklDWlc0b0FBUAE",
+                            "topic_name": "Zolan Kanno-Youngs"
+                        }
+                    ]
+                },
+                {
+                    "title": "US diplomat Marco Rubio will not provide info to judge about deported man",
+                    "link": "https://www.aljazeera.com/news/2025/4/30/us-diplomat-marco-rubio-will-not-provide-info-to-judge-about-deported-man",
+                    "photo_url": "https://www.aljazeera.com/wp-content/uploads/2025/04/AP25120645749942-2-1746038459.jpg?resize=1920%2C1440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXpTa1ZyWTNkeVQzbHBTbFpFVFJEZ0F4aUFCU2dLTWdtQlFKTGttaWttU1FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:03:45.000Z",
+                    "authors": [],
+                    "source_url": "https://www.aljazeera.com",
+                    "source_name": "Al Jazeera",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0ZzYW1GNlpXVnlZUzVqYjIwb0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Analysis | Trump’s big admission about the Kilmar Abrego García deportation case",
+                    "link": "https://www.washingtonpost.com/politics/2025/04/30/trump-kilmar-abrego-garcia-deportation-case/",
+                    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZR7RFYKLBKJB7EDPXZBXNG4YCM_size-normalized.jpg&w=1200",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZNWEJLT1Znd1YzTkhhbGN3VFJERUF4aW1CU2dLTWdhQk5aYnNuUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:22:10.000Z",
+                    "authors": [
+                        "Aaron Blake"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYzNocWRIb3dOeElDWlc0b0FBUAE",
+                            "topic_name": "Aaron Blake"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lTNnF2akRSRUJ3cGJMOFF3Zkp5Z0FQAQ"
+        },
+        {
+            "title": "Trump Insists Wrongly Deported Man Has ‘MS-13’ Tattooed on His Knuckles",
+            "link": "https://www.wsj.com/us-news/trump-interview-ms-13-tattoo-kilmar-abrego-garcia-39b994fa",
+            "snippet": "Trump Insists Wrongly Deported Man Has 'MS-13' Tattooed on His Knuckles · Notorious gang's initials were digitally added to an image of Kilmar ...",
+            "photo_url": "https://images.wsj.net/im-04839706?size=1.22",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZhMGRNUVRWS2NuZEZhRFpaVFJETEFSajRBU2dCTWdhZFpwUUxxZ2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:22:00.000Z",
+            "authors": [
+                "Mariah Timms",
+                "Tarini Parti",
+                "Juan Forero"
+            ],
+            "source_url": "https://www.wsj.com",
+            "source_name": "WSJ",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R6YWk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWDNoM05qZGtNUklDWlc0b0FBUAE",
+                    "topic_name": "Mariah Timms"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NNFlucHJkaElDWlc0b0FBUAE",
+                    "topic_name": "Tarini Parti"
+                },
+                {
+                    "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR055YW1oM2NSSUNaVzRvQUFQAQ",
+                    "topic_name": "Juan Forero"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "FULL TRANSCRIPT: Trump's exclusive 100 days broadcast interview with ABC News",
+                    "link": "https://abcnews.go.com/US/full-transcript-trumps-exclusive-100-days-broadcast-interview/story?id=121291672",
+                    "photo_url": "https://s.abcnews.com/images/US/donald-trump-18-abc-gmh-250429_1745957644768_hpMain_16x9_608.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlSWGRDV2xocU5HdHFVa2MxVFJEV0FoamdCQ2dLTWdhcFZZek5wUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T01:03:34.000Z",
+                    "authors": [],
+                    "source_url": "https://abcnews.go.com",
+                    "source_name": "ABC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Experts cast doubt on Trump's claim that Abrego Garcia's finger tattoos prove MS-13 membership",
+                    "link": "https://www.cbsnews.com/news/trump-claim-kilmar-abrego-garcias-finger-tattoos-ms-13/",
+                    "photo_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/17/fd5020fd-9d76-4ad9-8111-6202c5eedc8a/thumbnail/1200x630/ad06126896edee9b353e18c6bd94c0d1/ap25106847496517.jpg?v=5bc79e41160fef925ca37e685496f706",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhjMFY0WldKSVdXeDFSVTVuVFJDUkF4ajlCU2dLTWdheFk0QndOUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-23T22:01:00.000Z",
+                    "authors": [
+                        "Layla Ferris"
+                    ],
+                    "source_url": "https://www.cbsnews.com",
+                    "source_name": "CBS News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyTTJaeE1qWm5hQklDWlc0b0FBUAE",
+                            "topic_name": "Layla Ferris"
+                        }
+                    ]
+                },
+                {
+                    "title": "Donald Trump’s image of ‘MS-13’ finger tattoos: What to know",
+                    "link": "https://www.politifact.com/article/2025/apr/22/abrego-garcia-finger-tattoos-trump/",
+                    "photo_url": "https://static.politifact.com/CACHE/images/politifact/photos/AP25107268076702/f2f53d3494f74ff001a27435f79d7842.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRlVXBKYkhsTVlWaG1OMFpyVFJDcEFSaXBBaWdCTWdZQkFvNzBoQXc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-22T07:00:00.000Z",
+                    "authors": [
+                        "Louis Jacobson"
+                    ],
+                    "source_url": "https://www.politifact.com",
+                    "source_name": "PolitiFact",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politifact.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbkJ2YkdsMGFXWmhZM1F1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZpTmpCbmJtZHVlUklDWlc0b0FBUAE",
+                            "topic_name": "Louis Jacobson"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pRci1IWkRSRzF5bnlnOGJfS2l5Z0FQAQ"
+        },
+        {
+            "title": "Massive earthquake could sink parts of Pacific Northwest coast within minutes",
+            "link": "https://www.sfgate.com/california/article/earthquake-sink-pacific-northwest-20301308.php",
+            "snippet": "A major earthquake along a West Coast fault could have catastrophic consequences across coastal Washington, Oregon and northern California.",
+            "photo_url": "https://s.hdnux.com/photos/01/50/14/62/27315359/3/ratio3x2_720.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXdSRUZuTWtReFkxWnhOM1ZIVFJDM0FSaVRBaWdCTWdrTlVJb1JMYVdaN0FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T15:02:34.000Z",
+            "authors": [
+                "Olivia Hebert"
+            ],
+            "source_url": "https://www.sfgate.com",
+            "source_name": "SFGATE",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.sfgate.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbk5tWjJGMFpTNWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyTTJaeGRqUjBlaElDWlc0b0FBUAE",
+                    "topic_name": "Olivia Hebert"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "A big Pacific Northwest quake could cause land to sink in minutes",
+                    "link": "https://www.washingtonpost.com/climate-environment/2025/04/30/cascadia-earthquake-flooding-study/",
+                    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GQE2HVV74MI6TKFQP3MKBVO4LU.jpg&w=1800&h=1800",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXlValZLZVd0SVdXTnZabGRwVFJDcUJCaXFCQ2dLTWdrQllKakNNcWdXaVFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:28:37.000Z",
+                    "authors": [
+                        "Angie Orellana Hernandez"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0TmpGeE4yMWpOeElDWlc0b0FBUAE",
+                            "topic_name": "Angie Orellana Hernandez"
+                        }
+                    ]
+                },
+                {
+                    "title": "Cascadia subduction zone earthquake could be even worse than feared",
+                    "link": "https://www.nbcnews.com/science/earthquakes/cascadia-subduction-zone-earthquake-even-worse-feared-rcna203020",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250428-Cascadia-subduction-zone-Tina-and-Brandon-field-vl-240p-ea559d.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBYMkp1ZWpoc1MzZ3djR1pQVFJERUF4aW1CU2dLTWdZZGtKQ0t0UVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T20:12:03.000Z",
+                    "authors": [
+                        "Evan Bush"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhveGFqQmplQklDWlc0b0FBUAE",
+                            "topic_name": "Evan Bush"
+                        }
+                    ]
+                },
+                {
+                    "title": "Monster earthquake could sink swath of California, dramatically heightening flood risk, study says",
+                    "link": "https://www.latimes.com/california/story/2025-04-30/monster-quake-could-sink-swath-of-california-heightening-flood-risk-study-says",
+                    "photo_url": "https://ca-times.brightspotcdn.com/dims4/default/b8ced87/2147483647/strip/true/crop/5272x3431+0+0/resize/1200x781!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F05%2F81%2F848c1bf546768b1806f03bba4254%2F1181800-me-samoa-peninsula-eureka-10-mjc.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNVRhekZ6UkhWc1ZVSmxXRXc0VFJDX0F4aXZCU2dLTWdNZE5TNA=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T11:00:00.000Z",
+                    "authors": [
+                        "Rong-Gong Lin II",
+                        "Rong-gong Lin"
+                    ],
+                    "source_url": "https://www.latimes.com",
+                    "source_name": "Los Angeles Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMnhoZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTkdwek4ycDVPQklDWlc0b0FBUAE",
+                            "topic_name": "Rong-Gong Lin II"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTVhsNU4yeGplaElDWlc0b0FBUAE",
+                            "topic_name": "Rong-gong Lin"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l1a2JMaERSR1c0dlV3X2NfamVDZ0FQAQ"
+        },
+        {
+            "title": "US and Ukraine encounter last-minute disagreement over minerals deal, sources say",
+            "link": "https://www.cnn.com/2025/04/30/europe/ukraine-us-mineral-deal-intl/index.html",
+            "snippet": "A last-minute disagreement could derail the minerals deal that the United States and Ukraine were hoping to sign on Wednesday.",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2201494264.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVRiWEJQUWt0TGRrWTVNbmRJVFJDZkF4amlCU2dLTWdrQkFJQnZEYXVSOUFB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:58:00.000Z",
+            "authors": [],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "U.S. and Ukraine to sign minerals deal today: Ukrainian official",
+                    "link": "https://www.axios.com/2025/04/30/ukraine-minerals-deal-signing",
+                    "photo_url": "https://images.axios.com/B-ZRZ2hqNMms4fHFHmHUotvgk9Y=/0x0:6888x3875/1920x1080/2025/04/30/1746044671834.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWpMVE5FV1hRNVRsOU5ObE5FVFJDZkF4ampCU2dLTWdrWkk1b1VwV2lheEFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:33:15.000Z",
+                    "authors": [
+                        "Barak Ravid"
+                    ],
+                    "source_url": "https://www.axios.com",
+                    "source_name": "Axios",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV0Y0YVc5ekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZpWXpnM2JqQnpaQklDWlc0b0FBUAE",
+                            "topic_name": "Barak Ravid"
+                        }
+                    ]
+                },
+                {
+                    "title": "US ready to sign Ukraine minerals deal ‘this afternoon’, as Kyiv sends minister to Washington",
+                    "link": "https://www.bbc.com/news/live/c20zj5l4jpdt",
+                    "photo_url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1ded/live/8e0ec700-25ca-11f0-8c66-ebf25fc2cfef.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHRVR2hLYVU5WGRteFVOMEUwVFJDZkF4ampCU2dLTWdrUk1wYW5sbW8xNndF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:46:39.000Z",
+                    "authors": [],
+                    "source_url": "https://www.bbc.com",
+                    "source_name": "BBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trump-Ukraine minerals deal hits yet another late snag",
+                    "link": "https://www.politico.eu/article/ukraine-us-agree-new-minerals-deal/",
+                    "photo_url": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2025/04/30/Yulia-Svyrydenko-scaled.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhPREIyWWpkUlQxQmFXbmRQVFJERUF4aW1CU2dLTWdhdFJKYVBvUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T15:09:00.000Z",
+                    "authors": [
+                        "Seb Starcevic",
+                        "Veronika Melkozorova"
+                    ],
+                    "source_url": "https://www.politico.eu",
+                    "source_name": "politico.eu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0J2YkdsMGFXTnZMbVYxS0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWkRKbU5EaHVZeElDWlc0b0FBUAE",
+                            "topic_name": "Seb Starcevic"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WDJ3emEydzBNeElDWlc0b0FBUAE",
+                            "topic_name": "Veronika Melkozorova"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ltb2I3ZERSRWRjWmhES3JfaVJ5Z0FQAQ"
+        },
+        {
+            "title": "Trump praises tariffs in Cabinet meeting as US economy shrinks 0.3% - live updates",
+            "link": "https://www.bbc.com/news/live/c3wx0797d37t",
+            "snippet": "New GDP data focuses on a period before President Trump's most far-reaching tariffs were announced.",
+            "photo_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7739/live/ad0f3a80-25da-11f0-8f57-b7237f6a66e6.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXFSRzV1ZFcwd1EyZDJVMFprVFJDZkF4ampCU2dLTWdrQmNKQWlzMmNXQ2dJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T18:40:17.000Z",
+            "authors": [],
+            "source_url": "https://www.bbc.com",
+            "source_name": "BBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "Teens may face charges over HS lacrosse hazing",
+            "link": "https://www.espn.com/high-school/story/_/id/44936054/syracuse-area-high-schoolers-face-charges-lacrosse-hazing",
+            "snippet": "SYRACUSE, N.Y. -- Members of a high school lacrosse program in upstate New York are accused of staging an armed abduction of younger players ...",
+            "photo_url": "https://a.espncdn.com/photo/2024/0423/r1323231_1296x729_16-9.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHRlV1EyZEUxNGFYSkdibWR4VFJDb0FSaXNBaWdCTWdtRkVwZ3hrU3ZKeGdJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:32:00.000Z",
+            "authors": [],
+            "source_url": "https://www.espn.com",
+            "source_name": "ESPN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1Z6Y0c0dVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "11 high school lacrosse players suspected in hazing of teammate in Syracuse turn themselves in",
+                    "link": "https://www.cnn.com/2025/04/30/us/syracuse-westhill-lacrosse-hazing-scandal/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21584478-0-still.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRSamR5WWxWekxVOVlRVUZtVFJDZkF4amlCU2dLTWdhaFk1cXVKUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:14:00.000Z",
+                    "authors": [
+                        "Holly Yan",
+                        "Emma Tucker"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkdvM1puQjViQklDWlc0b0FBUAE",
+                            "topic_name": "Holly Yan"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTWpOemR6SnhaeElDWlc0b0FBUAE",
+                            "topic_name": "Emma Tucker"
+                        }
+                    ]
+                },
+                {
+                    "title": "Eleven high schoolers ordered to surrender themselves to sheriff's office after lacrosse team hazing in upstate New York",
+                    "link": "https://www.nbcnews.com/news/us-news/high-schoolers-lacrosse-team-hazing-rcna203662",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250430-westhill-high-school-vl-909a-2fe878.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNHlRbTkwYmtoTE1ETjZUbHBCVFJERUF4aW1CU2dLTWdNZGtCQQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:19:48.000Z",
+                    "authors": [
+                        "Marlene Lenthang",
+                        "Samantha Cookinham"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsa2NucDVNUklDWlc0b0FBUAE",
+                            "topic_name": "Marlene Lenthang"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTWpGb01XSnFNQklDWlc0b0FBUAE",
+                            "topic_name": "Samantha Cookinham"
+                        }
+                    ]
+                },
+                {
+                    "title": "Syracuse residents react to the DA’s decision to prosecute Westhill lacrosse team for hazing",
+                    "link": "https://www.localsyr.com/news/local-news/syracuse-residents-react-to-the-das-decision-to-prosecute-westhill-lacrosse-team-for-hazing/",
+                    "photo_url": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/04/MG_6003.jpeg?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUlka1ZEVm1GVVJUVmZNV1Z1VFJERUF4aW1CU2dLTWdNQm9BNA=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T02:05:44.000Z",
+                    "authors": [
+                        "Alexandra Deryn"
+                    ],
+                    "source_url": "https://www.localsyr.com",
+                    "source_name": "WSYR",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.localsyr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3h2WTJGc2MzbHlMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYm14amJESjNaeElDWlc0b0FBUAE",
+                            "topic_name": "Alexandra Deryn"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTaTZIZ0RSRVNuZE12SU9oQmlDZ0FQAQ"
+        },
+        {
+            "title": "Behind Trump’s Deal to Deport Venezuelans to El Salvador’s Most Feared Prison",
+            "link": "https://www.nytimes.com/2025/04/30/us/politics/trump-deportations-venezuela-el-salvador.html",
+            "snippet": "As part of the agreement with the Trump administration, Mr. Bukele had agreed to house only what he called “convicted criminals” in the prison.",
+            "photo_url": "https://static01.nyt.com/images/2025/04/30/us/politics/30dc-deportation-reconstruct-promo/30dc-deportation-reconstruct-promo-videoSixteenByNine3000.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNUhURjkyVVVKUVpUQnpPRE0zVFJDb0FSaXJBaWdCTWd1RkVJYk5GU3NlOUVndVBR=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T14:02:47.000Z",
+            "authors": [
+                "Alan Feuer",
+                "Hamed Aleaziz",
+                "Devlin Barrett"
+            ],
+            "source_url": "https://www.nytimes.com",
+            "source_name": "The New York Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhScU1XMXNNaElDWlc0b0FBUAE",
+                    "topic_name": "Alan Feuer"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZqTlRoeU9HUmlaaElDWlc0b0FBUAE",
+                    "topic_name": "Hamed Aleaziz"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTW5kemJYRjBOeElDWlc0b0FBUAE",
+                    "topic_name": "Devlin Barrett"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "“A Mockery of Due Process”: The Men Who Could Be Sent to El Salvador Next",
+                    "link": "https://www.motherjones.com/politics/2025/04/investigation-el-salvador-venezuelan-trump-removal-bluebonnet-cecot-bukele-alien-enemies-act-migrant-deportation/",
+                    "photo_url": "https://www.motherjones.com/wp-content/uploads/2025/04/20250430_deportations_2000px.png?w=2000&h=1125&crop=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1SRU5LWTBZeE5HNVBWbXd6VFJDZkF4ampCU2dLTWdhTlVaREhxQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:33:41.000Z",
+                    "authors": [
+                        "Isabela Dias",
+                        "Noah Lanard"
+                    ],
+                    "source_url": "https://www.motherjones.com",
+                    "source_name": "Mother Jones",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.motherjones.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMjF2ZEdobGNtcHZibVZ6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtY21vM2RqRmlNeElDWlc0b0FBUAE",
+                            "topic_name": "Isabela Dias"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoNFpESnFiaElDWlc0b0FBUAE",
+                            "topic_name": "Noah Lanard"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump admin proposed sending up to 500 alleged Venezuelan gang members during negotiations to use El Salvador’s mega-prison",
+                    "link": "https://www.cnn.com/2025/04/28/politics/trump-el-savador-prison-negotiations/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-04-14t071726z-860658798-rc2bwdaa1ib9-rtrmadp-3-usa-trump-migration-el-salvador.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhjMUJIWm5SVFNVZHliR3BxVFJDZkF4amlCU2dLTWdZQkVKVEptUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T22:50:00.000Z",
+                    "authors": [
+                        "Jennifer Hansler",
+                        "Priscilla Alvarez"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkdzNWRqVm5OUklDWlc0b0FBUAE",
+                            "topic_name": "Jennifer Hansler"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVRWamJqbHlPQklDWlc0b0FBUAE",
+                            "topic_name": "Priscilla Alvarez"
+                        }
+                    ]
+                },
+                {
+                    "title": "Even El Salvador’s president questioned Trump team on if migrants being sent were actually gang members: report",
+                    "link": "https://www.independent.co.uk/news/world/americas/us-politics/bukele-trump-el-salvador-migrants-deal-b2742597.html",
+                    "photo_url": "https://cdn.jwplayer.com/v2/media/NFdBgu82/poster.jpg?width=720",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWhUbmw0UjBOVlJ6UmpiMk5EVFJERUF4aW1CU2dLTWdrSmNvekVLaWc5Q2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:38:00.000Z",
+                    "authors": [
+                        "Rhian Lubin"
+                    ],
+                    "source_url": "https://www.independent.co.uk",
+                    "source_name": "The Independent",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdWd1pXNWtaVzUwTG1OdkxuVnJLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzWm5wZllqY3dOeElDWlc0b0FBUAE",
+                            "topic_name": "Rhian Lubin"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kwNktMZERSRWdIdkZJaWV4cEdDZ0FQAQ"
+        },
+        {
+            "title": "The DOGE days have just begun",
+            "link": "https://www.theverge.com/tech/656704/elon-musk-doge-100-days-recap-list",
+            "snippet": "DOGE hasn't accomplished much efficiency in its first 100 days. It has, however, gutted anything that might regulate Elon Musk.",
+            "photo_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257575_Trump_100_days_DOGE_ADAVIS.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNhVlZyVW1nMlJWOHhkM0YxVFJDdEJCaW5CQ2dLTWdZTlFwYW9KUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T13:00:00.000Z",
+            "authors": [
+                "Elizabeth Lopatto"
+            ],
+            "source_url": "https://www.theverge.com",
+            "source_name": "The Verge",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWlhabGNtZGxMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4MGMzUjNPQklDWlc0b0FBUAE",
+                    "topic_name": "Elizabeth Lopatto"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "“I’m Angry at Elon Musk”: Former US Digital Service Workers on DOGE, the “Fork in the Road,” and Trump’s First 100 Days",
+                    "link": "https://www.washingtonian.com/2025/04/29/im-angry-at-elon-musk-former-us-digital-service-workers-on-doge-the-fork-in-the-road-and-trumps-first-100-days/",
+                    "photo_url": "https://www.washingtonian.com/wp-content/uploads/2025/02/presidents-day-trump-musk-protest-feb-17-17-2048x1366.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFaREZuUlZSYVpFbFVkRXh4VFJERUF4aW1CU2dLTWdhQjRZQVV5UVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T12:00:34.000Z",
+                    "authors": [
+                        "Lydia Wei"
+                    ],
+                    "source_url": "https://www.washingtonian.com",
+                    "source_name": "Washingtonian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFWGRoYzJocGJtZDBiMjVwWVc0dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyWkhrM1gzUjBaeElDWlc0b0FBUAE",
+                            "topic_name": "Lydia Wei"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump 100 days: A look at Elon Musk's DOGE plan to cut down government waste, lay off federal workers",
+                    "link": "https://abc7.com/post/trump-100-days-look-elon-musks-doge-plan-cut-down-government-waste-lay-off-federal-workers/16278493/",
+                    "photo_url": "https://cdn.abcotvs.com/dip/images/16279925_042925-wabc-krauth-doge-img.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURUSGhuZEdOTWIxWmtXQzFPVFJDZkF4ampCU2dLTWdiQllwSVRxUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T22:11:42.000Z",
+                    "authors": [
+                        "Dan Krauth"
+                    ],
+                    "source_url": "https://abc7.com",
+                    "source_name": "ABC7 Los Angeles",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://abc7.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR0ZpWXpjdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWkdwNmNuRmlOQklDWlc0b0FBUAE",
+                            "topic_name": "Dan Krauth"
+                        }
+                    ]
+                },
+                {
+                    "title": "By Gutting Department of Labor, Trump Is Making American Workers Suffer Again",
+                    "link": "https://www.afge.org/article/by-gutting-department-of-labor-trump-is-making-american-workers-suffer-again",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-04-28T19:49:01.000Z",
+                    "authors": [],
+                    "source_url": "https://www.afge.org",
+                    "source_name": "AFGE",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.afge.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR0ZtWjJVdWIzSm5LQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNaUw3aURSSEFsa1I3YndyYWdDZ0FQAQ"
+        },
+        {
+            "title": "4 dead in Pennsylvania as severe weather hits from Texas to New York",
+            "link": "https://abcnews.go.com/US/2-dead-pennsylvania-severe-weather-events-hit-midwest/story?id=121309396",
+            "snippet": "Four people have died in Pennsylvania as severe storms hammered much of the U.S. on Tuesday night -- and the severe weather threat is ...",
+            "photo_url": "https://i.abcnewsfe.com/a/d8b8b6f3-8531-4039-bfab-afbe17a5357c/storm-3-ht-gmh-250430_1746026900253_hpMain_16x9.jpg?w=992",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVNha3czTTBkU1VURTBiMUJPVFJDb0FSaXNBaWdCTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:46:03.000Z",
+            "authors": [
+                "Melissa Griffin",
+                "Kenton Gewecke",
+                "Jon Haworth"
+            ],
+            "source_url": "https://abcnews.go.com",
+            "source_name": "ABC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYUhKNmFqUmZPQklDWlc0b0FBUAE",
+                    "topic_name": "Melissa Griffin"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhrNWVIWnphQklDWlc0b0FBUAE",
+                    "topic_name": "Kenton Gewecke"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyWXpOa05EaHFiaElDWlc0b0FBUAE",
+                    "topic_name": "Jon Haworth"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Man killed after being electrocuted by live wires in Pittsburgh identified",
+                    "link": "https://www.wtae.com/article/police-man-killed-after-being-electrocuted-by-live-wires-in-south-side-slopes/64626708",
+                    "photo_url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1339397055-1-679f9f1099f62.jpg?crop=1.00xw:0.846xh;0,0.0513xh&resize=640:*",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXVaemxCZERKWlEyVTBTRU5QVFJDb0FSaXJBaWdCTWdtQlFJcW9VT1JFaGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:30:00.000Z",
+                    "authors": [
+                        "Caitlyn Scott"
+                    ],
+                    "source_url": "https://www.wtae.com",
+                    "source_name": "WTAE",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wtae.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGQwWVdVdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReWJtTmpjeElDWlc0b0FBUAE",
+                            "topic_name": "Caitlyn Scott"
+                        }
+                    ]
+                },
+                {
+                    "title": "School districts weigh options on instruction as power restoration work continues",
+                    "link": "https://triblive.com/local/westmoreland/school-districts-weigh-options-on-instruction-as-power-restoration-work-continues/",
+                    "photo_url": "https://assets-varnish.triblive.com/2025/04/8457898_web1_StormDamageZAC--24.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNVVhVWRXVTFWV2NEUjZPVGhRVFJDckF4aUFCU2dLTWdNbDBCSQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:55:00.000Z",
+                    "authors": [
+                        "Zac Gibson"
+                    ],
+                    "source_url": "https://triblive.com",
+                    "source_name": "TribLIVE.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://triblive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJ5YVdKc2FYWmxMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TkhSa1pIUXdPUklDWlc0b0FBUAE",
+                            "topic_name": "Zac Gibson"
+                        }
+                    ]
+                },
+                {
+                    "title": "22-year-old man dies of electrocution during storm in State College area",
+                    "link": "https://www.centredaily.com/news/local/community/state-college/article305361446.html",
+                    "photo_url": "https://www.centredaily.com/latest-news/wpb5j2/picture305362756/alternates/LANDSCAPE_1140/001Storm429.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZYMTkzYmxKRk5qbG1Va2R5VFJDZkF4ampCU2dLTWdZRkVZR0c0Z0k=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T02:27:00.000Z",
+                    "authors": [
+                        "Josh Moyer"
+                    ],
+                    "source_url": "https://www.centredaily.com",
+                    "source_name": "Centre Daily Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.centredaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMk5sYm5SeVpXUmhhV3g1TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5ZDNNMmRITnFaeElDWlc0b0FBUAE",
+                            "topic_name": "Josh Moyer"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pEbWNIakRSRmZWRHZYcnRXZTNpZ0FQAQ"
+        },
+        {
+            "title": "Republicans plan to overhaul the federal student loan system. Here's what to know",
+            "link": "https://www.npr.org/2025/04/30/nx-s1-5381149/trump-republicans-student-loan-repayment",
+            "snippet": "The Republican proposal would eliminate Grad PLUS loans, set strict limits on Parent PLUS loans and create a system in which colleges would ...",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5248x3683+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2Fb7%2F722069a4406ea89b11ceed754083%2Fgettyimages-1955455765.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdkR2hxWnpOUlpWcEtNMVV5VFJEUUF4aVZCU2dLTWdZWlE0cU5wUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T13:45:55.000Z",
+            "authors": [
+                "Cory Turner"
+            ],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWjJadGRtcHhaeElDWlc0b0FBUAE",
+                    "topic_name": "Cory Turner"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Republicans release plan to overhaul student loan system, slash repayment plan options",
+                    "link": "https://www.cnbc.com/2025/04/29/student-loan-overhaul-by-gop-to-slash-repayment-plans-limit-borrowing.html",
+                    "photo_url": "https://image.cnbcfm.com/api/v1/image/108137977-1745931949368-gettyimages-2197230098-walberg_BC_053_020525JPG.jpeg?v=1745931969&w=1600&h=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBNbUo1ZFVsTk1FaFlSR0Z0VFJDZkF4ampCU2dLTWdZcFJaVHRIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T14:42:49.000Z",
+                    "authors": [
+                        "Annie Nova"
+                    ],
+                    "source_url": "https://www.cnbc.com",
+                    "source_name": "CNBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1KM2FuaGZlUklDWlc0b0FBUAE",
+                            "topic_name": "Annie Nova"
+                        }
+                    ]
+                },
+                {
+                    "title": "House committee votes to overhaul student aid programs",
+                    "link": "https://www.politico.com/live-updates/2025/04/29/congress/gop-votes-to-overhaul-student-aid-programs-00317620",
+                    "photo_url": "https://www.politico.com/dims4/default/resize/1040/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fbb%2F27%2Fba3921e74c418f84c3407c9331f0%2Fcop28-climate-summit-40544.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFTeTFYUVZCU1duRTNUa1ZTVFJDM0FSaVRBaWdCTWdhbE00cXRtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T01:18:58.000Z",
+                    "authors": [
+                        "Mackenzie Wilkes"
+                    ],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYlRoaU1HUXpNaElDWlc0b0FBUAE",
+                            "topic_name": "Mackenzie Wilkes"
+                        }
+                    ]
+                },
+                {
+                    "title": "Republicans Opt to Make Education an Upper-Class Privilege",
+                    "link": "https://prospect.org/education/2025-04-30-republicans-education-upper-class-privilege-student-loans/",
+                    "photo_url": "https://prospect.org/downloads/22823/download/Dayen-House%20student%20loans%20043025.jpg?cb=e2badc40db1e0116a3719ead61d03a01",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRMVEJ1YVZOSmFVdHBjVEZpVFJDM0FSaVRBaWdCTWdZQlVKWnVxUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:14:30.000Z",
+                    "authors": [
+                        "David Dayen"
+                    ],
+                    "source_url": "https://prospect.org",
+                    "source_name": "The American Prospect",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://prospect.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ5YjNOd1pXTjBMbTl5WnlnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZqYldkeFp6ZDVjQklDWlc0b0FBUAE",
+                            "topic_name": "David Dayen"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pHbHJ2ZURSRWlrMnU1RU1sdFRpZ0FQAQ"
+        },
+        {
+            "title": "The great Iberian power cut need not spell disaster for renewables",
+            "link": "https://www.economist.com/science-and-technology/2025/04/30/the-great-iberian-power-cut-need-not-spell-disaster-for-renewables",
+            "snippet": "SHORTLY AFTER noon on Monday April 28th, Spain's electricity grid suddenly and unexpectedly lost 15 gigawatts of power—equivalent to 60% of ...",
+            "photo_url": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20250503_STP502.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXZZbFJ0YVVoVldHaG1Nakl4VFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T16:00:27.000Z",
+            "authors": [],
+            "source_url": "https://www.economist.com",
+            "source_name": "The Economist",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1ZqYjI1dmJXbHpkQzVqYjIwb0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Opinion | How the Lights Went Out in Spain",
+                    "link": "https://www.wsj.com/opinion/how-the-lights-went-out-in-spain-solar-power-electric-grid-0096bbc7",
+                    "photo_url": "https://opinion-images.wsj.net/im-46355958/?size=1.5",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNVVXVlpFUlMxTk5uSmtlRUpqVFJERUF4aW1CU2dLTWdNQmNCdw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:01:00.000Z",
+                    "authors": [
+                        "Gabriel Calzada",
+                        "Manuel Fernández Ordóñez"
+                    ],
+                    "source_url": "https://www.wsj.com",
+                    "source_name": "WSJ",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R6YWk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJggKIiBDQkFTRWdvTUwyY3ZNWGx3Y25SNVoxOTZFZ0psYmlnQVAB",
+                            "topic_name": "Gabriel Calzada"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTjJ0bVh6RmlhQklDWlc0b0FBUAE",
+                            "topic_name": "Manuel Fernández Ordóñez"
+                        }
+                    ]
+                },
+                {
+                    "title": "Spain’s Blackout Has Put in Motion a Debate Over Inertia",
+                    "link": "https://heatmap.news/energy/spain-blackout-inertia",
+                    "photo_url": "https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82MDA1NDQ5MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NzMxMTA0M30.mRNaBYvoiI3fxJwAjigrgsRv1JS8pwJb9i0hmp20yvA/image.jpg?width=600&height=600&quality=80&coordinates=200%2C0%2C200%2C0",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNDNNMkZIZDNsYWFGUlZWVVJyVFJDcUJCaXFCQ2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:09:32.000Z",
+                    "authors": [
+                        "Matthew Zeitlin"
+                    ],
+                    "source_url": "https://heatmap.news",
+                    "source_name": "Heatmap News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://heatmap.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2hsWVhSdFlYQXVibVYzY3lnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYUhOMmNuaG1jeElDWlc0b0FBUAE",
+                            "topic_name": "Matthew Zeitlin"
+                        }
+                    ]
+                },
+                {
+                    "title": "How Spain’s Success in Renewable Energy May Have Left Its Power Grid Vulnerable",
+                    "link": "https://www.nytimes.com/2025/04/29/business/spain-renewable-energy-power-grid.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/29/multimedia/29biz-spain-grid-01-hkfw/29biz-spain-grid-01-hkfw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdhMU0yUTFWWlJGZGpRM2xxVFJDUUF4allCQ2dLTWdZZGs0eUx1UVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T17:14:00.000Z",
+                    "authors": [
+                        "Stanley Reed",
+                        "Jenny Gross"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1odE1ESmpheElDWlc0b0FBUAE",
+                            "topic_name": "Stanley Reed"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTNGNGJtdzBjeElDWlc0b0FBUAE",
+                            "topic_name": "Jenny Gross"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2publ9qZ0RSR09ZVl8wNlcwT2lTZ0FQAQ"
+        },
+        {
+            "title": "REAL ID deadline is 1 week out. What Washington residents should know",
+            "link": "https://www.king5.com/article/travel/real-id-deadline-1-week-out-washington-state/281-aab28d54-6ffc-452f-8298-e00e90da568c",
+            "snippet": "U.S. residents will need to present a REAL ID-compliant form of identification May 7 to board domestic flights and to enter federal buildings.",
+            "photo_url": "https://media.king5.com/assets/KING/images/f66df553-6501-4112-bbbb-a9ddbc471141/20250430T120941/f66df553-6501-4112-bbbb-a9ddbc471141_1920x1080.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRVVEJmU1ZCaU1GVXRkR2xOVFJDZkF4ampCU2dLTWdZQklKS2tHQW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T12:16:00.000Z",
+            "authors": [
+                "Farah F. Jadran"
+            ],
+            "source_url": "https://www.king5.com",
+            "source_name": "KING5.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.king5.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV3RwYm1jMUxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvMk5qTm1kaElDWlc0b0FBUAE",
+                    "topic_name": "Farah F. Jadran"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "I already have REAL ID but have second thoughts, can I go back?",
+                    "link": "https://www.foxnews.com/politics/i-already-have-real-id-have-second-thoughts-can-i-go-back",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/1200/675/tsa_real-id-getty.png?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDNRbXR0YVY4dFFYQnBMVk5RVFJDZkF4ampCU2dLTWdrWlFJcEtScVFPU0FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:00:00.000Z",
+                    "authors": [
+                        "Peter Pinedo"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TVd4a1pGOWtkaElDWlc0b0FBUAE",
+                            "topic_name": "Peter Pinedo"
+                        }
+                    ]
+                },
+                {
+                    "title": "How many people in Wisconsin still need to get a Real ID? Here's what the data shows",
+                    "link": "https://www.jsonline.com/story/news/local/2025/04/30/how-many-people-in-wisconsin-need-to-get-a-real-id/83365360007/",
+                    "photo_url": "https://www.jsonline.com/gcdn/authoring/authoring-images/2025/03/04/PMJS/81433059007-2022-wi-o-21-face-v-1-a-dl-charlotte-rae-high-res.jpg?crop=720,405,x0,y0&width=660&height=371&format=pjpg&auto=webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBNM05RZFRkcFdIRjZNbkZoVFJEekFoaVVCU2dLTWdhSklvcmt3Z1E=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:44:15.000Z",
+                    "authors": [
+                        "Alex Groth",
+                        "Maia Pandey"
+                    ],
+                    "source_url": "https://www.jsonline.com",
+                    "source_name": "Milwaukee Journal Sentinel",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.jsonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3B6YjI1c2FXNWxMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WDJoMFpHb3diaElDWlc0b0FBUAE",
+                            "topic_name": "Alex Groth"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TVd4aU1qUnRhaElDWlc0b0FBUAE",
+                            "topic_name": "Maia Pandey"
+                        }
+                    ]
+                },
+                {
+                    "title": "California DMV advises some people to hold off getting Real ID",
+                    "link": "https://www.mercurynews.com/2025/04/29/california-dmv-delay-real-id/",
+                    "photo_url": "https://www.mercurynews.com/wp-content/uploads/2025/04/SJM-L-REALID-04XX-5_b66853.jpg?w=1024",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUJiVnBETWtSd01WRnVWVFYyVFJERUF4aW1CU2dLTWdhcEVvRVNWUUk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:59:27.000Z",
+                    "authors": [],
+                    "source_url": "https://www.mercurynews.com",
+                    "source_name": "The Mercury News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mercurynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMjFsY21OMWNubHVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pfdUxUakRSR242MXltZmZEai1TZ0FQAQ"
+        },
+        {
+            "title": "Israel says it struck gunmen attacking Syrian Druze after clashes",
+            "link": "https://www.bbc.com/news/articles/cze1kjn0jkjo",
+            "snippet": "The strikes were south of Damascus, where Syrian security forces say they are battling gunmen from the religious minority.",
+            "photo_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f150/live/75316790-25d1-11f0-afc0-45abfc0cd2d6.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNlbmxpUzAxME1VVmxNMWhxVFJDZkF4ampCU2dLTWdZQlFJeWtKQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:23:17.000Z",
+            "authors": [
+                "David Gritten"
+            ],
+            "source_url": "https://www.bbc.com",
+            "source_name": "BBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTXpkek1HSjNZeElDWlc0b0FBUAE",
+                    "topic_name": "David Gritten"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Sectarian Clashes Spread Around Syria’s Capital, Drawing In Israel",
+                    "link": "https://www.nytimes.com/2025/04/30/world/europe/syria-sectarian-fighting-druse.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-syria-fighting-mpfl/30int-syria-fighting-mpfl-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNPR3BTUmw5SFpYZDNSMnhSVFJEQ0F4allCQ2dLTWdZQlVJcHdvQVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:07:55.000Z",
+                    "authors": [
+                        "Euan Ward",
+                        "Aaron Boxerman"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTVhOc2VtdzVjUklDWlc0b0FBUAE",
+                            "topic_name": "Euan Ward"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTWpCbWFuSjJjQklDWlc0b0FBUAE",
+                            "topic_name": "Aaron Boxerman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Deadly Syria clashes continue for second day outside Damascus",
+                    "link": "https://www.theguardian.com/world/2025/apr/30/deadly-syria-clashes-continue-for-second-day-outside-damascus",
+                    "photo_url": "https://i.guim.co.uk/img/media/12cf5765c2de581c43c9c9d062c8497aefaef5bc/0_362_5433_3260/master/5433.jpg?width=465&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNUxXVmg0YTIxSVZXeFFTWE5OVFJDWEFoalJBeWdLTWdzQlFJNERvaWd0YkFuYmln=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T11:48:00.000Z",
+                    "authors": [
+                        "William Christou"
+                    ],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TURKNE5uUTNkeElDWlc0b0FBUAE",
+                            "topic_name": "William Christou"
+                        }
+                    ]
+                },
+                {
+                    "title": "Israel says it hit extremists in Syria to protect Druze",
+                    "link": "https://www.reuters.com/world/middle-east/israel-says-it-carried-out-warning-strike-extremists-syria-preparing-attack-2025-04-30/",
+                    "photo_url": "https://www.reuters.com/resizer/v2/EY4PMNI23BMARI66YH7NYBBN5E.jpg?auth=d041422eec920467c76688f740dd189a78caab2e8e7738d5e7774f7d9c93aedf&width=1080&quality=80",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTNjVlZ1TURGZmVWUlhjakkzVFJERUF4aW1CU2dLTWdrQklKcFFIS3JBeEFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:25:03.000Z",
+                    "authors": [],
+                    "source_url": "https://www.reuters.com",
+                    "source_name": "Reuters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o1OHVuaERSRnhxWVN1YTZ5VS1TZ0FQAQ"
+        },
+        {
+            "title": "With a focus on unity, Vietnam celebrates 50 years since war’s end",
+            "link": "https://www.npr.org/2025/04/30/nx-s1-5382153/vietnam-war-anniversary",
+            "snippet": "Month-long preparations for the 50th anniversary of the end of the Vietnam war culminated on Wednesday, April 30, the date in 1975 that ...",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fae%2F11aa6b0b4989b9eff222624aefd2%2Fhochiminhcity-getty.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVJYMUJ0UVRGdFpreGlSRkV6VFJERUF4aW1CU2dLTWdrQmM0WlFzYWFoMUFB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T10:00:00.000Z",
+            "authors": [],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Fifty Years After the Fall of Saigon, Vietnam Veterans See Mistakes Repeated",
+                    "link": "https://www.nytimes.com/2025/04/30/us/vietnam-veterans-saigon-lessons-1975.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/30/us/30nat-vietnam-veterans-top-option/30nat-vietnam-veterans-top-option-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlWVTVPZEY4NE0xcHlUMGxqVFJDZkF4allCQ2dLTWdZUm9ZejBQQVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:46:46.000Z",
+                    "authors": [
+                        "David Philipps"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR05vTkhwZk1oSUNaVzRvQUFQAQ",
+                            "topic_name": "David Philipps"
+                        }
+                    ]
+                },
+                {
+                    "title": "Fall River commemorates 50th anniversary of the fall of Saigon",
+                    "link": "https://turnto10.com/news/local/fall-river-commemorates-50th-anniversary-of-the-fall-of-saigon-massachusetts-vietnam-veterans-war-memorial-april-30-2025",
+                    "photo_url": "https://turnto10.com/resources/media2/16x9/1920/1320/center/90/c1521587-786c-4bc6-8d01-12d392cbb92d-FALLRIVERVETERANSCEREMONY_0001_frame_138.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJOMDlWYzBoMVVXZE1WWFJLVFJDZkF4amlCU2dLTWdZQnNZZ2h3UVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:36:24.000Z",
+                    "authors": [],
+                    "source_url": "https://turnto10.com",
+                    "source_name": "WJAR",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://turnto10.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFIxY201MGJ6RXdMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "'Victory of faith', Vietnamese celebrate 50 years since end of Vietnam War",
+                    "link": "https://www.reuters.com/world/asia-pacific/celebrations-ho-chi-minh-city-mark-50-years-since-end-vietnam-war-2025-04-30/",
+                    "photo_url": "https://www.reuters.com/resizer/v2/PUXQ4PGRYZKBXJ2T6INCVR3DME.jpg?auth=569456503b9420546e4a6858defcb51ae4c9fc174dd2f5f8261e1f48a4b63368&height=2400&width=1920&quality=80&smart=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNVVTa3RJVDJvemIyaGtWbmxzVFJEckJCanZBeWdLTWdNQkVBUQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T09:17:50.000Z",
+                    "authors": [
+                        "Minh Nguyen",
+                        "Francesco Guarascio"
+                    ],
+                    "source_url": "https://www.reuters.com",
+                    "source_name": "Reuters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TVdNemJUWnlheElDWlc0b0FBUAE",
+                            "topic_name": "Minh Nguyen"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NNU1EaDBNQklDWlc0b0FBUAE",
+                            "topic_name": "Francesco Guarascio"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pqcThyYkRSSC1FWVZ3V2RZdU1TZ0FQAQ"
+        },
+        {
+            "title": "US government expands grounds for canceling international students’ legal status",
+            "link": "https://apnews.com/article/international-student-visa-f1-sevis-status-716ce8e67e2c3093eba4092e57ba1612",
+            "snippet": "The federal government is expanding the reasons international students can be stripped of their legal status in the U.S., where thousands ...",
+            "photo_url": "https://dims.apnews.com/dims4/default/f9b80a1/2147483647/strip/true/crop/3364x2239+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F69%2Ff0a6111f6de6a490c4cb0ce6ee68%2F0d1abf11aa374975a50664a5bbab0665",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXJTRlYxWTBacldEUlpXVWhzVFJEVkFSakFBaWdLTWdrQkFJd21saWl4VHdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T20:12:00.000Z",
+            "authors": [
+                "Moriah Balingit"
+            ],
+            "source_url": "https://apnews.com",
+            "source_name": "AP News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTE4eWNtUmpPQklDWlc0b0FBUAE",
+                    "topic_name": "Moriah Balingit"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Trump administration reveals how targeted thousands of international students on visas",
+                    "link": "https://www.nbcnews.com/news/us-news/visa-status-revoke-international-students-department-homeland-security-rcna203685",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250430-department-of-homeland-security-vl-230p-db4bf0.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUhTMDFQYUU1UmRWbFJUMmxEVFJERUF4aW1CU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:39:23.000Z",
+                    "authors": [
+                        "Chloe Atkins",
+                        "Kimmy Yam"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWm1KdFh6bHVaQklDWlc0b0FBUAE",
+                            "topic_name": "Chloe Atkins"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1YmpVNGNIZG9PUklDWlc0b0FBUAE",
+                            "topic_name": "Kimmy Yam"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump administration forced to reveal its ham-handed operation to terminate immigration records of thousands of students",
+                    "link": "https://www.cnn.com/2025/04/29/politics/immigration-records-students/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap25115612283962.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVdRbU5mZDIxdlkweDRZM1l6VFJDZkF4amlCU2dLTWdrQkFJcGtrbVNMaFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T19:21:00.000Z",
+                    "authors": [
+                        "Tierney Sneed"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhob2NucDVZaElDWlc0b0FBUAE",
+                            "topic_name": "Tierney Sneed"
+                        }
+                    ]
+                },
+                {
+                    "title": "Judge blasts Trump administration's student visa terminations as 'arbitrary and capricious'",
+                    "link": "https://abcnews.go.com/Politics/judge-blasts-trump-administrations-student-visa-terminations-arbitrary/story?id=121281986",
+                    "photo_url": "https://s.abcnews.com/images/Politics/student-visa-usa-jt-250429_1745947189732_hpMain_16x9_1600.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdXWEkyU21Jd1dGRnpSbEpsVFJDZkF4ampCU2dLTWdZQk1ZVHNsUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T22:30:00.000Z",
+                    "authors": [
+                        "Soo Rin Kim"
+                    ],
+                    "source_url": "https://abcnews.go.com",
+                    "source_name": "ABC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NeVlqWTJhQklDWlc0b0FBUAE",
+                            "topic_name": "Soo Rin Kim"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pWeXFMY0RSRi1fdm96WjItQUZDZ0FQAQ"
+        },
+        {
+            "title": "Inside JB Pritzker’s public and private efforts to counter Trump and challenge fellow Democrats",
+            "link": "https://www.cnn.com/2025/04/30/politics/illinois-governor-jb-pritzker-trump-democrats/index.html",
+            "snippet": "In public and behind the scenes, Illinois Gov. JB Pritzker is leading efforts to push back on Donald Trump and challenging Democrats to do ...",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1247420058.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdOaloyYTFaNE9FWlBlbmh5VFJDZkF4amlCU2dLTWdhdEZhRE9FUXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T08:00:00.000Z",
+            "authors": [
+                "Edward-Isaac Dovere"
+            ],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzT0RjMGFtTXhPUklDWlc0b0FBUAE",
+                    "topic_name": "Edward-Isaac Dovere"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "JB Pritzker’s ‘mad as hell’ moment marks a turning point for Dems",
+                    "link": "https://thehill.com/opinion/campaign/5273067-jb-pritzkers-mad-as-hell-moment-marks-a-turning-point-for-dems/",
+                    "photo_url": "https://thehill.com/wp-content/uploads/sites/2/2024/02/AP23313779983467-e1707535284598.jpg?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBOWHBLTjBKNE5HVldRV0ZYVFJDZkF4ampCU2dLTWdZaGw0NHFNZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:00:00.000Z",
+                    "authors": [
+                        "Max Burns"
+                    ],
+                    "source_url": "https://thehill.com",
+                    "source_name": "The Hill",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldocGJHd3VZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYUcwM2RHdGlNQklDWlc0b0FBUAE",
+                            "topic_name": "Max Burns"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pritzker Thunders Against ‘Do Nothing’ Democrats as He Stokes 2028 Talk",
+                    "link": "https://www.nytimes.com/2025/04/27/us/politics/jb-pritzker-2028-new-hampshire-trump-democrats.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/28/multimedia/28pol-pritzker-ghjb/28pol-pritzker-ghjb-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHplVFZQYTB4SUxUVnhla2czVFJDUUF4allCQ2dLTWdhWlJJWnBuZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T03:43:48.000Z",
+                    "authors": [
+                        "Lisa Lerer",
+                        "Reid Epstein"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhReGRtMHdjUklDWlc0b0FBUAE",
+                            "topic_name": "Lisa Lerer"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNwek1ERXlZaElDWlc0b0FBUAE",
+                            "topic_name": "Reid Epstein"
+                        }
+                    ]
+                },
+                {
+                    "title": "Illinois Gov. JB Pritzker Speaks at New Hampshire Democratic Dinner",
+                    "link": "https://www.c-span.org/event/campaign-2028/illinois-gov-jb-pritzker-speaks-at-new-hampshire-democratic-dinner/432426",
+                    "photo_url": "https://ximage.c-spanvideo.org/eyJCdWNrZXQiOiJwaWN0dXJlcy5jLXNwYW52aWRlby5vcmciLCJrZXkiOiJGaWxlcy85N2UvMTcyNDI3Nzk0MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjQwNSwid2lkdGgiOjcyMH19fQ==",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFibWRSTTFkc05tbDFRa2xRVFJDb0FSaXNBaWdCTWdZbEpwenNHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-27T07:00:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.c-span.org",
+                    "source_name": "C-SPAN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.c-span.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbU10YzNCaGJpNXZjbWNvQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kwb3RYVkRSRmNhWjZ6d2cyMDR5Z0FQAQ"
+        },
+        {
+            "title": "Pakistan claims it has ‘credible intelligence’ India will strike within 36 hours",
+            "link": "https://www.cnn.com/2025/04/29/asia/kashmir-pakistan-india-tension-military-intl-hnk/index.html",
+            "snippet": "“Pakistan has credible intelligence that India intends carrying out military action against Pakistan in the next 24-36 hours,” Pakistan's ...",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap25113409962448.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXljVTFSTVZkMFNWWmtOa0kwVFJDZkF4amlCU2dLTWdhQkVJTXYzUU0=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T18:06:00.000Z",
+            "authors": [
+                "Sophia Saifi",
+                "Rhea Mogul"
+            ],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYm5NNWRuTmZPQklDWlc0b0FBUAE",
+                    "topic_name": "Sophia Saifi"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTVY4NWJtNTNNQklDWlc0b0FBUAE",
+                    "topic_name": "Rhea Mogul"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Pakistan and India hint at imminent military action over Kashmir. A look at the nuclear rivals",
+                    "link": "https://apnews.com/article/pakistan-india-nuclear-war-explainer-c0f1c500de1ad365984ace1c557cb7dd",
+                    "photo_url": "https://dims.apnews.com/dims4/default/129640e/2147483647/strip/true/crop/5718x3812+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F88%2F89%2Ff07241fb861ff1c3cfcef6785dfe%2Fd9c46be067274b1abb086f7695c5f09e",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhWRWR0TW5KNVdqQmFVMVExVFJDUEF4alhCQ2dLTWdhcEVvN05rUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:06:00.000Z",
+                    "authors": [
+                        "Riazat Butt"
+                    ],
+                    "source_url": "https://apnews.com",
+                    "source_name": "AP News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1vemFHTXpZaElDWlc0b0FBUAE",
+                            "topic_name": "Riazat Butt"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pakistan says intelligence suggests Indian military action likely soon",
+                    "link": "https://www.reuters.com/world/pakistans-minister-tarar-says-india-may-launch-military-strike-within-next-24-36-2025-04-29/",
+                    "photo_url": "https://www.reuters.com/resizer/v2/6MVKPFOFMVO2VO4ENPPVVVJUCA.jpg?auth=037648e12a8e56cf7e7d831bcdc88275efac5e79e492703ee49ac72cd440f28f&width=1080&quality=80",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXVSRk5oZFdFd016YzNXa1pFVFJERUF4aW1CU2dLTWdObEFCTQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:41:40.000Z",
+                    "authors": [
+                        "Asif Shahzad"
+                    ],
+                    "source_url": "https://www.reuters.com",
+                    "source_name": "Reuters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5ZMWFITXhOUklDWlc0b0FBUAE",
+                            "topic_name": "Asif Shahzad"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pakistan claims India planning to attack within 36 hours as tension between nuclear-armed neighbors soars",
+                    "link": "https://www.cbsnews.com/news/india-pakistan-kashmir-tension-terror-attack-pahalgam/",
+                    "photo_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/30/ebedd04c-b7e3-4a30-b4ce-788560cd0db6/thumbnail/1200x630/956b7ed65f4f78d8e4d28e1ea1eb63c1/kashmir-india.jpg?v=5bc79e41160fef925ca37e685496f706",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZjbmRhTlRNemNYQk5TVjlqVFJDUkF4ajhCU2dLTWdZQlpZek5yUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T07:02:00.000Z",
+                    "authors": [
+                        "Arshad Rasool Zargar"
+                    ],
+                    "source_url": "https://www.cbsnews.com",
+                    "source_name": "CBS News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1wbmJITXljQklDWlc0b0FBUAE",
+                            "topic_name": "Arshad Rasool Zargar"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWcmFuYkRSR29SZnJBNWE4bVZDZ0FQAQ"
+        },
+        {
+            "title": "Body of Ukrainian journalist who died in Russian detention returned by Moscow with signs of torture and with missing organs",
+            "link": "https://www.cnn.com/2025/04/30/europe/ukrainian-journalist-russia-torture-intl/index.html",
+            "snippet": "Body of Ukrainian journalist who died in Russian detention returned by Moscow with signs of torture and with missing organs.",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177180478.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJaRWRxZUcwNUxVOXBPR1ZTVFJDZkF4amlCU2dLTWdheFU1U1BJUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T13:35:00.000Z",
+            "authors": [],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Ukrainian Journalist's Body Was Missing Organs, Had Signs of Torture After Russian Detention",
+                    "link": "https://people.com/ukrainian-journalist-body-missing-organs-signs-torture-after-russian-detention-11725241",
+                    "photo_url": "https://people.com/thmb/KwP_wsVrXbYq_emMxatcstDnkt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/ukrainian-journalist-victoria-roshchyna-043025-721aa08b071947f9abe6a73ef29e3a54.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNSbXN4UkRac016TldTVVZqVFJERUF4aW1CU2dLTWdhcFZJVE5KUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:06:58.000Z",
+                    "authors": [
+                        "Meredith B. Kile"
+                    ],
+                    "source_url": "https://people.com",
+                    "source_name": "People.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://people.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkJsYjNCc1pTNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYUhOd1pqaG1iUklDWlc0b0FBUAE",
+                            "topic_name": "Meredith B. Kile"
+                        }
+                    ]
+                },
+                {
+                    "title": "Journalist was tortured and had her organs removed in Russian captivity, report says",
+                    "link": "https://www.nbcnews.com/world/russia/russia-ukraine-war-journalist-tortured-organs-removed-report-rcna203648",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250430-Viktoriia-Roshchyna-mb-1055-fd97bb.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpYMTgzUmxsemFWTk5SbUZEVFJERUF4aW1CU2dLTWdZZFFJYnJLUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:29:41.000Z",
+                    "authors": [
+                        "Astha Rajvanshi"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TURKNE4yMXJOUklDWlc0b0FBUAE",
+                            "topic_name": "Astha Rajvanshi"
+                        }
+                    ]
+                },
+                {
+                    "title": "‘Numerous signs of torture’: a Ukrainian journalist’s detention and death in Russian prison",
+                    "link": "https://www.theguardian.com/world/2025/apr/29/viktoriia-roshchyna-ukrainian-journalist-death-russian-prison",
+                    "photo_url": "https://i.guim.co.uk/img/media/df9639576b8ed20ebc7ff491a3b7465e6095f77a/0_0_1800_962/master/1800.jpg?width=480&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNXVVYxTlVOaE4zRlNabXg1VFJDQkFoamdBeWdLTWdZZEZaaXRtUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T04:08:00.000Z",
+                    "authors": [
+                        "Artem Mazhulin",
+                        "Pjotr Sauer",
+                        "Juliette Garside"
+                    ],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6ZGpSc01IWXdNeElDWlc0b0FBUAE",
+                            "topic_name": "Artem Mazhulin"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YmpaamVUTjNNaElDWlc0b0FBUAE",
+                            "topic_name": "Pjotr Sauer"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvM1l6VnljQklDWlc0b0FBUAE",
+                            "topic_name": "Juliette Garside"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lob2JmY0RSRURMY3ptQ2hoUmxpZ0FQAQ"
+        },
+        {
+            "title": "Police ID driver of U-Haul truck accused of killing Delaware student, injuring 8 others",
+            "link": "https://www.nbcnews.com/news/us-news/university-delaware-student-killed-8-hurt-overdue-u-haul-crashes-fleei-rcna203679",
+            "snippet": "A University of Delaware student was killed and eight others were hurt after the driver of an overdue U-Haul truck fled police in Newark ...",
+            "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250430-university-of-delaware-uhaul-crash-se-1237p-49abd7.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTJkMHQwZVRoQ2NreDNYemh5VFJERUF4aW1CU2dLTWdrQk1KWVFKV2pRS1FJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:57:43.000Z",
+            "authors": [],
+            "source_url": "https://www.nbcnews.com",
+            "source_name": "NBC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "UD student dead, 8 injured in crash on Newark's Main Street",
+                    "link": "https://www.wdel.com/ud-student-dead-8-injured-in-crash-on-newarks-main-street/article_9c711312-b318-4e0e-8e3a-a411e06b8a3b.html",
+                    "photo_url": "https://bloximages.newyork1.vip.townnews.com/wdel.com/content/tncms/assets/v3/editorial/9/c0/9c0b3b24-c59b-4186-a622-3b5aab6b76b5/68114c44aeeea.image.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNUxkazh3YldGWVJITXhMVW81VFJDd0F4akdCU2dLTWdzQk1Jd0RwQ2ZBTWJsQmJB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T21:24:00.000Z",
+                    "authors": [
+                        "Sean Greene"
+                    ],
+                    "source_url": "https://www.wdel.com",
+                    "source_name": "WDEL.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wdel.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGRrWld3dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJKbmNXZHVjeElDWlc0b0FBUAE",
+                            "topic_name": "Sean Greene"
+                        }
+                    ]
+                },
+                {
+                    "title": "Driver charged with murder after crash that killed University of Delaware graduate student in Newark",
+                    "link": "https://6abc.com/post/pedestrian-injured-crash-involving-van-university-delaware/16279771/",
+                    "photo_url": "https://cdn.abcotvs.com/dip/images/16286874_043025-wpvi-newark-u-haul-crash-12pm-video-vid.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJhV1k0VVZOQ1puRlJNbVZPVFJDZkF4ampCU2dLTWdhSkFZRGxZUUU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:13:24.000Z",
+                    "authors": [
+                        "Annie McCormick",
+                        "Briana Smith"
+                    ],
+                    "source_url": "https://6abc.com",
+                    "source_name": "6abc Philadelphia",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://6abc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRFpoWW1NdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoeGFuUm9OeElDWlc0b0FBUAE",
+                            "topic_name": "Annie McCormick"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkhsdGJHTjNZaElDWlc0b0FBUAE",
+                            "topic_name": "Briana Smith"
+                        }
+                    ]
+                },
+                {
+                    "title": "Extending condolences and offering support",
+                    "link": "https://www.udel.edu/udaily/2025/april/president-assanis-vp-jose-riera-community-message-student-tragedy/",
+                    "photo_url": "https://www.udel.edu/content/dam/udelImages/udaily/2022/January/Campus-Summer-061621-column.EK.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWtXVUZvVEcxUE1WRllWak5pVFJDakFSaTJBaWdCTWdPQklRZw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T03:08:42.000Z",
+                    "authors": [],
+                    "source_url": "https://www.udel.edu",
+                    "source_name": "University of Delaware",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.udel.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSFZrWld3dVpXUjFLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pRbk5uaURSRkx0eklRTnFCeDBpZ0FQAQ"
+        },
+        {
+            "title": "Republicans pull passenger vehicle fee after GOP blowback",
+            "link": "https://www.politico.com/news/2025/04/30/republicans-pull-passenger-vehicle-fee-00317786",
+            "snippet": "The change will also boost the annual electric vehicle registration fee to $250 from $200, pare back the air traffic controller system funding ...",
+            "photo_url": "https://www.politico.com/dims4/default/2e59be4/2147483647/strip/true/crop/7568x5045+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9c%2Fac%2F74846c07438b81a7ac030cdbcd55%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2208517849",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5SRVJpWTFadGNUZE9jblpOVFJDM0FSaVRBaWdCTWdZQjRJaXdUQVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T11:30:00.000Z",
+            "authors": [],
+            "source_url": "https://www.politico.com",
+            "source_name": "Politico",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "“Are you out of your fricking mind?” Republicans balk at new passenger car fee proposal",
+                    "link": "https://www.politico.com/live-updates/2025/04/29/congress/republicans-balk-at-new-car-fee-proposal-00317701",
+                    "photo_url": "https://www.politico.com/dims4/default/resize/1040/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fe0%2F82%2Fd68089964376a3962c2d73c26f14%2Fhouse-rules-committee-hearing-on-h-r-1-17298.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iOkNnNDJSVEpmTnpCTWRHZDFObGR2VFJDM0FSaVRBaWdCTWhHQkVZNkFtLWt6eFNxMFJMNm1wcmFJRFE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T02:00:47.000Z",
+                    "authors": [],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Lawmakers pump brakes on annual national car fee",
+                    "link": "https://wtop.com/government/2025/04/lawmakers-pump-brakes-on-annual-national-car-fee/",
+                    "photo_url": "https://wtop.com/wp-content/uploads/2023/09/Auto_Workers_Strike_Car_Prices_86755-scaled-e1706385260277.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFjWEZoWDNJelEweHFNbmx4VFJDM0FSaVRBaWdCTWdrQlFJUk13YVF0ekFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:33:54.000Z",
+                    "authors": [
+                        "Mitchell Miller"
+                    ],
+                    "source_url": "https://wtop.com",
+                    "source_name": "WTOP",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://wtop.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGQwYjNBdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtY210eE9HaG1kQklDWlc0b0FBUAE",
+                            "topic_name": "Mitchell Miller"
+                        }
+                    ]
+                },
+                {
+                    "title": "US House Republicans propose dropping $20 vehicle registration fee, seek EV fee of $250",
+                    "link": "https://www.reuters.com/world/us/us-house-republicans-drop-20-vehicle-registration-fee-boost-proposed-ev-fee-250-2025-04-30/",
+                    "photo_url": "https://www.reuters.com/resizer/v2/7VFDR7EKK5JUTBCF6ER2LIYLWU.jpg?auth=b8aa0963452e28076aa4fc6186d476b60132f1917604b9c702e5c7c6d4cd6060&width=8192&quality=80",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNTZPRlJWTjNRNU1XTjFaVE4xVFJERUF4aW1CU2dLTWdNQmtBdw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:22:47.000Z",
+                    "authors": [
+                        "David Shepardson"
+                    ],
+                    "source_url": "https://www.reuters.com",
+                    "source_name": "Reuters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WnpWZlluZzJaeElDWlc0b0FBUAE",
+                            "topic_name": "David Shepardson"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lrOXJMZURSSEF2RUR3N0JKQ3NTZ0FQAQ"
+        },
+        {
+            "title": "Trump threatens New York Times for ‘unlawful’ reporting on his CBS lawsuit",
+            "link": "https://www.cnn.com/2025/04/30/business/trump-threatens-new-york-times-unlawful-reporting-cbs-lawsuit/index.html",
+            "snippet": "President Donald Trump threatened legal action against The New York Times, calling the newspaper's citation of legal experts' opinion of his ...",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/2022-12-08t135320z-986210172-rc2n1y940ng1-rtrmadp-3-new-york-times-union.JPG?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJTMjFZTVhwemJrMTBTVkJwVFJDZkF4amlCU2dLTWdZQkFJQUZEUXc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T16:01:40.000Z",
+            "authors": [
+                "Hadas Gold"
+            ],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUdjMGJYbDRYeElDWlc0b0FBUAE",
+                    "topic_name": "Hadas Gold"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Paramount Board Clears Possible Path for Settling Trump’s ‘60 Minutes’ Lawsuit",
+                    "link": "https://www.nytimes.com/2025/04/29/business/media/paramount-cbs-60-minutes-trump-lawsuit.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/29/business/29biz-paramount-sub/29biz-paramount-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUtUMXBRUW1ONU1rNXZaVkV3VFJDREF4allCQ2dLTWdrQk1KeWpIV29laHdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T22:45:48.000Z",
+                    "authors": [
+                        "Michael Grynbaum",
+                        "Benjamin Mullin",
+                        "Lauren Hirsch"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsMGNYZDNaaElDWlc0b0FBUAE",
+                            "topic_name": "Michael Grynbaum"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyTW1SNGFuRnlOQklDWlc0b0FBUAE",
+                            "topic_name": "Benjamin Mullin"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGZmNuZ3dPUklDWlc0b0FBUAE",
+                            "topic_name": "Lauren Hirsch"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump renews attacks on CBS’ ‘60 Minutes’ amid mediation talks for lawsuit",
+                    "link": "https://www.politico.com/news/2025/04/30/trump-cbs-60-minutes-00317969",
+                    "photo_url": "https://www.politico.com/dims4/default/779a182/2147483647/strip/true/crop/4752x3168+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F14%2F00%2Fb832de2d4b99be25cc4d0fe623b8%2Ftrump-24207.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUJZbGx0ZEVoalREaHdNbXBzVFJDM0FSaVRBaWdCTWdZSlE1Z3lwUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T15:43:01.000Z",
+                    "authors": [
+                        "Amanda Friedman"
+                    ],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTVhRM1pIaG9jQklDWlc0b0FBUAE",
+                            "topic_name": "Amanda Friedman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump targets NYT with new legal threat over CBS News lawsuit coverage",
+                    "link": "https://www.axios.com/2025/04/30/trump-cbs-news-lawsuit-new-york-times-threat",
+                    "photo_url": "https://images.axios.com/y6xq6tx2WAgbBlbyN5-fRTuEemU=/0x0:4000x2250/1920x1080/2025/04/30/1746024770439.jpg?w=3840",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVpNM3BKZDNOM1NqWXpOazU1VFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:55:18.000Z",
+                    "authors": [
+                        "April Rubin"
+                    ],
+                    "source_url": "https://www.axios.com",
+                    "source_name": "Axios",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV0Y0YVc5ekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTld3MGQxOXFZaElDWlc0b0FBUAE",
+                            "topic_name": "April Rubin"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTeHJUZ0RSRUR2QjlReXNxY1lTZ0FQAQ"
+        },
+        {
+            "title": "GOP blocked Hegseth Signal probe because he is 'indefensible,' says Rep. Adam Smith",
+            "link": "https://www.npr.org/2025/04/30/nx-s1-5381159/hegseth-signal-investigation-block-republicans",
+            "snippet": "House Republicans blocked a resolution that could have forced an investigation into Defense Secretary Pete Hegseth. Rep. Adam Smith, D-Wash.",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2Fc3%2F8e774a4046bca54a79e3ba6463b7%2Fap25119757614103.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJUMEpFYkZSV1lqTTFSa0YyVFJERUF4aW1CU2dLTWdhQlpZS3VwUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T15:09:26.000Z",
+            "authors": [
+                "Steve Inskeep"
+            ],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRFl4Wkhwb0VnSmxiaWdBUAE",
+                    "topic_name": "Steve Inskeep"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "House Republicans block vote to probe Hegseth’s Signal use",
+                    "link": "https://www.cnn.com/2025/04/29/politics/house-republicans-rules-block-hegseth-probe/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2212057637.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtNMGxWTldkUE1sSTVlREpmVFJDZkF4amlCU2dLTWdZRkFZeXZqUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T20:34:00.000Z",
+                    "authors": [
+                        "Manu Raju",
+                        "Veronica Stracqualursi",
+                        "Sarah Ferris"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZqTmpBMk56RXdiUklDWlc0b0FBUAE",
+                            "topic_name": "Manu Raju"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwcU16bDRiQklDWlc0b0FBUAE",
+                            "topic_name": "Veronica Stracqualursi"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5ONmVXZGliUklDWlc0b0FBUAE",
+                            "topic_name": "Sarah Ferris"
+                        }
+                    ]
+                },
+                {
+                    "title": "Schatz in for whip",
+                    "link": "https://www.politico.com/live-updates/2025/04/28/congress/brian-schatz-senate-whip-00313133",
+                    "photo_url": "https://www.politico.com/dims4/default/resize/1040/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fbf%2Ffa%2Fa444757144439c506edd59f7aeba%2Fvirus-outbreak-kentucky-98889.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRXRTV3UkdVekxXOWpNMVpVVFJDM0FSaVRBaWdCTWdhMVU0SndKUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T17:55:55.000Z",
+                    "authors": [
+                        "Jordain Carney"
+                    ],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTW1wck1uQTRNeElDWlc0b0FBUAE",
+                            "topic_name": "Jordain Carney"
+                        }
+                    ]
+                },
+                {
+                    "title": "House GOP Blocks Democrats’ Measures on Elon Musk, DOGE and Trump Administration Scandals",
+                    "link": "https://www.democracynow.org/2025/4/30/headlines/house_gop_blocks_democrats_measures_on_elon_musk_doge_and_trump_administration_scandals",
+                    "photo_url": "https://www.democracynow.org/images/headlines/80/76980/quarter_hd/h4-house-gop-musk-doge-rules-restricted.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9jMDUxU1c5RGN6bFRkV05hVFJDb0FSaXNBaWdCTWdrQk5KWndGYXJRQ3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T14:09:40.000Z",
+                    "authors": [],
+                    "source_url": "https://www.democracynow.org",
+                    "source_name": "Democracy Now!",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.democracynow.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsYlc5amNtRmplVzV2ZHk1dmNtY29BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2plenBYaURSRXNQVDJ3U213dHh5Z0FQAQ"
+        },
+        {
+            "title": "Cardinals ask faithful to pray for their discernment for new Pope",
+            "link": "https://www.vaticannews.va/en/vatican-city/news/2025-04/cardinals-general-congregation-request-prayers-conclave.html",
+            "snippet": "The College of Cardinals has requested that all Catholics pray for them, so that they may listen the Holy Spirit as they discern whom to choose ...",
+            "photo_url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/04/30/2025-04-30-7--congregazione-cardinali/1746001328851.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXFjbWhuWjNZMllsRjFNVlJVVFJDb0FSaXJBaWdCTWdtUlFvb0xJU2RjVWdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T11:07:28.000Z",
+            "authors": [],
+            "source_url": "https://www.vaticannews.va",
+            "source_name": "Vatican News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.vaticannews.va&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEblpoZEdsallXNXVaWGR6TG5aaEtBQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Who are the contenders to be pope? They include a theologian, a diplomat and a simple street priest",
+                    "link": "https://apnews.com/article/who-will-be-next-pope-a1c221a9a46edacb434341b3843393f0",
+                    "photo_url": "https://dims.apnews.com/dims4/default/2fe068d/2147483647/strip/true/crop/7000x4667+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2F0d%2F717ab3a34adb0df52d7343ead80e%2F8a7165f55b5c49ddbfa30f4925b0b02f",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXdSR0ZTY1hvNFoyWXpTakI2VFJDUEF4alhCQ2dLTWdzQkFJYW5FR1UxRmxueW9R=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:01:00.000Z",
+                    "authors": [],
+                    "source_url": "https://apnews.com",
+                    "source_name": "AP News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "A Contender for the Papacy in the Mold of Francis",
+                    "link": "https://www.nytimes.com/2025/04/29/world/asia/luis-tagle-asian-pope.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/28/multimedia/00philippines-tagle-kwfc/00philippines-tagle-kwfc-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUJSR0Y2U0VGM2NuUkpiMHRwVFJDUUF4allCQ2dLTWdtQkFaWWtEV3VaaXdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T04:01:08.000Z",
+                    "authors": [
+                        "Aie Balagtas",
+                        "Sui-lee Wee"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YXprMGNYZHJPUklDWlc0b0FBUAE",
+                            "topic_name": "Aie Balagtas"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzNGMmMzRnRZaElDWlc0b0FBUAE",
+                            "topic_name": "Sui-lee Wee"
+                        }
+                    ]
+                },
+                {
+                    "title": "Inside the conclave: A visual guide on how the next pope will be elected",
+                    "link": "https://www.washingtonpost.com/religion/interactive/2025/pope-election-conclave-process/",
+                    "photo_url": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7D2JXMHICJFH3KV7VGJUVAFHNA.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdhbEV4VkdZMk5VcGFhRXBYVFJERUF4aW1CU2dLTWdZSk1vaFNtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:00:27.000Z",
+                    "authors": [
+                        "Leslie Shapiro",
+                        "Aaron Steckelberg",
+                        "Maham Javaid"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhrM1pqVXdkeElDWlc0b0FBUAE",
+                            "topic_name": "Leslie Shapiro"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oeVltNWtaaElDWlc0b0FBUAE",
+                            "topic_name": "Aaron Steckelberg"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1KMmFtMWtNaElDWlc0b0FBUAE",
+                            "topic_name": "Maham Javaid"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2owNnQ3ZURSRlpYMFk5OVkxZWF5Z0FQAQ"
+        },
+        {
+            "title": "We Got It Done: Governor Hochul Celebrates Huge Budget Win to Put Nearly $5,000 Back in Pockets of Working Families",
+            "link": "https://www.governor.ny.gov/news/we-got-it-done-governor-hochul-celebrates-huge-budget-win-put-nearly-5000-back-pockets-working",
+            "snippet": "The FY 2026 State Budget agreement includes Governor Hochul's plan to give 1.6 million New York families an annual tax credit of up to $1,000 ...",
+            "photo_url": "https://i.ytimg.com/vi/gp-OE5bixMc/mqdefault.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFaRkpZWVU5dk5GWkxPVkpMVFJDb0FSaXNBaWdCTWdhVlVwWktxUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T16:34:10.000Z",
+            "authors": [],
+            "source_url": "https://www.governor.ny.gov",
+            "source_name": "Governor Kathy Hochul (.gov)",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.governor.ny.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmR2ZG1WeWJtOXlMbTU1TG1kdmRpZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Hochul’s premature ‘wedding announcement’",
+                    "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2025/04/29/hochul-wedding-announcement-budget-red-room-premature-pretlow-00316344",
+                    "photo_url": "https://www.politico.com/dims4/default/c5a46f6/2147483647/resize/762x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F12%2F0c%2F54b13e054523abeecd3232db4f4b%2Fap24292021548188.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXBTVlU1YVMxNFpHUmpZM1JzVFJDM0FSaVRBaWdCTWdrTklvTEYxbUo3aHdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T21:32:52.000Z",
+                    "authors": [
+                        "Jason Beeferman"
+                    ],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OaVkyYzNYeElDWlc0b0FBUAE",
+                            "topic_name": "Jason Beeferman"
+                        }
+                    ]
+                },
+                {
+                    "title": "NY school phones: Hochul's proposed 'bell to bell' ban draws mixed reaction across New York districts",
+                    "link": "https://abc7ny.com/post/ny-school-phones-hochuls-proposed-bell-ban-draws-mixed-reaction-new-york-districts/16278926/",
+                    "photo_url": "https://cdn.abcotvs.com/dip/images/16279723_042925-wabc-hochul-cellphone-ban-img.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdhRFI1Ym1Kd1ZXcEplRlJYVFJDZkF4ampCU2dLTWdZWklvUVBJUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T21:39:22.000Z",
+                    "authors": [
+                        "Janice Yu"
+                    ],
+                    "source_url": "https://abc7ny.com",
+                    "source_name": "ABC7 New York",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7ny.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZpWXpkdWVTNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OMlkzRmplQklDWlc0b0FBUAE",
+                            "topic_name": "Janice Yu"
+                        }
+                    ]
+                },
+                {
+                    "title": "State budget could boost Hochul’s political fortunes",
+                    "link": "https://ny1.com/nyc/all-boroughs/politics/2025/04/29/state-budget-could-boost-governor-hochul-s-political-fortunes",
+                    "photo_url": "https://s7d2.scene7.com/is/image/TWCNews/hochul-11_Cropped?wid=1250&hei=703&$wide-bg$",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZTakJCVnpodlZUWkZSbnByVFJDb0FSaXNBaWdCTWdhcGhaRE5zUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T22:50:00.000Z",
+                    "authors": [
+                        "Bobby Cuza"
+                    ],
+                    "source_url": "https://ny1.com",
+                    "source_name": "Spectrum News NY1",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ny1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjU1TVM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNR0kwZG5ac0VnSmxiaWdBUAE",
+                            "topic_name": "Bobby Cuza"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pRaTgzVkRSRzB1V2p1eWxRMGt5Z0FQAQ"
+        },
+        {
+            "title": "The U.S. backs Israel's ban on the U.N.'s Palestinian aid agency at the World Court",
+            "link": "https://www.npr.org/2025/04/30/nx-s1-5382383/international-court-of-justice-israel-unrwa-palestinians-us",
+            "snippet": "The top court of the United Nations is holding a week of hearings on what Israel must do to provide desperately needed humanitarian assistance ...",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2F21%2F61349e9e47cca0b3d96bf1998216%2Fap25118326079984.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXVSR0p0VFhoWFoxcFBRVXRTVFJERUF4aW1CU2dLTWdzRmNJYUtxU1VkMUFoWlJR=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:00:24.000Z",
+            "authors": [],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Israel has no duty to allow UN aid agency into Gaza, says US state department lawyer",
+                    "link": "https://www.theguardian.com/world/2025/apr/30/israel-has-no-duty-to-allow-un-aid-agency-into-gaza-says-us-state-department-lawyer",
+                    "photo_url": "https://i.guim.co.uk/img/media/f32329cda40d24c8426993d31d34e92196e8ac71/0_245_6000_3600/master/6000.jpg?width=465&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXFRbU5uVlVkUk1XNW5kRmhsVFJDWEFoalJBeWdLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:52:00.000Z",
+                    "authors": [
+                        "Patrick Wintour"
+                    ],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNR0p3Y2pSNUVnSmxiaWdBUAE",
+                            "topic_name": "Patrick Wintour"
+                        }
+                    ]
+                },
+                {
+                    "title": "Gaza siege reaches 60th day as US defends Israel at ICJ",
+                    "link": "https://www.aljazeera.com/news/2025/4/30/gaza-siege-reaches-60th-day-as-us-defends-israel-at-icj",
+                    "photo_url": "https://www.aljazeera.com/wp-content/uploads/2025/04/AFP__20250430__442C8KF__v1__HighRes__PalestinianIsraelConflict-1746016177.jpg?resize=1920%2C1440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNUVjMTlhTkZrMFZuZG1jVnAzVFJEZ0F4aUFCU2dLTWdzQlFJd2dIMnFTRXprTG1n=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:19:35.000Z",
+                    "authors": [],
+                    "source_url": "https://www.aljazeera.com",
+                    "source_name": "Al Jazeera",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0ZzYW1GNlpXVnlZUzVqYjIwb0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "US backs Israel's ban on UNRWA Gaza aid operations at World Court",
+                    "link": "https://www.reuters.com/world/middle-east/us-backs-israels-ban-unrwa-gaza-aid-operations-world-court-2025-04-30/",
+                    "photo_url": "https://www.reuters.com/resizer/v2/ML4MSSZB3FOKHCB5UBFXPAL4RE.jpg?auth=7fe9e7f42878c5d9c3a345fb74e9815ee482da150865b06fa67aed73785bce56&width=1080&quality=80",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVZa00xVFV0TFZtYzNaVlZ2VFJERUF4aW1CU2dLTWdZQk5wYnNHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T11:47:47.000Z",
+                    "authors": [
+                        "Bart H. Meijer"
+                    ],
+                    "source_url": "https://www.reuters.com",
+                    "source_name": "Reuters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtWDJwb1gzWnJaQklDWlc0b0FBUAE",
+                            "topic_name": "Bart H. Meijer"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lmei1MY0RSRWFOS0pQM0xsRHZTZ0FQAQ"
+        },
+        {
+            "title": "Donald Trump endorses New York archbishop for next pope",
+            "link": "https://www.ft.com/content/cc8eb28e-b0e4-4a06-a8f9-b0bdb6e64464",
+            "snippet": "US President Donald Trump has weighed on the papal succession, floating the archbishop of New York as an option after Pope Francis' death.",
+            "photo_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04c00845-fc86-41f4-8276-ca993b960709.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRXVkZwYTAxU2JUUlVYMFJVVFJDS0F4aThCU2dLTWdZZE5aTE1IUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T14:48:39.000Z",
+            "authors": [
+                "Amy Kazmin"
+            ],
+            "source_url": "https://www.ft.com",
+            "source_name": "Financial Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqHggKIhhDQklTREFnTWFnZ0tCbVowTG1OdmJTZ0FQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwdU9YbHROeElDWlc0b0FBUAE",
+                    "topic_name": "Amy Kazmin"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Watch: Trump jokes he'd 'like to be Pope'",
+                    "link": "https://www.bbc.com/news/videos/c3r80jdgqqqo",
+                    "photo_url": "https://ichef.bbci.co.uk/images/ic/1920xn/ichef.bbci.co.uk/images/ic/$widthxn/p0l7b49g.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlUR1I1Vm5SNFh6WldhV1Y0VFJDb0FSaXNBaWdCTWdhaE5aRE5uUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:02:55.000Z",
+                    "authors": [],
+                    "source_url": "https://www.bbc.com",
+                    "source_name": "BBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Who is Timothy Dolan? The New York archbishop is Trump's pick to be the next pope",
+                    "link": "https://www.usatoday.com/story/news/politics/2025/04/30/trump-pope-timothy-dolan/83363102007/",
+                    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/29/USAT/83345395007-163444396.jpg?crop=2999,1687,x0,y156&width=660&height=371&format=pjpg&auto=webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNURlWGxDZGpCM1RVZDRkbU5vVFJEekFoaVVCU2dLTWdrQlFKYUxJV2ttN1FF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:35:29.000Z",
+                    "authors": [
+                        "Kathryn Palmer"
+                    ],
+                    "source_url": "https://www.usatoday.com",
+                    "source_name": "USA Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZEdNNU5XMHhYeElDWlc0b0FBUAE",
+                            "topic_name": "Kathryn Palmer"
+                        }
+                    ]
+                },
+                {
+                    "title": "Graham jokingly asks conclave, Catholics to ‘keep an open mind’ about Pope Trump",
+                    "link": "https://thehill.com/blogs/blog-briefing-room/5274062-graham-conclave-catholics-pope-trump/",
+                    "photo_url": "https://thehill.com/wp-content/uploads/sites/2/2023/04/GrahamLindsey_TrumpDonald_042823_APPhotos.jpg?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFhVmhSUnkxRFFtUjFaamxYVFJDZkF4ampCU2dLTWdtSllaYjFxS2V4Q2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T00:12:00.000Z",
+                    "authors": [
+                        "Lauren Irwin"
+                    ],
+                    "source_url": "https://thehill.com",
+                    "source_name": "The Hill",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldocGJHd3VZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZEdNd2JXdG5aaElDWlc0b0FBUAE",
+                            "topic_name": "Lauren Irwin"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pXbWYzYkRSRURVbTkxblhxaU9DZ0FQAQ"
+        },
+        {
+            "title": "Trump Tells Court His Tariffs Can’t Be Reviewed by Judges",
+            "link": "https://www.bloomberg.com/news/articles/2025-04-30/trump-tells-court-his-tariff-powers-can-t-be-reviewed-by-judges",
+            "snippet": "The Trump administration has asked the US trade court to reject a lawsuit by small businesses challenging the president's global tariffs, ...",
+            "photo_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVaenjeBRnHY/v3/-1x-1.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1PR2w0ZUVFdE1qTndVazlNVFJERUF4aW1CU2dLTWdhcFVvNFRwUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T16:31:49.000Z",
+            "authors": [
+                "Erik Larson"
+            ],
+            "source_url": "https://www.bloomberg.com",
+            "source_name": "Bloomberg",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0pzYjI5dFltVnlaeTVqYjIwb0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKc2RIY3haaElDWlc0b0FBUAE",
+                    "topic_name": "Erik Larson"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Trump’s Tariffs May Be Unconstitutional. What That Means for the Stock Market.",
+                    "link": "https://www.barrons.com/articles/stock-market-tariffs-tump-lawsuits-constitutional-c417f1ad",
+                    "photo_url": "https://images.barrons.com/im-59481130?width=639&height=426",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNURjazlzZUZkS2REZDVXV3BRVFJDcUF4al9CQ2dLTWdPQlV3SQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:46:00.000Z",
+                    "authors": [
+                        "Teresa Rivas"
+                    ],
+                    "source_url": "https://www.barrons.com",
+                    "source_name": "Barron's",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMkpoY25KdmJuTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTVhseWNuTTBZaElDWlc0b0FBUAE",
+                            "topic_name": "Teresa Rivas"
+                        }
+                    ]
+                },
+                {
+                    "title": "St. Paul toy store joins lawsuit against President Trump's tariffs",
+                    "link": "https://www.cbsnews.com/minnesota/news/st-paul-toy-store-lawsuit-trump-tariffs/",
+                    "photo_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/30/c74b27c0-1ae4-4754-b945-f4122608c5f1/thumbnail/1200x630/288d653bb2da8a5e7146c15cfd1e0c4f/10p-pkg-toys-and-tariffs-wcco7od4.jpg?v=5bc79e41160fef925ca37e685496f706",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRSelZDVVZkdlNHcG5XbU5NVFJDUkF4ajhCU2dLTWdhQkVvd3hyUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T03:57:00.000Z",
+                    "authors": [
+                        "Kirsten Mitchell"
+                    ],
+                    "source_url": "https://www.cbsnews.com",
+                    "source_name": "CBS News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZUhCME56SndOQklDWlc0b0FBUAE",
+                            "topic_name": "Kirsten Mitchell"
+                        }
+                    ]
+                },
+                {
+                    "title": "How Trump’s Tariffs Are Destroying One US Business and Why Its CEO Is Suing to Stop Them",
+                    "link": "https://www.cato.org/blog/i-sat-down-small-business-owner-understand-how-trumps-tariffs-are-destroying-business-why-hes",
+                    "photo_url": "https://www.cato.org/sites/cato.org/files/styles/pubs_2x/public/2025-04/tarrif-image%20Cropped.jpg?itok=EgV9mc0V",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlSVmhLYWsxa2NrOHRRbGxSVFJDb0FSaXJBaWdCTWdrUkE0aHNpV2VpaWdF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T21:53:12.000Z",
+                    "authors": [
+                        "Scott Lincicome"
+                    ],
+                    "source_url": "https://www.cato.org",
+                    "source_name": "Cato Institute",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cato.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR05oZEc4dWIzSm5LQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhremVYaG1lUklDWlc0b0FBUAE",
+                            "topic_name": "Scott Lincicome"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6Xy1uaURSRXVBY0VvZlFaQ0ZpZ0FQAQ"
+        },
+        {
+            "title": "Three dead, two injured in Minneapolis shooting",
+            "link": "https://www.mprnews.org/story/2025/04/30/minneapolis-shooting-multiple-people-dead",
+            "snippet": "Three people died and two others were seriously injured in a shooting late Tuesday in south Minneapolis. Police Chief Brian O'Hara said it ...",
+            "photo_url": "https://img.apmcdn.org/b61ca3ca69845919bbdb50bd2e14a987aa66b9a1/uncropped/cb257f-20250430-man-talking-in-mic-1211.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhkRU4wYVd4dVpUTmtlaTFYVFJDZkF4amlCU2dLTWdhbFVZNk5JUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T10:45:00.000Z",
+            "authors": [],
+            "source_url": "https://www.mprnews.org",
+            "source_name": "MPR News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mprnews.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjF3Y201bGQzTXViM0puS0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Minneapolis police at scene of another shooting blocks from overnight triple homicide",
+                    "link": "https://kstp.com/kstp-news/top-news/gang-violence-a-possibility-in-triple-fatal-overnight-shooting-in-minneapolis-2-others-hurt/",
+                    "photo_url": "https://kstp.com/wp-content/uploads/2025/04/Triple-fatal-shooting-scene.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRObVJNVXpWV2NHbDFNbTFoVFJDZkF4ampCU2dLTWdZQmNJcld1QVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:27:23.000Z",
+                    "authors": [],
+                    "source_url": "https://kstp.com",
+                    "source_name": "5 EYEWITNESS NEWS",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://kstp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR3R6ZEhBdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "As Minneapolis officials gather for triple killing press conference, new fatal shooting reported blocks away",
+                    "link": "https://bringmethenews.com/minnesota-news/as-minneapolis-officials-gather-for-triple-killing-press-conference-new-fatal-shooting-reported-blocks-away",
+                    "photo_url": "https://bringmethenews.com/.image/t_share/MjE0NTc1ODI1NzYzMTgxNTkx/minneapolis-mayor-jacob-frey-and-police-chief-brian-ohara.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXFVMTlIWDJZdFFuZDJXak53VFJDckF4ak9CU2dLTWdtTkVwZ1VsYXF4eFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:39:03.000Z",
+                    "authors": [
+                        "Tommy Wiita"
+                    ],
+                    "source_url": "https://bringmethenews.com",
+                    "source_name": "Bring Me The News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bringmethenews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbUp5YVc1bmJXVjBhR1Z1WlhkekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTURab2EzQXplUklDWlc0b0FBUAE",
+                            "topic_name": "Tommy Wiita"
+                        }
+                    ]
+                },
+                {
+                    "title": "4 killed, 3 hurt in Minneapolis shootings; one believed ‘targeted,’ another retaliatory",
+                    "link": "https://www.startribune.com/police-targeted-shooting-leaves-three-dead-in-south-minneapolis-two-others-seriously-hurt/601342054",
+                    "photo_url": "https://arc.stimg.co/startribunemedia/VWZ4B6HSYVDPRBYS43EWITKAWI.jpg?&w=1200&ar=1.91:1&fit=crop",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVhSV1ZqVjNjNE1UaE5NRFkxVFJDaUFSaTJBaWdCTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:03:45.000Z",
+                    "authors": [
+                        "Louis Krauss",
+                        "Paul Walsh",
+                        "Tim Harlow"
+                    ],
+                    "source_url": "https://www.startribune.com",
+                    "source_name": "Star Tribune",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.startribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM04wWVhKMGNtbGlkVzVsTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyYWpKNGVXMDFaQklDWlc0b0FBUAE",
+                            "topic_name": "Louis Krauss"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OME1EWmlZaElDWlc0b0FBUAE",
+                            "topic_name": "Paul Walsh"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTW1weE5tZzVaaElDWlc0b0FBUAE",
+                            "topic_name": "Tim Harlow"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oya0p2akRSR3p4cjBuR3Z4U1JpZ0FQAQ"
+        },
+        {
+            "title": "LA approves $4 billion to settle 'horrific' child abuse claims",
+            "link": "https://www.bbc.com/news/articles/clyqe9e6gjeo",
+            "snippet": "Los Angeles County has confirmed it will pay a record $4bn (£3.4bn) to settle nearly 7,000 claims of \"horrific\" child sexual abuse related ...",
+            "photo_url": "https://ichef.bbci.co.uk/news/1024/branded_news/910c/live/63654630-25c2-11f0-9dc9-b193739ae462.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUtXa1Z1WmxodFNqWkVUMU5XVFJDZkF4ampCU2dLTWdPQllRRQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T12:58:59.000Z",
+            "authors": [
+                "Regan Morris",
+                "Danai Nesta Kupemba"
+            ],
+            "source_url": "https://www.bbc.com",
+            "source_name": "BBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJMlgzb3hlQklDWlc0b0FBUAE",
+                    "topic_name": "Regan Morris"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzJOM09IZzRheElDWlc0b0FBUAE",
+                    "topic_name": "Danai Nesta Kupemba"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "L.A. County approves $4-billion sex abuse settlement, largest in U.S. history",
+                    "link": "https://www.yahoo.com/news/l-county-approves-4-billion-235723026.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/_zMjmgBpXVkyAsPJpO9txQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/la_times_articles_853/05f79b768b53e6d2c82d67cd977e42f6",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNW5VMnRzWTAxdVUxTmpaMnhSVFJERUF4aW1CU2dLTWdNQkZnaw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T23:57:23.000Z",
+                    "authors": [
+                        "Rebecca Ellis"
+                    ],
+                    "source_url": "https://www.yahoo.com",
+                    "source_name": "Yahoo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGxoYUc5dkxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NMU5IQTRNUklDWlc0b0FBUAE",
+                            "topic_name": "Rebecca Ellis"
+                        }
+                    ]
+                },
+                {
+                    "title": "$4 billion settlement in sexual abuse claims at juvenile facilities approved by LA County supervisors",
+                    "link": "https://abc7.com/post/4-billion-settlement-sexual-abuse-claims-juvenile-facilities-is-expected-approved-today-la-county-supervisors/16277247/",
+                    "photo_url": "https://cdn.abcotvs.com/dip/images/16283084_042925-kabc-11pm-la-co-sex-abuse-settlement-vid-CC-vid.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxaeTE1T0dReWJHTlVUbXhoVFJDZkF4ampCU2dLTWdZQlFJQkxvUUk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T18:33:45.000Z",
+                    "authors": [],
+                    "source_url": "https://abc7.com",
+                    "source_name": "ABC7 Los Angeles",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://abc7.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR0ZpWXpjdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Los Angeles approves $4bn payout to settle thousands of sexual abuse claims",
+                    "link": "https://www.theguardian.com/us-news/2025/apr/29/los-angeles-county-sexual-abuse-settlement",
+                    "photo_url": "https://i.guim.co.uk/img/media/ea9e607d80913e59c7c312757a2b82ba1bf7cccc/0_0_3697_2219/master/3697.jpg?width=465&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZVbUZzYjBzMWEzSlFaMGhMVFJDWEFoalJBeWdLTWdZQlFKcEtuQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T21:39:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pueXRIaURSRnBrMnBSbnFWd1VTZ0FQAQ"
+        },
+        {
+            "title": "Erin Patterson: Trial of Australian woman accused of cooking fatal mushroom lunch begins",
+            "link": "https://www.bbc.com/news/articles/cvgqjny1296o",
+            "snippet": "Ms Patterson has pleaded not guilty and her defence team says she \"panicked\" after unintentionally serving poison to family members she loved.",
+            "photo_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e0ab/live/9118fec0-2593-11f0-88f6-794ae336edff.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRYMjFaUjJrNGEyMVdibFZ1VFJDZkF4ampCU2dLTWdheFZJNlFxUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T08:30:22.000Z",
+            "authors": [
+                "Tiffanie Turnbull",
+                "Simon Atkinson",
+                "Katy Watson"
+            ],
+            "source_url": "https://www.bbc.com",
+            "source_name": "BBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJM09EQnpkQklDWlc0b0FBUAE",
+                    "topic_name": "Tiffanie Turnbull"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzY1Rjd2FIUmtjQklDWlc0b0FBUAE",
+                    "topic_name": "Simon Atkinson"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhRNWFEWTNPQklDWlc0b0FBUAE",
+                    "topic_name": "Katy Watson"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "‘Mushroom murder’ trial: Defense claims death of lunch guests was a ‘terrible accident’",
+                    "link": "https://www.cnn.com/2025/04/30/australia/australia-mushroom-poisoning-trial-intl-hnk/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/2025-04-30t061234z-597608353-rc2u7eagr9bh-rtrmadp-3-australia-deaths-mushrooms.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFkRWxhTUZOeVVFWm5MWEYzVFJDZkF4amlCU2dLTWdheFpKS3ZLUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:28:00.000Z",
+                    "authors": [
+                        "Jessie Yeung",
+                        "Hilary Whiteman"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oNU1YTnROaElDWlc0b0FBUAE",
+                            "topic_name": "Jessie Yeung"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKbk4ydzBaaElDWlc0b0FBUAE",
+                            "topic_name": "Hilary Whiteman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Erin Patterson concocted cancer diagnosis to ensure children missed fatal mushroom lunch, murder trial hears",
+                    "link": "https://www.theguardian.com/australia-news/2025/apr/30/erin-patterson-mushroom-poisonings-murder-trial-ntwnfb",
+                    "photo_url": "https://i.guim.co.uk/img/media/f7b148e363ef4060a75b7f7df29b5076ce921e05/0_125_1983_1190/master/1983.jpg?width=465&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlaR2xZV0VWMFlXeFRUV3hmVFJDWEFoalJBeWdLTWdhdGRKQ1BMUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T01:31:00.000Z",
+                    "authors": [
+                        "Nino Bucci"
+                    ],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwdU5qVjZOaElDWlc0b0FBUAE",
+                            "topic_name": "Nino Bucci"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trial begins for Australian woman charged with killing ex-husband's relatives with poisonous mushrooms",
+                    "link": "https://www.pbs.org/newshour/world/trial-begins-for-australian-woman-charged-with-killing-ex-husbands-relatives-with-poisonous-mushrooms",
+                    "photo_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/04/2025-04-30T061234Z_597608353_RC2U7EAGR9BH_RTRMADP_3_AUSTRALIA-DEATHS-MUSHROOMS-1024x744.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHhWR2MyWDNaUmNHSnljREJXVFJEWUF4aUtCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:05:21.000Z",
+                    "authors": [
+                        "Rod McGuirk"
+                    ],
+                    "source_url": "https://www.pbs.org",
+                    "source_name": "PBS",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM0JpY3k1dmNtY29BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OalpqRjNPQklDWlc0b0FBUAE",
+                            "topic_name": "Rod McGuirk"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pUZ2FyZERSRVp0SWF0bFlqZ2FpZ0FQAQ"
+        },
+        {
+            "title": "District of Columbia | Leaders of 764 Arrested and Charged for Operating Global Child Exploitation Enterprise",
+            "link": "https://www.justice.gov/usao-dc/pr/leaders-764-arrested-and-charged-operating-global-child-exploitation-enterprise",
+            "snippet": "Leaders of 764 Arrested and Charged for Operating Global Child Exploitation Enterprise ... Varagiannis was arrested yesterday in Greece; Nepal was ...",
+            "photo_url": null,
+            "thumbnail_url": null,
+            "published_datetime_utc": "2025-04-30T14:53:10.000Z",
+            "authors": [],
+            "source_url": "https://www.justice.gov",
+            "source_name": "Department of Justice (.gov)",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.justice.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMnAxYzNScFkyVXVaMjkyS0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Violent online network's leaders — dubbed \"War\" and \"Trippy\" — charged over alleged child exploitation",
+                    "link": "https://www.cbsnews.com/news/war-trippy-764-leaders-leonidas-varagiannis-prasan-nepal-child-exploitation-charges/",
+                    "photo_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/05/df2f1ceb-ea0b-42e0-abb7-97eb3e9bc265/thumbnail/1200x630/353ee4e35526e0072a0f3a96d37852be/department-justice-emblem.jpg?v=5bc79e41160fef925ca37e685496f706",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUlSR1F5VTNrM1pqQjRiVmQxVFJDUkF4ajhCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:29:00.000Z",
+                    "authors": [
+                        "Sarah Lynch",
+                        "Sarah Lynch Baldwin"
+                    ],
+                    "source_url": "https://www.cbsnews.com",
+                    "source_name": "CBS News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkhkd05UTmZNQklDWlc0b0FBUAE",
+                            "topic_name": "Sarah Lynch"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGellteHRlQklDWlc0b0FBUAE",
+                            "topic_name": "Sarah Lynch"
+                        }
+                    ]
+                },
+                {
+                    "title": "High Point man arrested as part of international child exploitation ring ‘764,’ DOJ says",
+                    "link": "https://myfox8.com/news/north-carolina/high-point/high-point-man-arrested-as-part-of-international-child-exploitation-ring-764-doj-says/",
+                    "photo_url": "https://myfox8.com/wp-content/uploads/sites/17/2025/04/Prasan-Nepal.png?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFVbTlxUkhKcVVrRnBZamswVFJDZkF4ampCU2dLTWdhdGhZek90UVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:46:45.000Z",
+                    "authors": [
+                        "Emily Mikkelsen"
+                    ],
+                    "source_url": "https://myfox8.com",
+                    "source_name": "FOX8 WGHP",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://myfox8.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTE1Wm05NE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSMmFHbzJZeElDWlc0b0FBUAE",
+                            "topic_name": "Emily Mikkelsen"
+                        }
+                    ]
+                },
+                {
+                    "title": "Greece arrests an American citizen wanted by the U.S. in a child sexual exploitation case",
+                    "link": "https://abcnews.go.com/US/wireStory/greece-arrests-american-citizen-wanted-us-child-sexual-121320389",
+                    "photo_url": "https://i.abcnewsfe.com/a/e8e6950c-779c-47f6-b254-b6ec2aacbabd/trump_interview_250430_hpMain_16x9.jpg?w=992",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU5OVE4wU1Y5cldWRlVjRzV1VFJDb0FSaXNBaWdCTWdrTkVaYUdGdW90cGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:20:49.000Z",
+                    "authors": [],
+                    "source_url": "https://abcnews.go.com",
+                    "source_name": "ABC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lOOEpmakRSRmVtR1dneU9vclVTZ0FQAQ"
+        },
+        {
+            "title": "Here are the top 5 immigration changes from Trump's first 100 days",
+            "link": "https://www.npr.org/2025/04/30/g-s1-63415/top-5-immigration-changes-trump-first-100-days",
+            "snippet": "President Trump came into office with what he says is an overwhelming mandate to overhaul immigration and border security.",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8095x5397+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F7c%2F0e5144d4480fa57cbd7e72158919%2Fap25099637682509.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU9ibTVUZHpabmRXd3RabUZqVFJERUF4aW1CU2dLTWdzQlVJRFNOR2VhT2dqWFBR=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T04:01:00.000Z",
+            "authors": [],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "ICE Data Shows High Arrests, Lagging Deportation Effort Under Trump Administration",
+                    "link": "https://www.wsj.com/politics/policy/trump-ice-deportations-vs-biden-administration-8f915e57",
+                    "photo_url": "https://images.wsj.net/im-33621257?width=700&height=466",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZjR1JSWDIwdFVHVXhkMWgxVFJERUF4aW5CU2dLTWdhQlFZWkpSUU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T18:27:00.000Z",
+                    "authors": [
+                        "Tarini Parti"
+                    ],
+                    "source_url": "https://www.wsj.com",
+                    "source_name": "WSJ",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R6YWk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NNFlucHJkaElDWlc0b0FBUAE",
+                            "topic_name": "Tarini Parti"
+                        }
+                    ]
+                },
+                {
+                    "title": "White House touts nearly 140,000 deportations, but data says roughly half actually deported",
+                    "link": "https://www.usatoday.com/story/news/politics/2025/04/28/trump-100-days-touts-deportation-surge/83280907007/",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-04-28T22:51:49.000Z",
+                    "authors": [
+                        "Lauren Villagran"
+                    ],
+                    "source_url": "https://www.usatoday.com",
+                    "source_name": "USA Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwbWJtdGZkeElDWlc0b0FBUAE",
+                            "topic_name": "Lauren Villagran"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump administration focuses on immigration record ahead of 100-day mark",
+                    "link": "https://www.washingtonpost.com/politics/2025/04/28/trump-presidency-news-100-days/",
+                    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T6CDSWC53EI3OVO4HMJHXKN4G4.JPG&w=1200",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1lVlpHYjBaME5HMDNWM0pUVFJERUF4aW1CU2dLTWdZcGhZek5zUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T03:40:00.000Z",
+                    "authors": [
+                        "Scott Clement",
+                        "Paul Kane",
+                        "Aaron Blake"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVcxeFp6RXdOaElDWlc0b0FBUAE",
+                            "topic_name": "Scott Clement"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWjJwNFpHWm1OUklDWlc0b0FBUAE",
+                            "topic_name": "Paul Kane"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYzNocWRIb3dOeElDWlc0b0FBUAE",
+                            "topic_name": "Aaron Blake"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pOMy1qY0RSRWxFQmljSFlkTFV5Z0FQAQ"
+        },
+        {
+            "title": "How Americans describe Trump's term so far in 1 word: POLL",
+            "link": "https://abcnews.go.com/US/americans-describe-trump-term-in-one-word-poll/story?id=121279635",
+            "snippet": "Savior. Ungodly. Patriotic. Un-American. Great. Sad. A hundred days into his presidency, all are words Americans used to describe President ...",
+            "photo_url": "https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-250429_1745932433527_hpMain_16x9_1600.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdOa3N0UVRORmEwWldOMDB5VFJDZkF4ampCU2dLTWdhUlpZYkxyUVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T10:07:00.000Z",
+            "authors": [],
+            "source_url": "https://abcnews.go.com",
+            "source_name": "ABC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Trump's approval steady, concerns over economy, immigration rise, Reuters/Ipsos poll finds",
+                    "link": "https://www.reuters.com/world/us/trumps-approval-steady-concerns-over-economy-immigration-rise-reutersipsos-poll-2025-04-29/",
+                    "photo_url": "https://www.reuters.com/resizer/v2/TISSPV6BRZIR5NCBZ5OJWASGCQ.jpg?auth=bc5ec6b3b41c3183800ba726d8a814e7478ff48df8e3fa3cd8e2ff8598915b1c&width=1618&quality=80",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRWbWd5VW5kTVpFcGtWMmhHVFJETUF4aWJCU2dLTWdZZEI0Z0x2Z1E=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T21:49:36.000Z",
+                    "authors": [
+                        "Jason Lange"
+                    ],
+                    "source_url": "https://www.reuters.com",
+                    "source_name": "Reuters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSeWVqRmlhQklDWlc0b0FBUAE",
+                            "topic_name": "Jason Lange"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump's Polling Plunge May Not Be Over",
+                    "link": "https://time.com/7281690/donald-trump-dolls-tariffs-polls/",
+                    "photo_url": "https://api.time.com/wp-content/uploads/2025/04/GettyImages-2212774284.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUxjVU42TkdodWJIWkxZemxCVFJDM0FSaVRBaWdCTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:12:45.000Z",
+                    "authors": [
+                        "Philip Elliott"
+                    ],
+                    "source_url": "https://time.com",
+                    "source_name": "Time Magazine",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://time.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSFJwYldVdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURSemNqbDJiaElDWlc0b0FBUAE",
+                            "topic_name": "Philip Elliott"
+                        }
+                    ]
+                },
+                {
+                    "title": "Analysis | 7 poll numbers that sum up Trump’s first 100 days",
+                    "link": "https://www.washingtonpost.com/politics/2025/04/30/trump-approval-rating-polls-tariffs-immigration/",
+                    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4UJVYRNHBUJU5VFMJLP3MET5Q_size-normalized.jpg&w=1200",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU9YMEZWZG5WdE1IQlpVblZtVFJERUF4aW1CU2dLTWdzRkFZeHZCZXZBekJtWmVn=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:00:00.000Z",
+                    "authors": [
+                        "Aaron Blake"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYzNocWRIb3dOeElDWlc0b0FBUAE",
+                            "topic_name": "Aaron Blake"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpdC1EVURSSHVldGNHVW5XZ0JpZ0FQAQ"
+        },
+        {
+            "title": "Senate to vote on a measure to undo Trump's global tariffs",
+            "link": "https://www.nbcnews.com/politics/congress/senate-vote-measure-undo-trumps-global-tariffs-rcna203668",
+            "snippet": "The Senate is expected to vote Wednesday on a resolution that would undo the sweeping tariffs that President Donald Trump imposed on most ...",
+            "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250430-rand-paul-se-900a-3d9bec.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUlWM1ZRUmxCa2JuRkpYMDFzVFJERUF4aW1CU2dLTWdrQk1ZN05sYXJJQ3dJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T18:15:35.000Z",
+            "authors": [
+                "Kate Santaliz",
+                "Rebecca Shabad",
+                "Julie Tsirkin"
+            ],
+            "source_url": "https://www.nbcnews.com",
+            "source_name": "NBC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYlRkNE4zWjVjQklDWlc0b0FBUAE",
+                    "topic_name": "Kate Santaliz"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKalh6ZGtkeElDWlc0b0FBUAE",
+                    "topic_name": "Rebecca Shabad"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYUhOemRETXpZaElDWlc0b0FBUAE",
+                    "topic_name": "Julie Tsirkin"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "The Senate is poised to again reject Trump’s tariffs",
+                    "link": "https://www.politico.com/live-updates/2025/04/30/congress/senate-tariffs-vote-liberation-day-00318088",
+                    "photo_url": "https://www.politico.com/dims4/default/resize/1040/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb6%2F95%2Fa54513704896a2fd2c0f5e2a208d%2Fu-s-congress-15228.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNkMWx1WVU1SFZGcHRjMGRzVFJDM0FSaVRBaWdCTWdZcElZU09tQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:04:43.000Z",
+                    "authors": [
+                        "Daniel Desrochers"
+                    ],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGNk5XcHdlUklDWlc0b0FBUAE",
+                            "topic_name": "Daniel Desrochers"
+                        }
+                    ]
+                },
+                {
+                    "title": "White House threatens to veto Senate resolution terminating 'Liberation Day' Trump tariffs",
+                    "link": "https://www.foxbusiness.com/politics/white-house-threatens-veto-senate-resolution-terminating-liberation-day-trump-tariffs",
+                    "photo_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/04/president-donald-trump.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBVbEZTVEd0c2RtbHVjR0ZNVFJDZkF4ampCU2dLTWdZcFZaYXRKUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T12:26:00.000Z",
+                    "authors": [
+                        "Rachel Wolf"
+                    ],
+                    "source_url": "https://www.foxbusiness.com",
+                    "source_name": "Fox Business",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMlp2ZUdKMWMybHVaWE56TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWDNreVp6RTVZaElDWlc0b0FBUAE",
+                            "topic_name": "Rachel Wolf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Rand Paul says Trump’s tariffs count as 'taxes,' must receive congressional vote",
+                    "link": "https://katu.com/news/nation-world/rand-paul-says-trumps-tariffs-count-as-taxes-must-receive-congressional-vote",
+                    "photo_url": "https://katu.com/resources/media2/16x9/5616/986/0x293/90/f1019841-87c1-44af-98f4-010a99204ed2-AP25093626755596.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRTWGxVTkV4WVZWZGZkVFJSVFJDZkF4amlCU2dLTWdheFZJcXZxUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:01:01.000Z",
+                    "authors": [
+                        "Jackson Walker"
+                    ],
+                    "source_url": "https://katu.com",
+                    "source_name": "KATU",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://katu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR3RoZEhVdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1RNE1UWnVhaElDWlc0b0FBUAE",
+                            "topic_name": "Jackson Walker"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTbEpMaERSSFUxYnNoSkw3R1FDZ0FQAQ"
+        },
+        {
+            "title": "New research contradicts RFK Jr.'s claim that severe autism cases are rising",
+            "link": "https://www.nbcnews.com/health/health-news/new-research-contradicts-rfk-jrs-claim-severe-autism-cases-are-rising-rcna202791",
+            "snippet": "In the past few weeks, Kennedy has repeatedly referred to autism as an “epidemic” that is leading to more cases of severe intellectual ...",
+            "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250429-Robert-F-Kennedy-Jr-ch-1105-f20cdb.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFaRFZFWkc0dFkxUXROMHd5VFJERUF4aW1CU2dLTWdZdFFKNlBHUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T13:00:40.000Z",
+            "authors": [
+                "Aria Bendix"
+            ],
+            "source_url": "https://www.nbcnews.com",
+            "source_name": "NBC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoek56aHljeElDWlc0b0FBUAE",
+                    "topic_name": "Aria Bendix"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Gene Collier: There's no cure for this lunacy",
+                    "link": "https://www.post-gazette.com/opinion/gene-collier-columns/2025/04/29/kennedy-autism-trump-september/stories/202504290064",
+                    "photo_url": "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/Kennedy-Autism-3-1745956656.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXRSbFpLTFRGNGEySnFXR2xmVFJDOEFSaU1BaWdCTWdrQk5aQ3ZsU3JnelFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T20:55:53.000Z",
+                    "authors": [
+                        "Gene Collier"
+                    ],
+                    "source_url": "https://www.post-gazette.com",
+                    "source_name": "Pittsburgh Post-Gazette",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.post-gazette.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSEJ2YzNRdFoyRjZaWFIwWlM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR3h0Wm5sa01SSUNaVzRvQUFQAQ",
+                            "topic_name": "Gene Collier"
+                        }
+                    ]
+                },
+                {
+                    "title": "RFK Jr. said many autistic people will never write a poem − even though there’s a rich history of neurodivergent poets and writers",
+                    "link": "https://theconversation.com/rfk-jr-said-many-autistic-people-will-never-write-a-poem-even-though-theres-a-rich-history-of-neurodivergent-poets-and-writers-255367",
+                    "photo_url": "https://images.theconversation.com/files/664411/original/file-20250428-62-cp6g8h.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C3584%2C2554&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBVbGRqU2kxSlEydEdURmRaVFJDOUFSaUtBaWdCTWdZQkk2SlNFUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T12:47:07.000Z",
+                    "authors": [
+                        "Bradley J. Irish"
+                    ],
+                    "source_url": "https://theconversation.com",
+                    "source_name": "The Conversation",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFM1JvWldOdmJuWmxjbk5oZEdsdmJpNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsd2RERnRaQklDWlc0b0FBUAE",
+                            "topic_name": "Bradley J. Irish"
+                        }
+                    ]
+                },
+                {
+                    "title": "No new autism registry, HHS says, walking back NIH director’s claim",
+                    "link": "https://www.statnews.com/2025/04/24/no-new-autism-registry-hhs-says-contradicting-nih-director-jay-bhattacharya-claim/",
+                    "photo_url": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2210917142-645x645.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhTRUpYYUdoblRYcDFkRlpGVFJDcUJCaXFCQ2dLTWdhVklvajFFQXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-24T20:05:09.000Z",
+                    "authors": [
+                        "O. Rose Broderick"
+                    ],
+                    "source_url": "https://www.statnews.com",
+                    "source_name": "statnews.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.statnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESE4wWVhSdVpYZHpMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1vME5HMDRkQklDWlc0b0FBUAE",
+                            "topic_name": "O. Rose Broderick"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p6cFliaURSR0w2QS0wRGVJeTZ5Z0FQAQ"
+        },
+        {
+            "title": "Wisconsin judge arrested in immigration case retains top conservative lawyer",
+            "link": "https://www.reuters.com/legal/wisconsin-judge-arrested-immigration-case-retains-top-conservative-lawyer-2025-04-29/",
+            "snippet": "Hannah Dugan, a Milwaukee County circuit judge, was charged on Friday with obstructing a government proceeding and concealing an individual to ...",
+            "photo_url": "https://www.reuters.com/resizer/v2/6KIRJVMRHFLOBJ57ALL7E4L7GY.jpg?auth=7338d95b7ec513ea4491190f9a3dbfdbffb852940b884d3bf68e71d40f3abae0&width=3500&quality=80",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhWVWswUlU5aWVHaG1Va1JXVFJEaEF4ajlCQ2dLTWdhaGxwSUxNZ2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T22:28:27.000Z",
+            "authors": [
+                "David Thomas"
+            ],
+            "source_url": "https://www.reuters.com",
+            "source_name": "Reuters",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGMzSjNPUklDWlc0b0FBUAE",
+                    "topic_name": "David Thomas"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Milwaukee judge charged with obstructing immigration agents is relieved of duty",
+                    "link": "https://www.nbcnews.com/news/us-news/milwaukee-judge-suspended-hannah-dugan-rcna203629",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250425-hannah-dugan-se-1126a-c488c2.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9WRkpUVVMxclpuSjRTV2RsVFJERUF4aW1CU2dLTWdZRlpJeHdvUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T00:31:00.000Z",
+                    "authors": [
+                        "Tim Stelloh"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsd05HWXdZeElDWlc0b0FBUAE",
+                            "topic_name": "Tim Stelloh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Wisconsin Supreme Court suspends Judge Hannah Dugan after her arrest",
+                    "link": "https://www.msnbc.com/top-stories/latest/wisconsin-judge-hannah-dugan-suspended-arrest-rcna203766",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250430-hannah-dugan-se-1151a-c20a69.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXRhRUpZWDB0eWJYZDJZV3RmVFJERUF4aW1CU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:34:52.000Z",
+                    "authors": [
+                        "Clarissa-Jan Lim"
+                    ],
+                    "source_url": "https://www.msnbc.com",
+                    "source_name": "MSNBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.msnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVzF6Ym1KakxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1NMlpsOXNaQklDWlc0b0FBUAE",
+                            "topic_name": "Clarissa-Jan Lim"
+                        }
+                    ]
+                },
+                {
+                    "title": "Opinion | Judge Dugan, the Migrant and the Law",
+                    "link": "https://www.wsj.com/opinion/judge-hannah-dugan-arrest-fbi-ice-lindsay-schloemer-eduardo-flores-ruiz-b63c754f",
+                    "photo_url": "https://opinion-images.wsj.net/im-66353373/?size=1.5",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZaaTE2U25CWU5VazVla3BmVFJERUF4aW1CU2dLTWdheFZJNXZJUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T21:48:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.wsj.com",
+                    "source_name": "WSJ",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R6YWk1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k2NFlEY0RSRXd5ZUx5Tm5ObHNDZ0FQAQ"
+        },
+        {
+            "title": "Tony Evers sues over Trump administration’s halt to $400M in AmeriCorps grants",
+            "link": "https://www.wpr.org/news/tony-evers-sue-trump-administrations-halt-americorps-grants",
+            "snippet": "Gov. Tony Evers announced Wisconsin is among two dozens states that are suing the Trump administration for terminating nearly $400 million ...",
+            "photo_url": "https://www.wpr.org/wp-content/uploads/2019/09/ap_19043775786859.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXNZV2RCUzA5RVpEUndVMWQ1VFJEVkFoaUFCQ2dLTWdrQkFJYkFGS2hFc1FB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T13:19:58.000Z",
+            "authors": [
+                "Danielle Kaeding"
+            ],
+            "source_url": "https://www.wpr.org",
+            "source_name": "WPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wpr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkd0Mlp6ZHJlQklDWlc0b0FBUAE",
+                    "topic_name": "Danielle Kaeding"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "States Sue After AmeriCorps Cuts Leave Communities Scrambling",
+                    "link": "https://www.nytimes.com/2025/04/29/us/politics/americorps-grant-cuts.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/28/multimedia/28dc-americorps-qjvp/28dc-americorps-qjvp-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNTFUM3B5VUhNNFduSnhOSHBhVFJDUUF4allCQ2dLTWdzQkFJYkFGS2hFa0FnbTJR=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T18:51:14.000Z",
+                    "authors": [
+                        "Aishvarya Kavi"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGeE5EaDVPQklDWlc0b0FBUAE",
+                            "topic_name": "Aishvarya Kavi"
+                        }
+                    ]
+                },
+                {
+                    "title": "Dozens of states sue over Trump administration's cuts to AmeriCorps",
+                    "link": "https://www.cbsnews.com/sacramento/news/americorps-grants-funding-cuts-lawsuit-doge/",
+                    "photo_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/29/2aebf22b-cc14-46ea-ade5-16f40e690b49/thumbnail/1200x630/cf3d6cf8abaafe7912b0b4be2542bf01/ap344936200419.jpg?v=5bc79e41160fef925ca37e685496f706",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVdVRWcyUW5sSWVIUktUVFpzVFJDUkF4ajhCU2dLTWdrQkFJZ0FqZWxNRFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T23:43:53.000Z",
+                    "authors": [
+                        "Cecilio Padilla",
+                        "Joe Walsh"
+                    ],
+                    "source_url": "https://www.cbsnews.com",
+                    "source_name": "CBS News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsb2RtSmtZeElDWlc0b0FBUAE",
+                            "topic_name": "Cecilio Padilla"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGeWNURjJlUklDWlc0b0FBUAE",
+                            "topic_name": "Joe Walsh"
+                        }
+                    ]
+                },
+                {
+                    "title": "'I feel like I'm abandoning my students:' DOGE cuts up to 200 AmeriCorps jobs in Nevada",
+                    "link": "https://thenevadaindependent.com/article/i-feel-like-im-abandoning-my-students-doge-cuts-200-americorps-jobs-in-nevada",
+                    "photo_url": "https://storage.googleapis.com/cdn.thenevadaindependent.com/2025/04/f564c075-donrica-davis-deloney-ec-best-scaled.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDFlbE5yUTFKT1QyTjNaMmxsVFJEQ0FSaURBaWdCTWdhZEFwQ09sUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T09:00:00.000Z",
+                    "authors": [
+                        "Gabby Birenbaum"
+                    ],
+                    "source_url": "https://thenevadaindependent.com",
+                    "source_name": "The Nevada Independent",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thenevadaindependent.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqNggKIjBDQklTSGdnTWFob0tHSFJvWlc1bGRtRmtZV2x1WkdWd1pXNWtaVzUwTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhrME9EQnhjUklDWlc0b0FBUAE",
+                            "topic_name": "Gabby Birenbaum"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o1ejR2ZURSSHZhanhsOWdKblR5Z0FQAQ"
+        },
+        {
+            "title": "Attorney for boat driver in Clearwater ferry collision denies he fled the scene as victim’s family demands answers",
+            "link": "https://www.cnn.com/2025/04/30/us/clearwater-florida-ferry-collision-boat-driver-hnk/index.html",
+            "snippet": "In a letter to investigators Tuesday shared with CNN, an attorney for Jeff Knight, the driver of the boat, denies claims it was a hit-and-run ...",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap25118137900823.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNaSGN5VW5oeGMwWm9TRmRLVFJDZkF4amlCU2dLTWdZQmNJeW9MQVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T14:30:00.000Z",
+            "authors": [],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Jannus Live owner steps down after Clearwater Ferry crash leaves 1 dead, 10 injured",
+                    "link": "https://www.fox13news.com/news/jannus-live-owner-steps-down-after-clearwater-ferry-crash-leaves-1-dead-10-injured",
+                    "photo_url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2025/04/932/524/clearwater-ferry-crash-jannus-live-step-down.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXVkMFZNTmxGV2VuZE9lRkZTVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:52:53.000Z",
+                    "authors": [
+                        "Katelyn Massarelli"
+                    ],
+                    "source_url": "https://www.fox13news.com",
+                    "source_name": "FOX 13 Tampa Bay",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fox13news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1p2ZURFemJtVjNjeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTWpFd01qSjJlaElDWlc0b0FBUAE",
+                            "topic_name": "Katelyn Massarelli"
+                        }
+                    ]
+                },
+                {
+                    "title": "Jeff Knight steps down from Jannus Live after Clearwater Ferry crash",
+                    "link": "https://www.wfla.com/news/pinellas-county/jeff-knight-steps-down-from-jannus-live-after-clearwater-ferry-crash/",
+                    "photo_url": "https://www.wfla.com/wp-content/uploads/sites/71/2025/04/FD7E893C3C851246C0A72627DB5E2379_3.jpg?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRaWFp6ZVdaZk1HaFdYMlZwVFJDZkF4ampCU2dLTWdhaEZaTE5GUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:36:55.000Z",
+                    "authors": [
+                        "Nathaniel Rodriguez"
+                    ],
+                    "source_url": "https://www.wfla.com",
+                    "source_name": "WFLA",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wfla.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGRtYkdFdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWTNKM2FHNW9haElDWlc0b0FBUAE",
+                            "topic_name": "Nathaniel Rodriguez"
+                        }
+                    ]
+                },
+                {
+                    "title": "Victim, boat operator’s names released in fatal Clearwater accident",
+                    "link": "https://stpetecatalyst.com/more-details-released-in-fatal-clearwater-boating-accident/",
+                    "photo_url": "https://stpetecatalyst.com/wp-content/uploads/2025/04/Clearwater-Ferry-accident-Douglas-R.-Clifford-Tampa-Bay-Times-ZUMA-Press-Wire-scaled.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJTMk5rU0hkNk5WaDZUMjVqVFJERUF4aW1CU2dLTWdZSmdJekl0QVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T20:01:04.000Z",
+                    "authors": [
+                        "BILL. DEYOUNG"
+                    ],
+                    "source_url": "https://stpetecatalyst.com",
+                    "source_name": "St Pete Catalyst",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://stpetecatalyst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbk4wY0dWMFpXTmhkR0ZzZVhOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsNGFIRm9aQklDWlc0b0FBUAE",
+                            "topic_name": "BILL. DEYOUNG"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pwbmJyZ0RSSE85RnVJbGxMc2xTZ0FQAQ"
+        },
+        {
+            "title": "U.S.-citizen family 'traumatized' after ICE raided their Oklahoma home in search of someone else",
+            "link": "https://www.nbcnews.com/news/latino/us-citizen-family-traumatized-ice-raid-rcna203700",
+            "snippet": "A mother and her daughters had their phones, laptops and cash life savings confiscated as part of a search warrant issued for other people.",
+            "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250424-ice-agent-ch-0916-f8729f.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHRkRXhYU25kVVNXdHhTemR1VFJERUF4aW1CU2dLTWdrTkFwTHlPS2F4Z0FN=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T16:48:33.000Z",
+            "authors": [
+                "Nicole Acevedo"
+            ],
+            "source_url": "https://www.nbcnews.com",
+            "source_name": "NBC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsNWMyZzJYeElDWlc0b0FBUAE",
+                    "topic_name": "Nicole Acevedo"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "ICE Agents Raid Home, Force Family Out in Their Underwear: 'Traumatized'",
+                    "link": "https://www.newsweek.com/ice-agents-force-family-underwear-oklahoma-2065984",
+                    "photo_url": "https://d.newsweek.com/en/full/2635746/ice-agent.jpg?w=1200&f=2a467124498f65969fcae246133b8ef7",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNlR1JhWkRsaFEyRjBjMjVQVFJERUF4aW1CU2dLTWdhWkE0ak9IUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T08:53:29.000Z",
+                    "authors": [
+                        "Billal Rahman"
+                    ],
+                    "source_url": "https://www.newsweek.com",
+                    "source_name": "Newsweek",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzVsZDNOM1pXVnJMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZUhJd2RHeDRaQklDWlc0b0FBUAE",
+                            "topic_name": "Billal Rahman"
+                        }
+                    ]
+                },
+                {
+                    "title": "ICE Invades Wrong Home, Steals Their Life Savings, and Then Leaves",
+                    "link": "https://www.yahoo.com/news/ice-invades-wrong-home-makes-165441707.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/RJo6dn227YuQHBMaRXb0TA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/the_new_republic_521/0c808e61fe5721e4fb213d01ed43cdf9",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJhRUZVWmxOU0xVMDRZVmd4VFJERUF4aW1CU2dLTWdZVk1ZNEttZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T16:54:41.000Z",
+                    "authors": [
+                        "Hafiz Rashid"
+                    ],
+                    "source_url": "https://www.yahoo.com",
+                    "source_name": "Yahoo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGxoYUc5dkxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYUhrMmFtcGZjUklDWlc0b0FBUAE",
+                            "topic_name": "Hafiz Rashid"
+                        }
+                    ]
+                },
+                {
+                    "title": "ICE raids wrong Oklahoma home, seizes life savings and leaves family ‘traumatized for life’",
+                    "link": "https://www.independent.co.uk/news/world/americas/oklahoma-ice-raid-wrong-person-b2741808.html",
+                    "photo_url": "https://cdn.jwplayer.com/v2/media/lEfO5CPw/poster.jpg?width=1280",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlaMnRCY0hkUVNVTjNObTVoVFJDZkF4ampCU2dLTWdhbEpZRHNHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T14:30:00.000Z",
+                    "authors": [
+                        "Josh Marcus"
+                    ],
+                    "source_url": "https://www.independent.co.uk",
+                    "source_name": "The Independent",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdWd1pXNWtaVzUwTG1OdkxuVnJLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTld3NU5YbDJNQklDWlc0b0FBUAE",
+                            "topic_name": "Josh Marcus"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lUMFpQaURSSHJ2V0RUNFF5ZkhTZ0FQAQ"
+        },
+        {
+            "title": "Harvard head apologises as scathing reports on campus prejudice released",
+            "link": "https://www.bbc.com/news/articles/c0eljwdp545o",
+            "snippet": "Harvard University President Alan Garber has apologised following the release of internal reports into antisemitic and anti-Muslim prejudice ...",
+            "photo_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9962/live/6170e720-253c-11f0-8625-d567e193950b.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpiV3d0VVZkdU5sZHllaTFpVFJDZkF4ampCU2dLTWdhRmNJck9JUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T02:46:52.000Z",
+            "authors": [
+                "Max Matza"
+            ],
+            "source_url": "https://www.bbc.com",
+            "source_name": "BBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1wZmVqRXhPUklDWlc0b0FBUAE",
+                    "topic_name": "Max Matza"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "The biggest takeaways from Harvard’s task force reports on campus antisemitism and anti-Muslim bias",
+                    "link": "https://www.cnn.com/2025/04/29/us/harvard-reports-antisemitism-anti-muslim-bias/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/2025-04-21t213757z-1744662645-rc2kyda9ohat-rtrmadp-3-usa-trump-harvard.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNTJYM2h2TlRkWU9UVlRNa2Q1VFJDZkF4amlCU2dLTWdPNWd3Zw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:20:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Harvard released antisemitism, Islamophobia reports: 5 takeaways.",
+                    "link": "https://www.bostonglobe.com/2025/04/30/metro/harvard-antisemitism-islamophobia-reports/",
+                    "photo_url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FN7JQUNG347DWKJRDMSTNTS2OY.jpg?auth=ca1d1ada237f9f9a5b6a8794c006b6986ee988c2b1e57c54450a3acb7b11bb8a&width=1440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVXazVHWm5WNGNFUnFRM0owVFJERUF4aW1CU2dLTWdhaGdveXRPUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:55:41.000Z",
+                    "authors": [
+                        "Brooke Hauser"
+                    ],
+                    "source_url": "https://www.bostonglobe.com",
+                    "source_name": "The Boston Globe",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bostonglobe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkp2YzNSdmJtZHNiMkpsTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5RMmJUVjZkeElDWlc0b0FBUAE",
+                            "topic_name": "Brooke Hauser"
+                        }
+                    ]
+                },
+                {
+                    "title": "Harvard anti-Muslim and antisemitism taskforces find widespread hostility on campus",
+                    "link": "https://www.theguardian.com/education/2025/apr/30/harvard-anti-muslim-antisemitism-taskforces",
+                    "photo_url": "https://i.guim.co.uk/img/media/ae01715258081be5d076364b817f8a972b4fa3e1/0_0_5000_3333/master/5000.jpg?width=465&dpr=1&s=none&crop=none",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNHpja05KTkZKT2MwbFdhR3hhVFJDMkFoalJBeWdLTWdzQkFJU2pGT1FlcV9uVTJB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:49:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.theguardian.com",
+                    "source_name": "The Guardian",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2paNjkzaERSSEdTX1dVU0V4VEZpZ0FQAQ"
+        },
+        {
+            "title": "Gaza edges closer to famine as Israel’s total blockade nears its third month",
+            "link": "https://www.cnn.com/2025/04/30/middleeast/gaza-edges-closer-to-famine-amid-israels-total-blockade-intl/index.html",
+            "snippet": "Gaza edges closer to famine as Israel's total blockade nears its third month ... Displaced Palestinians receive hot meals distributed ...",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2212019923.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDVkRzVWWVZKeFdVeFpRVlZ4VFJDZkF4amlCU2dLTWdrQk1KSXZzS2ZJREFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T09:50:00.000Z",
+            "authors": [
+                "Abeer Salman",
+                "Jeremy Diamond"
+            ],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1Oc1p6UTJheElDWlc0b0FBUAE",
+                    "topic_name": "Abeer Salman"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZDJ0NGVHSTJheElDWlc0b0FBUAE",
+                    "topic_name": "Jeremy Diamond"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Israel, Gaza, and the Starvation Weapon",
+                    "link": "https://www.foreignaffairs.com/israel/israel-gaza-and-starvation-weapon",
+                    "photo_url": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2025/04/29/2025-04-28T112743Z_370274172_RC2V6EAWXZEL_RTRMADP_3_ISRAEL-PALESTINIANS-WORLD-COURT-GAZA.JPG?itok=togZ-xVV",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpja2wxWTNwYWJGTnJUWGcxVFJDUkF4ajhCU2dLTWdZQkFJanFDUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T04:00:00.000Z",
+                    "authors": [
+                        "Boyd van Dijk"
+                    ],
+                    "source_url": "https://www.foreignaffairs.com",
+                    "source_name": "Foreign Affairs",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foreignaffairs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbVp2Y21WcFoyNWhabVpoYVhKekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YWpZeGFEVnhOQklDWlc0b0FBUAE",
+                            "topic_name": "Boyd van Dijk"
+                        }
+                    ]
+                },
+                {
+                    "title": "Gazans are again going hungry as Israel’s total siege nears two months",
+                    "link": "https://www.washingtonpost.com/world/2025/04/30/israel-siege-gaza-food-crisis/",
+                    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DSNGMQBD5GVDO55E7PNNBOSCLM.JPG&w=1200",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNVlkakpRZWw5emMxWTFUamhxVFJERUF4aW1CU2dLTWdzQkFJUmxqS003MlRoMm1R=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:31:11.000Z",
+                    "authors": [
+                        "Miriam Berger",
+                        "Tim Carman"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyWXpGNGFHdG5YeElDWlc0b0FBUAE",
+                            "topic_name": "Miriam Berger"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURSNGFHWjZjQklDWlc0b0FBUAE",
+                            "topic_name": "Tim Carman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Plague of rats and insects provides latest challenge for war-shattered Gazans",
+                    "link": "https://news.un.org/en/story/2025/04/1162726",
+                    "photo_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/28-04-2025-UNNews-UNRWA-Gaza-cleaningcampaign1.jpeg/image1440x560cropped.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNka05DUkZWM1kyZzNSazVWVFJDTUFSam9BaWdCTWdZWkU0YktIUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T03:00:01.000Z",
+                    "authors": [
+                        "Khalid Mohamed"
+                    ],
+                    "source_url": "https://news.un.org",
+                    "source_name": "UN News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://news.un.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVsZDNNdWRXNHViM0puS0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNR3A1T0RacUVnSmxiaWdBUAE",
+                            "topic_name": "Khalid Mohamed"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2paNXViYkRSR2VrZVlrZGdiN1VTZ0FQAQ"
+        },
+        {
+            "title": "Trump fires Biden appointees, including Doug Emhoff, from the Holocaust Museum board",
+            "link": "https://www.npr.org/2025/04/30/nx-s1-5382220/holocaust-museum-board-doug-emhoff",
+            "snippet": "The Trump administration has fired at least some of former President Joe Biden's appointees to the board that oversees the United States ...",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3648x2432+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2Fc4%2Fcc2029d9448b84c15e8f96b45a16%2Fgettyimages-2182343141.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRNM2RrVWpkMWNqRnZVekpHVFJERUF4aW1CU2dLTWdhbE1xRE5HUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:11:28.000Z",
+            "authors": [
+                "Rachel Treisman"
+            ],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwcWNERnJNeElDWlc0b0FBUAE",
+                    "topic_name": "Rachel Treisman"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Trump Fires Biden Appointees, Including Doug Emhoff, From Holocaust Museum",
+                    "link": "https://www.nytimes.com/2025/04/29/us/politics/trump-doug-emhoff-holocaust-museum-biden.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/29/multimedia/29pol-holocaust-museum-topart-vkjz/29pol-holocaust-museum-topart-vkjz-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxaR0psZVdKcU5IbGlabGhWVFJDUUF4allCQ2dLTWdZaFZKcnRJUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T19:07:31.000Z",
+                    "authors": [
+                        "Katie Glueck",
+                        "Tyler Pager"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWkRKb2RuZHlOQklDWlc0b0FBUAE",
+                            "topic_name": "Katie Glueck"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5RMmNuaDNjQklDWlc0b0FBUAE",
+                            "topic_name": "Tyler Pager"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump admin removes Doug Emhoff, other Biden picks from Holocaust Memorial Council",
+                    "link": "https://www.usatoday.com/story/news/politics/2025/04/30/doug-emhoff-removed-holocaust-memorial-council-trump/83367866007/",
+                    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/30/USAT/83370107007-getty-images-2211625230.jpg?crop=1023,576,x0,y34&width=660&height=371&format=pjpg&auto=webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVdha3RtVEhWZmNFVm1WVEpCVFJEekFoaVVCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:11:54.000Z",
+                    "authors": [
+                        "Mary Walrath"
+                    ],
+                    "source_url": "https://www.usatoday.com",
+                    "source_name": "USA Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZrWm5rMWNETjNaeElDWlc0b0FBUAE",
+                            "topic_name": "Mary Walrath"
+                        }
+                    ]
+                },
+                {
+                    "title": "Doug Emhoff lashes out after Trump removes him from Holocaust Memorial Council",
+                    "link": "https://www.foxnews.com/politics/doug-emhoff-lashes-out-after-trump-removes-him-from-holocaust-memorial-council",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/01/1200/675/doug-emhoff-kamala-harris.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNURVSFl5ZVdoNlRtNVdVaTF4VFJDZkF4ampCU2dLTWdtQk00NkZvYWxVVUFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T22:13:00.000Z",
+                    "authors": [
+                        "Peter Pinedo"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TVd4a1pGOWtkaElDWlc0b0FBUAE",
+                            "topic_name": "Peter Pinedo"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWdU1yaURSRk01YktDdWU2UVZDZ0FQAQ"
+        },
+        {
+            "title": "Swedish police arrest teenager after three killed in Uppsala shooting",
+            "link": "https://www.bbc.com/news/articles/ckge9jknr9go",
+            "snippet": "The arrest comes after three people, all reportedly under the age of 20, were shot dead in a hair salon.",
+            "photo_url": "https://ichef.bbci.co.uk/news/1024/branded_news/016a/live/c3b21510-2598-11f0-9de5-93f518b0e034.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhWVXRvY0ZCTFNraE1iV0l4VFJDZkF4ampCU2dLTWdZQmtJdzV0QVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T08:21:57.000Z",
+            "authors": [
+                "Anna Lamche"
+            ],
+            "source_url": "https://www.bbc.com",
+            "source_name": "BBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZG5Kc1kyTTNOQklDWlc0b0FBUAE",
+                    "topic_name": "Anna Lamche"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Swedish Police Arrest 16-Year-Old After Three Are Killed",
+                    "link": "https://www.nytimes.com/2025/04/30/world/europe/sweden-shooting-teenager-arrested.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/30/multimedia/30sweden-shooting-1-jbth/30sweden-shooting-1-jbth-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHpjSFJLZW5aTU5VbHRkRWQ0VFJDUUF4allCQ2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:56:43.000Z",
+                    "authors": [
+                        "Christina Anderson",
+                        "Eve Sampson"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTI1MFpuSjBiUklDWlc0b0FBUAE",
+                            "topic_name": "Christina Anderson"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3Y1dNMWFucHhjaElDWlc0b0FBUAE",
+                            "topic_name": "Eve Sampson"
+                        }
+                    ]
+                },
+                {
+                    "title": "Teen suspect arrested after 3 people shot dead at hair salon in Sweden",
+                    "link": "https://www.cbsnews.com/news/sweden-shooting-hair-salon-deaths-teen-arrested/",
+                    "photo_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/30/a06de8a4-56d2-4635-a99d-7e7f1826c0d1/thumbnail/1200x630/8ac57ab466ea6ff0b970d36d768a3879/gettyimages-2212112188.jpg?v=5bc79e41160fef925ca37e685496f706",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpNbEJIVVZwRE5tRm1SV1JoVFJDUkF4ajhCU2dLTWdZSklackhtQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:29:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.cbsnews.com",
+                    "source_name": "CBS News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "16-year-old suspect detained after 3 killed in shooting in Sweden",
+                    "link": "https://www.cnn.com/2025/04/29/europe/sweden-uppsala-shooting-intl-latam/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2212049875.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRTVWxOUTFOZmFWTjZMVnBXVFJDZkF4amlCU2dLTWdZWmdKVHJ0UVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T09:22:30.000Z",
+                    "authors": [
+                        "Henrik Pettersson",
+                        "Catherine Nicholls",
+                        "Sophie von der Tann"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1wMk1uQnhjQklDWlc0b0FBUAE",
+                            "topic_name": "Henrik Pettersson"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1RM01YSXljeElDWlc0b0FBUAE",
+                            "topic_name": "Catherine Nicholls"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5ONE4zbzJPUklDWlc0b0FBUAE",
+                            "topic_name": "Sophie von der Tann"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNdzdiaURSR2lzMVNpMEZLNEpTZ0FQAQ"
+        },
+        {
+            "title": "220 lawsuits in 100 days: Trump administration faces unprecedented legal blitz",
+            "link": "https://abcnews.go.com/US/220-lawsuits-100-days-trump-administration-faces-unprecedented/story?id=121252266",
+            "snippet": "Since Donald Trump took office 100 days ago, the president and his administration have faced an average of more than two lawsuits per day, ...",
+            "photo_url": "https://s.abcnews.com/images/US/protest-gty-er-250428_1745879380880_hpMain_16x9_1600.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFibnBITTBKRE5WTlFVV3czVFJDZkF4ampCU2dLTWdZQnNJYkx6UU0=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T10:10:40.000Z",
+            "authors": [
+                "Peter Charalambous"
+            ],
+            "source_url": "https://abcnews.go.com",
+            "source_name": "ABC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWWpWaWQyaDZjeElDWlc0b0FBUAE",
+                    "topic_name": "Peter Charalambous"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "I Think the Tide Is Finally Turning",
+                    "link": "https://slate.com/news-and-politics/2025/04/100-days-trump-tide-finally-turning.html",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-04-29T19:12:00.000Z",
+                    "authors": [
+                        "Dahlia Lithwick"
+                    ],
+                    "source_url": "https://slate.com",
+                    "source_name": "Slate",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://slate.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWE5zWVhSbExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRFZmZURaZkVnSmxiaWdBUAE",
+                            "topic_name": "Dahlia Lithwick"
+                        }
+                    ]
+                },
+                {
+                    "title": "100 days of injunctions, trials and 'Teflon Don': Trump second term meets its biggest tests in court",
+                    "link": "https://www.foxnews.com/politics/100-days-injunctions-trials-teflon-don-trump-second-term-meets-its-biggest-tests-court",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/1200/675/trump-courts-100days-2.png?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUVURjlVZFRGaFVWQXllVE10VFJDZkF4ampCU2dLTWdtSk1KS1lGS3V4NlFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T12:00:00.000Z",
+                    "authors": [
+                        "Breanne Deppisch"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUhCc2MzZGplUklDWlc0b0FBUAE",
+                            "topic_name": "Breanne Deppisch"
+                        }
+                    ]
+                },
+                {
+                    "title": "100 days in, California is suing Trump at almost double the pace of his first term",
+                    "link": "https://calmatters.org/justice/2025/04/donald-trump-california-lawsuits/",
+                    "photo_url": "https://i0.wp.com/calmatters.org/wp-content/uploads/2025/04/042825-Trump-V-Newsom-Split-CM-01.jpg?fit=1200%2C800&ssl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVdVa2RIVWtWa1lVOU1kWFIwVFJERUF4aW1CU2dLTWdrUlFweUhvbWs5U0FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:30:00.000Z",
+                    "authors": [
+                        "Nigel Duara"
+                    ],
+                    "source_url": "https://calmatters.org",
+                    "source_name": "CalMatters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://calmatters.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbU5oYkcxaGRIUmxjbk11YjNKbktBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhreE1IRnRkQklDWlc0b0FBUAE",
+                            "topic_name": "Nigel Duara"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ppMXR2ZURSSFB6VnlOSWYxczFDZ0FQAQ"
+        },
+        {
+            "title": "Venezuelan detainees at Texas center spell out SOS with their bodies",
+            "link": "https://www.theguardian.com/us-news/2025/apr/30/venezuelans-sos-texas",
+            "snippet": "Men at Bluebonnet fear deportation to El Salvador under wartime law despite maintaining they do not have gang ties.",
+            "photo_url": "https://i.guim.co.uk/img/media/fac99a14ddaf0c7052da0ee8d1366e7dde11df19/0_0_1722_1148/master/1722.jpg?width=465&dpr=1&s=none&crop=none",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFZbFJCWlc1dk4wRm5XVEE0VFJDMkFoalJBeWdLTWdhSkFJN0ZMQVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T14:23:00.000Z",
+            "authors": [],
+            "source_url": "https://www.theguardian.com",
+            "source_name": "The Guardian",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "SOS: Detainees at Texas immigrant detention facility send a message",
+                    "link": "https://www.yahoo.com/news/sos-detainees-texas-immigrant-detention-164838765.html",
+                    "photo_url": "https://media.zenfs.com/en/video.reutersnews.com/449cf1c06cecb61969317771b2b3628c",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWtUVGcwV1daWlUwUmlRekpFVFJDZkF4ampCU2dLTWdtSkFaWXBuYWVDSUFN=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:48:38.000Z",
+                    "authors": [],
+                    "source_url": "https://www.yahoo.com",
+                    "source_name": "Yahoo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGxoYUc5dkxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "SOS scrawled in dirt by men fearing deportation to El Salvador prison",
+                    "link": "https://metro.co.uk/2025/04/30/sos-scrawled-in-dirt-by-men-fearing-deportation-to-el-salvador-prison-23003793/",
+                    "photo_url": "https://metro.co.uk/wp-content/uploads/2025/04/SEI_249422430-413a.jpg?quality=90&strip=all",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNDJZVWQwWTNOM2FXUjBibDlMVFJERUF4aW1CU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:12:00.000Z",
+                    "authors": [
+                        "Danny Rigg"
+                    ],
+                    "source_url": "https://metro.co.uk",
+                    "source_name": "Metro.co.uk",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://metro.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjFsZEhKdkxtTnZMblZyS0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyZVhrME1HTTNiUklDWlc0b0FBUAE",
+                            "topic_name": "Danny Rigg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Detained Migrants Display 'SOS' Message to Passing Plane Fearing Deportation to El Salvador",
+                    "link": "https://www.latintimes.com/detained-migrants-display-sos-message-passing-plane-fearing-deportation-el-salvador-582054",
+                    "photo_url": "https://d.latintimes.com/en/full/575700/sos-spelled-out-venezuelan-detainees.png?w=736&f=59c203ff1b34818e0d215482486ea219",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW1NRk5tVldFNFNtdHlTR055VFJEMEFoamdCU2dLTWdtRkFKUXBLYWVLQUFN=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:50:48.000Z",
+                    "authors": [],
+                    "source_url": "https://www.latintimes.com",
+                    "source_name": "Latin Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.latintimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbXhoZEdsdWRHbHRaWE11WTI5dEtBQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pyZ09QakRSSE5CQ2owa2ltekt5Z0FQAQ"
+        },
+        {
+            "title": "Youngkin’s political adviser under fire as extortion allegations rock Virginia GOP",
+            "link": "https://virginiamercury.com/2025/04/29/youngkins-political-adviser-under-fire-as-extortion-allegations-rock-virginia-gop/",
+            "snippet": "John Reid fights to stay in lieutenant governor race as demands grow to oust Matt Moran over alleged smear tactics.",
+            "photo_url": "https://virginiamercury.com/wp-content/uploads/2025/04/IMG_9794.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlPSFpUWXpoTWQwODJPVVkxVFJEaEF4ai1CQ2dLTWdZUm1JeUhOZ1k=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T20:21:25.000Z",
+            "authors": [
+                "Markus Schmidt"
+            ],
+            "source_url": "https://virginiamercury.com",
+            "source_name": "Virginia Mercury",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://virginiamercury.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFM1pwY21kcGJtbGhiV1Z5WTNWeWVTNWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WW1oMGVYaDBiaElDWlc0b0FBUAE",
+                    "topic_name": "Markus Schmidt"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Gay Virginia GOP nominee accuses Youngkin's team of extortion, says lewd photos not his",
+                    "link": "https://www.nbcwashington.com/news/local/gay-virginia-gop-nominee-accuses-youngkins-team-of-extortion-says-lewd-photos-arent-his/3901943/",
+                    "photo_url": "https://media.nbcwashington.com/2025/04/youngkin-reid-split.jpg?quality=85&strip=all&resize=1200%2C675",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXpTRVJQYlhkNU4xTkhhemRQVFJDZkF4ampCU2dLTWdtRkVhTFZHR3E1cFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T15:03:39.000Z",
+                    "authors": [
+                        "Julie Carey"
+                    ],
+                    "source_url": "https://www.nbcwashington.com",
+                    "source_name": "NBC4 Washington",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcwashington.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFVzVpWTNkaGMyaHBibWQwYjI0dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWm1kMmVXUnJiaElDWlc0b0FBUAE",
+                            "topic_name": "Julie Carey"
+                        }
+                    ]
+                },
+                {
+                    "title": "‘Sickened and outraged’: Va. Lt. Gov. nominee lashes out at Gov. Youngkin amid allegations over sexual posts",
+                    "link": "https://wtop.com/virginia/2025/04/va-lt-gov-nominee-john-reid-accuses-gov-youngkin-of-extortion/",
+                    "photo_url": "https://wtop.com/wp-content/uploads/2025/01/youngkin-speec-jan-13-2025-scaled-e1745780515230.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZiWHA0VjJ0WlgwMWFjRXByVFJDM0FSaVRBaWdCTWdZQkpvak5FUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T17:57:54.000Z",
+                    "authors": [
+                        "Acacia James"
+                    ],
+                    "source_url": "https://wtop.com",
+                    "source_name": "WTOP",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://wtop.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGQwYjNBdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1ka2JHUmlPUklDWlc0b0FBUAE",
+                            "topic_name": "Acacia James"
+                        }
+                    ]
+                },
+                {
+                    "title": "Earle-Sears, Youngkin react to Reid’s vow to stay in lieutenant governor race",
+                    "link": "https://www.12onyourside.com/2025/04/30/earle-sears-youngkin-react-reids-vow-stay-lieutenant-governor-race/",
+                    "photo_url": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2/3BCSTJSZR5GZRC6QBMP5ONLC34.jpg?auth=d273e1be890e5b3f7944873c8b9b4776d886f4a91ebb63564abf2c0e23760399&width=1200&height=600&smart=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDROVVZPYkVwTll6ZHlMVU53VFJDSEF4aVBCaWdLTWdZeGRaQ3VNUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:03:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.12onyourside.com",
+                    "source_name": "WWBT",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.12onyourside.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFREV5YjI1NWIzVnljMmxrWlM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNek5QV0RSSHBzUnpJQUF3eVZpZ0FQAQ"
+        },
+        {
+            "title": "Trump aims to 'unleash' local police, but cautions against standing in the way of ICE",
+            "link": "https://www.npr.org/2025/04/29/g-s1-63458/trump-aims-to-unleash-local-police-but-cautions-against-standing-in-the-way-of-ice",
+            "snippet": "President Trump has signed two executive orders promising to \"unleash high-impact local police forces\" and to step up law enforcement ...",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3075x2055+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Ffe%2Ff8da8d2441b4a2b634ff2e522ffa%2Fap24233694706962.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9VSGRtWjNWa1pEZ3dTMDlaVFJERkF4aW1CU2dLTWdhQk1ZcldGQXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T01:56:52.000Z",
+            "authors": [
+                "Martin Kaste"
+            ],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYWpVNGVqbDZOeElDWlc0b0FBUAE",
+                    "topic_name": "Martin Kaste"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Strengthening and Unleashing America's Law Enforcement to Pursue Criminals and Protect Innocent Citizens",
+                    "link": "https://www.whitehouse.gov/presidential-actions/2025/04/strengthening-and-unleashing-americas-law-enforcement-to-pursue-criminals-and-protect-innocent-citizens/",
+                    "photo_url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtjV3hqV0RKeVdWaFBRV1I2VFJDUUF4ai1CU2dLTWdhdFJZek9vUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T22:34:59.000Z",
+                    "authors": [],
+                    "source_url": "https://www.whitehouse.gov",
+                    "source_name": "The White House (.gov)",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.whitehouse.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbmRvYVhSbGFHOTFjMlV1WjI5MktBQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trump’s Newest Executive Order “Unleashes” the Cops—and Flirts With Martial Law",
+                    "link": "https://www.thenation.com/article/politics/trump-executive-order-police-martial-law/",
+                    "photo_url": "https://www.thenation.com/wp-content/uploads/2025/04/GettyImages-2211023621.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBlRmhKUW0xV1MyaGlia3MwVFJDM0F4aTZCU2dLTWdhSkdKS21tZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:24:40.000Z",
+                    "authors": [
+                        "Elie Mystal"
+                    ],
+                    "source_url": "https://www.thenation.com",
+                    "source_name": "The Nation",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thenation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJvWlc1aGRHbHZiaTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVRJM2VYRTRjUklDWlc0b0FBUAE",
+                            "topic_name": "Elie Mystal"
+                        }
+                    ]
+                },
+                {
+                    "title": "Despite Trump’s order, Chicago consent decree mandating police reform ‘will remain in effect’",
+                    "link": "https://www.chicagotribune.com/2025/04/30/despite-trumps-order-chicago-consent-decree-mandating-police-reform-will-remain-in-effect/",
+                    "photo_url": "https://www.chicagotribune.com/wp-content/uploads/2025/04/ctc-176395221-e1746029151114.jpg?w=532",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpjRlk1T1VOVVdIaDFXRGhWVFJEZUFoaVVCQ2dLTWdZQmdKS2tyZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:21:06.000Z",
+                    "authors": [
+                        "Sam Charles"
+                    ],
+                    "source_url": "https://www.chicagotribune.com",
+                    "source_name": "Chicago Tribune",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.chicagotribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbU5vYVdOaFoyOTBjbWxpZFc1bExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZEdOaVluZHlaeElDWlc0b0FBUAE",
+                            "topic_name": "Sam Charles"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ktLUtyYkRSRlNwWVVLYzY2cE9pZ0FQAQ"
+        },
+        {
+            "title": "Word of the Week: Crimea's tumultuous history shrouds the origin of its very name",
+            "link": "https://www.npr.org/2025/04/30/nx-s1-5380761/crimea-etymology-ukraine-russia",
+            "snippet": "Crimea has emerged as the central obstacle to ending the war in Ukraine. But for the strategic peninsula, being at the nexus of great power ...",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4097x3003+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2Ffb%2Fb7bf38514530bc8a809f64df6ed0%2Fgettyimages-51118599.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNDFhbWxzTURVeU5Xb3hXbEZDVFJEYUF4aUhCU2dLTWdNQm9BWQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T09:00:00.000Z",
+            "authors": [
+                "Scott Neuman"
+            ],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWjNGMGRteG5lQklDWlc0b0FBUAE",
+                    "topic_name": "Scott Neuman"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Trump took the US economy to the brink of a crisis in just 100 days",
+                    "link": "https://www.cnn.com/2025/04/28/politics/tariffs-economy-100-days-trump/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2208035612.jpg?q=w_1110,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5NRkJaY0cxckxYQkJiMjR3VFJERUF4aW1CU2dLTWdZQlVJN010UVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T10:39:00.000Z",
+                    "authors": [
+                        "Stephen Collinson"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZUhCNk9UQmpjUklDWlc0b0FBUAE",
+                            "topic_name": "Stephen Collinson"
+                        }
+                    ]
+                },
+                {
+                    "title": "Zelenskyy pushes back on ceding Ukrainian land in potential peace deal ahead of London talks",
+                    "link": "https://apnews.com/article/russia-ukraine-war-drone-attack-peace-talks-be98e85000b8e0f24a2d7ada71f3861d",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-04-22T07:00:00.000Z",
+                    "authors": [
+                        "Illia Novikov",
+                        "Aamer Madhani"
+                    ],
+                    "source_url": "https://apnews.com",
+                    "source_name": "AP News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyY25acmJtaHJOQklDWlc0b0FBUAE",
+                            "topic_name": "Illia Novikov"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJSdU5EQTBOQklDWlc0b0FBUAE",
+                            "topic_name": "Aamer Madhani"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump says he wants a Russia-Ukraine deal in '2 weeks or less'",
+                    "link": "https://abcnews.go.com/Politics/trump-russia-ukraine-deal-2-weeks/story?id=121220944",
+                    "photo_url": "https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-250427_1745773350262_hpMain_16x9_1600.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhUMHBaUzBrNVlVZHhVVmxPVFJDZkF4ampCU2dLTWdZaEk1d3lHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-27T23:59:31.000Z",
+                    "authors": [
+                        "Michelle Stoddart",
+                        "Kelsey Walsh"
+                    ],
+                    "source_url": "https://abcnews.go.com",
+                    "source_name": "ABC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuYUhZM056WXljaElDWlc0b0FBUAE",
+                            "topic_name": "Michelle Stoddart"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwYUdwa1lqRndNQklDWlc0b0FBUAE",
+                            "topic_name": "Kelsey Walsh"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pzeHZMU0RSSElBbGo0Q3RqeWNpZ0FQAQ"
+        },
+        {
+            "title": "Belichick: 'False narrative' that girlfriend was controlling CBS interview",
+            "link": "https://www.wralsportsfan.com/belichick-false-narrative-that-girlfriend-was-controlling-cbs-interview/21985574/",
+            "snippet": "N.C. — North Carolina football coach Bill Belichick defended his girlfriend Jordon Hudson's conduct during a \"CBS News Sunday Morning\" interview ...",
+            "photo_url": "https://wwwcache.wralsportsfan.com/asset/colleges/unc/2025/04/28/21982274/3273810-bill_b-DMID1-66sga7ohx-640x360.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVkRFJVUlZSbmRsVXpkVkJ0VFJEb0FoaUFCU2dLTWdhZEk1eE1tUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:44:00.000Z",
+            "authors": [],
+            "source_url": "https://www.wralsportsfan.com",
+            "source_name": "WRALSportsFan.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wralsportsfan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFWGR5WVd4emNHOXlkSE5tWVc0dVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Belichick defends girlfriend from 'false narrative'",
+                    "link": "https://www.espn.com/college-football/story/_/id/44937587/bill-belichick-says-girlfriend-trying-control-tv-interview",
+                    "photo_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0430%2Fr1486182_1296x729_16%2D9.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpZM1JtZFUxMk9FTjZObDl6VFJDb0FSaXNBaWdCTWdZaEpZNnFtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:17:00.000Z",
+                    "authors": [
+                        "Jake Trotter"
+                    ],
+                    "source_url": "https://www.espn.com",
+                    "source_name": "ESPN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1Z6Y0c0dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJQgKIh9DQkFTRVFvTEwyMHZNREV5TjNBNWNISVNBbVZ1S0FBUAE",
+                            "topic_name": "Jake Trotter"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bill Belichick Defends Girlfriend Jordon Hudson In Statement About CBS Interview",
+                    "link": "https://www.today.com/news/sports/bill-belichick-cbs-interview-statement-jordon-hudson-rcna203912",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/Bill-Belichick-Jordon-Hudson-te-250430-337c8b.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZWRWd0Y1c1eGJtcE1ZVzlwVFJERUF4aW1CU2dLTWdZQkVhS3RFUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:37:27.000Z",
+                    "authors": [
+                        "Becca Wood"
+                    ],
+                    "source_url": "https://www.today.com",
+                    "source_name": "TODAY.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.today.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWFJ2WkdGNUxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWTNKa00zTmZNeElDWlc0b0FBUAE",
+                            "topic_name": "Becca Wood"
+                        }
+                    ]
+                },
+                {
+                    "title": "Inside Bill Belichick's 24-Year-Old Girlfriend Jordon Hudson's $8 Million Property Portfolio as She Forges Career as Real Estate Mogul",
+                    "link": "https://www.realtor.com/news/celebrity-real-estate/bill-belichick-girlfriend-jordon-hudson-house-career-photos/",
+                    "photo_url": "https://na.rdcpix.com/4630e6c9e57ec1556c5ecd99c3a6c35aw-c2328256683srd-w928_q80.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9ibHA0YlY5aWJHWnpaazk2VFJDb0FSaXNBaWdCTWdZZE5KUnFKUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:11:04.000Z",
+                    "authors": [
+                        "Charlie Lankston"
+                    ],
+                    "source_url": "https://www.realtor.com",
+                    "source_name": "Realtor.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.realtor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psWVd4MGIzSXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGNk0zcGpZeElDWlc0b0FBUAE",
+                            "topic_name": "Charlie Lankston"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pMaHVYYkRSRWd3aDRSeEZFemdDZ0FQAQ"
+        },
+        {
+            "title": "Under Trump, Stocks Have the Worst Start to a Presidential Term Since 1974",
+            "link": "https://www.nytimes.com/2025/04/30/business/trump-stocks-tariffs.html",
+            "snippet": "For financial markets, the 9 percent drop in the S&P 500 is on track for the worst start to a presidential term since Gerald R. Ford took over ...",
+            "photo_url": "https://static01.nyt.com/images/2025/04/30/business/00stocks-chart/00stocks-chart-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHRPWFl0WldWc2FsWmtaVFJHVFJDSkF4allCQ2dLTWdrSlFZN3BvYWsxa0FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T15:12:37.000Z",
+            "authors": [
+                "Joe Rennison"
+            ],
+            "source_url": "https://www.nytimes.com",
+            "source_name": "The New York Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1vd1ptTmpZaElDWlc0b0FBUAE",
+                    "topic_name": "Joe Rennison"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "100 days: The US stock market's rollercoaster ride since Trump took office",
+                    "link": "https://www.cnn.com/interactive/2025/04/business/stock-market-trump-100-days/index.html",
+                    "photo_url": "https://www.cnn.com/interactive/2025/04/business/stock-market-trump-100-days/media/video/splash_mobile.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWtabFJPY1VoU1EyTnBUMTlRVFJEVUFSanVBU2dCTWdNUmNCUQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T04:19:38.000Z",
+                    "authors": [
+                        "Sophie Warnes"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Wm5RNE5XUjVaaElDWlc0b0FBUAE",
+                            "topic_name": "Sophie Warnes"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump’s stock market in his first 100 days wasn’t just among the worst ever - it might have cost you thousands",
+                    "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-stock-market-tariffs-nixon-b2742611.html",
+                    "photo_url": "https://cdn.jwplayer.com/v2/media/4qzZ27N4/poster.jpg?width=320",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURaM0IwWDNSdWMxTTJZakIyVFJDMEFSakFBaWdLTWdheFJKS3VJUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:36:00.000Z",
+                    "authors": [
+                        "Kelly Rissman"
+                    ],
+                    "source_url": "https://www.independent.co.uk",
+                    "source_name": "The Independent",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdWd1pXNWtaVzUwTG1OdkxuVnJLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTNGaU5UbHdOQklDWlc0b0FBUAE",
+                            "topic_name": "Kelly Rissman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Column | How did Trump’s first 100 days impact your 401(k)? It’s time to look.",
+                    "link": "https://www.washingtonpost.com/business/2025/04/30/trump-first-100-days-401k/",
+                    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NJXWSG7KBVHP5GBO4V7TBRKUPA.jpg&w=1200",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZhMkZsTTFkSE1UaGhTSGhxVFJERUF4aW1CU2dLTWdhZGRJeXV2UVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:00:00.000Z",
+                    "authors": [
+                        "Michelle Singletary"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJggKIiBDQkFTRWdvTUwyY3ZNVEZrZVdwa05IaGZFZ0psYmlnQVAB",
+                            "topic_name": "Michelle Singletary"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pKODY3aERSRkJfa2RFWVA0TUJpZ0FQAQ"
+        },
+        {
+            "title": "U.S. Economy Shrank in First Quarter as Imports Surged Ahead of Tariffs",
+            "link": "https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689",
+            "snippet": "The 0.3% decline in GDP fell short of the 0.4% growth that economists surveyed by The Wall Street Journal expected.",
+            "photo_url": "https://images.wsj.net/im-72902664?width=700&height=467",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFXWEk1ZG1ac01YVk9ORVZ1VFJERUF4aW1CU2dLTWdrQnNJWldRQ1JTa1FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T19:42:00.000Z",
+            "authors": [
+                "Harriet Torry"
+            ],
+            "source_url": "https://www.wsj.com",
+            "source_name": "WSJ",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2R6YWk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwbmJIRnVNUklDWlc0b0FBUAE",
+                    "topic_name": "Harriet Torry"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "US economy goes into reverse from Trump’s abrupt policy shifts",
+                    "link": "https://www.cnn.com/2025/04/30/economy/us-gdp-q1/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210439273.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlaRzVTYVVkdWQyUXpkR295VFJDZkF4amlCU2dLTWdZQlVKcTFLQWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T15:53:00.000Z",
+                    "authors": [
+                        "Bryan Mena"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzYURBeE5YZ3hlUklDWlc0b0FBUAE",
+                            "topic_name": "Bryan Mena"
+                        }
+                    ]
+                },
+                {
+                    "title": "Opinion | GDP data revealed that the economy is shrinking. Why?",
+                    "link": "https://www.washingtonpost.com/opinions/interactive/2025/us-economy-shrink-trump-tariffs/",
+                    "photo_url": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C4PL2EMPSJEJTCCR7JIKBNTKCM.png&high_res=true&w=600",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxOVTUyZW1RdFdWTXlWMEp2VFJDUUF4allCQ2dLTWdZVmdvNUx0UVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:06:00.000Z",
+                    "authors": [
+                        "Heather Long"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYzE5cVgzcGpOeElDWlc0b0FBUAE",
+                            "topic_name": "Heather Long"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stock market today: Dow, S&P 500, Nasdaq come back from steep lows after GDP print to cap turbulent April",
+                    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-come-back-from-steep-lows-after-gdp-print-to-cap-turbulent-april-200112050.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/OjQkfvNlAynWnYRskSBgVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/b1191a50-2527-11f0-9bec-fee96c8f45fd",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9Samh4UkUxc1ZHSjJNRWxmVFJERUF4aW1CU2dLTWdZRkZaRE5rUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:20:40.000Z",
+                    "authors": [
+                        "Alexandra Canal",
+                        "Karen Friar"
+                    ],
+                    "source_url": "https://finance.yahoo.com",
+                    "source_name": "Yahoo Finance",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Od2FETnJaaElDWlc0b0FBUAE",
+                            "topic_name": "Alexandra Canal"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1vemRucGtheElDWlc0b0FBUAE",
+                            "topic_name": "Karen Friar"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p5MklmZkRSRW40TVFKOXRfdDB5Z0FQAQ"
+        },
+        {
+            "title": "Hegseth boasted about ending a 'woke' program on women and security. Trump signed it into law in 2017",
+            "link": "https://www.pbs.org/newshour/politics/hegseth-boasted-about-ending-a-woke-program-on-women-and-security-trump-signed-it-into-law-in-2017",
+            "snippet": "The program he tried to break was not a “woke” Biden-era initiative but instead a celebrated program signed into law by his boss, President ...",
+            "photo_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/04/2025-04-24T184632Z_419883227_RC2I4EA5OS01_RTRMADP_3_USA-NORWAY-425x280.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZWVkpIWmtkVldubHFZMVpHVFJDMkFSaVZBaWdCTWdZTlZKaW1KZ2c=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T19:40:51.000Z",
+            "authors": [
+                "Tara Copp",
+                "Farnoush Amiri"
+            ],
+            "source_url": "https://www.pbs.org",
+            "source_name": "PBS",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM0JpY3k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsd2NqUnJjeElDWlc0b0FBUAE",
+                    "topic_name": "Tara Copp"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpaZmFqazJheElDWlc0b0FBUAE",
+                    "topic_name": "Farnoush Amiri"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Hegseth announces he’s ending Pentagon involvement in Trump initiative empowering women championed by Ivanka Trump and Rubio",
+                    "link": "https://www.cnn.com/2025/04/29/politics/hegseth-ending-pentagon-trump-women-initiative/index.html",
+                    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2210460839.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBhMEpWTW1aV2FXTkdkRzF2VFJDZkF4amlCU2dLTWdZQlFKenJJUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T17:09:00.000Z",
+                    "authors": [
+                        "Haley Britzky"
+                    ],
+                    "source_url": "https://www.cnn.com",
+                    "source_name": "CNN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwMk5XczBjQklDWlc0b0FBUAE",
+                            "topic_name": "Haley Britzky"
+                        }
+                    ]
+                },
+                {
+                    "title": "Hegseth ‘proudly’ terminates Women, Peace and Security program supported by Trump",
+                    "link": "https://www.washingtonpost.com/politics/2025/04/29/hegseth-wps-rubio-noem/",
+                    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I23JO3CNKQO7AVJ6ENVPE2IAY4.JPG&w=1200",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVjVjlMTjFsSGNtVTVPVjlPVFJERUF4aW1CU2dLTWdhbFpaTE5yUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:33:00.000Z",
+                    "authors": [
+                        "Brianna A. Tucker"
+                    ],
+                    "source_url": "https://www.washingtonpost.com",
+                    "source_name": "The Washington Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OMk5GOWtiQklDWlc0b0FBUAE",
+                            "topic_name": "Brianna A. Tucker"
+                        }
+                    ]
+                },
+                {
+                    "title": "Hegseth cancels Pentagon program. It was signed into law by Trump.",
+                    "link": "https://www.politico.com/news/2025/04/29/hegseth-women-peace-and-security-program-00315226",
+                    "photo_url": "https://www.politico.com/dims4/default/5738732/2147483647/strip/true/crop/5669x3779+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F82%2F3e%2F45b17881429e9bc126224901d03b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2211808222",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9UMGhTTTFoZldqQktXa3hqVFJDM0FSaVRBaWdCTWdZZGNKVE1xUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T16:05:21.000Z",
+                    "authors": [
+                        "Joe Gould",
+                        "Eric Bazail"
+                    ],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkhvMmNITm5ZeElDWlc0b0FBUAE",
+                            "topic_name": "Joe Gould"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3Wmpoa2VtdDNiUklDWlc0b0FBUAE",
+                            "topic_name": "Eric Bazail"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pQbTZfaURSRml3UzhMMXZvc3dpZ0FQAQ"
+        },
+        {
+            "title": "Republicans urge battleground Rep. Mike Lawler to pass on a run for New York governor",
+            "link": "https://www.nbcnews.com/politics/2026-election/republicans-urge-mike-lawler-pass-run-new-york-governor-rcna203551",
+            "snippet": "Rep. Mike Lawler, R-N.Y., represents one of three GOP-held districts Kamala Harris won in the 2024 election.",
+            "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250429-mike-lawler-ew-654p-72b2c8.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURZM3BuV0RjNVMyZE1WRmhpVFJERUF4aW1CU2dLTWdhUlZaak1KUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T00:37:00.000Z",
+            "authors": [],
+            "source_url": "https://www.nbcnews.com",
+            "source_name": "NBC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Elise Stefanik, Cabinet Hopes Dashed, Considers Her Next Move",
+                    "link": "https://www.nytimes.com/2025/04/30/us/politics/elise-stefanik-trump-johnson-cabinet.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/29/multimedia/00dc-stefanik-tmbq/00dc-stefanik-tmbq-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9SbHAwTTBaMk16Z3paRUZEVFJDUUF4allCQ2dLTWdiTjRJS1h5QU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:10:03.000Z",
+                    "authors": [
+                        "Annie Karni"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTTIxcWVtZDZaaElDWlc0b0FBUAE",
+                            "topic_name": "Annie Karni"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stefanik undercuts Speaker Johnson in stunning public House GOP spat",
+                    "link": "https://www.foxnews.com/politics/stefanik-undercuts-speaker-johnson-stunning-public-house-gop-spat",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/1200/675/johnson_stefanik.png?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUxSVU5rTTJ0VmRqZGhZMk5HVFJDZkF4ampCU2dLTWdtTlFaelduR214U0FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T16:23:00.000Z",
+                    "authors": [
+                        "Elizabeth Elkind"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTkdwc00zUTNOaElDWlc0b0FBUAE",
+                            "topic_name": "Elizabeth Elkind"
+                        }
+                    ]
+                },
+                {
+                    "title": "Wednesday’s Campaign Round-Up, 4.30.25: Mike Johnson walks back comments on Elise Stefanik",
+                    "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/wednesdays-campaign-43025-mike-johnson-walks-back-comments-elise-stefa-rcna203763",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-03/250327-elise-stefanik-se-1150a-2911d0.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxlWE5QWmswNGFTMXJNVUpQVFJERUF4aW1CU2dLTWdhcFZaTE5wUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:00:03.000Z",
+                    "authors": [
+                        "Steve Benen"
+                    ],
+                    "source_url": "https://www.msnbc.com",
+                    "source_name": "MSNBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.msnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVzF6Ym1KakxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFkwYkd0blpCSUNaVzRvQUFQAQ",
+                            "topic_name": "Steve Benen"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lscGZ2ZERSRzRlcVJhNkF1cE1TZ0FQAQ"
+        },
+        {
+            "title": "US officers who broke rank to save lives recall the fall of Saigon 50 years ago",
+            "link": "https://www.cnn.com/2025/04/30/asia/fall-of-saigon-vietnam-war-anniversary-intl-hnk-ml/index.html",
+            "snippet": "The 50th anniversary of the fall of Saigon this week will trigger complex and mixed emotions for those who lived through it.",
+            "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/750429-o-d0439-0110.jpg?c=16x9&q=h_833,w_1480,c_fill",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZjMVYyWW1KUU5VcFJWM0ZXVFJDZkF4amlCU2dLTWdZQk1Jek9QQVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T04:34:00.000Z",
+            "authors": [
+                "Brad Lendon"
+            ],
+            "source_url": "https://www.cnn.com",
+            "source_name": "CNN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhveU5YZGpNQklDWlc0b0FBUAE",
+                    "topic_name": "Brad Lendon"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Photos: A look back at the fall of Saigon and the final days of the Vietnam War : The Picture Show",
+                    "link": "https://www.npr.org/sections/the-picture-show/2025/04/30/g-s1-63099/fall-of-saigon-photos-50-years-later",
+                    "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4600x3728+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F12%2F65%2F7eb271604a2690ff1ec1a75c4d33%2Fgettyimages-1354478204.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlRVUZUY1V0aFpGRkNPVnBMVFJEeUF4am5CQ2dLTWdZQk1KTEVuQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:29:49.000Z",
+                    "authors": [
+                        "Npr Staff"
+                    ],
+                    "source_url": "https://www.npr.org",
+                    "source_name": "NPR",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY0TW1vM09XNWZaaElDWlc0b0FBUAE",
+                            "topic_name": "Npr Staff"
+                        }
+                    ]
+                },
+                {
+                    "title": "A Look Back at Operation Frequent Wind 50 Years Later",
+                    "link": "https://www.defense.gov/News/Feature-Stories/Story/Article/4134061/a-look-back-at-operation-frequent-wind-50-years-later/",
+                    "photo_url": "https://media.defense.gov/2022/Mar/27/2002963954/1280/1280/0/220301-D-FW736-0010.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUVXa1EzZDFwbE4xSjFPRzFDVFJDM0FSaVRBaWdCTWdNQmNBdw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-24T11:47:32.000Z",
+                    "authors": [
+                        "David Vergun"
+                    ],
+                    "source_url": "https://www.defense.gov",
+                    "source_name": "U.S. Department of Defense (.gov)",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.defense.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlJsWm1WdWMyVXVaMjkyS0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTmpaNmNIRnpaQklDWlc0b0FBUAE",
+                            "topic_name": "David Vergun"
+                        }
+                    ]
+                },
+                {
+                    "title": "50 years later: Refugee shares her story of survival as USS Midway crucial in rescuing thousands after Fall of Saigon",
+                    "link": "https://fox5sandiego.com/news/local-news/50-years-later-refugee-shares-her-story-of-survival-as-uss-midway-crucial-in-rescuing-thousands-after-fall-of-saigon/",
+                    "photo_url": "https://fox5sandiego.com/wp-content/uploads/sites/15/2025/04/USS-Midway-crucial-in-rescuing-thousands-after-Fall-of-Saigon.jpg?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVPREUwTlRsMFJFUkRTWGhUVFJDZkF4ampCU2dLTWdZUlVJcm90QVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T05:07:16.000Z",
+                    "authors": [
+                        "Juliette Vara"
+                    ],
+                    "source_url": "https://fox5sandiego.com",
+                    "source_name": "fox5sandiego.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fox5sandiego.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1p2ZURWellXNWthV1ZuYnk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oNGNISnNaaElDWlc0b0FBUAE",
+                            "topic_name": "Juliette Vara"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o0M1p2akRSRlZJM09xd19PQlF5Z0FQAQ"
+        },
+        {
+            "title": "Some 55,000 Los Angeles County workers walk out in 2-day strike, pausing operations",
+            "link": "https://abcnews.go.com/US/55000-los-angeles-county-workers-walk-2-day/story?id=121289727",
+            "snippet": "Approximately 55,000 of Los Angeles County's workers have taken to the streets downtown in a massive, two-day protest -- affecting a range ...",
+            "photo_url": "https://s.abcnews.com/images/US/la-strike-01-ap-jt-250429_1745952356016_hpMain_16x9_1600.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUJSeTB3Um5SQmQyTmljMVU0VFJDZkF4ampCU2dLTWdZQlFJZ0NwUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T21:00:00.000Z",
+            "authors": [
+                "Leah Sarnoff"
+            ],
+            "source_url": "https://abcnews.go.com",
+            "source_name": "ABC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhoMGFIWXdiaElDWlc0b0FBUAE",
+                    "topic_name": "Leah Sarnoff"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Los Angeles County workers march in downtown LA as part of 2-day strike",
+                    "link": "https://www.nbclosangeles.com/news/local/los-angeles-county-workers-strike/3689130/",
+                    "photo_url": "https://media.nbclosangeles.com/2025/04/strike-la-county-april-29-2025.jpg?quality=85&strip=all&resize=1200%2C675",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXJOMFZEYkhsNFJXWlZSRUpKVFJDZkF4ampCU2dLTWdzcE1JQTFKQ1JzTDdoZ0R3=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T16:51:53.000Z",
+                    "authors": [
+                        "Jonathan Lloyd",
+                        "Jaimie Ding"
+                    ],
+                    "source_url": "https://www.nbclosangeles.com",
+                    "source_name": "NBC4 Los Angeles",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbclosangeles.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFVzVpWTJ4dmMyRnVaMlZzWlhNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1Sc1oycHJaeElDWlc0b0FBUAE",
+                            "topic_name": "Jonathan Lloyd"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJeGNucG5NUklDWlc0b0FBUAE",
+                            "topic_name": "Jaimie Ding"
+                        }
+                    ]
+                },
+                {
+                    "title": "More than 10,000 SEIU 721 Members March Downtown in Protest of LA County’s Unfair Labor Practices",
+                    "link": "https://www.seiu721.org/2025/04/10000-plus-seiu-721-members-march-during-county-ulp-strike.php",
+                    "photo_url": "https://www.seiu721.org/wp-content/uploads/2025/04/Photo-Apr-29-2025-11-51-01-AM-scaled.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDRNRFZ2TkdOd05tbFdTRnBvVFJEZ0F4aUFCU2dLTWdrQllJSnozQ0hZRUFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T03:30:01.000Z",
+                    "authors": [],
+                    "source_url": "https://www.seiu721.org",
+                    "source_name": "SEIU Local 721",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.seiu721.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM05sYVhVM01qRXViM0puS0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Arrests made as union workers march in downtown Los Angeles",
+                    "link": "https://ktla.com/news/local-news/county-union-march-dtla-arrests/",
+                    "photo_url": "https://ktla.com/wp-content/uploads/sites/4/2025/04/snapshot-11-8.jpg?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdlVkJKUVhsM1NUTnRVMk5VVFJDZkF4ampCU2dLTWdZQlVJN25yQVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T20:02:43.000Z",
+                    "authors": [
+                        "Cameron Kiszla"
+                    ],
+                    "source_url": "https://ktla.com",
+                    "source_name": "KTLA",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ktla.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR3QwYkdFdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsbmVUVmtYeElDWlc0b0FBUAE",
+                            "topic_name": "Cameron Kiszla"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lXM3E3UURSRWZJRlNuTU5FTDFDZ0FQAQ"
+        },
+        {
+            "title": "House Democrats jockey behind the scenes to become party's top investigator of Trump administration",
+            "link": "https://www.nbcnews.com/politics/congress/house-democrats-jockey-partys-top-investigator-trump-administration-rcna203477",
+            "snippet": "WASHINGTON — Rep. Gerry Connolly's surprise announcement that he plans to soon step down as the top Democrat on the House Oversight Committee ...",
+            "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250429-Gerry-Connolly-se-316p-d5378d.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUljV0pyYjJGSU1EaGtRM0pKVFJERUF4aW1CU2dLTWdhZFpvd3JMZ2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T20:43:24.000Z",
+            "authors": [
+                "Scott Wong"
+            ],
+            "source_url": "https://www.nbcnews.com",
+            "source_name": "NBC News",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGMmRtZ3dOaElDWlc0b0FBUAE",
+                    "topic_name": "Scott Wong"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "The big decision that could shape AOC’s future",
+                    "link": "https://www.politico.com/news/2025/04/30/aoc-house-oversight-democratic-party-future-00317612",
+                    "photo_url": "https://www.politico.com/dims4/default/b3d08ee/2147483647/strip/true/crop/4500x3000+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcd%2Fc9%2Fb5b32b9d48d88099237dba00c3a4%2Fu-s-congress-14947.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJhVFk1UkVwbFJGWlFha0pYVFJDM0FSaVRBaWdCTWdhaFZaVHNwUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T08:45:00.000Z",
+                    "authors": [
+                        "Nicholas Wu",
+                        "Holly Otterbein"
+                    ],
+                    "source_url": "https://www.politico.com",
+                    "source_name": "Politico",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1KNmJURTVhQklDWlc0b0FBUAE",
+                            "topic_name": "Nicholas Wu"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsNU1XaHJjUklDWlc0b0FBUAE",
+                            "topic_name": "Holly Otterbein"
+                        }
+                    ]
+                },
+                {
+                    "title": "House Democrats' old guard prepares to fight back against youth revolt",
+                    "link": "https://www.axios.com/2025/04/30/democrats-connolly-aoc-crockett-lynch-oversight",
+                    "photo_url": "https://images.axios.com/MA13ejhOPczKdAwMVoJMoe-8YIA=/0x0:1959x1102/1920x1080/2025/04/29/1745969833007.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXRTRE5OYW5BMlVqaDJUVFZyVFJDZkF4ampCU2dLTWdrRk1aNnVuQ25CeGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T00:13:55.000Z",
+                    "authors": [
+                        "Andrew Solender"
+                    ],
+                    "source_url": "https://www.axios.com",
+                    "source_name": "Axios",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV0Y0YVc5ekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTmpaNWVIcHhjeElDWlc0b0FBUAE",
+                            "topic_name": "Andrew Solender"
+                        }
+                    ]
+                },
+                {
+                    "title": "Rep. Gerry Connolly says he won't seek reelection, will step back \"soon\" as Oversight ranking member",
+                    "link": "https://www.cbsnews.com/news/gerry-connolly-cancer-retiring-house-oversight-committee/",
+                    "photo_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/28/663d9457-4f9b-4257-bcac-d0d1a7937a78/thumbnail/1200x630/114a547d47ccf6390f7394ba77ee30bc/gettyimages-2202899876.jpg?v=5bc79e41160fef925ca37e685496f706",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJaemx5ZWxsVmRqSndZVzVsVFJDUkF4ajhCU2dLTWdhdEpKaXVIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T16:14:25.000Z",
+                    "authors": [
+                        "Kaia Hubbard"
+                    ],
+                    "source_url": "https://www.cbsnews.com",
+                    "source_name": "CBS News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGMGJqTnROUklDWlc0b0FBUAE",
+                            "topic_name": "Kaia Hubbard"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lXcjVmaERSSFcyTTRLZGdvU2tTZ0FQAQ"
+        },
+        {
+            "title": "Trump seeks to reshape how schools discipline students",
+            "link": "https://theconversation.com/trump-seeks-to-reshape-how-schools-discipline-students-255377",
+            "snippet": "A new executive order would create new guidelines on school discipline, suggesting the current ones are 'discriminatory.'",
+            "photo_url": "https://images.theconversation.com/files/664456/original/file-20250428-56-ldiylh.jpg?ixlib=rb-4.1.0&rect=0%2C256%2C5042%2C2830&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhMWFp3YkhweFlXOTBiM0pRVFJDb0FSaXNBaWdCTWdZaGxvcnNPUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T12:57:43.000Z",
+            "authors": [
+                "Chris Curran"
+            ],
+            "source_url": "https://theconversation.com",
+            "source_name": "The Conversation",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFM1JvWldOdmJuWmxjbk5oZEdsdmJpNWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTNKMFpucDNjeElDWlc0b0FBUAE",
+                    "topic_name": "Chris Curran"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "REINSTATING COMMON SENSE SCHOOL DISCIPLINE POLICIES",
+                    "link": "https://www.whitehouse.gov/presidential-actions/2025/04/reinstating-common-sense-school-discipline-policies/",
+                    "photo_url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtjV3hqV0RKeVdWaFBRV1I2VFJDUUF4ai1CU2dLTWdhdFJZek9vUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-23T22:57:17.000Z",
+                    "authors": [],
+                    "source_url": "https://www.whitehouse.gov",
+                    "source_name": "The White House (.gov)",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.whitehouse.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbmRvYVhSbGFHOTFjMlV1WjI5MktBQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trump School Discipline Executive Order Will Benefit Students",
+                    "link": "https://www.city-journal.org/article/trump-executive-order-school-discipline-race-equity-inclusion",
+                    "photo_url": "https://media4.manhattan-institute.org/wp-content/uploads/sites/5/trump-executive-order-school-discipline-race-equity-inclusion.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRjMFE1YTNCVVZEbGxkRzVoVFJDSEF4aVBCaWdLTWdZQllaSkhNZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T09:29:04.000Z",
+                    "authors": [
+                        "Carolyn D. Gorman"
+                    ],
+                    "source_url": "https://www.city-journal.org",
+                    "source_name": "City Journal",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.city-journal.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR05wZEhrdGFtOTFjbTVoYkM1dmNtY29BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtWDJwblkySjNlaElDWlc0b0FBUAE",
+                            "topic_name": "Carolyn D. Gorman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump signs seven more executive orders impacting K-12 and higher ed",
+                    "link": "https://www.ednc.org/04-25-2025-trump-signs-seven-more-executive-orders-impacting-k-12-and-higher-ed/",
+                    "photo_url": "https://www.ednc.org/wp-content/uploads/2025/04/IMG_8493.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTRZekZ6WWxCbGFsVnVPRTVtVFJDTkF4aUZCaWdLTWdtQklJeGdrNm8wU3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-25T14:39:08.000Z",
+                    "authors": [
+                        "Mebane Rash"
+                    ],
+                    "source_url": "https://www.ednc.org",
+                    "source_name": "EducationNC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ednc.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1ZrYm1NdWIzSm5LQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TW5oemFHdzBPUklDWlc0b0FBUAE",
+                            "topic_name": "Mebane Rash"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeHYzV0RSRU1TdmxaTWVIRzJpZ0FQAQ"
+        },
+        {
+            "title": "Report: League fines Falcons for role in Shedeur Sanders prank call",
+            "link": "https://www.atlantafalcons.com/news/league-fines-falcons-for-role-in-shedeur-sanders-prank-call-jeff-ulbrich",
+            "snippet": "— The Atlanta Falcons have been fined $250,000 for the role the organization played in the data breach that resulted in a prank call to Shedeur ...",
+            "photo_url": "https://static.clubs.nfl.com/image/upload/t_landscape_tablet/falcons/fhyxrx4ztiywuwekhnyx.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9hVEowY21WSVlubG9TVUpUVFJDb0FSaXNBaWdCTWdZZFZJck1LUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:06:41.000Z",
+            "authors": [
+                "Tori McElhaney"
+            ],
+            "source_url": "https://www.atlantafalcons.com",
+            "source_name": "Atlanta Falcons",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.atlantafalcons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbUYwYkdGdWRHRm1ZV3hqYjI1ekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhrNGJHUmtaaElDWlc0b0FBUAE",
+                    "topic_name": "Tori McElhaney"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Giants' Carter also got prank call during draft",
+                    "link": "https://www.espn.com/nfl/story/_/id/44935730/giants-abdul-carter-received-prank-call-nfl-draft",
+                    "photo_url": "https://a.espncdn.com/photo/2025/0425/r1483586_1296x729_16-9.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUNWVE5sUmpKM04wOTBOazEyVFJDb0FSaXNBaWdCTWdtZE01QnFIU2xrandF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:41:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.espn.com",
+                    "source_name": "ESPN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1Z6Y0c0dVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Abdul Carter was also prank called during 2025 NFL Draft before being taken by Giants",
+                    "link": "https://nypost.com/2025/04/30/sports/giants-abdul-carter-was-also-prank-called-during-2025-nfl-draft/",
+                    "photo_url": "https://nypost.com/wp-content/uploads/sites/2/2025/04/new-york-giants-owner-john-103313083.jpg?quality=75&strip=all",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBhUzF6Y0ZScVRsTk5kMTlwVFJERkF4aWtCU2dLTWdZQk1ZNjFuQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:20:00.000Z",
+                    "authors": [
+                        "Justin Tasch"
+                    ],
+                    "source_url": "https://nypost.com",
+                    "source_name": "New York Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTU1Y0c5emRDNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwMmJtczNPQklDWlc0b0FBUAE",
+                            "topic_name": "Justin Tasch"
+                        }
+                    ]
+                },
+                {
+                    "title": "Falcons, defensive coordinator Jeff Ulbrich receive massive fines from NFL over Shedeur Sanders prank call",
+                    "link": "https://sports.yahoo.com/nfl/article/falcons-defensive-coordinator-jeff-ulbrich-receive-massive-fines-from-nfl-over-shedeur-sanders-prank-call-145938697.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/4qSlH4yFRz_NN9Sl_czSRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-04/ff475470-25d2-11f0-bffb-c783e910dd34",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVUelY1VFZsaWFtdDJObFIzVFJERUF4aW1CU2dLTWdZQk1JcU5sUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:07:23.000Z",
+                    "authors": [
+                        "Chris Cwik"
+                    ],
+                    "source_url": "https://sports.yahoo.com",
+                    "source_name": "Yahoo Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sports.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSE53YjNKMGN5NTVZV2h2Ynk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWkRKcU5HdzJkQklDWlc0b0FBUAE",
+                            "topic_name": "Chris Cwik"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pieUpUZ0RSRzJDckxwcFBMdHBTZ0FQAQ"
+        },
+        {
+            "title": "Trump says Musk “wants to get back home to his cars” though welcome to stay",
+            "link": "https://www.politico.com/news/2025/04/30/elon-musk-cabinet-meeting-00317977",
+            "snippet": "Musk has scaled back his presence in Washington in recent days, following an initial constant presence alongside Trump.",
+            "photo_url": "https://www.politico.com/dims4/default/ebd4e12/2147483647/strip/true/crop/4067x2711+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff0%2F78%2F9d0c032346099d9b1995530870e7%2Ftrump-90380.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNiVTVrVFhoa01HNDFWVFp6VFJDM0FSaVRBaWdCTWdhaEZvd01rZ28=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T15:07:25.000Z",
+            "authors": [
+                "Jake Traylor"
+            ],
+            "source_url": "https://www.politico.com",
+            "source_name": "Politico",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhrMllqYzRiaElDWlc0b0FBUAE",
+                    "topic_name": "Jake Traylor"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Elon Musk bids farewell — sort of — to Trump Cabinet, claims DOGE saved $160 billion",
+                    "link": "https://www.cnbc.com/2025/04/30/elon-musk-trump-cabinet-doge-tesla.html",
+                    "photo_url": "https://image.cnbcfm.com/api/v1/image/108138828-17460325192025-04-30t170005z_2110667820_rc2h8ea6epvy_rtrmadp_0_usa-trump.jpeg?v=1746032533&w=1600&h=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNURaRVZSZG5sb1JFNDNiMGhzVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:05:24.000Z",
+                    "authors": [
+                        "Dan Mangan"
+                    ],
+                    "source_url": "https://www.cnbc.com",
+                    "source_name": "CNBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTmpGclpHSTVjeElDWlc0b0FBUAE",
+                            "topic_name": "Dan Mangan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump admin live updates: Trump says Americans may have less because of trade war",
+                    "link": "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates-border-czar-brief-securing/?id=121230740",
+                    "photo_url": "https://s.abcnews.com/images/US/cabinet-mtg-30-gty-gmh-250430_1746035436419_hpMain_16x9_1600.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVplazQxVHpkTlMySllZa1prVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:39:00.000Z",
+                    "authors": [
+                        "Alexandra Hutzler",
+                        "Kevin Shalvey",
+                        "Ivan Pereira"
+                    ],
+                    "source_url": "https://abcnews.go.com",
+                    "source_name": "ABC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTm14amJYQXhaaElDWlc0b0FBUAE",
+                            "topic_name": "Alexandra Hutzler"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzNGeGFtNHpjQklDWlc0b0FBUAE",
+                            "topic_name": "Kevin Shalvey"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1ReU9HUjJkQklDWlc0b0FBUAE",
+                            "topic_name": "Ivan Pereira"
+                        }
+                    ]
+                },
+                {
+                    "title": "SCOOP: DOGE Caucus plans White House meeting as Elon Musk preps to step back",
+                    "link": "https://www.foxnews.com/politics/scoop-doge-caucus-plans-white-house-meeting-elon-musk-preps-step-back",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/1200/675/bean-trump-doge.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVlRbGRDWVVkdWQwZ3RkWEZhVFJDZkF4ampCU2dLTWdrTk1acTJtS214Q2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:00:00.000Z",
+                    "authors": [
+                        "Elizabeth Elkind"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTkdwc00zUTNOaElDWlc0b0FBUAE",
+                            "topic_name": "Elizabeth Elkind"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l0bXJfakRSRjZVTXBxbXRkUXpTZ0FQAQ"
+        },
+        {
+            "title": "2 suspects are arrested over the theft of Homeland Security Secretary Noem's purse",
+            "link": "https://www.npr.org/2025/04/29/nx-s1-5381410/kristi-noem-purse-theft-suspect",
+            "snippet": "Mario Bustamante Leiva, 49, was arrested Saturday and charged with wire fraud, aggravated identity theft, and robbery, the Justice Department ...",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2632+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F1b%2F68421598438d925ed66727ca18a0%2Fap25117555960245.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlMV3MyWWpCWVgwUTBNR1U1VFJERkF4aWxCU2dLTWdZcGhZek5OUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T03:12:04.000Z",
+            "authors": [
+                "Ayana Archie"
+            ],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvZWpSMmRqZGpaaElDWlc0b0FBUAE",
+                    "topic_name": "Ayana Archie"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "President Trump Appoints New Members to Federal Emergency Management Agency Review Council",
+                    "link": "https://www.dhs.gov/news/2025/04/28/president-trump-appoints-new-members-federal-emergency-management-agency-review",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-04-28T21:22:30.000Z",
+                    "authors": [],
+                    "source_url": "https://www.dhs.gov",
+                    "source_name": "Homeland Security (.gov)",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dhs.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMlJvY3k1bmIzWW9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Exclusive | Illegal migrant accused of snatching Kristi Noem’s Gucci purse was free after similar crime in NYC last month",
+                    "link": "https://nypost.com/2025/04/28/us-news/illegal-migrant-accused-in-kristi-noems-purse-snatching-had-ny-arrest-warrant-out/",
+                    "photo_url": "https://nypost.com/wp-content/uploads/sites/2/2025/04/newspress-collage-vm936wzbx-1745884747397.jpg?quality=75&strip=all&1745870436",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUhWMDU2ZW1SalFUa3hTa3hmVFJERUF4aW1CU2dLTWdrTmRJYkZLbWh6MVFB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T23:48:00.000Z",
+                    "authors": [
+                        "Joe Marino",
+                        "Jennie Taer"
+                    ],
+                    "source_url": "https://nypost.com",
+                    "source_name": "New York Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTU1Y0c5emRDNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5ONWVXdG5aaElDWlc0b0FBUAE",
+                            "topic_name": "Joe Marino"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvM2JHMTBkeElDWlc0b0FBUAE",
+                            "topic_name": "Jennie Taer"
+                        }
+                    ]
+                },
+                {
+                    "title": "Arrest for Noem’s purse theft; Prison reset; Rain chances",
+                    "link": "https://www.keloland.com/on-the-go/arrest-for-noems-purse-theft-prison-reset-rain-chances/",
+                    "photo_url": "https://www.keloland.com/wp-content/uploads/sites/103/2024/11/KOTG-downtown-sunrise.png?strip=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZOVWRyVkZOTU1sQXlWa2hVVFJDZkF4ampCU2dLTWdZaGhKYUxNUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:31:14.000Z",
+                    "authors": [
+                        "Marissa Brunkhorst"
+                    ],
+                    "source_url": "https://www.keloland.com",
+                    "source_name": "KELOLAND.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.keloland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3RsYkc5c1lXNWtMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYURsdE9YUTBkQklDWlc0b0FBUAE",
+                            "topic_name": "Marissa Brunkhorst"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lMdjhMWkRSRjZKbXhYcDFNR25pZ0FQAQ"
+        },
+        {
+            "title": "Congress divided on permanent daylight saving time despite Trump endorsement",
+            "link": "https://www.politico.com/live-updates/2025/04/30/congress/congress-daylight-saving-time-trump-00318033",
+            "snippet": "The Senate Commerce Committee appeared poised Wednesday morning to narrowly advance a bill to make daylight saving time permanent — a sign ...",
+            "photo_url": "https://www.politico.com/dims4/default/resize/1040/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff7%2F25%2F6988402d4fdca29bec7ade7e5884%2Fu-s-congress-61457.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZYMVo0WjJkNVIwNVVSSEYzVFJDM0FSaVRBaWdCTWdZWklKN0xuUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:21:08.000Z",
+            "authors": [
+                "Ben Leonard"
+            ],
+            "source_url": "https://www.politico.com",
+            "source_name": "Politico",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OZk1ISXdjaElDWlc0b0FBUAE",
+                    "topic_name": "Ben Leonard"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Committee Hears Halbrook’s Bill to Make Daylight Saving Time Permanent",
+                    "link": "https://www.decaturtribune.com/2025/04/29/committee-hears-halbrooks-bill-to-make-daylight-saving-time-permanent/",
+                    "photo_url": "https://www.decaturtribune.com/wp-content/uploads/2023/07/Halbrook-Web-1.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVZMFU1VTFKQlExTkxRWEJMVFJDdEF4akxCU2dLTWdhMU5KaVFuUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T21:10:58.000Z",
+                    "authors": [],
+                    "source_url": "https://www.decaturtribune.com",
+                    "source_name": "Decatur Tribune",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.decaturtribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbVJsWTJGMGRYSjBjbWxpZFc1bExtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Bills on fisheries, weather, pipelines up for markup this week",
+                    "link": "https://www.eenews.net/articles/bills-on-fisheries-weather-pipelines-up-for-markup-this-week/",
+                    "photo_url": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/600/quality/100/?url=https://static.politico.com/45/d7/430e7d7f4ae493bbef22d6b6f3c6/u-s-congress-46679.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVaVmx4Vmxwck0yVklXVjg0VFJDUUF4allCQ2dLTWdZeFJKWnZvUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T10:39:00.000Z",
+                    "authors": [
+                        "Amelia Davidson"
+                    ],
+                    "source_url": "https://www.eenews.net",
+                    "source_name": "E&E News by POLITICO",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eenews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbVZsYm1WM2N5NXVaWFFvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzYURKdE5ua3paaElDWlc0b0FBUAE",
+                            "topic_name": "Amelia Davidson"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump says he now wants daylight saving time to be permanent. The president of Save Standard Time thinks the ‘MAHA’ movement can help push back",
+                    "link": "https://www.yahoo.com/news/trump-says-now-wants-daylight-095300826.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/tAR1.UDZH7l4LgWRBp3caA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/fortune_175/999f2c47b7bf03f3d8b8e7754285e5c5",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNUMDlhYmtoTFVIQnBNbWN6VFJERUF4aW1CU2dLTWdheE5KNlBHUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-23T09:53:00.000Z",
+                    "authors": [
+                        "Greg Mckenna"
+                    ],
+                    "source_url": "https://www.yahoo.com",
+                    "source_name": "Yahoo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGxoYUc5dkxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YXpscWR6WTNkaElDWlc0b0FBUAE",
+                            "topic_name": "Greg Mckenna"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pUN2ZqZ0RSRmprVEt4ZENydWtDZ0FQAQ"
+        },
+        {
+            "title": "Elway's business partner dies from fall injuries",
+            "link": "https://www.espn.com/nfl/story/_/id/44936924/john-elway-business-partner-ex-agent-dies-fall-injuries",
+            "snippet": "Jeff Sperbeck, the longtime friend, business partner and former agent of John Elway, died Wednesday from injuries suffered when he fell off ...",
+            "photo_url": "https://a.espncdn.com/photo/2022/0203/r969543_1296x729_16-9.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFibTVQY0hjdFJHdEtkSFY0VFJDb0FSaXNBaWdCTWdhbFVwYnRvUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T18:21:00.000Z",
+            "authors": [],
+            "source_url": "https://www.espn.com",
+            "source_name": "ESPN",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1Z6Y0c0dVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "John Elway Driving Golf Cart When His Friend and Agent Had Tragic Fall",
+                    "link": "https://www.tmz.com/2025/04/29/john-elway-on-golf-cart-when-jeff-sperbeck-fell/",
+                    "photo_url": "https://imagez.tmz.com/image/9e/4by3/2025/04/29/9ec0103123464759a12dea56fff1cbc5_xl.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDRhblJJZDBkNFZIaFlNR1F4VFJEZ0F4aUFCU2dLTWdtTllwU0dxcWRNQ3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T22:49:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.tmz.com",
+                    "source_name": "TMZ",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tmz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM1J0ZWk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "John Elway's agent dead after golf cart crash where Broncos legend was reportedly driving",
+                    "link": "https://www.foxnews.com/sports/john-elways-agent-dead-after-golf-cart-crash-where-broncos-legend-reportedly-driving",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/1200/675/John-Elway-Broncos.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1lR0oyY1VKd1RDMDBOR2RsVFJDZkF4ampCU2dLTWdZZFpvNEtLZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:52:00.000Z",
+                    "authors": [
+                        "Scott Thompson"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1Ob1puRnFYeElDWlc0b0FBUAE",
+                            "topic_name": "Scott Thompson"
+                        }
+                    ]
+                },
+                {
+                    "title": "John Elway’s longtime agent, Jeff Sperbeck, dead at 62 after golf cart tragedy",
+                    "link": "https://nypost.com/2025/04/30/sports/john-elways-agent-jeff-sperbeck-dead-at-62-after-golf-cart-tragedy/",
+                    "photo_url": "https://nypost.com/wp-content/uploads/sites/2/2025/04/newspress-collage-u5x1o2fxd-1746040557441.jpg?quality=75&strip=all&1746026174",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBOemRtWDJneFREY3dTRkJUVFJERUF4aW1CU2dLTWdhQk1KeTJvQWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:02:00.000Z",
+                    "authors": [
+                        "Dylan Svoboda"
+                    ],
+                    "source_url": "https://nypost.com",
+                    "source_name": "New York Post",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTU1Y0c5emRDNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5RM1p6TjVlaElDWlc0b0FBUAE",
+                            "topic_name": "Dylan Svoboda"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lvbk5UaERSRTJqZGttOXJZN2hTZ0FQAQ"
+        },
+        {
+            "title": "Trump Claims China Will 'Eat' His Tariffs. Economists Think Otherwise.",
+            "link": "https://www.huffpost.com/entry/trump-china-tariffs_n_6811e436e4b017983e24c727",
+            "snippet": "President Donald Trump on Tuesday doubled down on his trade war with China, claiming that Beijing “probably will eat” the tariffs. In an ...",
+            "photo_url": "https://img.huffingtonpost.com/asset/6811ec481500001500c3ca0c.png?cache=z0AKhnQyXz&ops=1778_1000",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdlR013VjJrd1VESldhMU5IVFJDZkF4ampCU2dLTWdZcFJZeXVwUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T11:34:37.000Z",
+            "authors": [
+                "Marita Vlachou"
+            ],
+            "source_url": "https://www.huffpost.com",
+            "source_name": "HuffPost",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.huffpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2gxWm1ad2IzTjBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTVhRNFkzbzFNUklDWlc0b0FBUAE",
+                    "topic_name": "Marita Vlachou"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Trump's interview on ABC turns fiery when discussing approach to tariffs, deportations",
+                    "link": "https://www.foxnews.com/media/trumps-interview-abc-turns-fiery-when-discussing-approach-tariffs-deportations",
+                    "photo_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/1200/675/be084c16-donald-trump.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlaVkp6V1dGa09VUm1VbkZFVFJDZkF4ampCU2dLTWdhcFlwVHRwUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T07:31:00.000Z",
+                    "authors": [
+                        "Christina Shaw"
+                    ],
+                    "source_url": "https://www.foxnews.com",
+                    "source_name": "Fox News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2ZUc1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVcxak1tSTRNQklDWlc0b0FBUAE",
+                            "topic_name": "Christina Shaw"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump, who promised Day 1 relief, talks of a 'transition period'",
+                    "link": "https://www.nbcnews.com/politics/donald-trump/trump-promised-day-1-relief-talks-transition-period-rcna203632",
+                    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-04/250429-donald-trump-abcnews-interview-ac-814p-6077db.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDFURzVOUWxSVmFHaFJWMXB0VFJERUF4aW1CU2dLTWdrQkVaakVrcWt0cFFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:55:00.000Z",
+                    "authors": [
+                        "Henry J. Gomez"
+                    ],
+                    "source_url": "https://www.nbcnews.com",
+                    "source_name": "NBC News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TmpkalgzUjVZeElDWlc0b0FBUAE",
+                            "topic_name": "Henry J. Gomez"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump Predicts China Would ‘Eat’ Tariffs, Lessening US Impact",
+                    "link": "https://www.bloomberg.com/news/articles/2025-04-29/trump-predicts-china-to-eat-tariffs-reducing-consumer-impact",
+                    "photo_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izmFL22NQ6us/v1/-1x-1.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1SbVE1TTI5NUxVSm5XR0ZOVFJERUF4aW1CU2dLTWdheEE1SlFGUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T00:11:00.000Z",
+                    "authors": [
+                        "Hadriana Lowenkron"
+                    ],
+                    "source_url": "https://www.bloomberg.com",
+                    "source_name": "Bloomberg",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0pzYjI5dFltVnlaeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKblozcG9OeElDWlc0b0FBUAE",
+                            "topic_name": "Hadriana Lowenkron"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lOek5UUURSSC1reEFqbjhuczZpZ0FQAQ"
+        },
+        {
+            "title": "Jets QB Jordan Travis Will Retire",
+            "link": "https://www.newyorkjets.com/news/jordan-travis-retires-from-jets",
+            "snippet": "Quarterback Jordan Travis has informed the Jets of his intention to retire. A fifth-round pick (No. 171 overall) out of Florida State in 2023, ...",
+            "photo_url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/jets/yxfdqvendietwzi1ptee.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5SekpQVUZkWVgxOHpTMVl6VFJDb0FSaXNBaWdCTWdZbEZvVHRsUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T18:08:33.000Z",
+            "authors": [],
+            "source_url": "https://www.newyorkjets.com",
+            "source_name": "New York Jets",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.newyorkjets.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMjVsZDNsdmNtdHFaWFJ6TG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Jets QB Travis retiring due to '23 FSU leg injury",
+                    "link": "https://www.espn.com/nfl/story/_/id/44936928/jets-qb-jordan-travis-retiring-due-23-injury-fsu",
+                    "photo_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0430%2Fr1486183_1296x729_16%2D9.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhURmxJTld0M1gwTnVWMVZIVFJDb0FSaXNBaWdCTWdheFZKU1BLUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:50:00.000Z",
+                    "authors": [
+                        "Rich Cimini"
+                    ],
+                    "source_url": "https://www.espn.com",
+                    "source_name": "ESPN",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1Z6Y0c0dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTNGcmRuQnFaQklDWlc0b0FBUAE",
+                            "topic_name": "Rich Cimini"
+                        }
+                    ]
+                },
+                {
+                    "title": "Former Florida State star, Jets QB Jordan Travis retires from NFL at 24 due to medical advice over leg injury from FSU",
+                    "link": "https://sports.yahoo.com/college-football/article/former-florida-state-star-jets-qb-jordan-travis-retires-from-nfl-at-24-due-to-medical-advice-over-leg-injury-from-fsu-191402835.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/DocSlM1o.l6IU2G.4CXc_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2025-04/8d562160-25f6-11f0-be1c-b8520d772836",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXpaVUozTVdKYU4zaFBiWGx3VFJDckF4aUFCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:14:02.000Z",
+                    "authors": [
+                        "Jason Owens"
+                    ],
+                    "source_url": "https://sports.yahoo.com",
+                    "source_name": "Yahoo Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sports.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSE53YjNKMGN5NTVZV2h2Ynk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Y0Rkc2RteG9NaElDWlc0b0FBUAE",
+                            "topic_name": "Jason Owens"
+                        }
+                    ]
+                },
+                {
+                    "title": "Jets QB Jordan Travis retires due to leg injury: 'I gave everything I had'",
+                    "link": "https://www.usatoday.com/story/sports/nfl/2025/04/30/jordan-travis-retires-jets-leg-injury/83370446007/",
+                    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/30/USAT/83370568007-usatsi-22658114.jpg?crop=5056,2844,x0,y263&width=660&height=371&format=pjpg&auto=webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUpRbVZNVjFsRmJWSlRWblZVVFJEekFoaVVCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:35:42.000Z",
+                    "authors": [
+                        "Jacob Camenker"
+                    ],
+                    "source_url": "https://www.usatoday.com",
+                    "source_name": "USA Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oMGR6RmtNaElDWlc0b0FBUAE",
+                            "topic_name": "Jacob Camenker"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p6eHRYakRSR21FNXA2Rmpaa1JpZ0FQAQ"
+        },
+        {
+            "title": "Travis Kelce rips anonymous scouts in profanity-laced tirade after Shedeur Sanders’ NFL draft slip",
+            "link": "https://nypost.com/2025/04/30/sports/travis-kelce-rips-anonymous-scouts-after-shedeur-sanders-nfl-draft-slip/",
+            "snippet": "Travis Kelce knows what it's like to be Shedeur Sanders during the NFL draft, sliding down the board due to alleged character concerns.",
+            "photo_url": "https://nypost.com/wp-content/uploads/sites/2/2025/04/newspress-collage-oy8xm4obq-1746024520885.jpg?quality=75&strip=all&1746010225&w=1024",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZiRTFrZHpSSVpGbENaM3BXVFJERUF4aW5CU2dLTWdrQlVZaTJzT2JJU2dJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T16:26:00.000Z",
+            "authors": [
+                "Matt Ehalt"
+            ],
+            "source_url": "https://nypost.com",
+            "source_name": "New York Post",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTU1Y0c5emRDNWpiMjBvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWDNoeU5XZGpjaElDWlc0b0FBUAE",
+                    "topic_name": "Matt Ehalt"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Shedeur Sanders now has top-selling jersey of 2025 rookie class",
+                    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-now-has-top-selling-jersey-of-2025-rookie-class",
+                    "photo_url": "https://nbcsports.brightspotcdn.com/dims4/default/44d0fa0/2147483647/strip/true/crop/5347x3008+0+204/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2F79%2F3c94a8374e45ae65fb0c94b437e8%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26023164",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9SbXBsVVdSQk1UY3pPV3RWVFJDb0FSaXNBaWdCTWdZUlVwTEhKUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:11:47.000Z",
+                    "authors": [
+                        "Mike Florio"
+                    ],
+                    "source_url": "https://www.nbcsports.com",
+                    "source_name": "NBC Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcsports.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVzVpWTNOd2IzSjBjeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNSGszYzNab2JCSUNaVzRvQUFQAQ",
+                            "topic_name": "Mike Florio"
+                        }
+                    ]
+                },
+                {
+                    "title": "What went wrong: How Shedeur Sanders' descent actually happened pre-draft",
+                    "link": "https://www.foxsports.com/stories/nfl/inside-browns-qb-shedeur-sanders-nfl-draft-slide",
+                    "photo_url": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/04/1280/1280/96d6f6ef-shedeur-sanders-16x9-1.jpg?ve=1&tl=1",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVZOekZqYzI1cWVXNHdhbkIwVFJDcUJCaXFCQ2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:48:57.000Z",
+                    "authors": [
+                        "Henry Mckenna"
+                    ],
+                    "source_url": "https://www.foxsports.com",
+                    "source_name": "FOX Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxsports.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1p2ZUhOd2IzSjBjeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTNBNWNYcDRkQklDWlc0b0FBUAE",
+                            "topic_name": "Henry Mckenna"
+                        }
+                    ]
+                },
+                {
+                    "title": "Cris Carter unloads on Shedeur Sanders for ‘$50 million’ NFL draft mistake",
+                    "link": "https://sports.yahoo.com/article/cris-carter-unloads-shedeur-sanders-223539866.html",
+                    "photo_url": "https://s.yimg.com/ny/api/res/1.2/TX0AsXxNlBo76Zkkeg6fLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNztjZj13ZWJw/https://media.zenfs.com/en/ny_post_sports_articles_389/db12ceda67bae26b9e048a2846a4a28c",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDVkVXBZU0ZkWGRUQlZaMVZIVFJDckF4aUFCU2dLTWdtUklaNkhscW8xcGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T22:35:39.000Z",
+                    "authors": [
+                        "Camden Markel"
+                    ],
+                    "source_url": "https://sports.yahoo.com",
+                    "source_name": "Yahoo Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sports.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSE53YjNKMGN5NTVZV2h2Ynk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyTkhJMGMzUXpPQklDWlc0b0FBUAE",
+                            "topic_name": "Camden Markel"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pmenBiYkRSR3Fva2hpMDdMTXR5Z0FQAQ"
+        },
+        {
+            "title": "Private eye accused of hacking American climate activists loses U.K. extradition fight",
+            "link": "https://www.npr.org/2025/04/30/nx-s1-5382176/climate-change-hacking-investigation",
+            "snippet": "Climate and environmental activists who were targeted by hackers say the attacks were intended to silence critics of the fossil fuel industry.",
+            "photo_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2F01%2F5c92a39c4ea7abaa8d5521191d95%2Fap25024560475298.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXliMFJmWVVReVVGcG9ZMHhqVFJERUF4aW1CU2dLTWdhTkFveXNtUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T14:03:49.000Z",
+            "authors": [
+                "Michael Copley"
+            ],
+            "source_url": "https://www.npr.org",
+            "source_name": "NPR",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMjV3Y2k1dmNtY29BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WTJoNWNqUTFlaElDWlc0b0FBUAE",
+                    "topic_name": "Michael Copley"
+                }
+            ]
+        },
+        {
+            "title": "Elizabeth Warren asks Jeff Bezos if he got any favors for his ‘subservience’ to Trump",
+            "link": "https://www.theverge.com/news/658829/elizabeth-warren-jeff-bezos-amazon-trump-tariffs",
+            "snippet": "Senator Elizabeth Warren (D-MA) wants to know whether Amazon founder Jeff Bezos received any “promises or favors” from President Donald ...",
+            "photo_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951506/VRG_Illo_STK173_L_Normand_JeffBezos_Positive2.jpg?quality=90&strip=all&crop=0,0,100,100",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBWbFoyTmpaUVFtRTVhV1p3VFJERUF4aW1CU2dLTWdZaFJacnJJUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:00:00.000Z",
+            "authors": [
+                "Emma Roth"
+            ],
+            "source_url": "https://www.theverge.com",
+            "source_name": "The Verge",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWlhabGNtZGxMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTm00M1lteG9iQklDWlc0b0FBUAE",
+                    "topic_name": "Emma Roth"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Trump-Bezos call sets stage for tense earnings report from Amazon",
+                    "link": "https://www.cnbc.com/2025/04/30/trump-bezos-call-sets-stage-for-tense-earnings-report-from-amazon.html",
+                    "photo_url": "https://image.cnbcfm.com/api/v1/image/108127180-1743885824387-gettyimages-2194358551-TRUMP_INAUGURATION_2025.jpeg?v=1745963683&w=1600&h=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW1iVEpQY0dRelIzWXlUMVJpVFJDZkF4ampCU2dLTWdtQklKaEFueWx5Q3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:00:05.000Z",
+                    "authors": [
+                        "Annie Palmer"
+                    ],
+                    "source_url": "https://www.cnbc.com",
+                    "source_name": "CNBC",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OdGFIUjNOQklDWlc0b0FBUAE",
+                            "topic_name": "Annie Palmer"
+                        }
+                    ]
+                },
+                {
+                    "title": "Trump-Amazon spat: What happened and how much US consumers import online",
+                    "link": "https://www.aljazeera.com/news/2025/4/30/trump-amazon-spat-what-happened-and-how-much-us-consumers-import-online",
+                    "photo_url": "https://www.aljazeera.com/wp-content/uploads/2025/04/2017-12-29T161510Z_2013662258_RC1888EA8FC0_RTRMADP_3_USA-TRUMP-AMAZON-COM-1746012825.jpg?resize=1920%2C1440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVVORTVYT0Y5NlNVUTVabkppVFJEZ0F4aUFCU2dLTWdrSklxRDFHR3F4aGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T14:56:49.000Z",
+                    "authors": [],
+                    "source_url": "https://www.aljazeera.com",
+                    "source_name": "Al Jazeera",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0ZzYW1GNlpXVnlZUzVqYjIwb0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Amazon Should List the Cost of Tariffs as Part of the Price",
+                    "link": "https://www.bloomberg.com/opinion/articles/2025-04-29/amazon-plan-to-list-tariff-costs-was-the-right-one",
+                    "photo_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDeWZwSu4Z.0/v1/-1x-1.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUxjMjAyV1cxMlFsVnhObTk0VFJESUF4aWdCU2dLTWdrQkFJeG9HU2JBRVFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T18:30:21.000Z",
+                    "authors": [
+                        "Allison Schrager"
+                    ],
+                    "source_url": "https://www.bloomberg.com",
+                    "source_name": "Bloomberg",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0pzYjI5dFltVnlaeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwNGNHZG5iUklDWlc0b0FBUAE",
+                            "topic_name": "Allison Schrager"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pWcUtIaURSSDRhakM3NlItbjF5Z0FQAQ"
         }
-
-
-
-
-
 
 
 
