@@ -16,13 +16,24 @@ const ArticleSchema = new mongoose.Schema({
         type: String
     },
 
+    content: {
+        type: String
+    },
+
     photo_url: {
         type: String
     },
 
+    photo_data: {
+        type: Buffer
+    },
 
     thumbnail_url: {
         type: String
+    },
+
+    thumbnail_data: {
+        type: Buffer
     },
 
     published_datetime_utc: {
@@ -40,6 +51,11 @@ const ArticleSchema = new mongoose.Schema({
 
     bert_embedding: {
         type: [Number]
+    },
+
+    category: {
+        type: String,
+        default: "GENERAL"
     }
 
 })

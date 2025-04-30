@@ -46,9 +46,10 @@ router.post("/createuser",
                 })
 
                 const userData = {
-                    id: user.id
+                    user: {
+                        id: user.id
+                    }
                 }
-
                 const authToken = jwt.sign(userData, JWT_SECRET);
 
                 res.json({ authToken })
@@ -100,8 +101,10 @@ router.post('/login',
                     }
                 }
 
+                const success = true;
+
                 const authToken = jwt.sign(userData, JWT_SECRET);
-                res.json({ authToken })
+                res.json({ authToken, success })
 
             }
 
@@ -135,6 +138,59 @@ router.post('/getuser', fetchuser, async (req, res) => {
 }
 )
 
+
+
+
+
+
+
+
+// ROUTER 4 --->                update user bert-embeddings using : POST "/api/auth/updatepreferences"             Require Auth
+
+
+router.post('/updatepreferences', fetchuser, async (req, res) => {
+    const userId = req.user.id;
+
+    try {
+        const { id, bert_embedding } = req.body;
+        
+        console.log("Article received at backend : ", id);
+        console.log("Article received at backend : ", bert_embedding);
+
+        const user = await User.findById(userId).select('-password');
+
+        console.log(user);
+
+        if (!user.history.includes(id)) {
+            if (!user.bertEmbeddings || user.bertEmbeddings.length == 0) {
+                user.bertEmbeddings = bert_embedding;
+            }
+
+            else {
+                const historyCount = user.history.length;
+                const updatedEmbedding = user.bertEmbeddings.map((value, index) => {
+                    return (value * historyCount + bert_embedding[index]) / (historyCount + 1);
+                });
+
+                user.bertEmbeddings = updatedEmbedding;
+            }
+            user.history.push(id);
+
+            // console.log("User Embeddings : ", user.bertEmbeddings);
+            await user.save();
+
+            const freshUser = await User.findById(userId).select('bertEmbeddings');
+            console.log("Saved in DB : ", freshUser.bertEmbeddings);
+
+        }
+
+        res.json({ success: true });
+    }
+    catch (error) {
+        console.error(error);
+        res.status(500).json({ success: false });
+    }
+});
 
 
 

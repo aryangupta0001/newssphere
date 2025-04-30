@@ -9,6 +9,9 @@ const Home = () => {
   const context = useContext(articleContext);
   const { toggleLogin } = context;
 
+  // localStorage.clear("token");
+
+
   console.log("toggleLogin: ", toggleLogin);  // Check its value
 
 

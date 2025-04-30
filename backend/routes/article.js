@@ -1,61 +1,98 @@
 const express = require("express");
 const router = express.Router();
 const Articles = require("../models/Articles");
+const User = require("../models/User");
 const { validationResult, body } = require('express-validator');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const fetchuser = require("../middleware/fetchuser");
-const {getArticleEmbedding} = require('../bertUtiils');
+const { getArticleEmbedding } = require('../bertUtiils');
 
 const JWT_SECRET = "#365$36884";
 
-// ROUTE 1 --->             create a user using : POST "/api/auth/createuser"          Doesn't require auth.
+// ROUTE 1 --->             create a user using : POST "/api/auth/fetchuser"          Requires auth.
 
-router.get("/fetcharticles",
-    async (req, res) => {
-        try {
-            const articles = await fetchArticles();
+router.get("/fetcharticles", fetchuser, async (req, res) => {
+    const userId = req.user.id;
+    try {
+        const user = await User.findById(userId).select('-password');
 
-            // Step 1: Get all existing links from DB :-
+        const articles = [];
 
-            const existingLinks = new Set(
-                (await Articles.find({}, 'link')).map(a => a.link)
-            );
+        if (user.bertEmbeddings.length == 0) {
 
-            // Step 2: Process new articles only :-
+            const categories = ['WORLD', 'NATIONAL', 'BUSINESS', 'TECHNOLOGY', 'ENTERTAINMENT', 'SPORTS', 'SCIENCE', 'HEALTH'];
 
-            for (const article of articles) {
-                if (!existingLinks.has(article.link)) {
+            for (const category of categories) {
+                // const recentArticles = await Articles.find({ category: category }).select('-bert_embedding')
+                const recentArticles = await Articles.find({ category: category })
+                    .sort({ published_datetime_utc: -1 }) // sort by date descending
+                    .limit(5);
 
-                    const text = `${article.title} ${article.snippet || ''}`.trim(); // Combine title & snippet
+                // console.log(recentArticles);
 
-                    const embedding = await getArticleEmbedding(text);
-                    article.bert_embedding = embedding;
-                }
+                articles.push(...recentArticles);
             }
 
-            // console.log(articles);
+            // const recentArticles = await Articles.find({ category: 'GENERAL' }).select('-bert_embedding')
+            const recentArticles = await Articles.find({ category: 'GENERAL' })
+                .sort({ published_datetime_utc: -1 }) // sort by date descending
+                .limit(10);
 
-            await Articles.bulkWrite(
-                articles.map(article => ({
-                    updateOne: {
-                        filter: { link: article.link },
-                        update: { $setOnInsert: article },
-                        upsert: true
-                    }
-                }))
-            );
+            // console.log(recentArticles);
 
+            articles.push(...recentArticles);
 
-            res.send(articles);
         }
 
-        catch (error) {
-            console.error(error.message + "1");
-            res.status(500).send(error.message);
+        console.log(Object.keys(articles[0].toObject()));
+        // console.log(articles[0]);
+
+
+        for (let i = articles.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [articles[i], articles[j]] = [articles[j], articles[i]]; // Swap elements
         }
+
+
+        console.log("Articles sent to ArticleState : ", articles.length);
+
+        res.json(articles)
     }
+
+    catch (error) {
+        console.error(error.message + "1");
+        res.status(500).send(error.message);
+    }
+}
 )
+
+
+// ROUTE 2 ---> fetch images
+
+router.get('/fetchimage', async (req, res) => {
+    try {
+        const article = await Articles.findById(req.query.id);
+        if (!article || !article.photo_data) {
+            return res.status(404).send('Thumbnail not found');
+        }
+
+        res.set('Content-Type', 'image/jpeg'); // or image/png if needed
+
+
+        if (req.query.image === 'thumbnail')
+            res.send(article.thumbnail_data);
+
+        else if (req.query.image === 'photo')
+            res.send(article.photo_data);
+
+    }
+    catch (error) {
+        console.error(error);
+        res.status(500).send('Server Error');
+
+    }
+})
 
 
 module.exports = router

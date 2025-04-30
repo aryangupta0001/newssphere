@@ -25,47 +25,17 @@ const UserSchema = new mongoose.Schema({
         default: Date.now
     },
 
-    category: {
-        type: [
-            {
-                name: {
-                    type: String,
-                    required: true,
-                    enum: [
-                        "WORLD", "NATIONAL", "BUSINESS", "TECHNOLOGY",
-                        "ENTERTAINMENT", "SPORTS", "SCIENCE", "HEALTH", "GENERAL"
-                    ]
-                },
-
-                count: {
-                    type: Number,
-                    default: 1
-                }
-            }
-        ],
-        default: [
-            { name: "WORLD", count: 1 },
-            { name: "NATIONAL", count: 1 },
-            { name: "BUSINESS", count: 1 },
-            { name: "TECHNOLOGY", count: 1 },
-            { name: "ENTERTAINMENT", count: 1 },
-            { name: "SPORTS", count: 1 },
-            { name: "SCIENCE", count: 1 },
-            { name: "HEALTH", count: 1 },
-            { name: "GENERAL", count: 1 }
-        ]
-    },
-
-    totalCategoryCount: {
-        type: Number,
-        default: 9
+    bertEmbeddings: {
+        type: [Number],
+        // default: []
     },
 
 
-    history : {
-        
-    }
-})
+    history: [{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Article',
+    }]
+});
 
 const User = mongoose.model('user', UserSchema);
 module.exports = User;

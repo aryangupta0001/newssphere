@@ -5,12 +5,12 @@ import './Login.css'
 
 
 const Login = () => {
-    const HOST = "http://127.0.0.1:5173";
+    const HOST = "http://127.0.0.1:5000";
 
     const [credentials, setCred] = useState({ email: "", password: "" });
 
     const context = useContext(articleContext);
-    const { setToggleLogin, userAuth } = context;
+    const { setToggleLogin, userAuth, showAlert } = context;
 
 
     const handleOnSubmit = async (e) => {
@@ -20,6 +20,9 @@ const Login = () => {
         setCred({ email: "", password: "" });
 
         try {
+
+            console.log(email, password);
+            
             const response = await fetch(`${HOST}/api/auth/login`, {
 
                 method: "POST",
@@ -31,9 +34,9 @@ const Login = () => {
             });
 
             const json = await response.json();
-
+            console.log(json);
             if (json.success) {
-                localStorage.setItem("token", json.jwtToken);
+                localStorage.setItem("token", json.authToken);
                 userAuth();
                 showAlert({ type: "User", operation: "Login" });
             }
