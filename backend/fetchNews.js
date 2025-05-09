@@ -1,107 +1,113 @@
 const Articles = require('./models/Articles');
-const { getArticleEmbedding } = require('./bertUtiils');
+const { fetchBertEmbeddings } = require('./utils/fetchBertEmbeddings');
 const { api_response } = require('./api_repsonse_demo');
 const cheerio = require('cheerio');
+const { handleSearchedArticles } = require('./handleSearchedArticles');
+const { fetchImage } = require('./utils/fetchImage');
 
 
-async function fetchNews() {
-    try {
+async function fetchNews(search) {
+    // async function fetchNews() {
+    // try {
 
-        // Fetch News Articles from API :-
-        const articles = await fetchArticles();
+    let articles;
 
-        if (articles == "API Expired") {
-            console.log(articles[0]);
-            return;
+    articles = await fetchArticles(search);
+
+    if (articles == "API Expired") {
+        console.log(articles[0]);
+        return;
+    }
+
+
+    console.log("No. of articles in API Res : ", articles.length);
+
+    if (search.type == 'search') {
+        const objectId = await handleSearchedArticles(articles);
+        return objectId;
+
+    }
+
+    const uniqueArticles = new Set();
+    let dupli = 0;
+
+    for (const article of articles) {
+        if (uniqueArticles.has(article.link)) {
+            dupli++;
         }
+        uniqueArticles.add(article.link);
+    }
 
-
-        console.log("No. of articles in API Res : ", articles.length);
-
-
-
-        const uniqueArticles = new Set();
-        let dupli = 0;
-
-        for (const article of articles) {
-            if (uniqueArticles.has(article.link)) {
-                dupli++;
-            }
-            uniqueArticles.add(article.link);
-        }
-
-        console.log("No. of duplicate articles in API Response: ", dupli);
+    console.log("No. of duplicate articles in API Response: ", dupli);
 
 
 
 
 
-        // Step 1: Get all existing links from DB :-
+    // Step 1: Get all existing links from DB :-
 
-        const existingLinks = new Set(
-            (await Articles.find({}, 'link')).map(a => a.link)
-        );
-
-
-        // Step 2: Process new articles only :-
-
-        console.time("Emebdding generation time");
+    const existingLinks = new Set(
+        (await Articles.find({}, 'link')).map(a => a.link)
+    );
 
 
-        let i = 0;
-        let failedEmbeddings = 0;
+    // Step 2: Process new articles only :-
 
-        for (const article of articles) {
-            if (!existingLinks.has(article.link)) {
-                const text = `${article.title} ${article.snippet || ''}`.trim(); // Combine title & snippet
-
-                try {
+    // console.time("Emebdding generation time");
 
 
+    let i = 0;
+    let failedEmbeddings = 0;
 
-                    // Generate bert_embeddings for each article :-
-                    const embedding = await getArticleEmbedding(text);
+    for (const article of articles) {
+        if (!existingLinks.has(article.link)) {
+            const text = `${article.title} ${article.snippet || ''}`.trim(); // Combine title & snippet
 
-                    if (!embedding || !Array.isArray(embedding) || embedding.length !== 768) {
-                        console.warn(`Skipping due to invalid embedding: ${article.title}`);
-                        failedEmbeddings++;
-                        continue;
-                    }
+            try {
 
-                    article.bert_embedding = embedding;
+                // Fetch Photo & Thumbnail :-
+                article.photo_data = await fetchImage(article.photo_url);
 
 
 
-                    // Fetch Photo & Thumbnail :-
-                    article.photo_data = await downloadAndConvertImage(article.photo_url);
-                    // article.thumbnail_data = await downloadAndConvertImage(article.thumbnail_url);
 
+                // Generate bert_embeddings for each article :-
+                const embedding = await fetchBertEmbeddings(text);
 
-
-                    // Scrape Article Content :-
-                    // article.content = await scrapeArticle(article.link);
-
-
-                    i += 1;
-                }
-                catch (e) {
+                if (!embedding || !Array.isArray(embedding) || embedding.length !== 768) {
+                    console.warn(`Skipping due to invalid embedding: ${article.title}`);
                     failedEmbeddings++;
-                    console.error(`Embedding error for article '${article.title}':`, err.message);
+                    continue;
                 }
-                console.log("Articles processed : ", i);
-                console.log("Failed to embed:", failedEmbeddings);
 
+                article.bert_embedding = embedding;
+
+
+
+                // Scrape Article Content :-
+                // article.content = await scrapeArticle(article.link);
+
+
+                i += 1;
+            }
+            catch (e) {
+                failedEmbeddings++;
+                console.error(`Embedding error for article '${article.title}':`, err.message);
             }
 
-            else {
-                console.log(article.link);
-            }
+            console.log("Articles processed : ", i);
+            console.log("Failed to embed:", failedEmbeddings);
+
         }
 
-        console.log("New Articles fetched : ", i);
+        else {
+            // console.log(article.link);
+        }
+    }
 
+    console.log("New Articles fetched : ", i);
 
-
+    if (search.type == 'fetch')
         await Articles.bulkWrite(
             articles.map(article => ({
                 updateOne: {
@@ -112,92 +118,137 @@ async function fetchNews() {
             }))
         );
 
-        console.timeEnd("Emebdding generation time");
+    // console.timeEnd("Emebdding generation time");
 
 
 
-        // syncArticlesToDB(articles);
+    if (search.type == 'search') {
+        const urls = articles.map(article => article.url);
+
+        // Step 1: Find existing articles
+        const existingArticles = await Articles.find({ url: { $in: urls } });
+        const existingMap = new Map();
+        existingArticles.forEach(article => existingMap.set(article.url, article._id));
+
+        // Step 2: Separate new articles
+        const newArticles = articles.filter(article => !existingMap.has(article.url));
+
+        // Step 3: Insert new ones and map their _ids
+        if (newArticles.length > 0) {
+            const insertedDocs = await Article.insertMany(newArticles);
+            insertedDocs.forEach(article => existingMap.set(article.url, article._id));
+        }
+
+        // Step 4: Return _ids in the original order
+        const finalIds = articles.map(article => existingMap.get(article.url));
+
+        // console.log(finalIds); // array of ObjectIds in same order as articles
+        return finalIds;
 
 
     }
 
-    catch (error) {
-        console.error("Inside fetchNews.js :\n", error.message);
-    }
+
+
+    // syncArticlesToDB(articles);
+
+
+    // }
+
+    // catch (error) {
+    //     console.error("Inside fetchNews.js :\n", error.message);
+    // }
 
 
 
 }
 
 
-async function fetchArticles() {
+async function fetchArticles(search) {
 
     // To fetch Articles from API :-
-    /*
-    
-        const categories = ['WORLD', 'NATIONAL', 'BUSINESS', 'TECHNOLOGY', 'ENTERTAINMENT', 'SPORTS', 'SCIENCE', 'HEALTH']
-    
-        const urlGeneral = 'https://real-time-news-data.p.rapidapi.com/top-headlines?limit=500&country=IN&lang=en';
-    
-        const options = {
-            method: 'GET',
-            headers: {
-                'x-rapidapi-key': '1fb97fae2fmshd5799e01f4fff11p13d4bbjsnadf24e426e9f',
-                'x-rapidapi-host': 'real-time-news-data.p.rapidapi.com'
-            }
-        };
-    
-        try {
-            let articles = [];
-    
-            const response = await fetch(urlGeneral, options);
-            const result = await response.json();
-    
-            console.log("Keys in Response : ", Object.keys(result))
-            console.log("Length of Response : ", Object.keys(result).length)
-    
-            if (!result.data) {
-                console.log(result.message);
-                return ["API Expired"];
-            }
-    
-            articles.push(...result.data)
-    
+    // /*
+
+    // const categories = ['WORLD', 'NATIONAL', 'BUSINESS', 'TECHNOLOGY', 'ENTERTAINMENT', 'SPORTS', 'SCIENCE', 'HEALTH']
+    const categories = ['WORLD']
+
+    let url;
+
+
+
+    if (search.type == 'search') {
+        const encodedQuery = encodeURIComponent(search.query);
+        url = `https://real-time-news-data.p.rapidapi.com/search?query=${encodedQuery}&limit=500&time_published=anytime&country=IN&lang=en`;
+    }
+
+    else
+        url = 'https://real-time-news-data.p.rapidapi.com/top-headlines?limit=500&country=IN&lang=en';
+
+
+    const options = {
+        method: 'GET',
+        headers: {
+            'x-rapidapi-key': 'aa555d3625msh3242388e20b50dep158d6ejsn3343160cd9bc',
+            'x-rapidapi-host': 'real-time-news-data.p.rapidapi.com'
+        }
+    };
+
+
+    try {
+        let articles = [];
+
+        // Fetch Top Headlines :-                                             GENERAL CATEGORY
+        const response = await fetch(url, options);
+
+        const result = await response.json();
+
+        console.log("Keys in Response : ", Object.keys(result))
+        console.log("Length of Response : ", Object.keys(result).length)
+
+        if (!result.data) {
+            console.log("Hey", result.message);
+            return ["API Expired"];
+        }
+
+        articles.push(...result.data)
+
+        if (search.type == "fetch") {
             for (const category of categories) {
                 const response = await fetch(`https://real-time-news-data.p.rapidapi.com/topic-headlines?topic=${category}&limit=500&country=IN&lang=en`, options);
-    
+
                 const result = await response.json();
-    
+
                 console.log(`Keys in Response for ${category} : `, Object.keys(result))
                 console.log(`Length of Response for ${category} : `, result.data.length)
-    
+
                 if (!result.data) {
                     console.log(result.message);
                     return "API Expired";
                 }
-    
-    
+
+
                 const categorizedData = result.data.map(article => ({
                     ...article,
                     category
                 }));
-    
+
                 articles.push(...categorizedData);
             }
-    
-    
-    
-            const articleData = articles.map(({ title, link, snippet, photo_url, thumbnail_url, published_datetime_utc, authors, source_name, category }) => ({ title, link, snippet, photo_url, thumbnail_url, published_datetime_utc: new Date(published_datetime_utc), authors, source_name, category: category || 'GENERAL' }));
-    
-            console.log("No. of articles fetched : ", articleData.length, "@");
-    
-            return articleData;
-    
-        } catch (error) {
-            console.error("Error in fetching articles from api : \n", error);
         }
-    
-    */
+
+        const articleData = articles.map(({ title, link, snippet, photo_url, thumbnail_url, published_datetime_utc, authors, source_name, category }) => ({ title, link, snippet, photo_url, thumbnail_url, published_datetime_utc: new Date(published_datetime_utc), authors, source_name, category: category || 'GENERAL' }));
+
+        console.log("No. of articles fetched : ", articleData.length, "@");
+
+        return articleData;
+
+    } catch (error) {
+        console.error("Error in fetching articles from api : \n", error);
+    }
+
+    // */
+
+    /*
 
     try {
         const result = api_response;
@@ -216,23 +267,13 @@ async function fetchArticles() {
 
     }
 
+    */
+
 
 }
 
 
-const downloadAndConvertImage = async (imageUrl) => {
-    try {
-        const response = await fetch(imageUrl);
-        if (!response.ok) throw new Error(`Failed to fetch image from ${imageUrl}`);
 
-        const arrayBuffer = await response.arrayBuffer();
-        const buffer = Buffer.from(arrayBuffer);
-        return buffer; // You can also return base64 if needed
-    } catch (err) {
-        console.error("Image download error:", err.message);
-        return null;
-    }
-}
 
 
 const scrapeArticle = async (articleLink) => {
@@ -257,56 +298,16 @@ const scrapeArticle = async (articleLink) => {
         let articleContent = topParagraphs.join('\n\n');
 
         // res.json({ content: articleContent.trim() });
-        return(articleContent.trim());
+        return (articleContent.trim());
 
 
     } catch (error) {
         console.error(error.message);
         // res.status(500).json({ error: 'Failed to scrape article' });
-        return("Failed to scrape article");
+        return ("Failed to scrape article");
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

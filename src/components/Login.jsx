@@ -22,7 +22,7 @@ const Login = () => {
         try {
 
             console.log(email, password);
-            
+
             const response = await fetch(`${HOST}/api/auth/login`, {
 
                 method: "POST",
@@ -60,7 +60,7 @@ const Login = () => {
         <>
             <div className="w-50 m-auto">
                 <h1 className="mt-5 fw-bold fs-1 mb-0"><center>Welcome To NewsSphere</center></h1>
-                <div className='container my-5 m-auto' >
+                <div className='container my-5 m-auto p-0'>
                     <form onSubmit={handleOnSubmit}>
                         <div className='py-5 m-auto' style={{ width: "50%", boxShadow: "0 10px 24px hsla(0,0%,0%,0.05), 0 20px 48px hsla(0, 0%, 0%, 0.05), 0 1px 4px hsla(0, 0%, 0%, 0.1)" }}  >
                             <div className="m-auto" style={{ width: "83%" }}>

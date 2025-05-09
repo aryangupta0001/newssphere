@@ -154,8 +154,8 @@ router.post('/updatepreferences', fetchuser, async (req, res) => {
     try {
         const { id, bert_embedding } = req.body;
         
-        console.log("Article received at backend : ", id);
-        console.log("Article received at backend : ", bert_embedding);
+        // console.log("Article received at backend : ", id);
+        // console.log("Article received at backend : ", bert_embedding);
 
         const user = await User.findById(userId).select('-password');
 

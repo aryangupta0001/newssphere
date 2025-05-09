@@ -12,6 +12,8 @@ const ArticleState = (props) => {
     const [toggleLogin, setToggleLogin] = useState(true);
     const [alertObj, setAlert] = useState(null);
     const [newsArticles, setNewsArticles] = useState([]);
+    const [news, setNews] = useState([]);
+    const [batch, setBatch] = useState(1);
 
 
 
@@ -58,25 +60,31 @@ const ArticleState = (props) => {
 
     // Fetch News for a user --->
 
-    const fetchNews = async () => {
+    const fetchNews = async (query) => {
 
         try {
-            const response = await fetch(`${HOST}/api/article/fetcharticles`, {
+
+            let url = `${HOST}/api/article/fetcharticles`;
+
+            if (!query.personalised && query.search.length > 0) {
+
+                const searchQuery = encodeURIComponent(query.search);
+                url += `?searchQuery=${searchQuery}`;
+
+            }
+
+            const response = await fetch(url, {
                 method: "GET",
                 headers: {
                     "Content-Type": "application/json",
-                    "auth-token": localStorage.getItem("token")
+                    'auth-token': localStorage.getItem('token')
                 }
             });
 
             const articles = await response.json();
 
             console.log("ArticleState > fetchNews\tType of Articles : ", typeof (articles));
-            console.log("ArticleState > fetchNews\t Articles is Array ? : ",Array.isArray(articles));
-
-
-            // console.log(articles);
-            // newsArticles.push(...articles);
+            console.log("ArticleState > fetchNews\t Articles is Array ? : ", Array.isArray(articles));
 
             setNewsArticles(articles);
 
@@ -86,6 +94,38 @@ const ArticleState = (props) => {
             console.log(error);
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     const articleClicked = async (article) => {
@@ -135,7 +175,7 @@ const ArticleState = (props) => {
 
 
     return (
-        <articleContext.Provider value={{ userAuth, setToggleLogin, showAlert, fetchNews, setNewsArticles, articleClicked, toggleLogin, alertObj, newsArticles }}>
+        <articleContext.Provider value={{ userAuth, setToggleLogin, showAlert, fetchNews, setNewsArticles, articleClicked, setNews, setBatch, news, batch, toggleLogin, alertObj, newsArticles }}>
             {props.children}
         </articleContext.Provider>
     )

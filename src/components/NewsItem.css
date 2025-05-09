@@ -1,12 +1,10 @@
 #news {
     box-sizing: border-box;
+    /* width: 100%; */
 
-    min-height: 45vh;
-    max-height: 45vh;
+    height: 45vh;
+    /* height: fit-content; */
     margin-bottom: 5px;
-    display: flex;
-
-
 }
 
 
@@ -18,66 +16,98 @@
     background-image: linear-gradient(to right, rgb(0, 162, 255), white);
 }
 
+.left {
+    justify-content: left;
+}
+
+.right {
+    justify-content: right;
+}
+
+.pad-5 {
+    padding: 5px;
+}
+
 #info {
-    min-height: 50%;
-    max-height: 50%;
-    width: 60%;
+    width: 58%;
 }
 
 #photo {
     width: 40%;
+    display: flex;
+    max-height: 100%;
+    height: 100%;
 }
 
 #title {
-    padding: 0 10px;
     text-align: justify;
-    margin-bottom: 15px;
-    /* background-image: linear-gradient(to right, rgb(117, 214, 255), white); */
     line-height: 1.6;
 }
 
 #publishedAt {
-    margin: 0 10px;
+    margin: 5px 0px;
     line-height: 1.6;
 }
 
 #snippet {
-    margin: 10px 10px;
+    margin: 10px 0px;
     text-align: justify;
     line-height: 1.32;
 }
 
 #link {
-    margin: 0 10px;
     margin-bottom: 5px;
+
+    word-break: break-all;
 }
 
 #photo {
     display: flex;
-    /* align-items: flex-start; */
     align-items: center;
     justify-content: center;
-    /* padding: 5px; */
 }
 
 #photo>img {
+    height: auto;
+    width: auto;
+    object-fit: contain;
     max-height: 90%;
     max-width: 90%;
 }
 
-#thumbnail {
-    min-width: 20%;
-    min-height: 100%;
-    display: flex;
-}
-
-#thumbnail img {
-    margin: 0px auto;
-    max-width: 90%;
-    max-height: 70%;
-
-}
-
 #main {
     display: flex;
+}
+
+
+
+
+.photo-wrapper {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+.blur-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(10px);
+    /* Safari */
+    background-color: rgba(255, 255, 255, 0.1);
+    /* optional overlay tint */
+    z-index: 0;
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+    color: white;
+    padding: 1rem;
 }

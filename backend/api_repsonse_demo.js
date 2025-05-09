@@ -19490,15 +19490,6802 @@ const api_response = {
                 }
             ],
             "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pWcUtIaURSSDRhakM3NlItbjF5Z0FQAQ"
+        },
+
+        {
+            "title": "US dials Jaishankar & Shehbaz Sharif, calls for de-escalation. ISI chief named Pakistan NSA",
+            "link": "https://theprint.in/diplomacy/us-dials-jaishankar-shehbaz-sharif-calls-for-de-escalation-isi-chief-named-pakistan-nsa/2610821/",
+            "snippet": "“He also encouraged India to work with Pakistan to de-escalate tensions and maintain peace and security in South Asia,” the spokesperson said.",
+            "photo_url": "https://static.theprint.in/wp-content/uploads/2025/05/untitled-2025-05-01T092144.641-696x392.jpg?compress=true&quality=80&w=376&dpr=2.6",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9MVmxsVUY5d2JIbG5hMWwwVFJDSUF4aTRCU2dLTWdZRlVaaUVKQWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T03:35:03.000Z",
+            "authors": [
+                "Snehesh Alex Philip"
+            ],
+            "source_url": "https://theprint.in",
+            "source_name": "ThePrint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWlhCeWFXNTBMbWx1S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WHpJeWNYWXhNQklDWlc0b0FBUAE",
+                    "topic_name": "Snehesh Alex Philip"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "’De-escalate tensions’: US Secretary of State Marco Rubio dials EAM Jaishankar, Pak PM Sharif | What he said",
+                    "link": "https://www.livemint.com/news/world/us-secy-of-state-rubio-eam-jaishankar-pakistan-pm-shehbaz-sharif-de-escalate-tensions-pahalgam-terrorist-attack-let-11746063562126.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/05/01/600x338/US-Secretary-of-State-Marco-Rubio-and-external-aff_1746063587044_1746063602330.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNXbnBLVlc1Q1JXRkdUVGt5VFJEUkFoallCQ2dLTWdhVkVxSW9HUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T01:50:41.000Z",
+                    "authors": [],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "U.S. urges India, Pakistan to ‘de-escalate’ tensions; Rubio talks to Pakistan PM Shehbaz Sharif, EAM Jaishankar",
+                    "link": "https://www.thehindu.com/news/national/us-urges-india-and-pakistan-to-de-escalate-marco-rubio-talks-to-pakistan-prime-minister-shehbaz-sharif/article69510825.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/5r4gyz/article69511666.ece/alternates/LANDSCAPE_1200/Trump_22086.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTBSbDloV25wT01HVldTV3hJVFJDZkF4ampCU2dLTWdrSkFaU21qcXN0NUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:03:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Snub To Ishaq Dar? Why Marco Rubio Ditched His Counterpart, Went Straight To Shehbaz Sharif- News18",
+                    "link": "https://www.news18.com/world/marco-rubio-did-not-speak-to-ishaq-dar-us-state-secy-spoke-to-shehbaz-sharif-india-pakistan-tensions-pahalgam-attack-9319862.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/05/MixCollage-01-May-2025-02-52-PM-8899-2025-05-758e2047b3f7dba4c326005793e69fe2.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUplSGN6Y0ZnM2Jsb3lTVTFRVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:26:05.000Z",
+                    "authors": [
+                        "Siddhant Mishra",
+                        "Vani Mehrotra"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVRWeGNEaGlaeElDWlc0b0FBUAE",
+                            "topic_name": "Siddhant Mishra"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1Nd2VXYzNjQklDWlc0b0FBUAE",
+                            "topic_name": "Vani Mehrotra"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ozb0xiYkRSRWl4eHVEUmtnbU1DZ0FQAQ"
+        },
+        {
+            "title": "Pahalgam terror attack LIVE: SC rejects plea seeking judicial probe into terror strike in J&K",
+            "link": "https://www.thehindu.com/news/national/pahalgam-terror-attack-jammu-and-kashmir-loc-tension-may-1-2025/article69512695.ece",
+            "snippet": "Pahalgam attack LIVE: India banned Pakistan airlines from using its airspace amid escalating tensions with the neighbouring country.",
+            "photo_url": "https://th-i.thgim.com/public/incoming/s8ii5a/article69513128.ece/alternates/LANDSCAPE_1200/12205_30_4_2025_14_33_28_3_13_PAHALGAM_TERROR_ATTACK_SGR_30_04_2025.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpWelJaUkVwblZsODFkMUEyVFJDZkF4ampCU2dLTWdZQllJaG13UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T07:25:06.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "\"You Want To Demoralise Forces?\" Supreme Court Raps Pahalgam Petitioner",
+                    "link": "https://www.ndtv.com/india-news/you-want-to-demoralise-forces-supreme-court-raps-pahalgam-petitioner-8302667",
+                    "photo_url": "https://c.ndtvimg.com/2025-05/4aqhoqio_pahalgam-attack_625x300_01_May_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUthbmxoVlU1ZmFFRTNjR2hPVFJDeUF4akNCU2dLTWdZUklJNEhHZ28=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T07:57:12.000Z",
+                    "authors": [
+                        "Nupur Dogra",
+                        "chandrashekar srinivasan"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzZHpsNWRtcHJiUklDWlc0b0FBUAE",
+                            "topic_name": "Nupur Dogra"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTVhRMU16VmlNaElDWlc0b0FBUAE",
+                            "topic_name": "chandrashekar srinivasan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pahalgam attackers likely hiding in south Kashmir, self-reliant, say NIA sources",
+                    "link": "https://www.indiatoday.in/india/story/terrorists-still-in-kashmir-nia-sources-say-they-are-self-reliant-carrying-food-2717891-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/security-personnel-conduct-a-cordon-and-search-operation-as-a-security-measure-after-the-recent-paha-300303787-16x9.jpg?VersionId=XdxpSwcn.ZD.FSFTtw9P93t8sr8msbAR&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlTVUk1YmxGSVMwUTFSV1ZTVFJDRUF4aXlCU2dLTWdhWlFKWUpvUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:35:11.000Z",
+                    "authors": [
+                        "Kamaljit Sandhu"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWDNoeWJuUTFiQklDWlc0b0FBUAE",
+                            "topic_name": "Kamaljit Sandhu"
+                        }
+                    ]
+                },
+                {
+                    "title": "'India's response will be massive, at time and place of its choosing': Ex-Army commander after Pahalgam",
+                    "link": "https://www.businesstoday.in/india/story/indias-response-will-be-massive-at-time-and-place-of-its-choosing-ex-army-commander-after-pahalgam-474074-2025-04-29",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/6810beb6907c8-former-15-corps-commander-lt-gen-kjs-dhillon-295736722-16x9.png?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVNMDQ0ZHpnd1kxUjFaWGhUVFJDZkF4ampCU2dLTWdhWkJvd3FLZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T11:58:21.000Z",
+                    "authors": [],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o3anFqYURSR0ZDanBUaHlaREVDZ0FQAQ"
+        },
+        {
+            "title": "Explained: Demands for a caste census, and what happens now after its approval",
+            "link": "https://indianexpress.com/article/explained/explained-politics/the-caste-census-9975706/",
+            "snippet": "The government has decided to hold a caste census along with the upcoming Census. Data collected by the Census will impact boundaries of ...",
+            "photo_url": "https://images.indianexpress.com/2025/05/Enumerators-collect-information-from-residents-for-the-Bihar-caste-survey-in-August-2023.-PTI-Archive-111.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDRhRlI0TkZnMlZHOTZlbVpYVFJDZkF4ampCU2dLTWdrTkFKeFhET3h4cGdJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T06:47:00.000Z",
+            "authors": [
+                "Shyamlal Yadav"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZrZUhGbWR6QmtaQklDWlc0b0FBUAE",
+                    "topic_name": "Shyamlal Yadav"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Caste Census : A Look Back At Supreme Court's 2021 Order Declining To Direct Disclosure Of 2011 SECC...",
+                    "link": "https://www.livelaw.in/top-stories/caste-census-a-look-back-at-supreme-courts-2021-order-declining-to-direct-disclosure-of-2011-secc-report-290941",
+                    "photo_url": "https://www.livelaw.in/h-upload/2024/10/28/1500x900_568405-supreme-court-of-india-sc-2.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZiV04xU0VoRk0wUjBYM2xyVFJDdEF4akxCU2dLTWdhVlJJRE5JUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:37:38.000Z",
+                    "authors": [],
+                    "source_url": "https://www.livelaw.in",
+                    "source_name": "Live Law",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbXhwZG1Wc1lYY3VhVzRvQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Throwback Thursday: When Rajiv Gandhi questioned Mandal report move amid Kashmir tension",
+                    "link": "https://timesofindia.indiatimes.com/india/thursday-throwback-when-rajiv-gandhi-questioned-mandal-report-move-amid-kashmir-tension/articleshow/120793107.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120793253,width-1280,height-720,resizemode-4/120793253.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpObVo0ZUhkb1luUTNXbk5xVFJDZkF4ampCU2dLTWdZdE5KQ3VIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:23:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Caste census: Stalled Mandal report to still-born SECC, BJP readies its case against Congress",
+                    "link": "https://indianexpress.com/article/political-pulse/caste-census-mandal-report-secc-bjp-case-against-congress-9976996/",
+                    "photo_url": "https://images.indianexpress.com/2025/05/narendra-modi.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXliRlp2U2pkMGQwSTJPVGR5VFJEb0FSaWVBeWdLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:39:37.000Z",
+                    "authors": [
+                        "Liz Mathew"
+                    ],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhKa2R6Qm5NeElDWlc0b0FBUAE",
+                            "topic_name": "Liz Mathew"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o4XzRUWkRSRWZwZTNVcjYyX0ZpZ0FQAQ"
+        },
+        {
+            "title": "Pahalgam: India explores Leh-Hindu Kush route to skip Pakistan's airspace",
+            "link": "https://www.firstpost.com/world/pahalgam-india-explores-leh-hindu-kush-route-to-skip-pakistans-airspace-13884526.html",
+            "snippet": "After Pakistan shut its airspace, Indian airliners like Air India and IndiGo were forced to alter multiple routes, leading to escalating fuel ...",
+            "photo_url": "https://images.firstpost.com/uploads/2025/04/Untitled-design-39-2025-04-63f271637114a68a865e8a13707dc9cf.jpg?im=FitAndFill=(1200,675)",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9kRmRIYjBaV1NHVk1TWE5uVFJDZkF4ampCU2dLTWdZSmdKWUh0Z2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T02:57:44.000Z",
+            "authors": [],
+            "source_url": "https://www.firstpost.com",
+            "source_name": "Firstpost",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1pwY25OMGNHOXpkQzVqYjIwb0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Pakistan partially closes Karachi, Lahore airspace till May 31 amid security concerns: Reports",
+                    "link": "https://timesofindia.indiatimes.com/india/pakistan-partially-closes-karachi-lahore-airspace-till-may-31-amid-security-concerns-reports/articleshow/120793664.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120793905,width-1280,height-720,resizemode-4/120793905.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBOamwzTVdkZllYSkhPV3g2VFJDb0FSaXNBaWdCTWdhSmtZYm1NZ2c=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:54:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pakistan’s aviation industry is so dead it doesn’t feel India’s airspace ban",
+                    "link": "https://www.indiatoday.in/world/story/pakistan-aviation-industry-impact-india-airspace-ban-pahalgam-terror-attack-2718073-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/pakistani-airline-011320365-16x9_0.jpg?VersionId=jw5bVcSCgw4EIVC6zVioF5rKiJG1Fr5j&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdSblEyYmtJeU16ZGFZV1kxVFJDRUF4aXlCU2dLTWdZSlVJSVFyUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:20:02.000Z",
+                    "authors": [
+                        "Bidisha Saha"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwYlhCNmNqWndlUklDWlc0b0FBUAE",
+                            "topic_name": "Bidisha Saha"
+                        }
+                    ]
+                },
+                {
+                    "title": "‘Longer routes, extra hours of flying’: Retired Air Marshall explains how India’s airspace closure will affect Pakistan",
+                    "link": "https://www.livemint.com/news/india/longer-routes-extra-hours-of-flying-retired-air-marshall-explains-how-indias-airspace-closure-will-affect-pakistan-11746090602122.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/05/01/600x338/plane_1746092325557_1746092325785.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUNPVEpCWjJ0alMwcFdkbXRFVFJEU0FoallCQ2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:57:00.000Z",
+                    "authors": [
+                        "Swastika Das",
+                        "Swastika Das Sharma"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNNeVp6Wm5aaElDWlc0b0FBUAE",
+                            "topic_name": "Swastika Das"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZDNKNmRqZHRaaElDWlc0b0FBUAE",
+                            "topic_name": "Swastika Das"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkdmQ3Y0RSRW40NEJ0cjBfRDN5Z0FQAQ"
+        },
+        {
+            "title": "Pak's Bilawal Bhutto defends his ‘blood in river’ remark after IWT suspension: ‘When there is war…’",
+            "link": "https://www.hindustantimes.com/india-news/paks-bilawal-bhutto-defends-his-blood-in-river-remark-after-iwt-suspension-when-there-is-war-pahalgam-attack-101746031445734.html",
+            "snippet": "His comments came after India suspended the Indus Waters Treaty on April 23, a day after a deadly terror attack in Pahalgam killed 26 people.",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/bilawal_bhutto_blood_in_river_1746032540057_1746032540336.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHphRkkyV1dKUFRuUlFiV2xCVFJDMUFoaWxCQ2dLTWdZMVJKUndvUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:36:48.000Z",
+            "authors": [
+                "Nirmitha Rao"
+            ],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTTNZeWFIRTRkeElDWlc0b0FBUAE",
+                    "topic_name": "Nirmitha Rao"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "'Overly generous, badly drafted': Ex-India envoy calls Indus suspension a Brahmastra, warns of 'terrible' pain for Pakistan",
+                    "link": "https://www.businesstoday.in/india/story/overly-generous-badly-drafted-ex-india-envoy-calls-indus-suspension-a-brahmastra-warns-of-terrible-pain-for-pakistan-474367-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202505/68134969d7363-india-has-suspended-indus-waters-treaty-011356123-16x9.jpg?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXljbkJ5YW05VGNGcE9aMnRTVFJDZkF4ampCU2dLTWdrQmxJcXZzU2Jna0FF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:14:36.000Z",
+                    "authors": [],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "The impact of suspending a water treaty",
+                    "link": "https://www.thehindu.com/opinion/op-ed/the-impact-of-suspending-a-water-treaty/article69510612.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/6vrq93/article69511745.ece/alternates/LANDSCAPE_1200/20250424189L.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtNblY2V25KbWJGaHhRWE5UVFJDZkF4ampCU2dLTWdZQjg0U296UUk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:35:00.000Z",
+                    "authors": [
+                        "Amit Ranjan",
+                        "Nabeela Siddiqui"
+                    ],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVd4cU0yczFlQklDWlc0b0FBUAE",
+                            "topic_name": "Amit Ranjan"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtY21wemRuUTRaeElDWlc0b0FBUAE",
+                            "topic_name": "Nabeela Siddiqui"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pakistan Minister's 2 Am Press Conference And A \"Military Action\" Claim",
+                    "link": "https://www.ndtv.com/india-news/india-intends-to-carry-out-military-action-in-36-hours-pakistan-minister-8291289",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/v59t2m3_attaullah-tarar_625x300_30_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdNV3MyUm0xdWFFeEZNblEwVFJDeUF4akNCU2dLTWdZcE1wNnVvUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T01:13:09.000Z",
+                    "authors": [
+                        "Srishti Kapoor"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NeGJqbHdjUklDWlc0b0FBUAE",
+                            "topic_name": "Srishti Kapoor"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWcmFuYkRSRi11akFvckUyMkJpZ0FQAQ"
+        },
+        {
+            "title": "Pahalgam Terror Attack LIVE: India retaliates to Pakistan Army's seventh consecutive LoC ceasefire violation",
+            "link": "https://www.wionews.com/india-news/pahalgam-terror-attack-live-updates-indian-army-pakistan-army-pm-modi-subrahmanyam-jaishankar-shehbaz-sharif-9020474",
+            "snippet": "Indian Army said that during the night of 30 April-01 May 2025, Pakistan Army posts initiated unprovoked small-arms fire across the Line of ...",
+            "photo_url": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/wion/media/media_files/2025/05/01/i1oeRHvW6brx4CnYJmWJ.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJaazU0UVdaQmRUQmtSRUZFVFJDZkF4ampCU2dLTWdZQllJYW5KZ2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T08:58:23.000Z",
+            "authors": [],
+            "source_url": "https://www.wionews.com",
+            "source_name": "Wion",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wionews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM2RwYjI1bGQzTXVZMjl0S0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Pakistan Violates Ceasefire Along LoC For 7th Consecutive Night",
+                    "link": "https://www.ndtv.com/india-news/india-pak-tensions-after-pahalgam-attack-pakistan-violates-ceasefire-along-loc-for-7th-consecutive-night-8300624",
+                    "photo_url": "https://c.ndtvimg.com/2022-08/o1je3tfk_india-pakistan-line-of-control-generic-loc-generic_625x300_23_August_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUlSSGwyT1VoalRUTnpSV0pDVFJDeUF4akNCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:27:00.000Z",
+                    "authors": [
+                        "Srishti Kapoor"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NeGJqbHdjUklDWlc0b0FBUAE",
+                            "topic_name": "Srishti Kapoor"
+                        }
+                    ]
+                },
+                {
+                    "title": "Border villagers on the edge",
+                    "link": "https://www.newindianexpress.com/nation/2025/May/01/border-villagers-on-the-edge",
+                    "photo_url": "https://media.assettype.com/newindianexpress/2025-04-30/2izjrxl8/villagers.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlRVUkzTFdob1YzaHZhVFJLVFJDMEF4aV9CU2dLTWdZQkVZejBsQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:35:45.000Z",
+                    "authors": [
+                        "Fayaz Wani"
+                    ],
+                    "source_url": "https://www.newindianexpress.com",
+                    "source_name": "The New Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGRzVsZDJsdVpHbGhibVY0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuYUhZd01qRjVPUklDWlc0b0FBUAE",
+                            "topic_name": "Fayaz Wani"
+                        }
+                    ]
+                },
+                {
+                    "title": "LoC heats up after Pahalgam attack: DGMOs hold hotline talks, Army warns Pakistan over ceasefire breach",
+                    "link": "https://indianexpress.com/article/india/pahalgam-terror-attack-dgmos-get-on-hotline-army-warns-pakistan-over-ceasefire-breach-9975745/",
+                    "photo_url": "https://images.indianexpress.com/2025/05/India-pakistan-border-1_20250423163307_20250425041105_20250428203142_20250430202842.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTVUM0pWZERGeFRqTlBhV0pQVFJEb0FSaWVBeWdLTWdtVlU0cFFJV2VEcmdF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T03:11:00.000Z",
+                    "authors": [
+                        "Bashaarat Masood",
+                        "Amrita Nayak Dutta"
+                    ],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSMGRHczBhaElDWlc0b0FBUAE",
+                            "topic_name": "Bashaarat Masood"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OME5XY3ljaElDWlc0b0FBUAE",
+                            "topic_name": "Amrita Nayak Dutta"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o5MHFIZERSRnM0Q2dUVHRicGx5Z0FQAQ"
+        },
+        {
+            "title": "How Hafiz Saeed Is Being Guarded By ISI: Ex SSG Commandos, Gesture Detection CCTV Cameras",
+            "link": "https://www.timesnownews.com/world/asia/pahalgam-terror-attack-how-lashkar-founder-hafiz-saeed-is-being-guarded-by-pakistan-isi-ex-ssg-commandos-gesture-detection-cctv-cameras-article-151540140",
+            "snippet": "Hafiz Saeed is in the so-called custody of Pakistan government, serving a 46-year jail sentence in multiple terror financing cases.",
+            "photo_url": "https://images.timesnownews.com/thumb/msid-151540159,thumbsize-20848,width-1280,height-720,resizemode-75/151540159.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJkV0pvVURCaUxWQjRTVXhPVFJDZkF4ampCU2dLTWdZNUE1WXlGUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T01:49:49.000Z",
+            "authors": [
+                "Arun Nair"
+            ],
+            "source_url": "https://www.timesnownews.com",
+            "source_name": "Times Now",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJwYldWemJtOTNibVYzY3k1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYzE5dWJtUmpOaElDWlc0b0FBUAE",
+                    "topic_name": "Arun Nair"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Fearing covert operation after Pahalgam attack, Pakistan steps up LeT chief Hafiz Saeed's security",
+                    "link": "https://timesofindia.indiatimes.com/india/fearing-covert-operation-pakistan-steps-up-let-chiefs-security/articleshow/120775130.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120775209,width-1280,height-720,resizemode-4/120775209.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZPV28wWm0wMGIxTnlWRTlQVFJDZkF4ampCU2dLTWdhbFpZenNNUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:56:00.000Z",
+                    "authors": [
+                        "Rajshekhar Jha"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6ZERVNU56WnRjeElDWlc0b0FBUAE",
+                            "topic_name": "Rajshekhar Jha"
+                        }
+                    ]
+                },
+                {
+                    "title": "Hafiz Saeed gets 4X security after J&K attack, Pak army deployed: Sources",
+                    "link": "https://www.indiatoday.in/world/story/pahalgam-terror-attack-pakistan-raises-hafiz-saeed-security-by-4-times-after-jk-attack-army-drones-deployed-2717836-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/hafiz-saeed-is-believed-to-be-the-mastermind-behind-the-pahalgam-terror-attack-011101145-16x9_0.jpg?VersionId=.u8ZYdLnKT6xqE2MzNv2ZGjevcIZPpsC&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxWbnBaYzBkTlNtcDRWazA0VFJDRUF4aXlCU2dLTWdZOU01Z3lIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:25:46.000Z",
+                    "authors": [
+                        "Arvind Ojha"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym0wemFqSjNlaElDWlc0b0FBUAE",
+                            "topic_name": "Arvind Ojha"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pakistan beefs up Hafiz Saeed's security amid tensions with India over Pahalgam terror attack",
+                    "link": "https://www.moneycontrol.com/world/pakistan-beefs-up-hafiz-saeed-s-security-amid-tensions-with-india-over-pahalgam-terror-attack-article-13009757.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2019/07/Hafiz-Saeed.jpg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRTR2gzY0V0RldXOWlMVEZsVFJDZkF4ampCU2dLTWdZOVE1Z1RJUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T03:50:47.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNdnBqakRSRXZ2S2FMa1lOb1dDZ0FQAQ"
+        },
+        {
+            "title": "Bizarre error sneaks into Bengal govt's Jagannath temple ad",
+            "link": "https://www.indiatoday.in/india/story/bizarre-error-sneaks-into-west-bengal-government-mamata-banerjee-digha-jagannath-temple-newspaper-ad-2717863-2025-05-01",
+            "snippet": "The West Bengal government's double-spread advertisement in newspapers for the Jagannath temple in Digha had a bizarre entry -- Female ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/the-pran-pratistha-consecration-ceremony-of-the-jagannathdham-temple-in-digha-took-place-on-april-010640579-16x9_0.jpg?VersionId=IfHniHSCkD9Ex810aQPYx4EyfXMZM4v4?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFZa2RzVVd4b2NHZDVla2QwVFJDZkF4ampCU2dLTWdrQndJVEYwaU1XOVFB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T06:07:55.000Z",
+            "authors": [
+                "Sushim Mukul"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WkhSM2VIZG9kQklDWlc0b0FBUAE",
+                    "topic_name": "Sushim Mukul"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "BJP leader Dilip Ghosh meets West Bengal CM Mamata at Digha Jagannath temple, draws party ire",
+                    "link": "https://www.thehindu.com/news/national/west-bengal/bjp-leader-dilip-ghosh-meets-west-bengal-cm-mamata-at-digha-jagannath-temple-draws-party-ire/article69511224.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/hqle84/article69511746.ece/alternates/LANDSCAPE_1200/20250430260L.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHlVVTlRWjJONmVsUmxWRmRzVFJDZkF4ampCU2dLTWdrUk1wejFGT3VwU0FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T21:12:00.000Z",
+                    "authors": [
+                        "Shiv Sahay Singh"
+                    ],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TlhJMVl6VjVOQklDWlc0b0FBUAE",
+                            "topic_name": "Shiv Sahay Singh"
+                        }
+                    ]
+                },
+                {
+                    "title": "As Mamata Banerjee opens Jagannath temple in Digha, political row erupts",
+                    "link": "https://www.hindustantimes.com/cities/kolkata-news/as-mamata-banerjee-opens-jagannath-temple-in-digha-political-row-erupts-101746096819911.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/Digha-Jagannath-Temple-illuminates-with-devotees-a_1746096816651.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxRMDUzU0c5YVowWlpVRXN6VFJDMUFoaW1CQ2dLTWdZQmdJSnlWQU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:53:39.000Z",
+                    "authors": [
+                        "Tanmay Chatterjee"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJM04yeHdhQklDWlc0b0FBUAE",
+                            "topic_name": "Tanmay Chatterjee"
+                        }
+                    ]
+                },
+                {
+                    "title": "Mamata Banerjee instructs prasad delivery of Jagannath Dham to every household across Bengal",
+                    "link": "https://www.telegraphindia.com/west-bengal/mamata-banerjee-instructs-prasad-delivery-of-jagannath-dham-to-every-household-across-bengal-prnt/cid/2096895",
+                    "photo_url": "https://assets.telegraphindia.com/telegraph/2025/May/1746056838_new-project-2.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNURObkJEVlhWRFMzUXhjMlpMVFJERUF4aW1CU2dLTWdrQkVKakFKV2dXSWdN=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T23:59:07.000Z",
+                    "authors": [
+                        "Snehamoy Chakraborty"
+                    ],
+                    "source_url": "https://www.telegraphindia.com",
+                    "source_name": "Telegraph India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.telegraphindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdWbmNtRndhR2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Y3pCbWFITnliUklDWlc0b0FBUAE",
+                            "topic_name": "Snehamoy Chakraborty"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lhcmR6YkRSRmF1dXNlQlpZcWtDZ0FQAQ"
+        },
+        {
+            "title": "Armed to the teeth, familiar with jungle warfare, cloaked in stealth: The terrorists that security forces are up against in J&K",
+            "link": "https://indianexpress.com/article/long-reads/pahalgam-attack-armed-jungle-warfare-cloaked-terrorists-security-forces-kashmir-9976751/",
+            "snippet": "Battle-hardened, mostly Pakistanis nationals who are trained in jungle warfare, armed with advanced rifles and communication gadgets, ...",
+            "photo_url": "https://images.indianexpress.com/2025/05/anantnag-1600.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVljWFY0VjBocVZrVXhjVVptVFJDZkF4ampCU2dLTWdZQk1ad0tuZ2s=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T08:40:00.000Z",
+            "authors": [
+                "Bashaarat Masood"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSMGRHczBhaElDWlc0b0FBUAE",
+                    "topic_name": "Bashaarat Masood"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Pahalgam Terrorists Still In South Kashmir, Have Food, Provisions: Sources",
+                    "link": "https://www.ndtv.com/india-news/pahalgam-terror-attack-news-where-are-pahalgam-terrorists-hiding-lashkar-taiba-terrorists-manhunt-hiding-in-south-kashmir-8304129",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/rbbngjvo_jammu-kashmir-pahalgam-attack_625x300_23_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZVVE5DZW1wV1VqUmFZbHBDVFJDeUF4akNCU2dLTWdhSlFwUlBvUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:07:53.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pahalgam terror attack: All that NIA has found so far and what India plans to do next",
+                    "link": "https://www.cnbctv18.com/photos/india/news/india-pakistan-pahalgam-terror-attack-retaliation-nia-probe-ccpa-meets-to-decide-next-actions-19596768.htm",
+                    "photo_url": "https://images.cnbctv18.com/uploads/2025/04/2025-04-29t074847z-1726515283-rc2f7ealrpid-rtrmadp-3-india-kashmir-attack-2025-04-dc2ea4c2a656726e27bab9f8e10828a8-scaled.jpg?impolicy=website&width=1200&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURaR3hKYjBWa01FSmFkME5yVFJEZ0F4aUFCU2dLTWdhWk1LQzJGQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T08:06:34.000Z",
+                    "authors": [],
+                    "source_url": "https://www.cnbctv18.com",
+                    "source_name": "CNBC TV18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER051WW1OMGRqRTRMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pahalgam accused should be punished, killed in PoK, says kin",
+                    "link": "https://www.newindianexpress.com/nation/2025/May/01/pahalgam-accused-should-be-punished-killed-in-pok-says-kin",
+                    "photo_url": "https://media.assettype.com/newindianexpress/2025-04-30/bhuby8r1/C_53_1_CH1482_39128722.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVROemcwWTFvek1HeDNSalJQVFJDX0F4aXVCU2dLTWdZcGRJeU9MUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:26:55.000Z",
+                    "authors": [
+                        "Fayaz Wani"
+                    ],
+                    "source_url": "https://www.newindianexpress.com",
+                    "source_name": "The New Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGRzVsZDJsdVpHbGhibVY0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuYUhZd01qRjVPUklDWlc0b0FBUAE",
+                            "topic_name": "Fayaz Wani"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pYNVp2ZERSSHNsdzFrSUdIejRpZ0FQAQ"
+        },
+        {
+            "title": "Port project, which once saw violent protests, emerges as key job provider in Kerala’s Vizhinjam",
+            "link": "https://indianexpress.com/article/india/port-project-which-once-saw-violent-protests-emerges-as-key-job-provider-in-keralas-vizhinjam-9975699/",
+            "snippet": "Prime Minister Modi will inaugurate the multi-purpose seaport project, slated to emerge as a key hub in the Asia-Europe shipping route, tomorrow ...",
+            "photo_url": "https://images.indianexpress.com/2025/05/Anisha-S-Steffy-Rebeira-and-Karthika-L-who-operate-Cantilever-Rail-Mounted-Gantry-CRMG-cranes-at-Vizhinjam-transshipment-port.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZjekZMVlhaUE1VRmZRM0F5VFJDZkF4ampCU2dLTWdZaEE1b3JpUXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T01:59:00.000Z",
+            "authors": [
+                "shaju philip"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhjeWNucHllUklDWlc0b0FBUAE",
+                    "topic_name": "shaju philip"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Vizhinjam International Deepwater Multipurpose Seaport: Indias Strategic Gateway To Global Trade - In Pics",
+                    "link": "https://zeenews.india.com/photos/mobility/vizhinjam-international-seaport-indias-strategic-gateway-to-global-trade-pm-modi-to-inaugurate-may-2-check-capacity-impact-2894127",
+                    "photo_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/05/01/1739152-vizhinjam-seaport.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNDBXREF4VkdoUFFXNVNaR0p3VFJDUUF4aThCU2dLTWdNTkV4QQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T12:02:08.000Z",
+                    "authors": [],
+                    "source_url": "https://zeenews.india.com",
+                    "source_name": "Zee News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFWHBsWlc1bGQzTXVhVzVrYVdFdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Kerala CM, Opposition claim credit for Vizhinjam port",
+                    "link": "https://www.hindustantimes.com/india-news/kerala-cm-opposition-claim-credit-for-vizhinjam-port-101746040398386.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/Chief-minister-Pinarayi-Vijayan-said-that-VD-Sathe_1746040391251.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxhRzR4YmtZM1RFMVNVM2hYVFJDMUFoaW1CQ2dLTWdZSnNJWm9VZ00=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T01:26:18.000Z",
+                    "authors": [
+                        "Ht Correspondent"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YzJObk4yZGpkQklDWlc0b0FBUAE",
+                            "topic_name": "Ht Correspondent"
+                        }
+                    ]
+                },
+                {
+                    "title": "LDF govt. recast ‘inequitable’ Vizhinjam port contract to Kerala’s advantage, says CM",
+                    "link": "https://www.thehindu.com/news/national/kerala/ldf-govt-recast-inequitable-vizhinjam-port-contract-to-keralas-advantage-says-cm/article69510753.ece",
+                    "photo_url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T15:25:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oweWRIZkRSRnZod25sdDZXZF9TZ0FQAQ"
+        },
+        {
+            "title": "Farooq Abdullah responds to Pakistan's nuclear threat: 'We also have nuclear power, will not use it...",
+            "link": "https://www.moneycontrol.com/news/india/farooq-abdullah-responds-to-pakistan-s-nuclear-threat-we-also-have-nuclear-power-will-not-use-it-unless-13008941.html",
+            "snippet": "National Conference chief Farooq Abdullah has come down heavily on Pakistan after the Pahalgam terror attack. (PTI/File). National Conference ...",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250430052025_Farooq-Abdullah-on-Pakistan.jpg?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1ORUpKV0VoblN6bENhVFo2VFJDZkF4ampCU2dLTWdhTk5aVE9wUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:21:02.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "‘India, Pakistan getting ready for war…’: Farooq Abdullah on ‘solution’ after Pahalgam terrorist attack",
+                    "link": "https://www.hindustantimes.com/india-news/india-pakistan-getting-ready-for-war-farooq-abdullah-on-solution-after-pahalgam-terrorist-attack-101746092337168.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/Farooq_Abdullah_1746093081227_1746093081519.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdlbVZzWW5GeWJqQjRTMHR5VFJDMUFoaWxCQ2dLTWdZZFlKRExxUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:52:50.000Z",
+                    "authors": [
+                        "aniruddha DHAR"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4ZG5vNE5qUmtjeElDWlc0b0FBUAE",
+                            "topic_name": "aniruddha DHAR"
+                        }
+                    ]
+                },
+                {
+                    "title": "'Won't Suggest Retaliation…': Farooq Abdullah Says India Should 'Finish Terrorism' After Pahalgam Attack- N",
+                    "link": "https://www.news18.com/india/wont-suggest-retaliation-farooq-abdullah-says-india-should-finish-terrorism-after-pahalgam-attack-ws-l-9320028.html",
+                    "photo_url": "https://images.news18.com/ibnlive/uploads/2025/04/Farooq-Abdullah-backed-Article-370-move-2025-04-10e3ae57cfee4224f9f88c00ff231992.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUljRnB3TjNvd1NXWnVhekZEVFJDZkF4ampCU2dLTWdZUlFZcEpLZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:38:39.000Z",
+                    "authors": [
+                        "Oindrila Mukherjee"
+                    ],
+                    "source_url": "https://www.news18.com",
+                    "source_name": "News18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVsZDNNeE9DNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzTlhGdGNEZzBlUklDWlc0b0FBUAE",
+                            "topic_name": "Oindrila Mukherjee"
+                        }
+                    ]
+                },
+                {
+                    "title": "LG Sinha prorogues Legislative Assembly",
+                    "link": "https://m.greaterkashmir.com/article/lg-sinha-prorogues-legislative-assembly/393131",
+                    "photo_url": "https://m.greaterkashmir.com/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JlYXRlcmthc2htaXItc29ydGQtcHJvLXByb2Qtc29ydGQvbWVkaWE3NjJiZWQwMC0yNWY5LTExZjAtODQwYi0wZDFlMmRjMmVkZGIuanBn",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVWM1ZJWVVwM1lqQXlSRVZsVFJEckF4anhCQ2dLTWdZNVE0WndwUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:29:37.000Z",
+                    "authors": [],
+                    "source_url": "https://m.greaterkashmir.com",
+                    "source_name": "Greater Kashmir",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://m.greaterkashmir.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWR5WldGMFpYSnJZWE5vYldseUxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lnM2VYYkRSRk8wcFEyd3dBQ3JTZ0FQAQ"
+        },
+        {
+            "title": "Thunderstorms, rain, strong winds to ease temperature in May, says IMD",
+            "link": "https://indianexpress.com/article/cities/bangalore/thunderstorms-rain-strong-winds-to-ease-temperature-in-may-says-imd-9975830/",
+            "snippet": "This May, the Met office has forecast intense thunderstorms leading to overcast sky conditions, rainfall, squally winds and lightning all of ...",
+            "photo_url": "https://images.indianexpress.com/2025/05/Untitled-design-34_20250430222839.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNObG8yWXpJMWFWQlFReTFTVFJDZkF4ampCU2dLTWdZQnNJeDVSQVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T22:30:06.000Z",
+            "authors": [
+                "Anjali Marar"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhveGJEUTRjUklDWlc0b0FBUAE",
+                    "topic_name": "Anjali Marar"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "‘Above normal’ temperatures likely in May, many states may face 2-7 heat wave days: IMD",
+                    "link": "https://timesofindia.indiatimes.com/home/environment/above-normal-temperatures-likely-in-may-many-states-may-face-2-7-heat-wave-days-imd/articleshow/120772791.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120772814,width-1280,height-720,resizemode-4/120772814.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdSR1JXYUVSSWRscFlWbFZMVFJDZkF4ampCU2dLTWdZQklwRGxHQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:44:00.000Z",
+                    "authors": [
+                        "Vishwa Mohan"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TjJwc2FuSTRlaElDWlc0b0FBUAE",
+                            "topic_name": "Vishwa Mohan"
+                        }
+                    ]
+                },
+                {
+                    "title": "IMD issues yellow alert as Delhi, North India brace for rain, cooler days",
+                    "link": "https://www.business-standard.com/india-news/delhi-weather-heatwaves-rising-temperature-weather-forecast-imd-aqi-rain-125050100115_1.html",
+                    "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/25/full/1721880813-272.jpg?im=FitAndFill=(826,465)",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtNVGcwTkZOd1VsSktiMmRrVFJDZkF4amlCU2dLTWdhbFJZN05uUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:17:26.000Z",
+                    "authors": [
+                        "Vrinda Goel"
+                    ],
+                    "source_url": "https://www.business-standard.com",
+                    "source_name": "Business Standard",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzWm1wa2VEbGpkaElDWlc0b0FBUAE",
+                            "topic_name": "Vrinda Goel"
+                        }
+                    ]
+                },
+                {
+                    "title": "Why India may suffer longer heatwaves and floods this year",
+                    "link": "https://www.downtoearth.org.in/climate-change/why-india-may-suffer-longer-heatwaves-and-floods-this-year",
+                    "photo_url": "https://gumlet.assettype.com/downtoearth/2025-05-01/6ftelbb3/Labourer.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVTMVZQVEdkeU5VVlFMVXBxVFJEZ0F4aUFCU2dLTWdhUk5JWndSUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:39:31.000Z",
+                    "authors": [
+                        "Chirag Dhara"
+                    ],
+                    "source_url": "https://www.downtoearth.org.in",
+                    "source_name": "Down To Earth",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.downtoearth.org.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbVJ2ZDI1MGIyVmhjblJvTG05eVp5NXBiaWdBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYlRrMU5EQXpaeElDWlc0b0FBUAE",
+                            "topic_name": "Chirag Dhara"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pidFlYZkRSR01GTndxX2pBbTFDZ0FQAQ"
+        },
+        {
+            "title": "PM Modi at Waves Summit 2025: We need to save young generations from tendencies against humanism, says PM Modi",
+            "link": "https://www.thehindu.com/news/cities/mumbai/pm-modi-mumbai-waves-2025-summit-live-updates/article69512815.ece",
+            "snippet": "Prime Minister Narendra Modi inaugurated the World Audio Visual and Entertainment Summit (WAVES) in Mumbai on Thursday (May 1, 2025).",
+            "photo_url": "https://th-i.thgim.com/public/news/national/25lazz/article69513156.ece/alternates/LANDSCAPE_1200/Gp2B6_xaYAEyKn3.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVhRE5CVWxGNk5GbFFWR3BXVFJDZkF4ampCU2dLTWdhdFJKQ1BvUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T11:46:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "WAVES 2025: AI tools are dissolving the barriers between dreams and reality, says RIL Chairman Mukesh...",
+                    "link": "https://www.moneycontrol.com/news/india/waves-2025-ai-tools-are-dissolving-the-barriers-between-dreams-and-reality-says-ril-chairman-mukesh-ambani-13010287.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/05/20250501113637_Screenshot-2025-05-01-170456.png?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHhSRzQ0WWxkSllVZzBSbFY2VFJDZkF4ampCU2dLTWdrdE00UXVVV05jaGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:37:13.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "\"The creative economy will have a great impact on GDP in the coming years,\" PM Modi at WAVES 2025",
+                    "link": "https://www.newindianexpress.com/videos/videos-nation/2025/May/01/the-creative-economy-will-have-a-great-impact-on-gdp-in-the-coming-years-pm-modi-at-waves-2025",
+                    "photo_url": "https://media.assettype.com/newindianexpress/2025-05-01/ckke8qse/pm-modi.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNPSGgyTkVwUmExTkpTbVJwVFJDb0FSaXNBaWdCTWdhaEpZTHNtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:46:56.000Z",
+                    "authors": [],
+                    "source_url": "https://www.newindianexpress.com",
+                    "source_name": "The New Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGRzVsZDJsdVpHbGhibVY0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pahalgam attack 'barbaric', Modi a fighter who will bring peace to J&K: Rajinikanth at WAVES Summit in Mumbai",
+                    "link": "https://www.thehindu.com/news/national/pahalgam-attack-barbaric-modi-a-fighter-who-will-bring-peace-to-jk-rajinikanth-at-waves-summit-in-mumbai/article69516118.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/y5y8s3/article69520074.ece/alternates/LANDSCAPE_1200/2024-07-13T131747Z_630670837_RC2DU8AKXCEQ_RTRMADP_3_INDIA-AMBANI-WEDDING.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHhTelIzWDIxamNHeGFSVmcyVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T07:37:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o2OGRMaERSRTMtNTRYeFN5N2tTZ0FQAQ"
+        },
+        {
+            "title": "CRPF jawan's Pakistani wife on deportation bus gets last-minute relief",
+            "link": "https://www.indiatoday.in/india/story/crpf-jawans-pakistani-wife-gets-relief-minal-khan-attari-wagah-border-pahalgam-attack-india-pakistan-war-2717925-2025-05-01",
+            "snippet": "Minal Khan from Pakistan's Punjab met and married a CRPF jawan from India online. She came to Jammu on a short-term visa, which expired on March ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/amritsar-minal--a-pakistani-national-married-in-india--is-being-brought-to-the-integrated-check-pos-011008544-16x9_0.jpg?VersionId=mbp011hlv47qgfxR3AaB3DeFgTjM3Dkl?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVkVFZQTTFkdU1tdzBSWFpTVFJDZkF4ampCU2dLTWdhVlFZNUlIZ2s=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T08:02:28.000Z",
+            "authors": [
+                "Priyanjali Narayan"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyYWpNeGR6QnlaeElDWlc0b0FBUAE",
+                    "topic_name": "Priyanjali Narayan"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Poonch constable, 8 siblings get stay on deportation, now ‘missing’",
+                    "link": "https://indianexpress.com/article/india/poonch-constable-8-siblings-deportation-missing-9975421/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/poonch.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtibk5FV1RWWFNFdEJZVnB0VFJEb0FSaWVBeWdLTWdZQlVKQVNNUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:12:00.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Man born in PoK approaches Supreme Court after family asked to leave India",
+                    "link": "https://www.indiatoday.in/india/law-news/story/man-born-pok-mirpur-moves-supreme-court-family-deportation-pahalgam-attack-aftermath-2718058-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/visas-015414550-16x9_0.jpeg?VersionId=qU_b1jLmqLVvzXxu1EX2laH5BBtNcvyM&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpha0ZIZDFsVGMyUmhiMjg1VFJDRUF4aXlCU2dLTWdZVkU1RHJMUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T12:07:20.000Z",
+                    "authors": [
+                        "Srishti Ojha"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TjJnMWFuQTVOeElDWlc0b0FBUAE",
+                            "topic_name": "Srishti Ojha"
+                        }
+                    ]
+                },
+                {
+                    "title": "Despite High Court order, J&K policeman and eight siblings shifted to Punjab for repatriation to Pakistan",
+                    "link": "https://www.thehindu.com/news/national/despite-high-court-order-jk-policeman-and-eight-siblings-shifted-to-punjab-for-repatriation-to-pakistan/article69511323.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/kpftj8/article69511756.ece/alternates/LANDSCAPE_1200/2025-04-30T142424Z_914696714_RC258EAU2GA0_RTRMADP_3_INDIA-KASHMIR-ATTACK.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhZa3AxWms5dU1tVnhObFpzVFJDZkF4ampCU2dLTWdhQkJJYXR2UU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:07:00.000Z",
+                    "authors": [
+                        "Peerzada Ashiq"
+                    ],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TURKM2Qza3pjeElDWlc0b0FBUAE",
+                            "topic_name": "Peerzada Ashiq"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKcHE3aERSR0FDWWd1U3RoNHJ5Z0FQAQ"
+        },
+        {
+            "title": "Wildfires near Jerusalem force mass evacuations, close major highway on Memorial Day",
+            "link": "https://www.greaterkashmir.com/world/wildfires-near-jerusalem-force-mass-evacuations-close-major-highway-on-memorial-day/",
+            "snippet": "New Delhi, Apr 30: Massive wildfires raging west of Jerusalem forced the evacuation of at least six communities on Wednesday and shut down ...",
+            "photo_url": "https://m.greaterkashmir.com/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JlYXRlcmthc2htaXItc29ydGQtcHJvLXByb2Qtc29ydGQvbWVkaWE1YmUxNjdkMC0yNWU2LTExZjAtODQwYi0wZDFlMmRjMmVkZGIucG5n",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNaVFZ4Y0UweE5UWmxjbUV5VFJEZ0F4ai1CQ2dLTWdZQk1JcElIUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:01:39.000Z",
+            "authors": [],
+            "source_url": "https://www.greaterkashmir.com",
+            "source_name": "Greater Kashmir",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greaterkashmir.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWR5WldGMFpYSnJZWE5vYldseUxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Video: Massive Sandstorm Hits Southern Israel As Winds Intensify Jerusalem Wildfires",
+                    "link": "https://www.ndtv.com/world-news/video-massive-sandstorm-hits-southern-israel-as-winds-intensify-jerusalem-wildfires-8302099",
+                    "photo_url": "https://c.ndtvimg.com/2025-05/6et99nrg_israel-sandstorm_625x300_01_May_25.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5NSEpYYzFoMlpYTkJRMlpLVFJDeUF4akNCU2dLTWdZQlFJYjF5QVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:40:21.000Z",
+                    "authors": [
+                        "Sanstuti Nath"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyWXpJeU5HY3pNaElDWlc0b0FBUAE",
+                            "topic_name": "Sanstuti Nath"
+                        }
+                    ]
+                },
+                {
+                    "title": "Israel faces national danger amid raging wildfire, people abandon vehicles, flee",
+                    "link": "https://www.indiatoday.in/world/story/israel-faces-national-danger-amid-raging-wildfire-people-abandon-vehicles-flee-2717815-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/a-view-shows-wildfires-near-latrun--as-wildfires-caused-by-extreme-heat-and-winds-broke-out-in-centr-014305995-16x9_0.jpg?VersionId=g71__asGGZQgDmGVMT2OEsTWdj5VvR8F&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVZibTFCUTNac2JFTjBNR2Q1VFJDRUF4aXlCU2dLTWdrQjBJaDUwT1BJVVFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T03:43:56.000Z",
+                    "authors": [
+                        "Nakul Ahuja"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWm1aemMyTmtOQklDWlc0b0FBUAE",
+                            "topic_name": "Nakul Ahuja"
+                        }
+                    ]
+                },
+                {
+                    "title": "Israel wildfires flare near Jerusalem for a second day, arson arrests made",
+                    "link": "https://www.aljazeera.com/news/2025/5/1/israel-wildfires-flare-near-jerusalem-for-a-second-day",
+                    "photo_url": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-30T142854Z_282951624_RC2D8EA54GJA_RTRMADP_3_ISRAEL-WILDFIRE-1746026107.jpg?resize=1920%2C1440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUxiVzlZVG5GMWNWQldNbkZ4VFJEZ0F4aUFCU2dLTWdNQjRBQQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:46:09.000Z",
+                    "authors": [],
+                    "source_url": "https://www.aljazeera.com",
+                    "source_name": "Al Jazeera",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0ZzYW1GNlpXVnlZUzVqYjIwb0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pVMDd6YkRSR3ZiWDF2S0xzNEN5Z0FQAQ"
+        },
+        {
+            "title": "10th, 12th CBSE Result 2025 News Live: Latest updates on Class 10th, 12th results",
+            "link": "https://www.hindustantimes.com/education/10th-12th-cbse-result-2025-news-live-updates-class-10-12-results-date-time-direct-link-pass-percentage-how-to-check-101746094114039.html",
+            "snippet": "10th, 12th CBSE Result 2025 News Live: The Central Board of Secondary Education has not yet announced CBSE Result 2025 date and time.",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/cbse_3_1740719030651_1746094789143.jpeg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUxVVEJYTkROWGFUZGxMVzF2VFJDMUFoaWxCQ2dLTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T11:51:45.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "No CBSE Classes 10,12 Result 2025 tomorrow: Board dismisses false claims",
+                    "link": "https://www.indiatoday.in/education-today/news/story/cbse-class-10-12-result-date-not-announced-yet-false-news-circulates-2718049-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/cbse-10--12-board-results-soon-check-full-grading-system-and-minimum-marks-to-pass-175027652-16x9.jpg?VersionId=U.v5T5flVuBHhA8NsXUFou7qpR0xJR2V&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlUWFpyVjJvd09HaFRNSGhuVFJDRUF4aXlCU2dLTWdrQllJUkFSMlJrTkFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:37:22.000Z",
+                    "authors": [],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "CBSE Result 2025 Live: CBSE to announce class 10th and 12th board exam results soon at cbse.nic.in; che...",
+                    "link": "https://m.economictimes.com/news/newsblogs/board-exam-result-live-updates-hs-result-2025-cbse-hpbose-mp-board-pseb-west-bengal-board-10th-12th-result-time-scorecard-download-direct-link/liveblog/120782725.cms",
+                    "photo_url": "https://img.etimg.com/thumb/msid-120782725,width-1200,height-900,resizemode-4,imgsize-18222/board-exam-result-live-updates-hs-result-2025-cbse-hpbose-mp-board-pseb-west-bengal-board-10th-12th-result-time-scorecard-download-direct-link.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdjbTVMYVRWV1ZDMHlZMFJDVFJEZ0F4aUFCU2dLTWdhbEJLYU5rUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:52:57.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "CBSE 10th, 12th Results 2025 Tomorrow at results.cbse.nic.in? Here's an update for CBSE aspirants",
+                    "link": "https://www.etnownews.com/exams-results/cbse-10th-12th-results-2025-tomorrow-at-results-cbse-nic-in-heres-an-update-for-cbse-aspirants-article-151540075",
+                    "photo_url": "https://images.etnownews.com/thumb/msid-151540075,width-1280,height-720,resizemode-75/151540075.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDBiakZFUVRWd01VVnBiMjlKVFJDZkF4ampCU2dLTWdtQmNJNnhQT1Y1a2dF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T01:22:08.000Z",
+                    "authors": [
+                        "Arnab Mitra"
+                    ],
+                    "source_url": "https://www.etnownews.com",
+                    "source_name": "ET Now",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1YwYm05M2JtVjNjeTVqYjIwb0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWjJoaVpteGZiUklDWlc0b0FBUAE",
+                            "topic_name": "Arnab Mitra"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2owMXJqZkRSRmJNd2FwbW1xTTlDZ0FQAQ"
+        },
+        {
+            "title": "Canada election results highlights PM Modi congratulates Canada Prime Minister Mark Carney for Liberal Party’s victory",
+            "link": "https://www.thehindu.com/news/international/canada-election-results-voting-highlights-carney-poilievre-april-29-2025/article69503693.ece",
+            "snippet": "Canada election results highlights: Canadian Prime Minister Mark Carney's Liberal Party wins Canada's federal election.",
+            "photo_url": "https://th-i.thgim.com/public/incoming/opt14r/article69503986.ece/alternates/LANDSCAPE_1200/2025-04-29T052813Z_972984448_RC2H7EAQ3BVC_RTRMADP_3_CANADA-POLITICS.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpRMjAxZVhwaGJGbFFiR1YyVFJDZkF4ampCU2dLTWdZeFJacVBJUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T14:58:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Carneyval In Canada",
+                    "link": "https://timesofindia.indiatimes.com/toi-plus/international/carneyval-in-canada/articleshow/120770986.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/resizemode-75,overlay-toiplus,width-1200,height-900,msid-120770927/120770927.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNW9iblpUVUhKWk5sOW5NR1JqVFJEZkF4aUFCU2dLTWdNQllBNA=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:02:00.000Z",
+                    "authors": [
+                        "Daniel Bordman"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTW1walgzRnpjeElDWlc0b0FBUAE",
+                            "topic_name": "Daniel Bordman"
+                        }
+                    ]
+                },
+                {
+                    "title": "How Trump helped redraw Canada’s electoral map to Mark Carney’s advantage",
+                    "link": "https://www.indiatoday.in/opinion/story/how-trump-helped-redraw-canada-electoral-map-to-mark-carney-advantage-2717569-2025-04-30",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/mark-carney-300824350-16x9_0.jpg?VersionId=Z9X012kWjFTt1MaXsfoZwcViTX9dwUeG&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHliMmczYjB0VlRGQmZiell5VFJDRUF4aXlCU2dLTWdZUmNZS3NWUUk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:13:24.000Z",
+                    "authors": [
+                        "Vivek Mishra"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWTNBNGVqWTJiQklDWlc0b0FBUAE",
+                            "topic_name": "Vivek Mishra"
+                        }
+                    ]
+                },
+                {
+                    "title": "Donald Trump claims Carney to visit next week, Canadian PM eager to make deal",
+                    "link": "https://www.hindustantimes.com/world-news/us-news/donald-trump-claims-carney-to-visit-next-week-canadian-pm-eager-to-make-deal-101746044789032.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/COMBO-FILES-CANADA-VOTE-US-TRUMP-0_1746045454142_1746045476746.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTNUMmgyV2toUVh6a3RWWEZzVFJDMUFoaWxCQ2dLTWdrQlVJdzVxQ2JRNlFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:41:41.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pud3BuT0RSRTlvYnFDRWJJc0x5Z0FQAQ"
+        },
+        {
+            "title": "Tamil Nadu family’s vacation ends in tragedy in Kolkata hotel fire: ‘We lost all’",
+            "link": "https://indianexpress.com/article/cities/kolkata/tamil-nadu-familys-vacation-ends-in-tragedy-in-kolkata-hotel-fire-we-lost-all-9975838/",
+            "snippet": "A whirlwind tour by a family from Tamil Nadu ended in a tragedy on Tuesday night when T Prabhu found that he had lost his two small children ...",
+            "photo_url": "https://images.indianexpress.com/2025/05/Mother-of-P-Rithan-and-P-Diya-who-lost-their-lives-in-the-hotel-fire-at-NRS-hospital-in-Kolkata-on-Wednesday.-ANI.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJWSHBoWkV0amVpMHRPRFpzVFJDZkF4ampCU2dLTWdhZFZwUXFKZ2c=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T22:45:59.000Z",
+            "authors": [],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Mamata Banerjee visits fire-ravaged hotel in central Kolkata, promises action against guilty",
+                    "link": "https://www.thehindu.com/news/cities/kolkata/mamata-banerjee-visits-fire-ravaged-hotel-in-central-kolkata-promises-action-against-guilty/article69521214.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/oujevt/article69521236.ece/alternates/LANDSCAPE_1200/PTI05_01_2025_000160A.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUJWRnBrYlZreVNtdFBTa0Y0VFJDZkF4ampCU2dLTWdhZEE0QXk0UUE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:01:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Rules murdered: Vanished staircase, walled-up windows, dud smoke alarms and sprinklers",
+                    "link": "https://timesofindia.indiatimes.com/city/kolkata/rules-murdered-vanished-staircase-walled-up-windows-dud-smoke-alarms-and-sprinklers/articleshow/120775300.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120775297,width-1280,height-720,resizemode-4/120775297.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRPSEIyYVVrelFVUm5VVmRvVFJDZkF4ampCU2dLTWdZTkFZZ3JIZ1E=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:01:00.000Z",
+                    "authors": [
+                        "Krishnendu Bandyopadhyay",
+                        "Zeeshan Jawed",
+                        "Dwaipayan Ghosh Dastidar"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGek1taDNYeElDWlc0b0FBUAE",
+                            "topic_name": "Krishnendu Bandyopadhyay"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWWpBNGVqRnJjUklDWlc0b0FBUAE",
+                            "topic_name": "Zeeshan Jawed"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1ObVpuTmZOQklDWlc0b0FBUAE",
+                            "topic_name": "Dwaipayan Ghosh Dastidar"
+                        }
+                    ]
+                },
+                {
+                    "title": "Kolkata fire deaths: Amid allegations of safety lapses, Rituraj Hotel's owner arrested",
+                    "link": "https://www.hindustantimes.com/india-news/kolkata-fire-deaths-amid-allegations-of-safety-lapses-rituraj-hotels-owner-arrested-101746079735036.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/PTI04-30-2025-000349A-0_1746079874151_1746079934733.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxTR3czUlRjeE9IVnpjMFl6VFJDMUFoaWxCQ2dLTWdZQkVJU0RrQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:19:47.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pmbkxmaURSRjlDMDhqYUVWMlRDZ0FQAQ"
+        },
+        {
+            "title": "Happy Labour Day 2025: 30+ wishes, images, messages, greetings, WhatsApp status to celebrate International Workers' Day",
+            "link": "https://www.hindustantimes.com/lifestyle/festivals/happy-labour-day-2025-30-wishes-images-messages-greetings-whatsapp-status-to-celebrate-international-workers-day-101746007100235.html",
+            "snippet": "Happy Labour Day! Here's to fair opportunities, equal respect, and better working conditions for every worker around the world.",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/1600x900/8697658_1746008522479_1746008531908.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJXbXRXUTJoM05rMXFaRGR1VFJDZkF4ampCU2dLTWdhQlJaYnFwUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T10:54:32.000Z",
+            "authors": [
+                "Akanksha Agnihotri"
+            ],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1WXpacU16TTJNQklDWlc0b0FBUAE",
+                    "topic_name": "Akanksha Agnihotri"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "International Labor Day 2025: Which countries observe a public holiday — Is the USA, UK, or Canada on the",
+                    "link": "https://m.economictimes.com/news/international/us/international-labor-day-2025-which-countries-observe-a-public-holiday-is-the-usa-uk-or-canada-on-the-list/articleshow/120771712.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120771939,width-1200,height-900,resizemode-4,imgsize-86286/happy-labor-day-2025.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVpNMnAwWjJWSVdraFllSHBZVFJEZ0F4aUFCU2dLTWdrSkVZaWt4V1JqaGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:55:40.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "The hands that build our nation: Honouring May Day",
+                    "link": "https://www.thehindu.com/children/the-hands-that-build-our-nation-honouring-may-day/article69509357.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/6137fy/article69509615.ece/alternates/LANDSCAPE_1200/2025-04-29T193903Z_1637054489_RC2N7EAT0B9J_RTRMADP_3_BANGLADESH-AGRICULTURE.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNW1OamRPWlhOcE5EaGtiVXQwVFJDZkF4ampCU2dLTWdNQmNCUQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:14:00.000Z",
+                    "authors": [
+                        "Sweta Gupta"
+                    ],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyTkRJM2QySjJNUklDWlc0b0FBUAE",
+                            "topic_name": "Sweta Gupta"
+                        }
+                    ]
+                },
+                {
+                    "title": "International Labour Day 2025: 70+ Wishes, quotes, Greetings and images to celebrate workers' rights on M",
+                    "link": "https://timesofindia.indiatimes.com/life-style/events/international-labour-day-2025-60-wishes-quotes-greetings-messages-whatsapp-status-and-images-to-celebrate-workers-rights-on-may-1/articleshow/120783403.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120783424,width-1280,height-720,resizemode-4/120783424.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBVVlpHTUV4NU1VaGFNMk5mVFJDZkF4ampCU2dLTWdhSllvaG9xUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:06:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pabnNfZkRSRXR6UmJnT09ZTEh5Z0FQAQ"
+        },
+        {
+            "title": "\"Lives In His Own World\": High Court Slams Ramdev For New Video On Rooh Afza",
+            "link": "https://www.ndtv.com/india-news/lives-in-his-own-world-high-court-slams-ramdev-for-new-video-on-rooh-afza-8302897",
+            "snippet": "The Delhi High Court criticised Ramdev for violating previous orders. Justice Amit Bansal stated Ramdev shows a disregard for court directives.",
+            "photo_url": "https://c.ndtvimg.com/2025-04/d6jarcvg_ramdev-rooh-afza_625x300_22_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNZMGwwZVVGdFdERlNOR1JuVFJDeUF4akNCU2dLTWdhUk1wS25HZ28=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T08:24:08.000Z",
+            "authors": [
+                "Samiran Mishra"
+            ],
+            "source_url": "https://www.ndtv.com",
+            "source_name": "NDTV",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TjJnMWVtYzFheElDWlc0b0FBUAE",
+                    "topic_name": "Samiran Mishra"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "‘Sharbat Jihad’ row: Delhi HC slams Ramdev for fresh video, warns of contempt action",
+                    "link": "https://english.gujaratsamachar.com/news/national/sharbat-jihad-row-delhi-hc-slams-ramdev-for-fresh-video-warns-of-contempt-action",
+                    "photo_url": "https://static.gujaratsamachar.com/content_image/content_image_e8a1d773-c41b-480a-9b6b-7d1f0e865b18.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVUbko0VkRWRmFsUm9ibTV5VFJDMEFSaVlBaWdCTWdZcFZaVE9KUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T12:04:05.000Z",
+                    "authors": [
+                        "Gujarat Samachar"
+                    ],
+                    "source_url": "https://english.gujaratsamachar.com",
+                    "source_name": "GujaratSamachar English",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://english.gujaratsamachar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHMlZ1WjJ4cGMyZ3VaM1ZxWVhKaGRITmhiV0ZqYUdGeUxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1KMFgyc3hiUklDWlc0b0FBUAE",
+                            "topic_name": "Gujarat Samachar"
+                        }
+                    ]
+                },
+                {
+                    "title": "Ramdev not in anyone’s control: Court’s sharp rebuke on new Rooh Afza video",
+                    "link": "https://www.indiatoday.in/india/law-news/story/baba-ramdev-delhi-high-court-contempt-notice-lives-own-world-beyond-control-rooh-afza-sharbat-jihad-row-2717973-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/baba-ramdev-accused-rooh-afza-for-sharbat-jihad-221908121-16x9.jpg?VersionId=NtgsSpVLwf78EuLEwTKJnANdqRCWwEjM&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNURUVlkxZDFkTWJrNWFVVzVrVFJDRUF4aXlCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:27:26.000Z",
+                    "authors": [
+                        "Srishti Ojha"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TjJnMWFuQTVOeElDWlc0b0FBUAE",
+                            "topic_name": "Srishti Ojha"
+                        }
+                    ]
+                },
+                {
+                    "title": "Delhi High Court raps Baba Ramdev for another \"communal\" video targeting Hamdard",
+                    "link": "https://www.barandbench.com/news/delhi-high-court-raps-baba-ramdev-for-another-communal-video-targeting-hamdard",
+                    "photo_url": "https://media.assettype.com/barandbench/2021-07/d2c717ac-47f2-491a-889c-2b4a53066625/baba_ramdev_and_dhc.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNVamwxUTBkYVZFb3phblpRVFJDZkF4ampCU2dLTWdZOVFaUzJxQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:17:02.000Z",
+                    "authors": [
+                        "Bhavini Srivastava"
+                    ],
+                    "source_url": "https://www.barandbench.com",
+                    "source_name": "Bar and Bench",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.barandbench.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkpoY21GdVpHSmxibU5vTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWWpFeFltTjBiQklDWlc0b0FBUAE",
+                            "topic_name": "Bhavini Srivastava"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lrX2Rfa0RSRzhwNWFvY18tUGdTZ0FQAQ"
+        },
+        {
+            "title": "7 killed as wall collapses at temple in Andhra Pradesh's Simhachalam",
+            "link": "https://www.hindustantimes.com/india-news/8-killed-as-wall-collapses-at-temple-in-andhra-pradeshs-simhachalam-visakhapatnam-101745979130184.html",
+            "snippet": "At least seven persons were killed and four others injured when a wall adjacent to a queue line collapsed on the devotees at the Sri Varaha ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/andhra_temple_wall_collapse_1745979799593_1745979809066.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVliRzVUVXpGaE9FRjRTRmwyVFJDMUFoaWxCQ2dLTWdZQkVJclNwQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T02:28:22.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Techie Couple Among 8 Devotees Killed In Andhra Temple Wall Collapse",
+                    "link": "https://www.ndtv.com/andhra-pradesh-news/techie-couple-among-devotees-killed-in-andhra-temple-wall-collapse-8293413",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/fh9c1pbc_techie-couple-_625x300_30_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUxjVWs0YjBaMFJUbHNNalpIVFJDeUF4akNCU2dLTWdtUllwRDBRR1dhS1FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T07:32:17.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Andhra govt's 'negligence' led to Simhachalam wall collapse mishap: YSRCP chief Jagan",
+                    "link": "https://www.hindustantimes.com/india-news/andhra-govt-s-negligence-led-to-simhachalam-wall-collapse-mishap-ysrcp-chief-jagan-101746028578474.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2024/12/18/550x309/India_4_1734523675501_1734523696621.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNW5hRWRIVm5FdGEyTXdibHB4VFJDMUFoaWxCQ2dLTWdNSm9Bbw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T15:56:17.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Four hours, 40 jawans and a complex rescue operation in Simhachalam",
+                    "link": "https://timesofindia.indiatimes.com/city/vijayawada/four-hours-40-jawans-and-a-complex-rescue-operation-in-simhachalam/articleshow/120773403.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120773401,width-1280,height-720,resizemode-72/120773401.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtRa3g0YVZoblVHdDJZeTFaVFJDZ0F4amlCU2dLTWdhTlFwQUluZ2c=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:10:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pjcF9MaURSSGRmZzkzN2h0LUlpZ0FQAQ"
+        },
+        {
+            "title": "NTA NEET UG admit card 2025 out: Direct link to download hall tickets here",
+            "link": "https://timesofindia.indiatimes.com/education/news/nta-neet-ug-admit-card-2025-out-direct-link-to-download-hall-ticket-here/articleshow/120763664.cms",
+            "snippet": "The NEET UG 2025 admit card has been officially released by the National Testing Agency on April 30. Candidates can now download it from neet.",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120763643,width-1280,height-720,resizemode-4/120763643.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpPWEowU1dkVVVFRXRkVmt6VFJDZkF4ampCU2dLTWdhQkE1YmtQZ2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T11:06:00.000Z",
+            "authors": [
+                "Trisha Tewari"
+            ],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWTI0NU4yNXFlUklDWlc0b0FBUAE",
+                    "topic_name": "Trisha Tewari"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "​NTA flags 1,500 suspicious NEET-UG paper leak claims; Telegram, Instagram channels under scrutiny: Report​",
+                    "link": "https://www.hindustantimes.com/india-news/nta-flags-1-500-suspicious-neet-ug-paper-leak-claims-telegram-instagram-channels-under-scrutiny-report-101746094028581.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/WhatsApp_Image_2024-05-05_at_18.14.15_fa0e8f9d_1714913579015_1746094581224.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVplRkI0UlVsak5UQk9la1UxVFJDMUFoaWxCQ2dLTWdZQlFJZ0dNUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:14:52.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "NTA UG 2025: NTA identifies over 1,500 suspicious claims related to medical exam paper leak, says report",
+                    "link": "https://www.indiatvnews.com/education/higher-studies/nta-ug-2025-nta-identifies-over-1-500-suspicious-claims-related-to-medical-exam-paper-leak-says-report-2025-05-01-988202",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/03/neet-ug-2025-registration-and-correction-last-date-1741261444.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVWWEZ4UVZsR1dWcHFOVUpNVFJDZkF4ampCU2dLTWdZMUJLeHdnUTA=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:39:01.000Z",
+                    "authors": [
+                        "Nidhi Mittal"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhoc2NYSnhkQklDWlc0b0FBUAE",
+                            "topic_name": "Nidhi Mittal"
+                        }
+                    ]
+                },
+                {
+                    "title": "NEET Admit Card 2025 released @ neet.nta.nic.in; download link for NEET UG hall ticket here",
+                    "link": "https://www.moneycontrol.com/education/neet-admit-card-2025-released-neet-nta-nic-in-download-link-for-neet-ug-hall-ticket-here-article-13009393.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250430102221_NEET-UG-Admit-Card-2025.png?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlNMXBzZFRsVGExZFZaVEpNVFJDZkF4ampCU2dLTWdhTlFvQUg2UUE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:23:50.000Z",
+                    "authors": [
+                        "Saurav Pandey"
+                    ],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYm13NE5XaG5iUklDWlc0b0FBUAE",
+                            "topic_name": "Saurav Pandey"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2psaDR6Y0RSSEEtandwMUtPSjZpZ0FQAQ"
+        },
+        {
+            "title": "Muslim Law Board resumes Waqf stir, calls for ‘Lights Off’ protest",
+            "link": "https://www.thehindu.com/news/national/muslim-law-board-resumes-waqf-stir-calls-for-lights-off-protest/article69505261.ece",
+            "snippet": "Muslims participate in a protest against the recently enacted Waqf Act that amends laws governing Muslim land endowments, organised by ...",
+            "photo_url": "https://th-i.thgim.com/public/incoming/r8s2lq/article69506223.ece/alternates/LANDSCAPE_1200/Waqf%20Amendment%20Act%2017.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUplRVpwYWpoVmJYcHBTa3h0VFJDZkF4ampCU2dLTWdhVlpwUkpNZ2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T15:30:00.000Z",
+            "authors": [
+                "Ziya Us Salam"
+            ],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTjNOMmJHZDZOQklDWlc0b0FBUAE",
+                    "topic_name": "Ziya Us Salam"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Owaisi to launch 'Switch Off Light' campaign on April 30 against Waqf Act",
+                    "link": "https://www.hindustantimes.com/india-news/owaisi-to-launch-switch-off-light-campaign-on-april-30-against-waqf-act-101745923000177.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/29/550x309/OWAISI_WAQF_1745923550540_1745923550890.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDNiV05hUTJsTExUTXRhMHhQVFJDMUFoaW1CQ2dLTWdrQk1KU05uU25nQ3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T10:46:54.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Good response to lights-off movement",
+                    "link": "https://timesofindia.indiatimes.com/city/mangaluru/good-response-to-lights-off-movement/articleshow/120772486.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-117624260,width-1280,height-720,resizemode-72/117624260.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNlR1ZwVEhZeFNWQjJNVzVxVFJDZkF4ampCU2dLTWdhTklZb0twUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:25:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Old city of Hyderabad switches off lights to protest Waqf Act",
+                    "link": "https://telanganatoday.com/old-city-of-hyderabad-switches-off-lights-to-protest-waqf-act",
+                    "photo_url": "https://image.telanganatoday.com/wp-content/uploads/2025/05/CharminarPTI_V_jpg--510x300-4g.webp?sw=412&dsz=510x300&iw=442&p=false&r=2.625",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdNa0puTVRSRVFubDNhemxtVFJDc0Foai1BeWdLTWdhaFpaYk1xUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T20:00:19.000Z",
+                    "authors": [],
+                    "source_url": "https://telanganatoday.com",
+                    "source_name": "Telangana Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://telanganatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdGdVoyRnVZWFJ2WkdGNUxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lHNFpEaERSRUp0QlVIVUlRZHF5Z0FQAQ"
+        },
+        {
+            "title": "More Bhakra water for Hry, Punjab fumes",
+            "link": "https://www.tribuneindia.com/news/punjab/more-bhakra-water-for-hry-punjab-fumes/",
+            "snippet": "The Bhakra Beas Management Board (BBMB) has decided to release 8,500 cusec water to Haryana from the Bhakra Dam with immediate effect.",
+            "photo_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFiMWUzNWMwLTI2MjMtMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc=",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdPRXhpWDBOTlEwbHFNVGhCVFJDVUF4ajJCU2dLTWdZRklJdzNsQWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T00:31:39.000Z",
+            "authors": [
+                "Ruchika M. Khanna"
+            ],
+            "source_url": "https://www.tribuneindia.com",
+            "source_name": "The Tribune",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJ5YVdKMWJtVnBibVJwWVM1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKdWVtTndjUklDWlc0b0FBUAE",
+                    "topic_name": "Ruchika M. Khanna"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Punjab chief minister Bhagwant Mann accuses Haryana, Centre of ‘bullying’ tactics and ‘hooliganism’ over",
+                    "link": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-chief-minister-bhagwant-mann-accuses-haryana-centre-of-bullying-tactics-and-hooliganism-over-water/articleshow/120776366.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120776365,width-1280,height-720,resizemode-72/120776365.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZRVVEzTFdSU05qWjVURlp2VFJDZ0F4amlCU2dLTWdhdEpZVE9tUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:55:00.000Z",
+                    "authors": [
+                        "Vibhor Mohan"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1waWVYZHNOaElDWlc0b0FBUAE",
+                            "topic_name": "Vibhor Mohan"
+                        }
+                    ]
+                },
+                {
+                    "title": "AAP playing dirty politics on BBMB decision: Haryana CM",
+                    "link": "https://www.hindustantimes.com/cities/chandigarh-news/aap-playing-dirty-politics-on-bbmb-decision-haryana-cm-101746099760767.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/Chief-minister-Nayab-Singh-Saini-on-Thursday-accus_1746099757642.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRYMFpOZFdKRWFEVlBabkZVVFJDMUFoaW1CQ2dLTWdZaEk1SU1MZ2M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:42:40.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Punjab-Haryana Water War Reaches Delhi: BJP Blames AAP's \"Dirty Politics\"",
+                    "link": "https://www.ndtv.com/india-news/punjab-haryana-water-war-reaches-delhi-bjp-blames-aaps-dirty-politics-8301830",
+                    "photo_url": "https://c.ndtvimg.com/2024-06/oa5oba2_delhi-water-crisis_625x300_15_June_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNUtXVXhQUnkxWk5uWlZTM2cwVFJDeUF4akNCU2dLTWdzQlFJeU1vQ2NHRWNtQmV3=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:59:00.000Z",
+                    "authors": [
+                        "Srishti Kapoor"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NeGJqbHdjUklDWlc0b0FBUAE",
+                            "topic_name": "Srishti Kapoor"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kxNktYZ0RSR05nOFhxMmFseTBpZ0FQAQ"
+        },
+        {
+            "title": "Eternal Q4 Results: Cons PAT falls 78% YoY to ₹39 crore, revenue surges 64%",
+            "link": "https://www.livemint.com/market/stock-market-news/eternal-q4-results-cons-pat-falls-78-yoy-to-rs-39-crore-revenue-surges-64-11746088242994.html",
+            "snippet": "Eternal Q4 Results: Food delivery company Eternal, formerly known as Zomato, on Thursday reported a 77.7% fall in its March quarter consolidated ...",
+            "photo_url": "https://images.livemint.com/img/2018/12/24/600x338/breaking_news_1545650155659.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUViekJyYnpsVE5VWnpkbkJZVFJEU0FoallCQ2dLTWdZQmtwYW10Z2M=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T10:06:12.000Z",
+            "authors": [
+                "Dhanya Nagasundaram"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6ZHpONmQyWjZOQklDWlc0b0FBUAE",
+                    "topic_name": "Dhanya Nagasundaram"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Q4 Results 2025 Live: Eternal's net profit tumbles 78% to Rs 39 crore, Blinkit sees record store addition",
+                    "link": "https://www.moneycontrol.com/news/business/earnings/q4-results-2025-live-zomato-adani-enterprises-adani-ports-among-15-companies-announcing-march-quarter-results-today-liveblog-13009827.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2023/11/ZOMATO.jpg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRTRk40TVd4MlJFbHdTbEk0VFJDZkF4ampCU2dLTWdZaGdwSU1NUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:49:24.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Zomato flags rising competition in quick-commerce: How will it impact Blinkit’s quest for profitability?",
+                    "link": "https://www.livemint.com/market/stock-market-news/zomato-flags-rising-competition-in-quick-commerce-how-will-it-impact-blinkits-quest-for-profitability-11746098927098.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/05/01/600x338/Blinkint_x_1745241711931_1746098981251.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVBZMEZsZUhSa2VuTndWa1EwVFJEU0FoallCQ2dLTWdrOUE0bzBSZVZVeEFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:30:51.000Z",
+                    "authors": [
+                        "Saloni Goel"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsbmRIZHlNQklDWlc0b0FBUAE",
+                            "topic_name": "Saloni Goel"
+                        }
+                    ]
+                },
+                {
+                    "title": "Eternal Q4 Results: PAT tanks 78% YoY to Rs 39 crore on higher expenses, revenue jumps 64%",
+                    "link": "https://m.economictimes.com/markets/stocks/earnings/eternal-q4-results-pat-falls-78-yoy-to-rs-39-crore-revenue-jumps-64/articleshow/120791777.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120791789,width-1200,height-900,resizemode-4,imgsize-35058/eternal-q4-results-pat-falls-78-yoy-to-rs-39-crore-revenue-soars-64.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNWFkbUowYUdOQk4xOWtVek51VFJEZ0F4aUFCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:04:17.000Z",
+                    "authors": [
+                        "Akash Podishetti"
+                    ],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVd3M01qQm5hQklDWlc0b0FBUAE",
+                            "topic_name": "Akash Podishetti"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l2dXNIa0RSR1Rob2c3bFpyYUhTZ0FQAQ"
+        },
+        {
+            "title": "PM Modi meets Army Chief",
+            "link": "https://www.greaterkashmir.com/front-page-2/pm-modi-meets-army-chief/",
+            "snippet": "Srinagar, Apr 30: In the latest development, Prime Minister Narendra Modi Wednesday held a meeting with Army Chief General Upendra Diwedi.",
+            "photo_url": "https://m.greaterkashmir.com/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JlYXRlcmthc2htaXItc29ydGQtcHJvLXByb2Qtc29ydGQvbWVkaWE5MjA2NjYzMC0yNWZhLTExZjAtODQwYi0wZDFlMmRjMmVkZGIucG5n",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRTbWhwVlVSa2RsSXdSRmcxVFJEWUF4aUtCU2dLTWdZdFZJeXZKUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T19:37:32.000Z",
+            "authors": [],
+            "source_url": "https://www.greaterkashmir.com",
+            "source_name": "Greater Kashmir",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greaterkashmir.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWR5WldGMFpYSnJZWE5vYldseUxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "From ‘Free Hand’ to Armed Forces to Caste Census, Modi and the Art of Political Deflection",
+                    "link": "https://m.thewire.in/article/politics/from-free-hand-to-armed-forces-to-caste-census-modi-masters-the-art-of-political-misdirection",
+                    "photo_url": "https://mc-webpcache.readwhere.in/discover.php?in=https://mcmscache.epapr.in/post_images/website_350/post_45867116/full.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxXR0ZOVkU1a1VWOXlNMlF4VFJEREFoaTBCeWdLTWdhWlVvYXRNUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T07:30:25.000Z",
+                    "authors": [
+                        "Harish Khare"
+                    ],
+                    "source_url": "https://m.thewire.in",
+                    "source_name": "thewire.in",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://m.thewire.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDblJvWlhkcGNtVXVhVzRvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGhuTm0xMkVnSmxiaWdBUAE",
+                            "topic_name": "Harish Khare"
+                        }
+                    ]
+                },
+                {
+                    "title": "PM Meets Top Ministers After 2 Key Meetings Over Pahalgam: 10 Points",
+                    "link": "https://www.ndtv.com/india-news/two-powerful-cabinet-committees-meet-today-amid-india-and-pakistan-tension-10-points-8293281",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/ebshi0o8_ccs-meeting-in-delhi_625x300_29_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXZORlZ1V1VFdGFXWm5VREJTVFJDeUF4akNCU2dLTWdrQmtKTE9NZWpRcndF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T07:01:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "OPINION | Modi gives armed forces a free hand: Panic in Pakistan",
+                    "link": "https://www.indiatvnews.com/news/india/prime-minister-narendra-modi-gives-free-hand-to-armed-forces-panic-in-pakistan-pahalgam-terrorist-attack-aaj-ki-baat-rajat-sharma-blogpost-2025-04-30-988014",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/04/rajat-sharma-1746003188.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxTVWQwVnpscFUzRjNlVzVTVFJDZkF4ampCU2dLTWdhdEpZRE9HUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T08:54:05.000Z",
+                    "authors": [
+                        "Rajat Sharma"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRGRyTlhOd2JSSUNaVzRvQUFQAQ",
+                            "topic_name": "Rajat Sharma"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l4bXNEVkRSR3hTYUZlS2ltbTVTZ0FQAQ"
+        },
+        {
+            "title": "Delhi Haat traders blame lack of fire safety: 'Lost entire life's savings'",
+            "link": "https://www.hindustantimes.com/india-news/dilli-haat-fire-updates-damage-morning-video-30-shops-gutted-traders-blame-lack-of-safety-measures-101746066247996.html",
+            "snippet": "At least 30 shops were gutted in the massive fire at the Dilli Haat, a popular market in south Delhi's INA area, on Wednesday night, the Delhi ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/Dilli_Haat_fire_latest_update_1746066504175_1746066504526.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZSMFZyYzI1ellTMW9RbGt5VFJDMUFoaWxCQ2dLTWdZQllJZ3VLUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T03:10:07.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Major Fire At Popular Delhi Market Dilli Haat, No Casualties",
+                    "link": "https://www.ndtv.com/india-news/major-fire-breaks-out-at-delhi-handicrafts-market-dilli-haat-12-fire-engines-rushed-to-spot-8297997",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/rvq89bh4_dilli-haat-fire_650x400_30_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFTbkZoWlhSS09GaHVNSEkwVFJDeUF4akNCU2dLTWdZQk00anB4UU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:13:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Police launch probe into Dilli Haat fire",
+                    "link": "https://www.hindustantimes.com/cities/delhi-news/police-launch-probe-into-dilli-haat-fire-101746098755326.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2024/09/30/550x309/Cities_2_1727682787081_1727682795666.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdkRzV2UkhoVVdtdFZRalpVVFJDMUFoaW1CQ2dLTWdZZFk1SnJLUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:25:54.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Major fire at Delhi’s popular Haat market; 30 shops gutted, no casualty",
+                    "link": "https://www.thehindu.com/news/cities/Delhi/major-fire-at-dilli-haat-market-24-shops-gutted/article69511566.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/lxnagn/article69511688.ece/alternates/LANDSCAPE_1200/FIRE%20DILLI%20HAAT%2030%2004%20DELHI%208.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFUa0Z2Ym5OWGVtRnhWUzFYVFJDZkF4ampCU2dLTWdhNUFvWXpnUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:33:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p1NExIYkRSRU12X190MXlNWF9TZ0FQAQ"
+        },
+        {
+            "title": "Instagram Accounts Of Many Pak Actors, Including Hania Aamir, Blocked In India",
+            "link": "https://www.ndtv.com/india-news/instagram-accounts-of-several-pakistani-actors-including-mahira-khan-and-ali-zafar-blocked-in-india-days-after-j-k-attack-8297881",
+            "snippet": "Popular Pakistani artists, including actors Mahira Khan, Hania Aamir and Ali Zafar, found their Instagram accounts blocked in India on Wednesday ...",
+            "photo_url": "https://c.ndtvimg.com/2025-04/hivomscc_hania-mahira-1200-_625x300_30_April_25.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUhZM2d0Y2pSRFZYVlhRbVpzVFJDeUF4akNCU2dLTWdrSlFwajBxS2V4aHdJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T17:39:10.000Z",
+            "authors": [],
+            "source_url": "https://www.ndtv.com",
+            "source_name": "NDTV",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "India’s crackdown on Pak’s soft power: From Hania Aamir to Ali Zafar; artists whose Instagram handles are ‘restricted’",
+                    "link": "https://www.livemint.com/news/trends/india-pakistan-artists-instagram-restricted-mahira-khan-atif-aslam-hania-aamir-ali-sethi-pahalgam-terrorist-attack-war-11746067295495.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/05/01/600x338/GpytMrTaYAQlbPQ_1746072312125_1746072319373.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhTbG8wV0hOaldHdExWa2RsVFJEUkFoallCQ2dLTWdhbFZaVE5xUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:11:05.000Z",
+                    "authors": [],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Actor Arsalan Naseer blames Fawad Khan for India’s Instagram ban on Pakistani celebs: ‘Ice Age wali gilehri…’",
+                    "link": "https://indianexpress.com/article/entertainment/bollywood/actor-arsalan-naseer-blames-fawad-khan-for-indias-instagram-ban-on-pakistani-celebs-ice-age-wali-gilehri-9976917/",
+                    "photo_url": "https://images.indianexpress.com/2025/05/Arsaleen-Fawad.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNXlRVjl3VW1GeU9VMUdSR1UxVFJEb0FSaWVBeWdLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:34:25.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pakistan javelin thrower Arshad Nadeem's Instagram account blocked in India",
+                    "link": "https://www.newindianexpress.com/nation/2025/May/01/pakistan-javelin-thrower-arshad-nadeems-instagram-account-blocked-in-india",
+                    "photo_url": "https://media.assettype.com/newindianexpress/2024-08-16/tremti43/AP24222626771600.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdlREprV1ROamJXVlJja1pWVFJERUF4aW1CU2dLTWdZcFJaYXVJUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:27:45.000Z",
+                    "authors": [],
+                    "source_url": "https://www.newindianexpress.com",
+                    "source_name": "The New Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGRzVsZDJsdVpHbGhibVY0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k1bnNyZ0RSRjNJdG0tVlNGRG5pZ0FQAQ"
+        },
+        {
+            "title": "Final goodbye? MS Dhoni's heart-warming meet-and-greet with CSK owners goes viral",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/final-goodbye-ms-dhonis-heart-warming-meet-and-greet-with-csk-owners-goes-viral/articleshow/120786832.cms",
+            "snippet": "Chennai Super Kings, led by MS Dhoni, faced elimination from the IPL playoff race after a four-wicket defeat against Punjab Kings at their home ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120786885,width-1280,height-720,resizemode-4/120786885.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWZRVlpqUzFBNWVIRnRUREJRVFJDb0FSaXNBaWdCTWdrQlVJaGtKS2dzNkFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T06:50:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "CSK CEO stops MS Dhoni for chat after PBKS knock them out of IPL; ‘They don’t need him next year,' says Pollock",
+                    "link": "https://www.hindustantimes.com/cricket/csk-ceo-stops-ms-dhoni-for-chat-after-pbks-knock-them-out-of-ipl-they-don-t-need-him-next-year-says-pollock-101746073456252.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/dhoni_kasi_1746073979279_1746073995792.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDJTRTFHTVRScU0zVldUR1JCVFJDMUFoaW1CQ2dLTWdrQlFJcW1wQ2NrNkFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:38:06.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Preity Zinta \"Happy Girl\" After Punjab Kings Dump CSK Out Of IPL 2025 Playoff Race",
+                    "link": "https://sports.ndtv.com/ipl-2025/preity-zinta-happy-girl-after-punjab-kings-dump-csk-out-of-ipl-2025-playoff-race-8302290",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/0g22c718_preity-zinta-bcci_625x300_10_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVRMUpqVlZoSloyVkxVMm80VFJEZ0F4al9CQ2dLTWdheFJKQ1FIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:05:46.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Chahal, Khaleel and Noor make IPL 2025 Purple Cap race interesting",
+                    "link": "https://www.espncricinfo.com/story/ipl-2025-yuzvendra-chahal-khaleel-ahmed-and-noor-ahmad-make-purple-cap-race-fun-1483842",
+                    "photo_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/400000/400097.6.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhiMlUyTWt4a2FWTlpjblowVFJDZkF4ampCU2dLTWdZZEk0SXJtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:09:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.espncricinfo.com",
+                    "source_name": "ESPNcricinfo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcWRqZERSSGJCMnJrMEpUSjZpZ0FQAQ"
+        },
+        {
+            "title": "Telangana SSC 2025 results released; check scores on three websites",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-ssc-2025-results-at-april-30-afternoon-to-be-available-on-three-websites/article69508319.ece",
+            "snippet": "Telangana SSC exam results for 2025 to be released by Chief Minister A. Revanth Reddy on Wednesday afternoon.",
+            "photo_url": "https://th-i.thgim.com/public/news/cities/Hyderabad/m4ee4/article69509301.ece/alternates/LANDSCAPE_1200/Telangana%20SSC%20results%202025%20wesbite.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVjMWgzVlZGQlQwMU9kVkJSVFJDZkF4ampCU2dLTWdhbGRKQ3RyUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:20:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "TS SSC Result 2025: BSE Telangana 10th result announced, 92.84 per cent pass, check direct link",
+                    "link": "https://www.indiatvnews.com/education/exam-results/telangana-board-ssc-result-live-updates-download-manabadi-ts-10th-scorecard-at-bse-telangana-gov-in-2025-04-30-987984",
+                    "photo_url": "https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2025/04/telangana-ssc-result-2025-1-1746004519.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtlbFIxVUhaMmVtVlRhRXN3VFJDZkF4ampCU2dLTWdZSk1ad1NvUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T09:57:40.000Z",
+                    "authors": [
+                        "Nidhi Mittal"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhoc2NYSnhkQklDWlc0b0FBUAE",
+                            "topic_name": "Nidhi Mittal"
+                        }
+                    ]
+                },
+                {
+                    "title": "Telangana SSC Results 2025: Supplementary exams from June 3",
+                    "link": "https://indianexpress.com/article/education/telangana-ssc-results-2025-supplementary-exams-from-june-3-9976403/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/exam-file.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZUM1JXUm05bldEZE1VRGhYVFJEb0FSaWVBeWdLTWdZQlFKclVJQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:06:41.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "SSC results: Telangana records 92.78% pass rate, girls excel",
+                    "link": "https://www.thehindu.com/news/national/telangana/ssc-results-telangana-records-9278-pass-rate-girls-excel/article69510209.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/68dfz0/article69510703.ece/alternates/LANDSCAPE_1200/2248_30_4_2025_14_51_52_2_SSC02.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDBRVkIxUm5OMlNuZEZaMFZzVFJDZkF4ampCU2dLTWdrQklKUXVKQ25nd2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T14:15:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pIN052aERSR216UGxDQURfREN5Z0FQAQ"
+        },
+        {
+            "title": "Gross GST collections rise to an all time high of Rs 2.37 lakh crore in April",
+            "link": "https://www.moneycontrol.com/news/business/economy/gross-gst-collections-rise-to-an-all-time-high-of-rs-2-4-lakh-crore-in-april-13010135.html",
+            "snippet": "The government had collected Rs 2.1 lakh crore in April 2024. The annualised pace of collections at 12.6 percent was also highest in 17 months.",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2024/08/20240827103435_GST-shutterstock-new.jpg?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZWbmhQU21VeFNHeERjRzVHVFJDZkF4ampCU2dLTWdhbHM0eHR2UVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T09:51:07.000Z",
+            "authors": [
+                "Ishaan Gera"
+            ],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKdWVuYzVjQklDWlc0b0FBUAE",
+                    "topic_name": "Ishaan Gera"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "GST collections in April 2025 hit record high of Rs 2.37 lakh crore; experts say sign of Indian economy's",
+                    "link": "https://timesofindia.indiatimes.com/business/india-business/gst-collections-in-april-hit-record-high-of-rs-2-37-lakh-crore-details-here/articleshow/120791701.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120791866,width-1280,height-720,resizemode-4/120791866.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHpPSEJGVkZBdFZGUkNVWEJCVFJDZkF4ampCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:01:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "India records highest ever GST collections at ₹2.36 lakh crore in April",
+                    "link": "https://www.cnbctv18.com/business/finance/india-records-highest-ever-gst-collections-april-2025-rs-2-36-lakh-crore-19597531.htm",
+                    "photo_url": "https://images.cnbctv18.com/uploads/2023/01/gst.jpg?impolicy=website&width=1200&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlNRzEyWlVweGMxZzRja1ZXVFJEZ0F4aUFCU2dLTWdZZFk1aVBNUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:17:16.000Z",
+                    "authors": [
+                        "Timsy Jaipuria"
+                    ],
+                    "source_url": "https://www.cnbctv18.com",
+                    "source_name": "CNBC TV18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER051WW1OMGRqRTRMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNJek0zWTVNaElDWlc0b0FBUAE",
+                            "topic_name": "Timsy Jaipuria"
+                        }
+                    ]
+                },
+                {
+                    "title": "GST collection rises 12.6% to highest-ever of ₹2.37 lakh crore in April 2025",
+                    "link": "https://www.livemint.com/economy/gst-collection-rises-12-6-to-highest-ever-of-rs-2-37-lakh-crore-in-april-2025-11746093117740.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/05/01/600x338/41485-iStock-1130669886-0_1746093197753_1746093198086.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNDJPRXBXWjJJd2Vrb3RaMnh0VFJEUkFoallCQ2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:57:32.000Z",
+                    "authors": [],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pScmNfa0RSSEh6QVNzVXBLWlBTZ0FQAQ"
+        },
+        {
+            "title": "Lynched over ‘pro-Pakistan slogan’ at cricket match in Mangaluru, Kerala man had intellectual disability, his family says",
+            "link": "https://indianexpress.com/article/india/lynched-pro-pakistan-slogan-cricket-match-mangaluru-kerala-man-disability-9974341/",
+            "snippet": "Ashraf, 36, was killed during a local cricket match earlier this week, with his attackers claiming he had been raising pro-Pakistan slogans. The ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/shraf.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlablF4UnpOalNGUk5ObGRMVFJDZkF4ampCU2dLTWdZcFZvenRLUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T08:05:00.000Z",
+            "authors": [
+                "shaju philip"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhjeWNucHllUklDWlc0b0FBUAE",
+                    "topic_name": "shaju philip"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Mangaluru mob lynching: Activists accuse police of inaction against man with BJP links",
+                    "link": "https://www.thenewsminute.com/karnataka/mangaluru-mob-lynching-activists-accuse-police-of-inaction-against-local-bjp-leader",
+                    "photo_url": "https://media.assettype.com/thenewsminute/2025-05-01/elx4t8n6/Mangalore-mob-lynching.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlVUzB5TVVWSFVUZEJka1JSVFJDQUJSamZBeWdLTWdZNWs1WlJzUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:29:57.000Z",
+                    "authors": [
+                        "Anisha Sheth",
+                        "Sudipto Mondal"
+                    ],
+                    "source_url": "https://www.thenewsminute.com",
+                    "source_name": "The News Minute",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thenewsminute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFWFJvWlc1bGQzTnRhVzUxZEdVdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKdWJtd3hjUklDWlc0b0FBUAE",
+                            "topic_name": "Anisha Sheth"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZHpCemVuSnRjUklDWlc0b0FBUAE",
+                            "topic_name": "Sudipto Mondal"
+                        }
+                    ]
+                },
+                {
+                    "title": "'Raising pro-Pakistan slogans is an act of treason': Karnataka CM Siddaramaiah",
+                    "link": "https://www.hindustantimes.com/cities/bengaluru-news/raising-pro-pakistan-slogans-is-an-act-of-treason-karnataka-cm-siddaramaiah-101746007482411.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/Siddaramaiah-Karnataka-caste-census_1744974122917_1746007564631.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1TblJVUXpoUmNWRjJSMjlUVFJDMUFoaWxCQ2dLTWdhQmRaTHNzUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:14:29.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Mob lynching in Mangaluru: Inspector, two constables suspended for negligence",
+                    "link": "https://www.thehindu.com/news/cities/Mangalore/mob-lynching-in-mangaluru-inspector-two-constables-suspended-for-negligence/article69521106.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/q7g9cy/article69521170.ece/alternates/LANDSCAPE_1200/30_mn%20Anupam%20Agrawal%201.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJNbmRVZDJoNVZ6RTVRbTAyVFJDZkF4ampCU2dLTWdZdFk1WXVLUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:42:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2ktbUpmZ0RSRmZhNWlpNExTMHVDZ0FQAQ"
+        },
+        {
+            "title": "India allows Pakistanis to leave until further orders, but Pak yet to open gates",
+            "link": "https://www.indiatoday.in/india/story/india-pakistan-nationals-relief-deportation-exit-attari-border-punjab-until-further-orders-modifies-april-30-deadline-direction-2717850-2025-05-01",
+            "snippet": "In a relief for Pakistani nationals staying in India, the Centre has allowed them to return via the Attari-Wagah border until further orders ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/pakistan-nationals-attari-border-012445794-16x9_0.jpg?VersionId=Vl0steNk8JGqyTUNjFcZSxnYHqjHY4rh?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXVWbUZXYkRoMFRUaGhWWHBMVFJDZkF4ampCU2dLTWdtUklKeG9GcW90cGdJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T05:12:17.000Z",
+            "authors": [
+                "Aseem Bassi"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTNGeWVsOTRlaElDWlc0b0FBUAE",
+                    "topic_name": "Aseem Bassi"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Wrong To Link Her To Pahalgam Attack, Says Seema Haider's Lawyer",
+                    "link": "https://www.ndtv.com/india-news/wrong-to-link-her-to-pahalgam-attack-says-seema-haiders-lawyer-8302417",
+                    "photo_url": "https://c.ndtvimg.com/2023-11/dc875dk8_seema-haider_625x300_06_November_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5Ua2hmYVhSRmFXZEtRWFkyVFJDeUF4akNCU2dLTWdZcFJwVHNwUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:03:41.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "'Pehle zameeno ka batwara tha, ab insaano ka ho raha hai': Pakistani families torn apart at Attari border",
+                    "link": "https://timesofindia.indiatimes.com/city/chandigarh/pehle-zameeno-ka-batwara-tha-ab-insaano-ka-ho-raha-hai-pakistani-families-torn-apart-at-attari-border/articleshow/120785229.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120786106,width-1280,height-720,resizemode-72/120786106.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXFhbkUzV0V4TU1YRkxWWFZPVFJDZkF4ampCU2dLTWdzQkFJWWhGMnNtNUlvTFJR=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:06:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pahalgam terror attack: India relaxes deadline, allows Pakistanis to leave via Wagah-Attari border till further notice",
+                    "link": "https://www.businesstoday.in/india/story/pahalgam-terror-attack-india-relaxes-deadline-allows-pakistanis-to-leave-via-wagah-attari-border-till-further-notice-474312-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202505/68130b17d5dda-the-development-came-almost-a-day-after-the-home-ministry-expanded-the-list-of-categories-exempted-f-01480260-16x9.png?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNWlXR05aYkhkQ1pGTTVNRjlaVFJDZkF4ampCU2dLTWdzQlVZYnlyR09oS2NvY2t3=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:48:19.000Z",
+                    "authors": [],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pmbzlyZERSRzMycEdYY1BSR2ZpZ0FQAQ"
+        },
+        {
+            "title": "IPL 2025: Match 50, RR vs MI Match Prediction – Who will win today’s IPL match between RR vs MI?",
+            "link": "https://www.crictracker.com/cricket-match-predictions/ipl-2025-match-50-rr-vs-mi-match-prediction-who-will-win-todays-ipl-match-between-rr-vs-mi-3457/",
+            "snippet": "Rajasthan Royals host Mumbai Indians in Match No. 50 of the ongoing IPL 2025 at the Sawai Mansingh Stadium in Jaipur on Thursday, May 01. · Match ...",
+            "photo_url": "https://media.crictracker.com/media/attachments/1745986751782_MIVRR.jpeg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpWRkJhYzA1MmJUZGlXbVl3VFJEUEF4aVdCU2dLTWdZQk1KUkRuUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T07:00:00.000Z",
+            "authors": [],
+            "source_url": "https://www.crictracker.com",
+            "source_name": "CricTracker",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crictracker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMk55YVdOMGNtRmphMlZ5TG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "IPL Match Today, RR vs MI Live Score Updates: Vaibhav Suryavanshi vs Rohit Sharma; Which opener will shine?",
+                    "link": "https://www.moneycontrol.com/sports/cricket/ipl/rr-vs-mi-ipl-today-match-live-score-rajasthan-royals-vs-mumbai-indians-live-cricket-scorecard-updates-jaipur-liveblog-13010221.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250428174346_suryatoan.png?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRkalJqV2xWSWRFTnBVM05WVFJDZkF4ampCU2dLTWdZZEpZYk5GUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T12:04:25.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Hardik Pandya and Riyan Parag eye special milestones as Mumbai Indians face Rajasthan Royals",
+                    "link": "https://www.livemint.com/sports/hardik-pandya-and-riyan-parag-eye-special-milestones-as-mumbai-indians-face-rajasthan-royals-11746083095036.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/05/01/600x338/CRICKET-IND-IPL-T20-MUMBAI-LUCKNOW-106_1746083200483_1746083227100.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNOSGhqVWpRMGVqaGFOMmhhVFJEUkFoallCQ2dLTWdZUkpZcXVxUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:52:03.000Z",
+                    "authors": [
+                        "Aachal Maniyar"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTURabVltZ3hNQklDWlc0b0FBUAE",
+                            "topic_name": "Aachal Maniyar"
+                        }
+                    ]
+                },
+                {
+                    "title": "IPL 2025: Vaibhav Suryavanshi-inspired Rajasthan Royals run into Mumbai Indians",
+                    "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2025-vaibhav-suryavanshi-inspired-rajasthan-royals-run-into-mumbai-indians/articleshow/120784776.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120784755,width-1280,height-720,resizemode-4/120784755.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpWbVZPVWpseExYTlJUMGR5VFJDZkF4ampCU2dLTWdZWklvYVBsUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:54:00.000Z",
+                    "authors": [
+                        "Suhas Nayse"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSMk56TXpNaElDWlc0b0FBUAE",
+                            "topic_name": "Suhas Nayse"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kxeXB2YkRSRkNhRlJXRXBqUm95Z0FQAQ"
+        },
+        {
+            "title": "Satya Chandrasekharendra Saraswathi anointed 71st pontiff of Kanchi Kamakoti Peetam",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/satya-chandrasekharendra-saraswathi-anointed-as-71st-pontiff-of-kanchi-kamakoti-peetam/article69507701.ece",
+            "snippet": "Satya Chandrasekharendra Saraswathi anointed as 71st pontiff of Kanchi Kamakoti Peetam.",
+            "photo_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/twfkty/article69508596.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-04-30%20at%2012.24.38.jpeg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJSbFJMU1hGMlYwaGpaVlphVFJDZkF4ampCU2dLTWdZSlE1QXpKUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:26:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Rig Vedic scholar from Andhra Pradesh anointed as next Shankaracharya of Kanchi Kamakoti Peetam",
+                    "link": "https://telanganatoday.com/rig-vedic-scholar-from-andhra-pradesh-anointed-as-next-shankaracharya-of-kanchi-kamakoti-peetam",
+                    "photo_url": "https://image.telanganatoday.com/wp-content/uploads/2025/04/KANCHIPITADHIPATHI_V_jpg--510x300-4g.webp?sw=412&dsz=510x300&iw=442&p=false&r=2.625",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXFZemhvWnpGemJWZEVOblZXVFJDc0Foai1BeWdLTWdtQk1wSVJIU201Q3dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:00:17.000Z",
+                    "authors": [],
+                    "source_url": "https://telanganatoday.com",
+                    "source_name": "Telangana Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://telanganatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdGdVoyRnVZWFJ2WkdGNUxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "TTD chief BR Naidu attends consecration ceremony of 71st pontiff of Kanchi mutt",
+                    "link": "https://timesofindia.indiatimes.com/city/amaravati/ttd-chief-br-naidu-attends-consecration-ceremony-of-71st-pontiff-of-kanchi-mutt/articleshow/120788703.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120788720,width-1280,height-720,resizemode-72/120788720.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRhRjl4YzJSSmMyZFFSSHBqVFJDZkF4amlCU2dLTWdhTlFZb0pKUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:19:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Kanchi Kamakoti Peetam appoints 25-year-old as 71st acharya",
+                    "link": "https://www.hindustantimes.com/india-news/kanchi-kamakoti-peetam-appoints-25-year-old-as-71st-acharya-101746039977711.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/Sri-Kanchi-Kamakoti-Peetham-Seer-Jagadguru-Sri-Sha_1746039970761.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDNTbTlsZUhWWFQxRkJWbGN4VFJDMUFoaW1CQ2dLTWdrQlVJaGdKQ2RMa3dF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T01:10:17.000Z",
+                    "authors": [
+                        "Divya Chandrababu"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGdWNURXhaeElDWlc0b0FBUAE",
+                            "topic_name": "Divya Chandrababu"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p4dXJfZERSRU12UkxNX2ZWVXp5Z0FQAQ"
+        },
+        {
+            "title": "India, Pakistan hackers trade codes & command in digital firefight",
+            "link": "https://m.economictimes.com/tech/technology/india-pakistan-hackers-trade-codes-command-in-digital-firefight/articleshow/120773408.cms",
+            "snippet": "Rising tensions between India and Pakistan since last week's Pahalgam terror attack have spilled over into cyberspace, with multiple groups ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120773473,width-1200,height-900,resizemode-4,imgsize-103440/india-pakistan-flag.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDJiRkpPVmxWU1NHbEdXbkZGVFJEZ0F4aUFCU2dLTWdrSlVKU0ZydWNsU1FJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T00:31:00.000Z",
+            "authors": [
+                "Himanshi Lohchab"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5ONGNUbG1NaElDWlc0b0FBUAE",
+                    "topic_name": "Himanshi Lohchab"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Researchers warn internet users, Pakistani hackers targeting your PCs, laptops and mobile: What to know",
+                    "link": "https://timesofindia.indiatimes.com/technology/tech-news/researchers-warn-internet-users-pakistani-hackers-targeting-your-pcs-laptops-and-mobile-what-to-know/articleshow/120787649.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120787641,width-1280,height-720,resizemode-4/120787641.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBZa1pEYVZwV1MwRkVYM1pVVFJDZkF4ampCU2dLTWdZdEpZak9MUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T07:25:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Pak-Based Hackers Target Army Public Schools, Other Indian Sites",
+                    "link": "https://www.ndtv.com/india-news/pak-based-hackers-target-army-public-schools-other-indian-sites-8286389",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/691rvtq4_hacked-_625x300_29_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNHlOMWxOVjJobU1WZHBObUpPVFJDeUF4akNCU2dLTWdNTkpBWQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T11:21:40.000Z",
+                    "authors": [
+                        "Vishnu Som"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNREp5TVhOak9CSUNaVzRvQUFQAQ",
+                            "topic_name": "Vishnu Som"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pahalgam attack: India-Pakistan cyber war erupts amidst border tensions",
+                    "link": "https://www.indiatvnews.com/technology/news/pahalgam-attack-india-pakistan-cyber-war-erupts-amidst-border-tensions-2025-05-01-988172",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/05/india-pakistan-cyber-war-1746087932.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtlVFExYzBKdVpuZFhWMWhLVFJDZkF4ampCU2dLTWdZQkFJR0MxQUk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:29:33.000Z",
+                    "authors": [
+                        "Om Gupta"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyY0hwMGNIbzVkaElDWlc0b0FBUAE",
+                            "topic_name": "Om Gupta"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pNbGV6ZERSRUt5ZXo2Q3JrSVNpZ0FQAQ"
+        },
+        {
+            "title": "Guterres warns India, Pakistan against 'tragic consequences'",
+            "link": "https://www.dw.com/en/guterres-warns-india-pakistan-against-tragic-consequences/live-72392663",
+            "snippet": "The UN secretary-general's warning comes as worries of spiraling conflict grow over a deadly attack in Kashmir.",
+            "photo_url": "https://static.dw.com/image/72394679_605.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhaVlYxUW1GaFIyTmxWWFJuVFJDZkF4ampCU2dLTWdZQkZJemxuUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T18:24:59.000Z",
+            "authors": [
+                "Tanika Godbole"
+            ],
+            "source_url": "https://www.dw.com",
+            "source_name": "DW",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqHggKIhhDQklTREFnTWFnZ0tCbVIzTG1OdmJTZ0FQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Od2FHb3llQklDWlc0b0FBUAE",
+                    "topic_name": "Tanika Godbole"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "UN chief dials S Jaishankar, Shehbaz Sharif as jittery Pakistan sounds ‘24-36 hours' strike alert",
+                    "link": "https://www.hindustantimes.com/india-news/un-chief-dials-s-jaishankar-shehbaz-sharif-as-jittery-pakistan-sounds-24-36-hours-strike-alert-pahalgam-terror-attack-101745983614053.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/S_jaishankar_1745985941833_1745985973309.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXBYMDQ0VDJwS1JHUndNbmxHVFJDMUFoaWxCQ2dLTWdrTmdvWVV1U1NhVUFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T04:09:51.000Z",
+                    "authors": [
+                        "aniruddha DHAR"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4ZG5vNE5qUmtjeElDWlc0b0FBUAE",
+                            "topic_name": "aniruddha DHAR"
+                        }
+                    ]
+                },
+                {
+                    "title": "UN chief offers to help in 'de-escalation', 'resumption of dialogue'",
+                    "link": "https://www.thehindu.com/news/international/un-chief-offers-to-help-in-de-escalation-resumption-of-dialogue/article69505797.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/4ycy7t/article69506791.ece/alternates/LANDSCAPE_1200/2025-04-03T171100Z_1969145599_RC2GQDAQX7SI_RTRMADP_3_MYANMAR-QUAKE-UN.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBiak40WjFaRFJrNDNZWFI2VFJDZkF4ampCU2dLTWdhWmg0aEpQZ1U=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T20:50:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "J&K attack: UN chief calls Jaishankar, Pak PM; offers de-escalation support",
+                    "link": "https://timesofindia.indiatimes.com/india/jk-attack-un-chief-calls-jaishankar-pak-pm-offers-de-escalation-support/articleshow/120739507.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120740422,width-1280,height-720,resizemode-4/120740422.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVhZMVJWY0ZkNVkyczNaSHBUVFJDZkF4ampCU2dLTWdtTk1aelZHT3FwU1FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T18:34:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p5OHNIaURSRnoxdmRlYk0wamhpZ0FQAQ"
+        },
+        {
+            "title": "Karnataka bus driver under probe after viral video shows him stopping for namaz",
+            "link": "https://www.indiatoday.in/india/karnataka/story/karnataka-haveri-ksrtc-bus-driver-under-probe-after-stopping-bus-midway-for-namaz-2717675-2025-04-30",
+            "snippet": "A KSRTC driver-cum-conductor in Karnataka's Haveri district is under investigation after a viral video showed him stopping a government bus ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/karnataka-bus-driver-stops-for-namaz-304111304-16x9_0.png?VersionId=nhEGdjYHNNilu.bSaVTnVObdu0ob_VTL?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXhXRXBOT0dscVVFaEZlbEZCVFJDZkF4ampCU2dLTWdrQkVKVE5qU2sxeXdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T15:44:17.000Z",
+            "authors": [
+                "Nagarjun Dwarakanath"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZHpOa2FqRTVjaElDWlc0b0FBUAE",
+                    "topic_name": "Nagarjun Dwarakanath"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "NWKRTC driver stops bus to offer namaz in Karnataka, Minister orders probe",
+                    "link": "https://www.thehindu.com/news/national/karnataka/nwkrtc-driver-stops-bus-to-offer-namaz-in-karnataka-minister-orders-probe/article69513011.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/6atwys/article69513160.ece/alternates/FREE_1200/CORONA%20VIRUSE%20COVID%2019",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5WWHBLVjFkdGNURjJXa2RUVFJEZ0F4aUFCU2dLTWdZQmNKUk9zQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:28:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Video: Karnataka Driver Stops Bus To Offer Namaz, Probe Ordered After Complaints",
+                    "link": "https://www.ndtv.com/india-news/video-karnataka-driver-stops-bus-to-offer-namaz-probe-ordered-after-complaints-8298604",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/2fbj343_karnataka-namaz-driver_625x300_30_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdXV3hSV1RKRVpIUXdjRmhtVFJDeUF4akNCU2dLTWdhbEVvYnNFUXM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:38:20.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Karnataka state bus driver suspended for stopping mid-route to offer namaz",
+                    "link": "https://www.indiatoday.in/india/karnataka/story/karnataka-ksrtc-bus-driver-suspended-for-praying-mid-route-on-duty-haveri-2718034-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/karnataka-state-bus-driver-suspended-namaz-010127999-16x9_0.png?VersionId=sFC9KpcPY31eGI4XizlsKQDIrNfsx3Te&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHROR1pQZUhSUldGUm9RM1ZTVFJDRUF4aXlCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:03:46.000Z",
+                    "authors": [
+                        "Nagarjun Dwarakanath"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZHpOa2FqRTVjaElDWlc0b0FBUAE",
+                            "topic_name": "Nagarjun Dwarakanath"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pnbmREakRSSF9ZQ1hlNWRKdHJTZ0FQAQ"
+        },
+        {
+            "title": "How India and Pakistan compare in military powers, strength and defence budget: All you need to know",
+            "link": "https://www.livemint.com/news/india/how-indian-and-pakistan-compare-in-military-powers-strength-and-defence-budget-all-you-need-to-know-11745999983527.html",
+            "snippet": "Pakistan on Wednesday alleged that India may be considering a military action against its neighbouring country in the next 24-36 hours.",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/1600x900/INDIA-PAKISTAN-KASHMIR-UNREST-42_1746001969967_1746002010862.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNNako0YnpZeFNreFZiRE42VFJDZkF4ampCU2dLTWdZWmtJYnd2QU0=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T09:10:58.000Z",
+            "authors": [
+                "Akriti Anand"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5SdWNHWTVaeElDWlc0b0FBUAE",
+                    "topic_name": "Akriti Anand"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Opinion: Opinion | There Is A 'Third' Player In The India-Pakistan Conflict",
+                    "link": "https://www.ndtv.com/opinion/there-is-a-third-player-in-the-india-pakistan-conflict-8293372",
+                    "photo_url": "https://i.ndtvimg.com/i/2016-08/cpec_650x400_51472448483.jpg?im=FeatureCrop,algorithm=dnn,width=270,height=300",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWpNMFU0U2sxV1pISTRiMnQzVFJDUUF4aUtCU2dLTWdtWk00cFBSV1NheGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-28T07:00:00.000Z",
+                    "authors": [
+                        "Dinesh Narayan"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWjJvMGJEUm5keElDWlc0b0FBUAE",
+                            "topic_name": "Dinesh Narayan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Nuclear Power! How India and Pakistan’s arsenals stack up",
+                    "link": "https://m.economictimes.com/news/defence/nuclear-power-how-india-and-pakistans-arsenals-stack-up/articleshow/120784375.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120784418,width-1200,height-900,resizemode-4,imgsize-35522/india-pakistan-dgmos-talk-over-hotline-india-warns-against-unprovoked-ceasefire-violations.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURkelJJT1hGa1NUVlZVbEE1VFJEZ0F4aUFCU2dLTWdZQlVKUUFMQWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:51:43.000Z",
+                    "authors": [
+                        "Jon Herskovitz"
+                    ],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1keWNYSm1jQklDWlc0b0FBUAE",
+                            "topic_name": "Jon Herskovitz"
+                        }
+                    ]
+                },
+                {
+                    "title": "India’s 1.4 million to Pakistan’s 700,000 military personnel: How the nations' defence forces compare",
+                    "link": "https://www.businesstoday.in/india/story/indias-14-million-to-pakistans-700000-military-personnel-how-the-nations-defence-forces-compare-474313-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202505/68130c3ec0881-pahalgam-terror-attack-how-indian-vs-pakistani-military-forces-compare-015256789-16x9.jpg?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9RbE5ZZGtONk9URnVURzlLVFJDZkF4ampCU2dLTWdrTklJNVpER3RFS1FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:53:28.000Z",
+                    "authors": [],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpdlpfa0RSR2JvZ3JxeE5uWV9DZ0FQAQ"
+        },
+        {
+            "title": "Kia Clavis Teased Ahead of May 8 Launch – Updated Carens Gets a New Identity",
+            "link": "https://www.rushlane.com/kia-clavis-teased-ahead-of-may-8-launch-updated-carens-12522331.html",
+            "snippet": "The new model is scheduled to make its debut on May 8, 2025. Unlike a typical facelift, Clavis is a more advanced and premium version of the ...",
+            "photo_url": "https://www.rushlane.com/wp-content/uploads/2025/05/Kia-Clavis-Teased-Ahead-of-May-8-Launch-3.jpeg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRTa0YzZGpoamIwSXRjVFUzVFJDZkF4ampCU2dLTWdZcFZaU3RMUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T03:17:28.000Z",
+            "authors": [
+                "Pearl Daniels"
+            ],
+            "source_url": "https://www.rushlane.com",
+            "source_name": "RushLane",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.rushlane.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEoxYzJoc1lXNWxMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoZmFIcDRheElDWlc0b0FBUAE",
+                    "topic_name": "Pearl Daniels"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "2 New 7-seaters Launching Next Month!",
+                    "link": "https://motoroctane.com/news/287374-2-new-7-seaters-launching-next-month",
+                    "photo_url": "https://motoroctane.com/wp-content/uploads/2025/04/Heading-51.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZiRXA2ZDA5d2RVSjRWbEkyVFJEZ0F4aUFCU2dLTWdhQklJVEVVQU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:30:00.000Z",
+                    "authors": [
+                        "Nachiket Bhole"
+                    ],
+                    "source_url": "https://motoroctane.com",
+                    "source_name": "MotorOctane",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://motoroctane.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMjF2ZEc5eWIyTjBZVzVsTG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1WjNSemNXYzRkQklDWlc0b0FBUAE",
+                            "topic_name": "Nachiket Bhole"
+                        }
+                    ]
+                },
+                {
+                    "title": "May 2025 car launches: From EVs and hot hatch, you can’t ignore",
+                    "link": "https://www.financialexpress.com/auto/car-news/may-2025-car-launches-from-evs-and-hot-hatch-you-cant-ignore/3829128/",
+                    "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/05/Upcoming-cars-May.jpg?w=350",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iNkNnNTJVVWswYVV4YWQzbExialpWVFJERUFSamVBaWdLTWc0SkFJS0gxS0twcEVyUHNOWXlGdw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:02:35.000Z",
+                    "authors": [],
+                    "source_url": "https://www.financialexpress.com",
+                    "source_name": "The Financial Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Kia Clavis MPV Teased Ahead Of May 8 Launch- To Replace Carens?",
+                    "link": "https://www.ndtv.com/auto/kia-clavis-mpv-teased-ahead-of-may-8-launch-to-replace-carens-8301608",
+                    "photo_url": "https://c.ndtvimg.com/2025-05/kmrhb3gk_kia_625x300_01_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=800",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlXV3RzVm5aNU0xZHdObVk1VFJERUF4aW1CU2dLTWdhSmNvNVF2UVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:21:29.000Z",
+                    "authors": [
+                        "Amulya Raj Srinet"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TWpONFkyMTBZeElDWlc0b0FBUAE",
+                            "topic_name": "Amulya Raj Srinet"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lrbll2YkRSSHR0cDdjbDJ0WG9DZ0FQAQ"
+        },
+        {
+            "title": "Thunderstorm alert for 21 Telangana districts on May 1",
+            "link": "https://www.thehindu.com/news/national/telangana/thunderstorm-alert-for-21-telangana-districts-on-may-1/article69510872.ece",
+            "snippet": "IMD issues thunderstorm alert for 21 Telangana districts, including Hyderabad, with lightning, gusty winds expected.",
+            "photo_url": "https://th-i.thgim.com/public/incoming/lbvljl/article69510888.ece/alternates/LANDSCAPE_1200/Screenshot%202025-04-30%20200717.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDJhRVIyVW5aSmRUVTNUVko1VFJDZkF4ampCU2dLTWdrTlFZYTNxQ2lhVHdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T15:21:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Telangana weather: IMD forecasts light to moderate rain and thunderstorms across state in next 5 days",
+                    "link": "https://indianexpress.com/article/cities/hyderabad/telangana-weather-imd-rain-thunderstorms-9976472/",
+                    "photo_url": "https://images.indianexpress.com/2025/05/telangana-weather.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZPSFJzY2xwVVdFbGFhM1ZMVFJEb0FSaWVBeWdLTWdhQlFKZ2tvUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:50:28.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "IMD Hyderabad issues thunderstorm warning for next five days in Telangana",
+                    "link": "https://telanganatoday.com/imd-hyderabad-issues-thunderstorm-warning-for-next-five-days-in-telangana",
+                    "photo_url": "https://image.telanganatoday.com/wp-content/uploads/2025/04/weather_V_jpg--510x300-4g.webp?sw=412&dsz=510x300&iw=442&p=false&r=2.625",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUlkMDU2U2tobWRVVm5aMGwzVFJDc0Foai1BeWdLTWdPVkVRRQ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T14:02:37.000Z",
+                    "authors": [],
+                    "source_url": "https://telanganatoday.com",
+                    "source_name": "Telangana Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://telanganatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdGdVoyRnVZWFJ2WkdGNUxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Telangana to see showers, lightning till May 4",
+                    "link": "https://www.newindianexpress.com/amp/story/states/telangana/2025/May/01/telangana-to-see-showers-lightning-till-may-4",
+                    "photo_url": "https://media.assettype.com/newindianexpress/2025-04-30/gteoofz6/State-to-see-showers.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXNaRk5WVlRCSFVteG9URmhDVFJDWkF4anVCU2dLTWdrQmNZNUVzU2F4Y3dF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:40:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.newindianexpress.com",
+                    "source_name": "The New Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGRzVsZDJsdVpHbGhibVY0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pJemVQakRSRXoxM0g2ZmhjWkl5Z0FQAQ"
+        },
+        {
+            "title": "More than 20 MLAs write to Amit Shah; urge him to form 'popular government' in Manipur to bring peace",
+            "link": "https://www.thehindu.com/news/national/manipur/more-than-20-mlas-write-to-amit-shah-urge-him-to-form-popular-government-in-manipur-to-bring-peace/article69508703.ece",
+            "snippet": "Twenty-one Manipur MLAs have written to Union Home Minister Amit Shah, urging him to form a \"popular government\" in the northeastern State, ...",
+            "photo_url": "https://th-i.thgim.com/public/incoming/mqc3wq/article69490467.ece/alternates/LANDSCAPE_1200/PTI04_23_2025_000227B.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBMWGs1VDFkblNtRmZaVVZMVFJDZkF4ampCU2dLTWdZQlFKenFJUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T07:44:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "21 Manipur MLAs Write To PM Modi, Ask To Form \"Popular Government\"",
+                    "link": "https://www.ndtv.com/india-news/21-manipur-mlas-write-to-pm-narendra-modi-ask-to-form-popular-government-8295163",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/tcnvbhbs_manipur-assembly_625x300_30_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDRZakkxYVU4NE5VaE1lVFp6VFJDeUF4akNCU2dLTWdZUlVKTE1KUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:53:29.000Z",
+                    "authors": [
+                        "Debanish Achom",
+                        "Ratnadip Choudhury"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RWMmJIbGZYeElDWlc0b0FBUAE",
+                            "topic_name": "Debanish Achom"
+                        },
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TURGeGNERTJPUklDWlc0b0FBUAE",
+                            "topic_name": "Ratnadip Choudhury"
+                        }
+                    ]
+                },
+                {
+                    "title": "Manipur guv convenes security meet in Imphal to assess law and order",
+                    "link": "https://timesofindia.indiatimes.com/city/guwahati/manipur-guv-convenes-security-meet-in-imphal-to-assess-law-and-order/articleshow/120774475.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-117620931,width-1280,height-720,resizemode-72/117620931.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJVQzFsVW1GclpqbG9RbEYwVFJDZkF4ampCU2dLTWdZTk1vd3JKUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:37:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Letter by Manipur MLAs & a standstill",
+                    "link": "https://indianexpress.com/article/opinion/editorials/letter-by-manipur-mlas-a-standstill-9975345/",
+                    "photo_url": null,
+                    "thumbnail_url": null,
+                    "published_datetime_utc": "2025-05-01T01:52:39.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pGcHVyZURSR3doZmRrbm9NdTV5Z0FQAQ"
+        },
+        {
+            "title": "JKBOSE 12th Result 2025: Jammu Kashmir Board Class 12 results declared, overall 75% students pass, link here",
+            "link": "https://www.hindustantimes.com/education/exam-results/jkbose-12th-result-2025-jammu-kashmir-board-class-12-results-declared-overall-75-students-pass-link-here-101746000381045.html",
+            "snippet": "JKBOSE 12th Result 2025: Jammu Kashmir Board Class 12 results have been declared. Overall 75 per cent students have passed the Class 12 ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/_0e970f3a-b939-11ea-9350-67a6fbf842e0_1746002205839.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJOalJSZWxodlRFdFRPRUpTVFJDMUFoaWxCQ2dLTWdZQlFKUm9vQWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T08:39:46.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "JKBOSE 10th Result 2025 out Live: Jammu & Kashmir 10th board results declared, 79.94% pass, link here",
+                    "link": "https://www.hindustantimes.com/education/board-exams/jkbose-10th-result-2025-live-jammu-and-kashmir-board-class-10th-jkbose-nic-in-jkresults-nic-in-direct-link-updates-101746011530211.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/JKBOSE_10th_1746065323958_1746065329012.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhVWGx1VDBGMVIxTm1jRTVUVFJDMUFoaWxCQ2dLTWdhMUFxUVFEUXc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:54:40.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Aiming to continue my family legacy of becoming a doctor",
+                    "link": "https://www.greaterkashmir.com/kashmir/aiming-to-continue-my-family-legacy-of-becoming-a-doctor/",
+                    "photo_url": "https://m.greaterkashmir.com/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JlYXRlcmthc2htaXItc29ydGQtcHJvLXByb2Qtc29ydGQvbWVkaWE1NTYwMjcwMC0yNWY3LTExZjAtODQwYi0wZDFlMmRjMmVkZGIucG5n",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtkbGxmV0hwM01FaDRVbkpwVFJDVkF4ajBCU2dLTWdhcFZaVE5wUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:14:22.000Z",
+                    "authors": [],
+                    "source_url": "https://www.greaterkashmir.com",
+                    "source_name": "Greater Kashmir",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greaterkashmir.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWR5WldGMFpYSnJZWE5vYldseUxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "JKBOSE Class 12 toppers 2025: Areeza scores 99.2% in arts, Adiba 99.0% in commerce, Aanchal 99.0% in scie",
+                    "link": "https://timesofindia.indiatimes.com/education/news/jkbose-class-12-toppers-2025-areeza-scores-99-2-in-arts-adiba-99-0-in-commerce-aanchal-99-0-in-science-see-full-merit-list/articleshow/120764814.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120764954,width-1280,height-720,resizemode-4/120764954.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBlRGR4VW1WTU5EWjFSbTlSVFJDZkF4ampCU2dLTWdZQmdZNm1OQWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T11:57:00.000Z",
+                    "authors": [
+                        "Sanjay Sharma"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3WmpnNGVtWnVPUklDWlc0b0FBUAE",
+                            "topic_name": "Sanjay Sharma"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pqbVBfVkRSRWh1Uy1HT1dCR1BpZ0FQAQ"
+        },
+        {
+            "title": "ITR forms 1, 4 notified for FY 2024-25 (AY 2025-26): Now report these long-term capital gains in ITR-1; check other changes",
+            "link": "https://m.economictimes.com/wealth/tax/itr-forms-1-4-notified-for-fy-2024-25-ay-2025-26-major-overhaul-in-itr-form-1-to-include-these-long-term-capital-gain-taxes-check-what-else-has-changed/articleshow/120740367.cms",
+            "snippet": "Income tax ITR forms for FY 2024-25 notified: The Central Board of Direct Taxes (CBDT) has notified some income tax return forms.",
+            "photo_url": "https://img.etimg.com/thumb/width-420,height-315,imgsize-150608,resizemode-75,msid-120740349/wealth/tax/itr-forms-1-4-notified-for-fy-2024-25-ay-2025-26-major-overhaul-in-itr-form-1-to-include-these-long-term-capital-gain-taxes-check-what-else-has-changed/tax9-getty.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBlV1JqZGpsUVdDMHdVQzFFVFJDN0FoaWtBeWdLTWdhaFlvNHRxUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T10:12:40.000Z",
+            "authors": [
+                "Preeti Motiani"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Wm5Sa2MyZHpiaElDWlc0b0FBUAE",
+                    "topic_name": "Preeti Motiani"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "ITR filing FY 2024-25: New ITR-1 form notified with major changes - here’s what taxpayers should know",
+                    "link": "https://timesofindia.indiatimes.com/business/financial-literacy/taxation/itr-filing-fy-2024-25-new-itr-1-form-notified-with-major-changes-heres-what-taxpayers-should-know/articleshow/120785747.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120786002,width-1280,height-720,resizemode-4/120786002.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFhV1JqUjBKV01uRTNZVVpmVFJDZkF4ampCU2dLTWdZQkFveGxFZ3c=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:30:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Tax filing schedule: July 31 is the last date to file ITR for FY 2024-25 for non-audit taxpayers",
+                    "link": "https://www.businesstoday.in/personal-finance/tax/story/tax-filing-schedule-july-31-is-the-last-date-to-file-itr-for-fy-2024-25-for-non-audit-taxpayers-474346-2025-05-01",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202505/681346d080953-income-tax-return-010250599-16x9.jpg?size=948:533",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNW9jbGcyZG5ndFVGcG5iMFZxVFJDZkF4ampCU2dLTWdNVlF3Zw=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:34:29.000Z",
+                    "authors": [],
+                    "source_url": "https://www.businesstoday.in",
+                    "source_name": "Business Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Income Tax Return forms changed; Govt notifies forms 1 and 4 for assessment year (AY) 2025-26",
+                    "link": "https://www.financialexpress.com/money/income-tax-income-tax-return-filing-key-changes-cbdt-notifies-forms-1-and-4-for-the-assessment-year-ay-2025-26-3827882/",
+                    "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/04/Income-Tax-3.png?w=440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVOMWR5YzJWT1lrUkdXR0ZEVFJEM0FSaTNBeWdLTWdZTklJeVdxQVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:23:44.000Z",
+                    "authors": [],
+                    "source_url": "https://www.financialexpress.com",
+                    "source_name": "The Financial Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l3d0tmYURSRjFQMkNfem52WWppZ0FQAQ"
+        },
+        {
+            "title": "Legendary Italian manager criticises Barcelona's performance vs Inter - 'Expected more from them'",
+            "link": "https://barcauniversal.com/legendary-italian-manager-criticises-barcelonas-performance-vs-inter-expected-more-from-them/",
+            "snippet": "Legendary Italian coach Arrigo Sacchi gave his honest opinion after Barcelona's thrilling 3-3 draw against Inter Milan in the Champions ...",
+            "photo_url": "https://barcauniversal.com/wp-content/uploads/2025/05/as-roma-v-acf-fiorentina-women-supercup-scaled.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpTVVpqWVhoaVZFRTJNRFJzVFJERUF4aW1CU2dLTWdhQkJZU3VKUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T07:57:41.000Z",
+            "authors": [
+                "Swapnil Bhopatkar"
+            ],
+            "source_url": "https://barcauniversal.com",
+            "source_name": "Barca Universal",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://barcauniversal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbUpoY21OaGRXNXBkbVZ5YzJGc0xtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzT1hwcWVtUXpjaElDWlc0b0FBUAE",
+                    "topic_name": "Swapnil Bhopatkar"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Lamine Yamal Heroics Preserve Barcelona Champions League Final Dream",
+                    "link": "https://sports.ndtv.com/uefa-champions-league/lamine-yamal-heroics-preserve-barcelona-champions-league-final-dream-8303351",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/negc4mno_lamine-yamal-afp_625x300_29_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBSSFJDUldoWVRWOU1UV2hXVFJEZ0F4al9CQ2dLTWdhdEZJcXVrUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:58:25.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Inter Milan manage to hold Barcelona as thrilling Champions League semifinal first leg ends in 3-3 draw",
+                    "link": "https://www.hindustantimes.com/sports/football/inter-milan-manage-to-hold-barcelona-as-thrilling-champions-league-semifinal-first-leg-ends-in-3-3-draw-101746064826369.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/SOCCER-CHAMPIONS-BAR-INT-REPORT-100_1746065155751_1746065370968.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBiWE5FZGpGNGNFOURjVVZzVFJDMUFoaWxCQ2dLTWdhQk1KQ2tuQWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:10:53.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Inter player ratings vs Barcelona: Denzel Dumfries dominates as Nerazzuri just about survive Lamine Yamal masterclass to secure first-leg draw in stunning Champions League semi-final",
+                    "link": "https://www.goal.com/en-in/lists/inter-player-ratings-vs-barcelona-denzel-dumfries-lamine-yamal-champions-league-semi-final/bltb25b1cc1d086006b",
+                    "photo_url": "https://assets.goal.com/images/v3/bltb66633a720744919/Denzel%20Dumfries%20Inter%20HIC.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJVbEl5Um5semRscDFjWEo0VFJDZkF4ampCU2dLTWdZdEpZNnVsUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T21:01:15.000Z",
+                    "authors": [
+                        "Mark Doyle"
+                    ],
+                    "source_url": "https://www.goal.com",
+                    "source_name": "Goal.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR2R2WVd3dVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzTWw4ek4zWndOQklDWlc0b0FBUAE",
+                            "topic_name": "Mark Doyle"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2llMXRMZ0RSR1g3QUlZR1ZZVGFpZ0FQAQ"
+        },
+        {
+            "title": "HIT: The Third Case Box Office Collection Day 1",
+            "link": "https://www.sacnilk.com/quicknews/HIT_The_Third_Case_2025_Box_Office_Collection_Day_1",
+            "snippet": "As of now, HIT: The Third Case earned around 11.96 Cr India net on its first day for all languages. Note: This is live data, with only the next ...",
+            "photo_url": "https://www.sacnilk.com/image/bunnyimagenews.php?newsid=1000022834",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFUM0J3ZUhCQk1GaGxhVm80VFJDM0FSaVRBaWdCTWdhaE5aek1tUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T08:33:01.000Z",
+            "authors": [],
+            "source_url": "https://www.sacnilk.com",
+            "source_name": "Sacnilk",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sacnilk.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM05oWTI1cGJHc3VZMjl0S0FBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Review: Nani’s HIT 3 – Engaging survival thriller",
+                    "link": "https://www.123telugu.com/reviews/nani-hit-3-telugu-movie-review.html",
+                    "photo_url": "https://cdn.123telugu.com/content/wp-content/uploads/2025/04/HIT3-12.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNW9TbTQwZEdKVlNYQndiSFYyVFJDUUF4allCQ2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:10:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.123telugu.com",
+                    "source_name": "123Telugu.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.123telugu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVEV5TTNSbGJIVm5kUzVqYjIwb0FBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "HIT: The Third Case Review | Nani is the only thing that shines in this gritty gore fest",
+                    "link": "https://www.cnbctv18.com/entertainment/hit-the-third-case-review-nani-shines-ws-l-19597581.htm",
+                    "photo_url": "https://images.cnbctv18.com/uploads/2025/05/hit-3-2025-05-acb3289ca5636cda261c4c9bccf8ad2f.jpg?impolicy=website&width=1200&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXdkR1p1TmsxRFVYRXdhM0kxVFJEZ0F4aUFCU2dLTWdrVlFZNkpwU1VsWndJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:46:22.000Z",
+                    "authors": [
+                        "Asmita Pant"
+                    ],
+                    "source_url": "https://www.cnbctv18.com",
+                    "source_name": "CNBC TV18",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER051WW1OMGRqRTRMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TURNd2R6UTVjeElDWlc0b0FBUAE",
+                            "topic_name": "Asmita Pant"
+                        }
+                    ]
+                },
+                {
+                    "title": "Hit The Third Case Twitter reviews: Fans compare Nani's ‘gripping’ film with Squid Game, hail 'massive cameos'",
+                    "link": "https://www.hindustantimes.com/entertainment/telugu-cinema/hit-the-third-case-twitter-reviews-fans-compare-nanis-gripping-film-with-squid-game-hail-massive-cameos-101746074555309.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/Hit_The_Third_Case_Twitter_reviews_nani_1746076456851_1746076464392.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURhVnBKVlMxeWFEQjFRamRrVFJDMUFoaWxCQ2dLTWdZZEJvNHJFZ3M=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:29:10.000Z",
+                    "authors": [
+                        "Ananya Das"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvMmVXcDNlaElDWlc0b0FBUAE",
+                            "topic_name": "Ananya Das"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lXam8zWkRSR2Y0Q0VQNlh3UGNpZ0FQAQ"
+        },
+        {
+            "title": "Who is Palwasha Mohammad Zai Khan? Pakistani Senator’s Ayodhya remarks spark outrage",
+            "link": "https://timesofindia.indiatimes.com/world/pakistan/who-is-palwasha-mohammad-zai-khan-pakistani-senators-ayodhya-remarks-spark-outrage-first-brick-of-babri-mosque-will-be-laid-by-pakistan-army/articleshow/120780984.cms",
+            "snippet": "Palwasha Khan, a member of the ruling Pakistan Peoples Party (PPP) and deputy information secretary, suggested that the path was being laid for ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120781139,width-1280,height-720,resizemode-4/120781139.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZielkwUWtkeWVGTklURXBEVFJDZkF4ampCU2dLTWdhdEpaaXVGUW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T01:40:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Who is Palwasha Mohammad Zai Khan? Senator claims Pak army will lay first brick at new Babri?",
+                    "link": "https://www.hindustantimes.com/india-news/who-is-palwasha-mohammad-zai-khan-senator-claims-pak-army-will-lay-first-brick-at-new-babri-101746035363270.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/Palwasha_1746035870520_1746035880409.png",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFNa2MzYjB4RllrRlZiVVpyVFJDMUFoaW1CQ2dLTWdZcGRZVE5zUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:35:18.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "First brick of Babri mosque in Ayodhya will be laid by Pak soldiers: Senator",
+                    "link": "https://www.indiatoday.in/india/story/pakistani-senator-palwasha-zai-khan-brick-new-babri-mosque-in-ayodhya-2717589-2025-04-30",
+                    "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/senior-pakistani-senator-palwasha-mohammad-zai-khan-303048252-16x9_0.png?VersionId=SvezCZL1Gajt7hdDVz7c5Uh6v7AeuRGs&size=690:388",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5NM0JEYmtSNlUxUjNNRVJQVFJDRUF4aXlCU2dLTWdZdEpaYXVtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:18:19.000Z",
+                    "authors": [
+                        "Atul Mishra"
+                    ],
+                    "source_url": "https://www.indiatoday.in",
+                    "source_name": "India Today",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzWm5wNWRtWmpOaElDWlc0b0FBUAE",
+                            "topic_name": "Atul Mishra"
+                        }
+                    ]
+                },
+                {
+                    "title": "Amid India-Pak rift, Senator Palwasha Zai Khan makes shocking remark on Ayodhya's Ram Mandir, sparks backl",
+                    "link": "https://m.economictimes.com/news/new-updates/amid-india-pak-rift-senator-palwasha-zai-khan-makes-shocking-remark-on-ayodhyas-ram-mandir-sparks-backlash/articleshow/120781480.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120781915,width-1200,height-900,resizemode-4,imgsize-923263/palwasha-mohammad-zai-khan.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFaMFZoYTNab2VXWktXV3hrVFJEZ0F4aUFCU2dLTWdhdEpaaXVGUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:41:52.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pQLXBiaURSSFpGRXZTXzNkRmJpZ0FQAQ"
+        },
+        {
+            "title": "Pakistan in UNSC, India gets support of other non-permanent members",
+            "link": "https://indianexpress.com/article/india/pakistan-in-unsc-india-gets-support-of-other-non-permanent-members-9973427/",
+            "snippet": "Having faced a tough battle in negotiating a statement at the UN Security Council where Pakistan is currently a non-permanent member, ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/Jaishankar1-3col.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVRMjgzYjFKcFMwMVBXR0UxVFJDZkF4ampCU2dLTWdhdEpZTE9tUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T00:09:00.000Z",
+            "authors": [
+                "Shubhajit Roy"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsbWRIWmlYeElDWlc0b0FBUAE",
+                    "topic_name": "Shubhajit Roy"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "\"UK Must Stand With Our Friends\": Indian-Origin MP Condemns Pahalgam Attack",
+                    "link": "https://www.ndtv.com/india-news/uk-must-stand-with-our-friends-indian-origin-mp-priti-patel-condemns-pahalgam-attack-8301332",
+                    "photo_url": "https://c.ndtvimg.com/2024-12/0jqco7ss_british-mp-priti-patel_625x300_04_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxaMnR3YmxkMGFreHpiMWhRVFJDeUF4akNCU2dLTWdZdFJaU3VKUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:42:09.000Z",
+                    "authors": [
+                        "Manjiri Chitre"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1oNWNUaDJNaElDWlc0b0FBUAE",
+                            "topic_name": "Manjiri Chitre"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pahalgam attack: India reaches out to non-permanent members of UNSC",
+                    "link": "https://indianexpress.com/article/india/pahalgam-attack-india-non-permanent-members-unsc-pakistan-9975350/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/jaishankar_21ef1f_20250430161539.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhaRnA1WW1SYVIwRndaazloVFJEb0FSaWVBeWdLTWdhdGRaRE5yUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:21:33.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "'Perpetrators, planners must be brought to justice': Jaishankar raises Pahalgam attack with US",
+                    "link": "https://www.moneycontrol.com/news/india/perpetrators-planners-must-be-brought-to-justice-jaishankar-raises-pahalgam-attack-with-us-13009782.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2024/12/20241229050555_EAM-1.jpg?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUhTMVZxWm5aTWNscDNjWFpQVFJDZkF4ampCU2dLTWdrTmhZNnNNZWVocndF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:31:13.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lPcWJyY0RSR01Ed3BrU0h2VWRDZ0FQAQ"
+        },
+        {
+            "title": "Lord's to host 2026 Women's T20 WC final",
+            "link": "https://www.cricbuzz.com/cricket-news/134232/lords-to-host-2026-womens-t20-wc-final",
+            "snippet": "The 2026 Women's T20 World Cup, to be hosted by England, shall have its final at Lord's. This development was confirmed by the England and ...",
+            "photo_url": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c683287/the-tournament-kicks-off-on-june-12.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUliREYzVjJGd1RuZFVkMFZrVFJDb0FSaXJBaWdCTWdZWllKQjNxQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T06:52:11.000Z",
+            "authors": [],
+            "source_url": "https://www.cricbuzz.com",
+            "source_name": "Cricbuzz.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cricbuzz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER055YVdOaWRYcDZMbU52YlNnQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "How Rahul Dravid Has Created 'Safety Net' For 14-Year-Old Vaibhav Suryavanshi, To Avoid 'Prithvi Sha..",
+            "link": "https://sports.ndtv.com/cricket/how-rahul-dravid-has-created-safety-net-for-14-year-old-vaibhav-suryavanshi-to-avoid-prithvi-shaw-bylane-8285806",
+            "snippet": "Young talent Vaibhav Suryavanshi, coached by Rahul Dravid, faces pressure as he navigates fame after becoming the world's youngest T20 centurion ...",
+            "photo_url": "https://c.ndtvimg.com/2025-04/7for0pig_vaibhav-suryavanshi-bcci_625x300_29_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZha3REZFdOaGRreG9XVFZOVFJEZ0F4al9CQ2dLTWdhbFZJcXNJUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T14:35:12.000Z",
+            "authors": [],
+            "source_url": "https://sports.ndtv.com",
+            "source_name": "NDTV Sports",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Vaibhav Suryavanshi CANNOT play T20 World Cup 2026 for Team India, here's WHY...",
+                    "link": "https://www.india.com/photos/sports/vaibhav-suryavanshi-cannot-play-t20-world-cup-2026-for-team-india-here-why-rr-vs-mi-440624/",
+                    "photo_url": "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/vaibhav-suryavanshi-cannot-play-t20-world-cup-2026-for-team-india-heres-why-202505-1746098819.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNWFYMWR2YjNGSlgyeDZXRGRZVFJEZ0F4aUFCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T11:33:39.000Z",
+                    "authors": [
+                        "Devadyuti Das"
+                    ],
+                    "source_url": "https://www.india.com",
+                    "source_name": "India.Com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGdWVubGlhaElDWlc0b0FBUAE",
+                            "topic_name": "Devadyuti Das"
+                        }
+                    ]
+                },
+                {
+                    "title": "Dravid: Don't want to confuse Suryavanshi with 'too many things', he should 'have some fun'",
+                    "link": "https://www.espncricinfo.com/story/ipl-2025-dravid-on-vaibhav-suryavanshi-dont-want-to-confuse-him-with-too-many-things-1483696",
+                    "photo_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/399500/399507.6.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWthbmgzY25KRU1FbzJTMUY0VFJDZkF4ampCU2dLTWdhbEZZYnJGUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T15:14:00.000Z",
+                    "authors": [
+                        "Shashank Kishore"
+                    ],
+                    "source_url": "https://www.espncricinfo.com",
+                    "source_name": "ESPNcricinfo",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OcmRIa3plUklDWlc0b0FBUAE",
+                            "topic_name": "Shashank Kishore"
+                        }
+                    ]
+                },
+                {
+                    "title": "The whims and fancies of being a prodigy",
+                    "link": "https://www.thehindu.com/sport/cricket/the-whims-and-fancies-of-being-a-prodigy/article69511479.ece",
+                    "photo_url": "https://th-i.thgim.com/public/sport/o1h5pi/article69511483.ece/alternates/LANDSCAPE_1200/GRV.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpUVTl4V1dnMU0yZGlOMjloVFJDZkF4ampCU2dLTWdhSmNwSkdNUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T16:54:00.000Z",
+                    "authors": [
+                        "R. Kaushik"
+                    ],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxY0RReFlteGZiQklDWlc0b0FBUAE",
+                            "topic_name": "R. Kaushik"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lBaGNfUkRSSHFGWXhkenA2X2JTZ0FQAQ"
+        },
+        {
+            "title": "MI sign legspinner Raghu Sharma as replacement for injured Vignesh Puthur",
+            "link": "https://www.espncricinfo.com/story/ipl-2025-mi-sign-legspinner-raghu-sharma-as-replacement-for-injured-vignesh-puthur-1483858",
+            "snippet": "The franchise has signed uncapped legspinner Raghu Sharma as Puthur's replacement. Puthur had a memorable debut earlier this season, picking up three wickets ...",
+            "photo_url": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/400100/400114.6.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhjQzFHUjA5TWMzcHJiWGxKVFJDZkF4ampCU2dLTWdhcFJZck5KUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T06:46:49.000Z",
+            "authors": [],
+            "source_url": "https://www.espncricinfo.com",
+            "source_name": "ESPNcricinfo",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.espncricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1Z6Y0c1amNtbGphVzVtYnk1amIyMG9BQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Mumbai Indians sign Raghu Sharma as a replacement for the injured Vignesh Puthur",
+                    "link": "https://www.iplt20.com/news/4187/mumbai-indians-sign-raghu-sharma-as-a-replacement-for-the-injured-vignesh-puthur",
+                    "photo_url": "https://documents.iplt20.com/bcci/articles/1746007291_SPCS3513.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9VRlV0U1U1amJISmljSGhUVFJDb0FSaXJBaWdCTWdZUkFvSnBqZ28=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:55:14.000Z",
+                    "authors": [],
+                    "source_url": "https://www.iplt20.com",
+                    "source_name": "IPL T20",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.iplt20.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbWx3YkhReU1DNWpiMjBvQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Raghu Sharma replaces Vignesh Puthur at Mumbai Indians for the rest of TATA IPL 2025",
+                    "link": "https://www.mumbaiindians.com/news/raghu-sharma-replaces-vignesh-puthur-ipl-2025-mumbai-indians-cricket",
+                    "photo_url": "https://www.mumbaiindians.com/static-assets/waf-images/f7/23/1e/4-3/592-444/BE55WqZpJS.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBhVjh3Y1RSRVpuTlNOVTlTVFJEQ0FSaURBaWdCTWdhMUlvWVVuUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:04:54.000Z",
+                    "authors": [],
+                    "source_url": "https://www.mumbaiindians.com",
+                    "source_name": "Mumbai Indians | Official website",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mumbaiindians.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFVzExYldKaGFXbHVaR2xoYm5NdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Bad news for Mukesh Ambani's MI ahead of IPL 2025 match vs RR, star player will be...",
+                    "link": "https://www.india.com/photos/sports/bad-news-for-mukesh-ambani-mi-ahead-of-ipl-2025-match-vs-rr-star-player-will-be-vignesh-puthur-raghu-sharma-440566/",
+                    "photo_url": "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/bad-news-for-mukesh-ambanis-mi-ahead-of-ipl-2025-match-vs-rr-star-player-will-be-202505-1746080461.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUVMWGhZVlhCSFpFSlRiazVEVFJEZ0F4aUFCU2dLTWdrQk1KSldtS213S0FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:38:04.000Z",
+                    "authors": [
+                        "Devadyuti Das"
+                    ],
+                    "source_url": "https://www.india.com",
+                    "source_name": "India.Com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGdWVubGlhaElDWlc0b0FBUAE",
+                            "topic_name": "Devadyuti Das"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lqZzdia0RSRXJGR3hZUmJFX0N5Z0FQAQ"
+        },
+        {
+            "title": "Gold prices today in your city: Check rates in Mumbai, Delhi, Bengaluru, Chennai, Kolkata, and Hyderabad on May 1",
+            "link": "https://www.livemint.com/market/commodities/gold-price-your-city-today-may-1-silver-rates-delhi-bengaluru-mumbai-kolkata-hyderabad-chennai-invest-market-safe-haven-11746064725955.html",
+            "snippet": "Gold Prices Today: Check Gold Rates in India — May 1 ... As such, price at 7.20 am on May 1, on the MCX gold index was ₹94,611 per 10 gm, down ₹91 ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/05/01/1600x900/gold_prices_rates_city_May_1_markets_mumbai_delhi_1746066083139_1746066083434.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtTVVJzY1hsbmNVbE5ZVmw0VFJDZkF4ampCU2dLTWdZSlFJaVRJQVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T02:22:54.000Z",
+            "authors": [
+                "Jocelyn F."
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTlRrMk5sOXlhaElDWlc0b0FBUAE",
+                    "topic_name": "Jocelyn F."
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Gold price forecast: Why did gold fall below $3,300 and what Trump's new China tariffs and upcoming US job",
+                    "link": "https://m.economictimes.com/news/international/us/gold-price-forecast-why-did-gold-fall-below-3300-and-what-trumps-new-china-tariffs-and-upcoming-us-jobs-data-mean-for-golds-next-big-move/articleshow/120765436.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120765923,width-1200,height-900,resizemode-4,imgsize-1854083/gold-price-forecast-why-did-gold-fall-below-3300-and-what-trumps-new-china-tariffs-and-upcoming-us-jobs-data-mean-for-golds-next-big-move.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBYME15ZGpZeWFWQnhUM1pVVFJEZ0F4aUFCU2dLTWdZRlVaRGxMQWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T12:40:16.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Gold falls over 7% from the all-time high level of $3,500",
+                    "link": "https://www.financialexpress.com/market/gold-pulse/why-is-gold-price-falling-after-reaching-an-all-time-high-level-of-3500/3828947/",
+                    "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/05/gold-IE-Representational-image-via-Canva.jpg?w=440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU9hVkJxUkVzMFJGRmxTVGQ2VFJEM0FSaTRBeWdLTWdzQkFJYUduU1lsTW1sa3lR=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:30:23.000Z",
+                    "authors": [
+                        "sunil dhawan"
+                    ],
+                    "source_url": "https://www.financialexpress.com",
+                    "source_name": "The Financial Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OMlpIRjJjaElDWlc0b0FBUAE",
+                            "topic_name": "sunil dhawan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Gold Today Rate, 1 May: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities",
+                    "link": "https://indianexpress.com/article/india/gold-today-rate-1-may-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-9976196/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/dharavui-68.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXFTUzB3TVMwMVIxaFBSMHhmVFJEb0FSaWVBeWdLTWdrQkFJYW1JYWNsVXdF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:18:12.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6M3M3akRSRURPT0RHanpoZ0VDZ0FQAQ"
+        },
+        {
+            "title": "Indian origin CEO allegedly shoots wife, son before killing self in US townhouse: Report",
+            "link": "https://www.hindustantimes.com/india-news/indian-origin-ceo-harshavardhana-kikkeri-allegedly-shoots-wife-son-before-killing-self-in-us-townhouse-report-101745942949658.html",
+            "snippet": "Harshavardhana Kikkeri, a 57-year-old Indian-origin CEO, allegedly killed his co-founder wife Shwetha Panyam (44), son Dhruva Kikkeri (14) and ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/29/550x309/Screenshot_2025-04-29_203823_1745940244908_1745946843885.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhVVkZMVHpSRFJtUnFVR3RwVFJDMUFoaW1CQ2dLTWdZeEJZYXZFUXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T17:31:30.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Indian Tech Entrepreneur Kills Wife, Son, Then Dies By Suicide In US",
+                    "link": "https://www.ndtv.com/world-news/indian-tech-entrepreneur-kills-wife-son-then-dies-by-suicide-in-us-8287659",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/6o6thqr4_man-us-dies-_625x300_29_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXNiV2szVWw5bkxXdEROVVZRVFJDeUF4akNCU2dLTWdtTmNwSVVxZWVwekFF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T13:41:01.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Bullet on street, blood on window: HoloWorld CEO Harshavardhana Kikkeri from Karnataka shoots family dead",
+                    "link": "https://timesofindia.indiatimes.com/city/mysuru/bullet-on-street-blood-on-window-ex-holoworld-ceo-harshavardhana-kikkeri-from-karnataka-shoots-family-dead-in-us-then-kills-self/articleshow/120748758.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120748776,width-1280,height-720,resizemode-72/120748776.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU5ZbFpNWkVKbk1tazFZbTlaVFJDZkF4amtCU2dLTWdtTlVwWVVxYWV4S1FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T03:02:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "US: Three Indian-origin people found dead after Washington shooting",
+                    "link": "https://m.economictimes.com/nri/latest-updates/us-three-indian-origin-people-found-dead-after-washington-shooting/articleshow/120785445.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120785604,width-1200,height-900,resizemode-4,imgsize-9140/us-three-indian-origin-people-found-dead-after-washington-shooting.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpkRXRKY3kxWk9WRlFlR1J2VFJEZ0F4aUFCU2dLTWdhVllZeExzUVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:33:16.000Z",
+                    "authors": [],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2p5d1A3ZERSRm1QbE10b1pwT0l5Z0FQAQ"
+        },
+        {
+            "title": "Bad news for Preity Zinta's PBKS after win over CSK, star cricketer will be...",
+            "link": "https://www.india.com/photos/sports/bad-news-for-preity-zinta-pbks-after-win-over-csk-star-cricketer-will-be-glenn-maxwell-440544/",
+            "snippet": "Punjab Kings will miss the services of all-rounder Glenn Maxwell for remaining season with a fractured finger. \"It's very unfortunate that he's ...",
+            "photo_url": "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/bad-news-for-preity-zintas-pbks-after-win-over-csk-star-cricketer-will-be-202505-1746076661.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpSVkZDVDJSeVlsQkJXVFp2VFJEZ0F4aUFCU2dLTWdZRklaYWtuQWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T05:31:06.000Z",
+            "authors": [
+                "Devadyuti Das"
+            ],
+            "source_url": "https://www.india.com",
+            "source_name": "India.Com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV2x1WkdsaExtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGdWVubGlhaElDWlc0b0FBUAE",
+                    "topic_name": "Devadyuti Das"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Finger fracture rules Maxwell out of IPL 2025",
+                    "link": "https://www.cricbuzz.com/cricket-news/134225/finger-fracture-rules-maxwell-out-of-ipl-2025",
+                    "photo_url": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c682420/glenn-maxwell-has-scored-only-48-runs-so-far-this-campaign.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9WMll5TFZVNE5tNVdVMmM0VFJDb0FSaXJBaWdCTWdZaEpvRHRGUW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T21:22:30.000Z",
+                    "authors": [],
+                    "source_url": "https://www.cricbuzz.com",
+                    "source_name": "Cricbuzz.com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cricbuzz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER055YVdOaWRYcDZMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Glenn Maxwell ruled out of rest of IPL 2025 due to finger injury; Punjab Kings looking at replacement",
+                    "link": "https://indianexpress.com/article/sports/cricket/glenn-maxwell-ruled-out-of-rest-of-ipl-2025-punjab-kings-9977086/",
+                    "photo_url": "https://images.indianexpress.com/2025/05/GLENN-MAXWELL.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlYMUZJVjFKaVptVTRWM2QwVFJEb0FSaWVBeWdLTWdhaGRZak5yUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T12:06:47.000Z",
+                    "authors": [],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "Ponting rues lack of replacements for Glenn Maxwell, Lockie Ferguson: ‘With PSL going on, there’s not a lot of quality…'",
+                    "link": "https://www.hindustantimes.com/cricket/ricky-ponting-blames-psl-for-pbks-glenn-maxwell-lockie-ferguson-replacements-delay-drops-ipl-2025-transfer-update-101746070677002.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/1000043385_1746071131328_1746071140283.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXNPVTFpZW1oU1EwaFdRMFZFVFJDMUFoaWxCQ2dLTWd1Qk1JcVdGT3JRU1BwYWdn=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T03:48:50.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pldklYa0RSRUktaE4xNnY0ak1TZ0FQAQ"
+        },
+        {
+            "title": "School holiday on May 1: Check the list of states where schools will be closed today",
+            "link": "https://www.livemint.com/news/india/list-of-all-states-in-india-where-schools-will-be-closed-on-may-1-thursday-11745992752918.html",
+            "snippet": "List of all states where schools will be closed on May 1 · Assam · Bihar · Goa · Karnataka · Kerala · Manipur · Pondicherry · Telangana ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/1600x900/schools_1745993016735_1745993016913.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUphMGMyTTBjeFMwWlBNMmRQVFJDZ0F4amlCU2dLTWdPcDR3QQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:35:04.000Z",
+            "authors": [
+                "Garvit Bhirani"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzNGMmEycG1kQklDWlc0b0FBUAE",
+                    "topic_name": "Garvit Bhirani"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "School Holiday on May 1, 2025 (Labour Day): Schools To Remain Closed in these States on Thursday​",
+                    "link": "https://www.jagranjosh.com/articles/labour-day-school-holiday-on-1-may-2025-check-list-of-states-for-school-closures-1746018909-1",
+                    "photo_url": "https://img.jagranjosh.com/images/2025/April/3042025/school-holidays-on-may-1-2025.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWliR1pVYlV4d1lrczJSWFJPVFJDZkF4ampCU2dLTWdhTmNZN252QVU=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:11:57.000Z",
+                    "authors": [
+                        "gurmeet kaur"
+                    ],
+                    "source_url": "https://www.jagranjosh.com",
+                    "source_name": "Jagran Josh",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagranjosh.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbXBoWjNKaGJtcHZjMmd1WTI5dEtBQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Sak4yYzFZeElDWlc0b0FBUAE",
+                            "topic_name": "gurmeet kaur"
+                        }
+                    ]
+                },
+                {
+                    "title": "School Assembly News Headlines, 1 May 2025: National, International, Business and Sports Updates",
+                    "link": "https://www.moneycontrol.com/education/school-assembly-news-headlines-1-may-2025-national-international-business-and-sports-updates-2-article-13010308.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/05/20250501115401_School-Assembly-News-Headlines-for-1st-May.png?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJWV0pEUzFOUlZpMVpMVkE1VFJDZkF4ampCU2dLTWdZSklvS0duUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T12:08:09.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "School holiday today: List of states where schools will remain shut for Labour Day",
+                    "link": "https://www.indiatvnews.com/education/high-schools/school-holiday-tomorrow-list-of-states-where-schools-will-remain-shut-for-labour-day-2025-04-30-988071",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/04/classroom-1746020576.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZNRjh3WlRSYU5tOWZXbnAxVFJDZkF4ampCU2dLTWdZQm9JUTZYQUk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:43:21.000Z",
+                    "authors": [
+                        "Manmath Nayak"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1T0RnMFpHSTFYeElDWlc0b0FBUAE",
+                            "topic_name": "Manmath Nayak"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pEOExUa0RSRTJ2eHN1aGJleWJ5Z0FQAQ"
+        },
+        {
+            "title": "Pak's ISI chief gets key role amid tensions with India over Pahalgam attack",
+            "link": "https://www.indiatoday.in/world/story/isi-chief-lt-gen-asim-malik-appointed-national-security-advisor-india-pak-tensions-pahalgam-attack-2717754-2025-05-01",
+            "snippet": "Amid escalating tensions between India and Pakistan over the Pahalgam terror attack, ISI chief Lt Gen Mohammad Asim Malik was appointed ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/paks-isi-chief-305105871-16x9_0.jpg?VersionId=U93vUFRmha90qcosGXF6trb_jnZwil99?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFZbTFEYVUxak1sSndZMTlyVFJDWUFoanpBeWdLTWdhaFZZcnNyUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T03:00:22.000Z",
+            "authors": [
+                "Shivani Sharma"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYW1Sa00zbGZjeElDWlc0b0FBUAE",
+                    "topic_name": "Shivani Sharma"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "ISI Chief Mohammad Asim Malik's New Role Amid India-Pakistan Tensions",
+                    "link": "https://www.ndtv.com/world-news/pakistans-isi-chief-mohammad-asim-maliks-new-role-amid-india-pakistan-tensions-8300370",
+                    "photo_url": "https://c.ndtvimg.com/2025-05/vph162d_isi-mohammed-asim-malik-_625x300_01_May_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNOVkpFTFVoNGJqSnZaMjVuVFJDeUF4akNCU2dLTWdZcEpvN3RIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T01:16:18.000Z",
+                    "authors": [
+                        "Srishti Kapoor"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NeGJqbHdjUklDWlc0b0FBUAE",
+                            "topic_name": "Srishti Kapoor"
+                        }
+                    ]
+                },
+                {
+                    "title": "Who is Lt Gen Muhammad Asim Malik? ISI chief named Pakistan’s NSA amid tensions with India over Pahalgam attack",
+                    "link": "https://www.hindustantimes.com/world-news/who-is-lt-gen-muhammad-asim-malik-isi-chief-named-pakistan-s-nsa-amid-tensions-with-india-after-pahalgam-attack-101746070225561.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/402743_2110780_updates_1746071045767_1746071059807.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJaV1V0T0doS1YyeHlOa2RmVFJDMUFoaW1CQ2dLTWdhcE5ZN05JUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T03:47:09.000Z",
+                    "authors": [
+                        "aniruddha DHAR"
+                    ],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4ZG5vNE5qUmtjeElDWlc0b0FBUAE",
+                            "topic_name": "aniruddha DHAR"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pakistan's ISI chief Asim Malik appointed NSA in midnight promotion amid war worries with India",
+                    "link": "https://www.indiatvnews.com/news/world/pakistan-s-isi-chief-asim-malik-appointed-nsa-in-midnight-promotion-amid-war-worries-with-india-2025-05-01-988121",
+                    "photo_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/05/pakistan-isi-chief-asim-malik-1746066098.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5WMVpLV21sWVpqUnJSeTF1VFJDZkF4ampCU2dLTWdZcEpvcnRIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:31:18.000Z",
+                    "authors": [
+                        "Ashish Verma"
+                    ],
+                    "source_url": "https://www.indiatvnews.com",
+                    "source_name": "India TV News",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmx1WkdsaGRIWnVaWGR6TG1OdmJTZ0FQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Sck4yUjBPUklDWlc0b0FBUAE",
+                            "topic_name": "Ashish Verma"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pKdXU3akRSRkZoWnBTWFFCa3ZDZ0FQAQ"
+        },
+        {
+            "title": "Akshaya Tritiya 2025: Dos And Don'ts For A Lucky Year",
+            "link": "https://www.rediff.com/getahead/report/slide-show-1-akshaya-tritiya-2025-dos-and-donts-for-a-lucky-year/20250430.htm",
+            "snippet": "Akshaya = never decreasing. And Tritiya implies the third phase of the moon. This extremely auspicious day -- also called Akha Teej -- is ...",
+            "photo_url": "https://im.rediff.com/getahead/2025/apr/30webstory-akshaya-tritiya2.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNTJSMFZ1TWxJdGRXb3hZMHRSVFJEakJSaWZBeWdLTWdzRk1aalZGQ201RExvaW9n=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:53:07.000Z",
+            "authors": [],
+            "source_url": "https://www.rediff.com",
+            "source_name": "Rediff",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkpsWkdsbVppNWpiMjBvQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "Pakistan won’t strike first but there’ll be tit-for-tat: Ishaq Dar amid fears of ’military action by India’ in 24 hours",
+            "link": "https://www.livemint.com/news/india/pakistan-wont-strike-first-but-therell-be-tit-for-tat-ishaq-dar-amid-fears-of-military-action-by-india-in-24-hours-11745988013156.html",
+            "snippet": "Pakistan's Foreign Minister Ishaq Dar has said that Pakistan will not strike India first but reserves the right to retaliate.",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/1600x900/PAKISTAN_1745988543035_1745988543296.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZjMDQxTTBOb1VERllSamRKVFJDZkF4ampCU2dLTWdhdE5aak5IUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T04:47:25.000Z",
+            "authors": [
+                "Akriti Anand"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5SdWNHWTVaeElDWlc0b0FBUAE",
+                    "topic_name": "Akriti Anand"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Pakistan vows fierce response to Indian aggression",
+                    "link": "https://timesofindia.indiatimes.com/india/pakistan-vows-fierce-response-to-indian-aggression/articleshow/120774776.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120774774,width-1280,height-720,resizemode-4/120774774.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5lak16ZUdNdGVHWnpZa1ZxVFJDZkF4ampCU2dLTWdZcEpvRHNtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T18:46:00.000Z",
+                    "authors": [
+                        "Omer Farooq-khan"
+                    ],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWkROM2RqVjZkQklDWlc0b0FBUAE",
+                            "topic_name": "Omer Farooq-khan"
+                        }
+                    ]
+                },
+                {
+                    "title": "'Won't Initiate, But Respond Strongly If...': Pak Amid Tensions With India",
+                    "link": "https://www.ndtv.com/india-news/pahalgam-terror-attack-pakistan-warns-of-strong-response-if-provoked-8298345",
+                    "photo_url": "https://c.ndtvimg.com/2025-04/m4utv76c_ishaq-dar_625x300_30_April_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNVdhRkZFUm5ocFZrdHFjRzF5VFJDeUF4akNCU2dLTWdzQllKSmdJMmx6S3FwRmtn=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T17:00:32.000Z",
+                    "authors": [],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                },
+                {
+                    "title": "PCB chief Naqvi hits back at India over Pahalgam attack: 'Pakistan’s economic stability is intolerable for India'",
+                    "link": "https://www.firstpost.com/firstcricket/pahalgam-attack-india-pakistan-pcb-chairman-mohsin-naqvi-13883422.html",
+                    "photo_url": "https://images.firstpost.com/uploads/2024/11/pakistan-cricket-board-2024-11-fcc2edcbb280644de10b4e974d57ce04.jpg?im=FitAndFill=(1200,675)",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBVRWR4TTBabFRrdHZiekpMVFJDZkF4ampCU2dLTWdZcGRZN05zUVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-27T08:34:40.000Z",
+                    "authors": [],
+                    "source_url": "https://www.firstpost.com",
+                    "source_name": "Firstpost",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV1pwY25OMGNHOXpkQzVqYjIwb0FBUAE",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pMN3VEYkRSR0JoWHRqVjQ4UVpDZ0FQAQ"
+        },
+        {
+            "title": "Donald Trump on fallout from trade war: 'US kids may get 2 dolls instead of 30'",
+            "link": "https://www.hindustantimes.com/world-news/us-news/donald-trump-on-fallout-from-trade-war-us-kids-may-get-2-dolls-instead-of-30-101746040490953.html",
+            "snippet": "US President Donald Trump on Wednesday stated that tariffs imposed by his administration could lead to American children having “two dolls ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/1600x900/TRUMP-CABINET-4_1746041403872_1746041409869.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5aV2xQUjFCMU5raFFYM0IwVFJDZkF4ampCU2dLTWdheFE0eVFKUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T19:34:43.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Donald Trump downplays China tariff impact, says US kids may get '2 dolls instead of 30'",
+                    "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-downplays-tariff-impact-says-us-kids-may-get-2-dolls-instead-of-30/articleshow/120781729.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120781810,width-1280,height-720,resizemode-4/120781810.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpaRk5JZFZoNlprTTVPSE5pVFJDZkF4ampCU2dLTWdhdE1aU09xUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:25:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Trump, on Tariffs, Says ‘Maybe the Children Will Have 2 Dolls Instead of 30’",
+                    "link": "https://www.nytimes.com/2025/04/30/us/politics/trump-tariffs-dolls-comment.html",
+                    "photo_url": "https://static01.nyt.com/images/2025/04/30/multimedia/30DC-TRUMP-DOLLS-twqh/30DC-TRUMP-DOLLS-twqh-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJPRU5uVVZOdWFrZE9VVVIwVFJDUUF4allCQ2dLTWdZQlVKSnVKUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T22:13:52.000Z",
+                    "authors": [
+                        "Shawn McCreesh"
+                    ],
+                    "source_url": "https://www.nytimes.com",
+                    "source_name": "The New York Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZUhJeWMzSTBlUklDWlc0b0FBUAE",
+                            "topic_name": "Shawn McCreesh"
+                        }
+                    ]
+                },
+                {
+                    "title": "‘China will probably eat those tariffs’: Trump doubles down on Beijing, says ‘great times are ahead’",
+                    "link": "https://www.livemint.com/news/china-will-probably-eat-those-tariffs-trump-doubles-down-on-beijing-says-great-times-are-ahead-11745977512463.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/600x338/USA-TRUMP-100-DAYS-13_1745979590862_1745979610400.JPG",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVkbEZ2UTNwMlFtazNjVmhvVFJEUkFoallCQ2dLTWdZSklwak5sUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T02:29:33.000Z",
+                    "authors": [],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pVNVpEa0RSRTNLSlVnaWgwQm5DZ0FQAQ"
+        },
+        {
+            "title": "Government revamps National Security Advisory Board, appoints ex-RAW chief Alok Joshi as chairman",
+            "link": "https://www.thehindu.com/news/national/govt-revamps-national-security-advisory-board-appoints-ex-raw-chief-alok-joshi-its-chairman/article69509330.ece",
+            "snippet": "Government revamps National Security Advisory Board amid speculation of retaliation to Pahalgam terror attack, appoints Alok Joshi as ...",
+            "photo_url": "https://th-i.thgim.com/public/news/national/eechyg/article69509384.ece/alternates/LANDSCAPE_1200/alok%20joshi%20ex%20raw.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhYeTB3UzJOTVkzVm5jbGRCVFJDZkF4ampCU2dLTWdhQmRZenNzUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T09:39:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Security advisory board revamped after Pahalgam attack, ex-RAW chief picked as head",
+                    "link": "https://www.hindustantimes.com/india-news/government-revamps-national-security-advisory-board-after-pahalgam-terror-attack-101745999604028.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/30/550x309/ccs_1746000885329_1746000885545.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRjblo0UlU0M1NYRmFTRTQ0VFJDMUFoaWxCQ2dLTWdZQkVZNENKd2c=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T08:16:21.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Who Is Alok Joshi, Ex-RAW Chief And Now Head Of National Security Advisory Board?",
+                    "link": "https://www.oneindia.com/india/who-is-alok-joshi-ex-raw-chief-and-now-head-of-national-security-advisory-board-4139375.html",
+                    "photo_url": "https://imagesvs.oneindia.com/img/2025/04/alok-joshi-02-1746008092.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURSRXhKUW5SSmFGOVJiblZJVFJDb0FSaXJBaWdCTWdZMVZJNXhLUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:16:24.000Z",
+                    "authors": [
+                        "Prakash Kl"
+                    ],
+                    "source_url": "https://www.oneindia.com",
+                    "source_name": "Oneindia",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.oneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzl1WldsdVpHbGhMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZGpSMFlsOWZjeElDWlc0b0FBUAE",
+                            "topic_name": "Prakash Kl"
+                        }
+                    ]
+                },
+                {
+                    "title": "Modi government revamps NSA Board, new members with unique skill sets added for fresh impetus",
+                    "link": "https://theprint.in/india/modi-government-revamps-nsa-board-new-members-with-unique-skill-sets-added-for-fresh-impetus/2610016/",
+                    "photo_url": "https://static.theprint.in/wp-content/uploads/2025/04/Ram-Satpute-5.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDRTVzFzY0hsVUxXcGljamxoVFJDZkF4ampCU2dLTWdrQjRJcFB5S1RJTXdF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T13:21:27.000Z",
+                    "authors": [
+                        "Snehesh Alex Philip"
+                    ],
+                    "source_url": "https://theprint.in",
+                    "source_name": "ThePrint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWlhCeWFXNTBMbWx1S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WHpJeWNYWXhNQklDWlc0b0FBUAE",
+                            "topic_name": "Snehesh Alex Philip"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pyanAzakRSRWtwRzBPdkxwNFRpZ0FQAQ"
+        },
+        {
+            "title": "Forces reclaim Koragutta Hills in Chhattisgarh from Maoists",
+            "link": "https://timesofindia.indiatimes.com/india/forces-reclaim-koragutta-hills-in-chhattisgarh-from-maoists/articleshow/120777090.cms",
+            "snippet": "Chhattisgarh security forces have reportedly cleared Maoists from Koragutta Hills, a Naxal stronghold bordering Telangana, after a nine-day ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120777123,width-1280,height-720,resizemode-4/120777123.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVPRlJxWkVaT09HTlNWVE15VFJDZkF4ampCU2dLTWdZQkFwZ0Vpd28=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T22:05:00.000Z",
+            "authors": [
+                "Bharti Jain"
+            ],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WW1oMGVqRnJkaElDWlc0b0FBUAE",
+                    "topic_name": "Bharti Jain"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Victims of Maoist violence want Chhattisgarh govt to continue mega anti-Naxal operation: CM Sai",
+                    "link": "https://www.hindustantimes.com/india-news/victims-of-maoist-violence-want-chhattisgarh-govt-to-continue-mega-anti-naxal-operation-cm-sai-101746095336587.html",
+                    "photo_url": "https://www.hindustantimes.com/ht-img/img/2024/12/18/550x309/India_3_1734523619133_1734523643821.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHlVVnBzWDBreFlUSnNTSEU0VFJDMUFoaWxCQ2dLTWdrQllJaEFScVFHY1FF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:28:56.000Z",
+                    "authors": [],
+                    "source_url": "https://www.hindustantimes.com",
+                    "source_name": "Hindustan Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Video clip of security personnel waving National Flag on Karregutta hill range garners social media attention",
+                    "link": "https://www.thehindu.com/news/national/telangana/video-clip-of-security-personnel-waving-national-flag-on-karregutta-hill-range-garners-social-media-attention/article69511339.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/vu7ub1/article69513090.ece/alternates/LANDSCAPE_1200/GpxpM2ZXgAAcMq6.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNkbXBrTldreVdtdHdhMnhJVFJDZkF4ampCU2dLTWdZbEpaTHRtUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T06:24:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Endgame For Red Terror? Security Forces Deal Major Blow To Maoists In Koragutta Offensive",
+                    "link": "https://swarajyamag.com/news-brief/endgame-for-red-terror-security-forces-deal-major-blow-to-maoists-in-koragutta-offensive",
+                    "photo_url": "https://swarajya.gumlet.io/swarajya/2025-05-01/ny6dlyo1/naxalite%20(1).jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9kWHBCZEZGMlgzZEZMVTAyVFJERUF4aW1CU2dLTWdtUlFaUm5IcWsxS2dJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:22:32.000Z",
+                    "authors": [],
+                    "source_url": "https://swarajyamag.com",
+                    "source_name": "Swarajyamag",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://swarajyamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM04zWVhKaGFubGhiV0ZuTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pLNlpyZERSSFp6dVN4UTNFeVdpZ0FQAQ"
+        },
+        {
+            "title": "Gold Demand Trends: Q1 2025",
+            "link": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q1-2025",
+            "snippet": "Total Q1 gold demand (inclusive of OTC investment) was 1% higher y/y at 1,206t – the highest for a first quarter since 2016.",
+            "photo_url": "https://www.gold.org/sites/default/files/styles/social_image/public/2025-04/GDT%20IMAGE.jpeg?itok=p3tRsfKa",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU9kVVZ2TFhGSFYwWkphWEZDVFJDaUFSaTNBaWdCTWdzSkFKQllRS1N4d25yTHlB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T12:00:00.000Z",
+            "authors": [],
+            "source_url": "https://www.gold.org",
+            "source_name": "World Gold Council",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.gold.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR2R2YkdRdWIzSm5LQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "India's gold demand falls 15% in January-March to 118.1 tonnes on high prices: World Gold Council",
+                    "link": "https://www.thehindu.com/business/markets/indias-gold-demand-falls-15-in-january-march-to-1181-tonnes-on-high-prices-world-gold-council/article69508904.ece",
+                    "photo_url": "https://th-i.thgim.com/public/incoming/16sjfc/article69508915.ece/alternates/LANDSCAPE_1200/_KMK8801.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlSbGhHY0V0aVltSlJhMVJKVFJDZkF4ampCU2dLTWdZQllJUTV3QU0=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T08:02:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.thehindu.com",
+                    "source_name": "The Hindu",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Gold shows signs of consolidation as investment eases, but Trump looms",
+                    "link": "https://m.economictimes.com/news/international/business/gold-shows-signs-of-consolidation-as-investment-eases-but-trump-looms/articleshow/120785150.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120785177,width-1200,height-900,resizemode-4,imgsize-56006/us-pmi-data-triggers-sharp-decline-in-gold-prices.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9ObHBLYVd4cWNrbFVaMGRmVFJEZ0F4aUFCU2dLTWdheElJcnhuQVk=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T05:12:58.000Z",
+                    "authors": [
+                        "Clyde Russell"
+                    ],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1Od2Ftb3hOUklDWlc0b0FBUAE",
+                            "topic_name": "Clyde Russell"
+                        }
+                    ]
+                },
+                {
+                    "title": "Gold demand shone in early 2025 on renewed ETF inflows, report says",
+                    "link": "https://www.livemint.com/market/commodities/gold-demand-shone-in-early-2025-on-renewed-etf-inflows-report-says-11746010488832.html",
+                    "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/600x338/pexels-photo-366551_1746010559874_1746010574004.jpeg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWljM2xZUVRWeWJHUkxSVmRwVFJEU0FoallCQ2dLTWdtQlFZZ3dyZVNDS0FJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T10:58:20.000Z",
+                    "authors": [
+                        "Joseph Hoppe"
+                    ],
+                    "source_url": "https://www.livemint.com",
+                    "source_name": "Mint",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Sd2JtcDZNUklDWlc0b0FBUAE",
+                            "topic_name": "Joseph Hoppe"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpdjVma0RSRTZiWWxVM3JtVDd5Z0FQAQ"
+        },
+        {
+            "title": "Adani Enterprises Q4 Results: PAT surges 752% YoY to Rs 3,845 crore on exceptional gain",
+            "link": "https://m.economictimes.com/markets/stocks/earnings/adani-enterprises-q4-results-pat-surges-752-yoy-to-rs-3845-crore-on-exceptional-gain/articleshow/120791260.cms",
+            "snippet": "Gautam Adani-led Adani Enterprises on Thursday reported a 752% year-on-year (YoY) surge in profit to Rs 3,845 crore for the fourth quarter ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120791245,width-1200,height-900,resizemode-4,imgsize-6952/adani-enterprises.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZSbFV3Ym5nM2VVdEpURjkxVFJEZ0F4aUFCU2dLTWdZWlpKcUtLUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T09:33:58.000Z",
+            "authors": [
+                "Akash Podishetti"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVd3M01qQm5hQklDWlc0b0FBUAE",
+                    "topic_name": "Akash Podishetti"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Adani Enterprises Q4: Net profit surges over 8 times on exceptional gain, EBITDA jumps 19%; company announces dividend",
+                    "link": "https://upstox.com/news/market-news/earnings/adani-enterprises-q4-net-profit-surges-over-8-times-on-exceptional-gain-ebitda-jumps-19-company-announces-dividend/article-164577/",
+                    "photo_url": "https://assets.upstox.com/content/assets/images/news/adanienterprises1011.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVja1EzWjBsalkwdExUbUpxVFJEZ0F4aUFCU2dLTWdZWmNKUUtMUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:38:05.000Z",
+                    "authors": [
+                        "Abhishek Vasudev"
+                    ],
+                    "source_url": "https://upstox.com",
+                    "source_name": "Upstox",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDblZ3YzNSdmVDNWpiMjBvQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTVRCc2VHczFlQklDWlc0b0FBUAE",
+                            "topic_name": "Abhishek Vasudev"
+                        }
+                    ]
+                },
+                {
+                    "title": "Adani Enterprises Q4 Results: Net profit rises to Rs 3,845 crore, revenue falls 8%",
+                    "link": "https://www.moneycontrol.com/news/business/earnings/adani-enterprises-q4-results-net-profit-rises-to-rs-3-845-crore-revenue-falls-8-13009947.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2024/08/20240815090929_adanirtr.png?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNTBVbUptTUhCUE1VMVlZa3BDVFJDZkF4ampCU2dLTWdNRlFCNA=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T09:43:24.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Adani Enterprises posted 26% rise in consolidated EBITDA, incubating businesses surge 68%",
+                    "link": "https://energy.economictimes.indiatimes.com/news/power/adani-enterprises-posted-26-rise-in-consolidated-ebitda-incubating-businesses-surge-68/120792312?utm_source=branded_content&utm_medium=homepage",
+                    "photo_url": "https://etimg.etb2bimg.com/thumb/msid-120792312,width-1200,height-900,resizemode-4/.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZlVFJhYzBOR2QxUTBUMHBpVFJEZ0F4aUFCU2dLTWdZNU1hTFNtQW8=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:33:25.000Z",
+                    "authors": [],
+                    "source_url": "https://energy.economictimes.indiatimes.com",
+                    "source_name": "ET EnergyWorld",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://energy.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqRQgKIj9DQklTS1FnTWFpVUtJMlZ1WlhKbmVTNWxZMjl1YjIxcFkzUnBiV1Z6TG1sdVpHbGhkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2otLWRUa0RSSDcwXzc1QWhaZ1R5Z0FQAQ"
+        },
+        {
+            "title": "'Not In Anyone's Control, Lives In His Own World': Delhi High Court Raps Baba Ramdev Over Sharbat Jihad...",
+            "link": "https://www.livelaw.in/high-court/delhi-high-court/ramdev-hamdard-roohafza-jihadi-comment-contempt-delhi-high-court-290914",
+            "snippet": "The Delhi High Court on Thursday rapped yoga guru Baba Ramdev over the Sharbat-Jihad controversy, saying that he lives in his own world and ...",
+            "photo_url": "https://www.livelaw.in/h-upload/2025/04/22/1500x900_596732-baba-ramdev-delhi-hc.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNjRjlCWm10NlIwRXlSazFTVFJDdEF4akxCU2dLTWdZQm9KQUR0d1k=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T08:27:59.000Z",
+            "authors": [
+                "Nupur Thapliyal"
+            ],
+            "source_url": "https://www.livelaw.in",
+            "source_name": "Live Law",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbXhwZG1Wc1lYY3VhVzRvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtWDJ3NU16bG9NQklDWlc0b0FBUAE",
+                    "topic_name": "Nupur Thapliyal"
+                }
+            ]
+        },
+        {
+            "title": "BCCI takes swift action against Shreyas Iyer after PBKS captain found guilty of IPL Code of Conduct breach against CSK",
+            "link": "https://www.hindustantimes.com/cricket/bcci-takes-swift-action-against-shreyas-iyer-after-pbks-captain-found-guilty-of-ipl-code-of-conduct-breach-against-csk-101746063668160.html",
+            "snippet": "Punjab Kings captain Shreyas Iyer was pulled up by BCCI after being found guilty of an IPL Code of Conduct breach during their match against ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/05/01/550x309/PTI04-30-2025-000595A-0_1746063791191_1746063864080.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJOV2hHWVZGRWNtZGFSWFZwVFJDMUFoaWxCQ2dLTWdhcFJZTE5JUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T01:47:34.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Punjab Kings captain Shreyas Iyer fined Rs 12 lakh for IPL code of conduct breach during CSK clash",
+                    "link": "https://www.moneycontrol.com/sports/cricket/ipl/punjab-kings-captain-shreyas-iyer-fined-rs-12-lakh-for-ipl-code-of-conduct-breach-during-csk-clash-article-13010314.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/05/20250501121255_finediyer.png?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZRMnczVURobVMyaHJTMkp1VFJDZkF4ampCU2dLTWdhaEZvUUxFZ2s=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T12:13:39.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Bad news for PBKS after win over Dhoni's CSK, captain Shreyas Iyer will be...",
+                    "link": "https://www.india.com/photos/sports/bad-news-for-pbks-after-win-over-dhoni-csk-captain-shreyas-iyer-will-be-bcci-440599/",
+                    "photo_url": "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/bad-news-for-pbks-after-win-over-dhonis-csk-captain-shreyas-iyer-will-be-202505-1746088270.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNU9XRmRmUW5OZllUTnlWMkZJVFJEZ0F4aUFCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:47:33.000Z",
+                    "authors": [
+                        "Devadyuti Das"
+                    ],
+                    "source_url": "https://www.india.com",
+                    "source_name": "India.Com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGdWVubGlhaElDWlc0b0FBUAE",
+                            "topic_name": "Devadyuti Das"
+                        }
+                    ]
+                },
+                {
+                    "title": "Shreyas Iyer Handed Big Punishment By BCCI After Win Against Chennai Super Kings. Reason Is...",
+                    "link": "https://sports.ndtv.com/ipl-2025/shreyas-iyer-handed-big-punishment-by-bcci-after-win-against-chennai-super-kings-reason-is-8300739",
+                    "photo_url": "https://c.ndtvimg.com/2025-05/hqogt8u_cs_625x300_01_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRabTVPUzJkYVJETjFjVTVsVFJEZ0F4al9CQ2dLTWdhWk5JcXVIUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T02:50:53.000Z",
+                    "authors": [],
+                    "source_url": "https://sports.ndtv.com",
+                    "source_name": "NDTV Sports",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM053YjNKMGN5NXVaSFIyTG1OdmJTZ0FQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2prazRya0RSSC1CUTQ2WmJoOTFpZ0FQAQ"
+        },
+        {
+            "title": "Saudi Signals and Trump Tariffs Are Cracking the Oil Market",
+            "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Signals-and-Trump-Tariffs-Are-Cracking-the-Oil-Market.html",
+            "snippet": "Oil prices continue falling despite low inventories. Weak U.S. economic data and rumors of Saudi production increases weigh on market ...",
+            "photo_url": "https://d32r1sh890xpii.cloudfront.net/article/1200x900/2025-04-30_4jcr1hzkq0.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxZemsxUkZaeWFqQnNjVXBsVFJEZkF4aUFCU2dLTWdZUlFJanVNQVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T00:00:00.000Z",
+            "authors": [
+                "Alex Kimani"
+            ],
+            "source_url": "https://oilprice.com",
+            "source_name": "Crude Oil Prices Today | OilPrice.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://oilprice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzlwYkhCeWFXTmxMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTNGNGJtaGZOeElDWlc0b0FBUAE",
+                    "topic_name": "Alex Kimani"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Oil drops on US economic contraction, possible OPEC+ supply rise",
+                    "link": "https://www.reuters.com/markets/commodities/oil-prices-take-breather-after-selloff-supply-worries-2025-05-01/",
+                    "photo_url": "https://www.reuters.com/resizer/v2/C2F4U677GRNIFEO4J733SISGG4.jpg?auth=76fb2696feb5eaa070f3e6e3b44ed02a8654b87b41717c6a5fbfc174ef0b2932&width=7888&quality=80",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUhWM2MyVFZSdldpMXllbWt0VFJESEF4aWlCU2dLTWdrQlVJZ0p0V1dhYUFJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:51:18.000Z",
+                    "authors": [
+                        "Ahmad Ghaddar"
+                    ],
+                    "source_url": "https://www.reuters.com",
+                    "source_name": "Reuters",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsak1tUnVNaElDWlc0b0FBUAE",
+                            "topic_name": "Ahmad Ghaddar"
+                        }
+                    ]
+                },
+                {
+                    "title": "Crude Oil Futures Decline on Weak Global Demand",
+                    "link": "https://money.rediff.com/news/market/crude-oil-futures-decline-on-weak-global-demand/26065420250430",
+                    "photo_url": "https://im.rediff.com/1200-900/money/2016/jan/15oil.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVSazlSZERaMFZtZEZkakl0VFJEZ0F4aUFCU2dLTWdhbGNaQlFMUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T07:26:25.000Z",
+                    "authors": [],
+                    "source_url": "https://money.rediff.com",
+                    "source_name": "Rediff",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNUxuSmxaR2xtWmk1amIyMG9BQVAB",
+                    "related_topics": []
+                },
+                {
+                    "title": "Oil, Natural Gas, and US Dollar Technical Analysis: Oil Faces Sustained Selling Pressure",
+                    "link": "https://www.fxempire.com/forecasts/article/oil-natural-gas-and-us-dollar-technical-analysis-oil-faces-sustained-selling-pressure-1515564",
+                    "photo_url": "https://responsive.fxempire.com/v7/_fxempire_/2025/03/Oil-Chart2-2.jpg?func=cover&q=70&width=700",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXlNVTQ1V0dselZXZDROVGRDVFJERUF4aW1CU2dLTWdrQk1KS2ttbWZnN1FF=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T04:16:00.000Z",
+                    "authors": [
+                        "Muhammad Umair"
+                    ],
+                    "source_url": "https://www.fxempire.com",
+                    "source_name": "FXEmpire",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fxempire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER1o0Wlcxd2FYSmxMbU52YlNnQVAB",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YXprNGNHSnVaaElDWlc0b0FBUAE",
+                            "topic_name": "Muhammad Umair"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o1NklmakRSRTk3cU5zM3VNSm9pZ0FQAQ"
+        },
+        {
+            "title": "IPL 2025 Orange Cap, Purple Cap updated list, points table after DC vs KKR encounter in Delhi; check complete details",
+            "link": "https://www.livemint.com/sports/cricket-news/ipl-2025-orange-cap-purple-cap-updated-list-points-table-after-dc-vs-kkr-encounter-in-delhi-check-complete-details-11745945904484.html",
+            "snippet": "Kolkata Knight Riders defeated Delhi Capitals by 14 runs in to keep their hopes alive in the race for IPL 2025 playoffs.",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/29/1600x900/DC_vs_KKR_1745946835610_1745946835917.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUZhR1ZyVW5CTGJraDBUVGRLVFJDZkF4ampCU2dLTWdrQklKeHFrS3F3YUFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T17:52:48.000Z",
+            "authors": [
+                "Koushik Paul"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TWpONFpIbHdOQklDWlc0b0FBUAE",
+                    "topic_name": "Koushik Paul"
+                }
+            ]
+        },
+        {
+            "title": "India vs Pakistan war: Here's what Baba Vanga predicted for World Wars across the world",
+            "link": "https://m.economictimes.com/news/new-updates/india-vs-pakistan-war-heres-what-baba-vanga-predicted-for-world-wars-across-the-world/articleshow/120752902.cms",
+            "snippet": "Alongside her war warning, Vanga foresaw a worldwide economic disaster in 2025. Financial systems, according to her visions, would spiral into ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120754543,width-1200,height-900,resizemode-4,imgsize-34566/baba-vanga.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFNVjlxUzIxZlExcERVRmRzVFJEZ0F4aUFCU2dLTWdZQllJb0x0Z1E=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:20:33.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [],
+            "sub_articles": [
+                {
+                    "title": "Baba Vanga’s 2025 predictions: Is the next world war just around the corner - here’s what she predicted a",
+                    "link": "https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/baba-vangas-2025-predictions-is-the-next-world-war-just-around-the-corner-heres-what-she-predicted-about-the-global-wars-and-other-crisis/articleshow/120787656.cms",
+                    "photo_url": "https://static.toiimg.com/thumb/msid-120787695,width-1280,height-720,resizemode-4/120787695.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFOVkYwU1Y4dGNuUm1lbVEwVFJDZkF4ampCU2dLTWdtWkpKeU9IYW1heGdJ=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T07:28:00.000Z",
+                    "authors": [],
+                    "source_url": "https://timesofindia.indiatimes.com",
+                    "source_name": "Times of India",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+                    "related_topics": []
+                },
+                {
+                    "title": "Baba Vanga prediction: Major war between small countries in..., Baba Vanga's chilling predictions can come tr",
+                    "link": "https://www.india.com/viral/baba-vanga-prediction-major-war-between-small-countries-in-baba-vangas-chilling-predictions-can-come-true-due-to-7787992/",
+                    "photo_url": "https://static.india.com/wp-content/uploads/2025/04/baba-vanga-2.png?impolicy=Medium_Resize&w=1200&h=800",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpZM2x2YUZvek5ucEpaVXBPVFJERUF4aW1CU2dLTWdZOUU1Z3lsUWs=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-29T20:04:54.000Z",
+                    "authors": [
+                        "Joy Pillai"
+                    ],
+                    "source_url": "https://www.india.com",
+                    "source_name": "India.Com",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV2x1WkdsaExtTnZiU2dBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhaek9UWnJNUklDWlc0b0FBUAE",
+                            "topic_name": "Joy Pillai"
+                        }
+                    ]
+                },
+                {
+                    "title": "World War, Exonomic Disaster: Baba Vanga's Predictions For 2025",
+                    "link": "https://www.deccanchronicle.com/world/world-war-exonomic-disaster-baba-vangas-predictions-for-2025-1876237",
+                    "photo_url": "https://www.deccanchronicle.com/h-upload/2025/05/01/1500x900_1913400-untitleddesign-2025-05-01t162003567.webp",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVBiakJ0VkdnNVJHZERRME5WVFJDdEF4akxCU2dLTWdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T10:51:00.000Z",
+                    "authors": [],
+                    "source_url": "https://www.deccanchronicle.com",
+                    "source_name": "Deccan Chronicle",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanchronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMlJsWTJOaGJtTm9jbTl1YVdOc1pTNWpiMjBvQUFQAQ",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kxMVluYkRSRnlTd1JIa0tZSFB5Z0FQAQ"
+        },
+        {
+            "title": "Asim Munir: Pakistan army chief’s Kashmir remarks cause anger in India",
+            "link": "https://www.bbc.com/news/articles/c39j3p14mg4o",
+            "snippet": "Days before a militant attack, the army chief made a speech seen as inflammatory, that has deepened mistrust.",
+            "photo_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7d5d/live/7bc1b090-21af-11f0-9c65-a5c3dc449bf3.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1hbWQ2VVc1d1ZFb3hiRUpqVFJDZkF4ampCU2dLTWdhbFZZenNJUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T21:44:53.000Z",
+            "authors": [
+                "Farhat Javed Rabani"
+            ],
+            "source_url": "https://www.bbc.com",
+            "source_name": "BBC",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4ZG5vM05tdGpkaElDWlc0b0FBUAE",
+                    "topic_name": "Farhat Javed Rabani"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "Is Pakistan Army Chief \"Missing\" After Pahalgam Attack? Social Media Abuzz",
+                    "link": "https://www.ndtv.com/world-news/is-pakistan-army-chief-asim-munir-missing-after-pahalgam-attack-social-media-abuzz-8293862",
+                    "photo_url": "https://c.ndtvimg.com/2024-02/sgg1a2pg_syed-asim-munir-twitter_625x300_10_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtNbEV6VlY5TGNsQXpjVTAxVFJDeUF4akNCU2dLTWdZbFJZN05vUWc=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T08:17:47.000Z",
+                    "authors": [
+                        "Sanstuti Nath"
+                    ],
+                    "source_url": "https://www.ndtv.com",
+                    "source_name": "NDTV",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDRzVrZEhZdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyWXpJeU5HY3pNaElDWlc0b0FBUAE",
+                            "topic_name": "Sanstuti Nath"
+                        }
+                    ]
+                },
+                {
+                    "title": "C Raja Mohan writes: Pakistan’s Asim Munir has made a gamble at Pahalgam. India must not let it succeed",
+                    "link": "https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-pakistans-asim-munir-has-made-a-gamble-at-pahalgam-india-must-not-let-it-succeed-9973210/",
+                    "photo_url": "https://images.indianexpress.com/2025/04/Opinion1_30th-April.jpg?w=414",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW1SVjl0TWtGUFpqSkVPVUZPVFJEb0FSaWVBeWdLTWdrQkJZS3VGV3JndHdB=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T01:10:00.000Z",
+                    "authors": [
+                        "Raja Mohan"
+                    ],
+                    "source_url": "https://indianexpress.com",
+                    "source_name": "The Indian Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNR0oyYmpWd0VnSmxiaWdBUAE",
+                            "topic_name": "Raja Mohan"
+                        }
+                    ]
+                },
+                {
+                    "title": "Wary Of Indian Strikes, ‘Desperate’ Pakistan May Have Agreed To Back Channel Talks To Save Its Army: OPED",
+                    "link": "https://www.eurasiantimes.com/wary-of-indian-strikes-desperate-pakistan/",
+                    "photo_url": "https://www.eurasiantimes.com/wp-content/uploads/2025/01/DrdoNetra.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFZUzA0T1U5UGNUaE1hMnBUVFJEQUF4aXRCU2dLTWdhcFZKS3VLUWM=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T03:04:06.000Z",
+                    "authors": [
+                        "Anil Khosla"
+                    ],
+                    "source_url": "https://www.eurasiantimes.com",
+                    "source_name": "EurAsian Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.eurasiantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1YxY21GemFXRnVkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZrWkhoNmNHWjJaeElDWlc0b0FBUAE",
+                            "topic_name": "Anil Khosla"
+                        }
+                    ]
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k4LXJmZERSR0MtcTVlZGVadmV5Z0FQAQ"
+        },
+        {
+            "title": "What the Grant Thornton audit found at IndusInd Bank",
+            "link": "https://www.livemint.com/industry/banking/arun-khurana-indusind-bank-derivative-trades-grant-thornton-forensic-audit-accounting-rbi-master-direction-finance-team-11746011024889.html",
+            "snippet": "Grant Thornton was conducting a forensic audit of incorrect accounting at IndusInd Bank. Summary.",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/600x338/3-0-116032767-indusind-bank--2--0_1679841752693_1746011470922.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXhNMTl2WDJneFMxcHBielUwVFJEUkFoallCQ2dLTWdrQkVJemtGYXNPckFF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T23:30:13.000Z",
+            "authors": [
+                "Shayan Ghosh"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvNU9XaDBOeElDWlc0b0FBUAE",
+                    "topic_name": "Shayan Ghosh"
+                }
+            ],
+            "sub_articles": [
+                {
+                    "title": "IndusInd Bank CEO resigns",
+                    "link": "https://www.financialexpress.com/business/industry/nbspindusind-bank-ceo-resigns/3826942/",
+                    "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/04/indusindsbank.Reuters_20250429182924.jpg?w=440",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlNakZUUkVOak0zZHZWM0F3VFJEM0FSaTRBeWdLTWdhbFFZenV5QVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T08:16:26.000Z",
+                    "authors": [
+                        "Sachin Kumar"
+                    ],
+                    "source_url": "https://www.financialexpress.com",
+                    "source_name": "The Financial Express",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYlRKamVHZzBaQklDWlc0b0FBUAE",
+                            "topic_name": "Sachin Kumar"
+                        }
+                    ]
+                },
+                {
+                    "title": "IndusInd Bank crisis: CEO exits after Rs 1,959 crore loss disclosure - How bad is it?",
+                    "link": "https://m.economictimes.com/industry/banking/finance/banking/indusind-bank-crisis-ceo-exits-after-rs-1959-crore-loss-disclosure-how-bad-is-it/articleshow/120775941.cms",
+                    "photo_url": "https://m.economictimes.com/thumb/msid-120776012,width-1200,height-900,resizemode-4,imgsize-30418/indusind-others-of-its-ilk-different-but-its-a-loss.jpg",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdjbkpTVm5wMFNYSlpTbEZLVFJEZ0F4aUFCU2dLTWdhRlVvaW1MZ2c=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-04-30T19:37:05.000Z",
+                    "authors": [
+                        "Joel Rebello"
+                    ],
+                    "source_url": "https://m.economictimes.com",
+                    "source_name": "The Economic Times",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+                    "related_topics": [
+                        {
+                            "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhkbmFITTFPQklDWlc0b0FBUAE",
+                            "topic_name": "Joel Rebello"
+                        }
+                    ]
+                },
+                {
+                    "title": "Audit reveals top executives knew of IndusInd Bank derivatives lapse: Report",
+                    "link": "https://www.moneycontrol.com/news/business/audit-reveals-top-executives-knew-of-indusind-bank-derivatives-lapse-report-13009767.html",
+                    "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250404093143_indusindbankrtr.png?impolicy=website&width=1600&height=900",
+                    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlObFppTVRWQ2RHMUpWVTV0VFJDZkF4ampCU2dLTWdhQlE0aHdSUVE=-w200-h200-p-df-rw",
+                    "published_datetime_utc": "2025-05-01T03:45:57.000Z",
+                    "authors": [],
+                    "source_url": "https://www.moneycontrol.com",
+                    "source_name": "Moneycontrol",
+                    "source_logo_url": null,
+                    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+                    "related_topics": []
+                }
+            ],
+            "story_id": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lMdGFyZERSRkIyM1dRc1d4MnNTZ0FQAQ"
+        },
+
+        {
+            "title": "IndusInd Bank's deputy CEO Arun Khurana quits over accounting lapses",
+            "link": "https://www.business-standard.com/companies/people/indusind-bank-deputy-ceo-quits-takes-responsibility-for-accounting-lapses-125042801406_1.html",
+            "snippet": "Arun Khurana, deputy chief executive officer of IndusInd Bank, has resigned with immediate effect, taking responsibility for the loss ...",
+            "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/28/full/1745863938-2697.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpkbkpaWm5KM05IbEpabVpQVFJDd0JCaWpCQ2dLTWdZbFJack5JUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T16:23:52.000Z",
+            "authors": [
+                "Manojit Saha"
+            ],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Rd2JXSnRaaElDWlc0b0FBUAE",
+                    "topic_name": "Manojit Saha"
+                }
+            ]
+        },
+        {
+            "title": "What the Grant Thornton audit found at IndusInd Bank",
+            "link": "https://www.livemint.com/industry/banking/arun-khurana-indusind-bank-derivative-trades-grant-thornton-forensic-audit-accounting-rbi-master-direction-finance-team-11746011024889.html",
+            "snippet": "Grant Thornton was conducting a forensic audit of incorrect accounting at IndusInd Bank. Summary.",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/600x338/3-0-116032767-indusind-bank--2--0_1679841752693_1746011470922.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXhNMTl2WDJneFMxcHBielUwVFJEUkFoallCQ2dLTWdrQkVJemtGYXNPckFF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T23:30:13.000Z",
+            "authors": [
+                "Shayan Ghosh"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvNU9XaDBOeElDWlc0b0FBUAE",
+                    "topic_name": "Shayan Ghosh"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank and Kotak Mahindra Banks revise FD rates: One hikes, the other trims",
+            "link": "https://timesofindia.indiatimes.com/business/financial-literacy/savings/indusind-bank-and-kotak-mahindra-banks-revise-fd-rates-one-hikes-the-other-trims/articleshow/120785638.cms",
+            "snippet": "IndusInd Bank's rates now range from 3.50% to 7.75% for the general public and 4% to 8.25% for senior citizens, whereas Kotak Mahindra Bank ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120785753,width-1280,height-720,resizemode-4/120785753.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBNM2xxT1ZWQlYxZDFTVkJtVFJDZkF4ampCU2dLTWdZUmtJYk51QVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T05:56:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": []
+        },
+        {
+            "title": "Exits not enough, RBI wants IndusInd Bank to do more",
+            "link": "https://themorningcontext.com/business/exits-not-enough-rbi-wants-indusind-bank-to-do-more",
+            "snippet": "The Reserve Bank of India is believed to be keen on fixing responsibility down the ranks for the derivatives fiasco and this could eventually ...",
+            "photo_url": "https://themorningcontext.com/n2/_next/image?url=https%3A%2F%2Fmedia2.themorningcontext.com%2Fmedia%2Fposts_images%2F01052025_Furquan_IndusInd_Bank_Lead_image.jpg&w=3840&q=60",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJWMWROVTBRMU5VMXZiMUV6VFJERUFSaUNBaWdCTWdZNWc0b3l1UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T19:20:21.000Z",
+            "authors": [
+                "Furquan Moharkan"
+            ],
+            "source_url": "https://themorningcontext.com",
+            "source_name": "The Morning Context",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://themorningcontext.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGWFJvWlcxdmNtNXBibWRqYjI1MFpYaDBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGdE9XdzFOUklDWlc0b0FBUAE",
+                    "topic_name": "Furquan Moharkan"
+                }
+            ]
+        },
+        {
+            "title": "RBI nod for committee to monitor IndusInd Bank",
+            "link": "https://www.thehansindia.com/business/rbi-nod-for-committee-to-monitor-indusind-bank-967203",
+            "snippet": "New Delhi: Reserve Bank of India (RBI) has approved the constitution of an interim committee to oversee the operations of IndusInd Bank, ...",
+            "photo_url": "https://assets.thehansindia.com/h-upload/2025/05/01/1547019-indusind-bank.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhYMU5LYkhOMVVqUlJWRFU1VFJDZkF4ampCU2dLTWdZVkpZQ281Z0U=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T02:41:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehansindia.com",
+            "source_name": "The Hans India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehansindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJvWldoaGJuTnBibVJwWVM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "Audit reveals top executives knew of IndusInd Bank derivatives lapse: Report",
+            "link": "https://www.moneycontrol.com/news/business/audit-reveals-top-executives-knew-of-indusind-bank-derivatives-lapse-report-13009767.html",
+            "snippet": "An investigation has revealed that former deputy chief executive of IndusInd Bank, Arun Khurana, was aware of the incorrect accounting of ...",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250404093143_indusindbankrtr.png?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlObFppTVRWQ2RHMUpWVTV0VFJDZkF4ampCU2dLTWdhQlE0aHdSUVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T03:45:57.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "Traders create fresh bearish derivative bets on IndusInd Bank",
+            "link": "https://m.economictimes.com/markets/stocks/news/traders-create-fresh-bearish-derivative-bets-on-indusind-bank/articleshow/120780521.cms",
+            "snippet": "IndusInd Bank faces bearish sentiment as its CEO resigned amid forex derivative accounting discrepancies, leading to increased uncertainty.",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120780553,width-1200,height-900,resizemode-4,imgsize-25444/indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxSM05tYjIxQmVFNXFUWGQ1VFJEZ0F4aUFCU2dLTWdhTklhVG5FQXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T00:14:00.000Z",
+            "authors": [
+                "Kairavi Lukka"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwZUY5d04yTnJOeElDWlc0b0FBUAE",
+                    "topic_name": "Kairavi Lukka"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd mystery: Now missing beats in 'Calypso' under scrutiny",
+            "link": "https://m.economictimes.com/industry/banking/finance/banking/indusind-mystery-now-missing-beats-in-calypso-under-scrutiny/articleshow/120463487.cms",
+            "snippet": "Grant Thornton is investigating IndusInd Bank's treasury transactions, focusing on whether 'internal hedges' were properly recorded in the ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120463615,width-1200,height-900,resizemode-4,imgsize-37778/indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZkRXBhU1VwdlpGbHNjWGwwVFJEZ0F4aUFCU2dLTWdhbFJJaXV3UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-21T07:00:00.000Z",
+            "authors": [
+                "Sugata Ghosh",
+                "Jochelle Mendonca"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWDNrMmQydGtaaElDWlc0b0FBUAE",
+                    "topic_name": "Sugata Ghosh"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGZmNtSjVlQklDWlc0b0FBUAE",
+                    "topic_name": "Jochelle Mendonca"
+                }
+            ]
+        },
+        {
+            "title": "Accounting lapse, high-profile exits: What's next for IndusInd Bank?",
+            "link": "https://www.indiatoday.in/business/story/indusind-bank-leadership-crisis-ceo-resigns-accounting-scandal-2717838-2025-05-01",
+            "snippet": "What began as an obscure accounting irregularity in IndusInd Bank's derivatives book has now led to a full-blown leadership overhaul.",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/indusind-bank-share-price-305514468-16x9_0.jpg?VersionId=f0iz1mNQpFG5M9OovonnbAgGutghWqSw?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1ObTU2WVc1blF6YzBUV0ZSVFJDZkF4ampCU2dLTWdhQkFZWlF3UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T05:03:41.000Z",
+            "authors": [
+                "Koustav Das"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGeGNtMW1ZeElDWlc0b0FBUAE",
+                    "topic_name": "Koustav Das"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank to expedite search for a new CEO",
+            "link": "https://m.economictimes.com/industry/banking/finance/banking/indusind-bank-to-expedite-search-for-a-new-ceo/articleshow/120741338.cms",
+            "snippet": "ET had reported in March the IndusInd board has hired global executive search firm Egon Zehnder to assist in identifying candidates for both ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120741391,width-1200,height-900,resizemode-4,imgsize-66920/indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW5VRFp1V0VoYVpURTBiVWhrVFJEZ0F4aUFCU2dLTWdrSmtwRElOYWM4Y1FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T19:05:18.000Z",
+            "authors": [
+                "Saloni Shukla"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhSMlptSnFlaElDWlc0b0FBUAE",
+                    "topic_name": "Saloni Shukla"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank shares in focus after CEO quits, new committee formed to discharge duties",
+            "link": "https://www.cnbctv18.com/market/indusind-bank-share-price-ceo-quits-derivatives-discrepancies-new-committee-impact-q4-19596579.htm",
+            "snippet": "Shares of Mumbai-based private lender IndusInd Bank Ltd. will be in focus again on Wednesday, April 30, after CEO Sumanth Kathpalia stepped ...",
+            "photo_url": "https://images.cnbctv18.com/uploads/2025/03/indusindbank-1280-720-mar11-2025-03-451519f91024959587f7c52af16b98ed.jpg?impolicy=website&width=1200&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWtRWGxZYVhGNmFFeERTbWxTVFJEZ0F4aUFCU2dLTWdtZEVZQ000U0V6QlFN=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T00:57:12.000Z",
+            "authors": [
+                "Hormaz Fatakia"
+            ],
+            "source_url": "https://www.cnbctv18.com",
+            "source_name": "CNBC TV18",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER051WW1OMGRqRTRMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4eE5uaG5OQklDWlc0b0FBUAE",
+                    "topic_name": "Hormaz Fatakia"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank: 3 questions after Sumant Kathpalia's exit; should you sell this stock?",
+            "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-3-questions-after-sumant-kathpalias-exit-should-you-sell-this-stock-474180-2025-04-30",
+            "snippet": "IndusInd Bank investors face three key questions following the exit of MD & CEO Sumant Kathpalia with immediate effect, in the aftermath of the ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/6811d035cf08b-indusind-bank-shares-have-seen-over-20-per-cent-correction-in-the-past-six-months--following-which-t-302432530-16x9.jpg?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdOSFp3TFhKQk9DMUhVRE5NVFJDZkF4ampCU2dLTWdhQmtJd2tSZ1U=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T07:29:56.000Z",
+            "authors": [
+                "Amit Mudgill"
+            ],
+            "source_url": "https://www.businesstoday.in",
+            "source_name": "Business Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YTJKNmNqQmlNeElDWlc0b0FBUAE",
+                    "topic_name": "Amit Mudgill"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank CEO quits after derivative losses of Rs 2,000 crore come to light",
+            "link": "https://indianexpress.com/article/business/companies/indusind-bank-ceo-quits-derivative-losses-rs-2000-crore-9973107/",
+            "snippet": "On Monday, IndusInd Bank announced the resignation of deputy CEO Arun Khurana. While the bank initially sought to shift the blame to the Reserve ...",
+            "photo_url": "https://images.indianexpress.com/2025/04/indusind-bank-1.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRORU15TXkxSFdtVkNXbXd3VFJDZkF4ampCU2dLTWdhQlE0aHdTUVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T15:28:07.000Z",
+            "authors": [
+                "George Mathew"
+            ],
+            "source_url": "https://indianexpress.com",
+            "source_name": "The Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdsaGJtVjRjSEpsYzNNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJRNFpqWnpOeElDWlc0b0FBUAE",
+                    "topic_name": "George Mathew"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank MD & CEO resigns following derivatives crisis",
+            "link": "https://www.newindianexpress.com/business/2025/Apr/29/indusind-bank-md-ceo-resigns-following-derivatives-crisis",
+            "snippet": "The Bank reported a Rs 1,960 crore derivative loss due to accounting discrepancies. According to sources, IndusInd Bank had been using a dual ...",
+            "photo_url": "https://media.assettype.com/newindianexpress/2025-03-07/39u9i8ja/sumant-kathpalia.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlTRFJCU0ZReFRraFVWamxIVFJETEF4aWRCU2dLTWdhbE5aak5uUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T18:15:22.000Z",
+            "authors": [
+                "Dipak Mondal"
+            ],
+            "source_url": "https://www.newindianexpress.com",
+            "source_name": "The New Indian Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGRzVsZDJsdVpHbGhibVY0Y0hKbGMzTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1Oek0zbHhOaElDWlc0b0FBUAE",
+                    "topic_name": "Dipak Mondal"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank shares tumble 3% after management shakeout",
+            "link": "https://m.economictimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-ceo-sumant-kathpalia-resigns-amid-derivatives-accounting-row/articleshow/120747722.cms",
+            "snippet": "IndusInd Bank shares fell 3.2% to a day's low of Rs 810.40 on the BSE on Wednesday, following the resignation of Managing Director and CEO ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120747707,width-1200,height-900,resizemode-4,imgsize-25444/indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxSM05tYjIxQmVFNXFUWGQ1VFJEZ0F4aUFCU2dLTWdhTklhVG5FQXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T02:04:25.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "Mint Explainer: Its CEO gone, who will run IndusInd Bank?",
+            "link": "https://www.livemint.com/industry/banking/indusind-bank-senior-management-crisis-investigation-into-accounting-discrepancies-derivatives-portfolio-rbi-11746016845175.html",
+            "snippet": "Sumant Kathpalia stepped down as IndusInd Bank's managing director and chief executive on 29 April 2025 amid investigations into accounting ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/600x338/INDUSIND-BANK-MANAGEMENT-STOCKS-0_1746019330354_1746019367362.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNTRU5NZVcweWRUVkZiblpZVFJEU0FoallCQ2dLTWdheE00UndSUVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T13:49:52.000Z",
+            "authors": [
+                "Anshika Kayastha"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1ONGVtMTNkQklDWlc0b0FBUAE",
+                    "topic_name": "Anshika Kayastha"
+                }
+            ]
+        },
+        {
+            "title": "RBI approves committee to oversee IndusInd Bank after resignation of CEO Sumant Kathpalia on discrepancies...",
+            "link": "https://www.moneycontrol.com/news/business/rbi-approves-committee-to-oversee-indusind-bank-after-resignation-of-ceo-sumant-kathpalia-on-discrepancies-in-derivatives-portfolio-13008633.html",
+            "snippet": "As per the exchange filing, the newly formed committee will comprise two senior leaders — Soumitra Sen, who currently heads the Consumer Banking ...",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250404093143_indusindbankrtr.png?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlObFppTVRWQ2RHMUpWVTV0VFJDZkF4ampCU2dLTWdhQlE0aHdSUVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T02:43:12.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank CEO steps down. Here's how the stock may react on Wednesday amid investor concerns",
+            "link": "https://m.economictimes.com/markets/stocks/news/indusind-bank-shares-set-for-steep-crash-on-wednesday-as-ceo-steps-down-amid-derivatives-blow-up/articleshow/120736542.cms",
+            "snippet": "IndusInd Bank faces turmoil after CEO exit over derivative accounting lapses, risking deeper share losses amid governance concerns and high ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120736669,width-1200,height-900,resizemode-4,imgsize-4324/indusind-bank-shares-set-for-steep-crash-on-wednesday-as-ceo-steps-down-amid-derivatives-blow-up.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUphWGQwWlVST1YxSTROVFo2VFJEZ0F4aUFCU2dLTWdZcEJxTHRqUXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T15:04:24.000Z",
+            "authors": [
+                "Akash Podishetti"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzTVd3M01qQm5hQklDWlc0b0FBUAE",
+                    "topic_name": "Akash Podishetti"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank Shake-up: Board to re-align top management roles after ₹1,959.98 crore accounting impact",
+            "link": "https://www.livemint.com/industry/banking/indusind-bank-shake-up-board-to-re-align-top-management-roles-after-rs-1-959-98-crore-accounting-impact-11745774084551.html",
+            "snippet": "IndusInd Bank Shake-up: The Board of directors announced their plans to realign the bank's top management roles after a ₹1,959.98 crore ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/27/600x338/3-0-2544213892-Indusind-bank-0_1676315584438_1745774353602.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhObFpwZWtwRWEyWTNOMWhOVFJEU0FoallCQ2dLTWdhbFFZN3VSQVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-27T17:27:27.000Z",
+            "authors": [
+                "Anubhav Mukherjee"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZW5aemNqYzNaQklDWlc0b0FBUAE",
+                    "topic_name": "Anubhav Mukherjee"
+                }
+            ]
+        },
+        {
+            "title": "RBI approves executive committee to oversee IndusInd Bank operations following CEO Sumant Kathpalia's exit",
+            "link": "https://m.economictimes.com/industry/banking/finance/banking/rbi-approves-executive-committee-to-oversee-indusind-bank-operations-following-ceo-sumant-kathpalias-exit/articleshow/120748656.cms",
+            "snippet": "The Reserve Bank of India has approved an interim executive committee to manage IndusInd Bank in the absence of its CEO.",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120748648,width-1200,height-900,resizemode-4,imgsize-66920/indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW5VRFp1V0VoYVpURTBiVWhrVFJEZ0F4aUFCU2dLTWdrSmtwRElOYWM4Y1FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T02:58:58.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank CEO Sumant Kathpalia resigns amid management shakeup following derivatives accounting lapses",
+            "link": "https://www.livemint.com/industry/banking/indusind-bank-ceo-sumant-kathpalia-resigns-following-derivatives-accounting-lapses-11745933814417.html",
+            "snippet": "IndusInd Bank CEO Sumant Kathpalia resigned from services of the bank with effect from the close of working hours on April 29, 2025.",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/29/600x338/indusind_1745934453460_1745934453630.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1WamhCV0dwc1oxcFlTV2RGVFJEU0FoallCQ2dLTWdZbFJvcnRwUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:38:45.000Z",
+            "authors": [
+                "Nikita Prasad",
+                "Anshika Kayastha"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Rd09GODFZaElDWlc0b0FBUAE",
+                    "topic_name": "Nikita Prasad"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1ONGVtMTNkQklDWlc0b0FBUAE",
+                    "topic_name": "Anshika Kayastha"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank CEO Sumant Kathpalia quits after derivatives discrepancies row",
+            "link": "https://m.economictimes.com/industry/banking/finance/banking/indusind-bank-ceo-sumant-kathpalia-quits-after-derivatives-discrepancies/articleshow/120733508.cms",
+            "snippet": "Sumant Kathpalia resigned as MD and CEO of IndusInd Bank. This follows Arun Khurana's departure and RBI concerns.",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120733526,width-1200,height-900,resizemode-4,imgsize-24164/indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNYMFJ4U1hGNWFFNUlVR3RCVFJEZ0F4aUFCU2dLTWdZaFJwWU1vZ2c=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:28:04.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank board to hold key personnel accountable after audit report, confirms “incorrect accounting”",
+            "link": "https://www.thehindu.com/business/indusind-bank-board-to-hold-key-personnel-accountable-after-audit-report-confirms-incorrect-accounting/article69499916.ece",
+            "snippet": "IndusInd Bank holds personnel accountable for accounting discrepancies after independent audit, impacting profit by ₹1959.98 crore.",
+            "photo_url": "https://th-i.thgim.com/public/incoming/nerxsy/article69499917.ece/alternates/LANDSCAPE_1200/2025-04-22T114433Z_1308376418_RC2D4AAO1FS3_RTRMADP_3_INDUSIND-BANK-MICROFINANCE.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBTbWxHWm5JMFNFdE5NbUZNVFJDZkF4ampCU2dLTWdZSnc0cEcwUVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T02:38:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "RBI allows IndusInd to constitute committee of executives to run bank as CEO resigns",
+            "link": "https://www.livemint.com/industry/indusind-bank-committee-of-executives-ceo-resignation-accounting-discrepancies-derivatives-trading-11745992708988.html",
+            "snippet": "The Reserve Bank of India approved IndusInd Bank's request to form a committee of executives following the resignation of CEO Sumant Kathpalia.",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/600x338/2-0-468634687-indusInd-Bank2-0_1680767041447_1745994507261.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1NWEpLTjNvMmFrWjVhV1ZRVFJEU0FoallCQ2dLTWdZWmRJYXNzUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:31:48.000Z",
+            "authors": [
+                "Anshika Kayastha"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1ONGVtMTNkQklDWlc0b0FBUAE",
+                    "topic_name": "Anshika Kayastha"
+                }
+            ]
+        },
+        {
+            "title": "Sumant Kathpalia resigns as IndusInd Bank CEO with immediate effect",
+            "link": "https://www.business-standard.com/companies/news/sumant-kathpalia-resigns-as-indusind-bank-ceo-with-immediate-effect-125042901121_1.html",
+            "snippet": "IndusInd Bank's Managing Director and Chief Executive Officer Sumant Kathpalia has tendered his resignation, the bank said on Tuesday.",
+            "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/11/full/1741714357-8846.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZSa3BtVlVoSGEwaFBiVlJVVFJEeEF4anBCQ2dLTWdhbFpaYnRxUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:30:36.000Z",
+            "authors": [],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank CEO Sumant Kathpalia resigns with immediate effect",
+            "link": "https://www.moneycontrol.com/news/business/banks/indusind-bank-ceo-sumant-kathpalia-resigns-with-immediate-effect-13008465.html",
+            "snippet": "IndusInd Bank CEO and Managing Director Sumant Kathpalia has resigned from his role, the lender announced on April 29.",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250311115747_CEO-Sumant-Kathpalia.jpg?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlOamxvYUdJeGJIQm9PRlZWVFJDZkF4ampCU2dLTWdrTklKRGxFbXMxY2dF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:22:36.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "Sumant Kathpalia resigns as MD and CEO of IndusInd Bank",
+            "link": "https://www.cnbctv18.com/business/companies/sumant-kathpalia-resigns-ceo-indusind-bank-derivatives-issue-19596460.htm",
+            "snippet": "Confirming an earlier CNBC-TV18 report, Sumant Kathpalia has resigned as the managing director and chief executive officer (MD & CEO) of ...",
+            "photo_url": "https://images.cnbctv18.com/uploads/2023/07/indusind-bank-shutterstock1.jpg?impolicy=website&width=1200&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZZMlJZUkVONmJVaGxObkYzVFJEZ0F4aUFCU2dLTWdZcDRvZ1B6UU0=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:27:52.000Z",
+            "authors": [
+                "Ajay Vaishnav"
+            ],
+            "source_url": "https://www.cnbctv18.com",
+            "source_name": "CNBC TV18",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER051WW1OMGRqRTRMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OM00zbG9iQklDWlc0b0FBUAE",
+                    "topic_name": "Ajay Vaishnav"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank shares update on MD & CEO Sumant Kathpalia's resignation, says this",
+            "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-shares-update-on-md-ceo-sumant-kathpalias-resignation-says-this-474114-2025-04-30",
+            "snippet": "Shares of IndusInd Bank Ltd are in focus on Wednesday, April 30, after the bank MD & CEO Sumant Kathpalia resigned, a day after Deputy CEO ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/68118bf258ac8-in-his-resignation-kathpalia-said-he-took-moral-responsibility--given-the-various-acts-of-commission-303320503-16x9.jpg?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUhhMjVVVkZSWWJYWjZkRU15VFJDZkF4ampCU2dLTWdNVkpRSQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T02:34:40.000Z",
+            "authors": [
+                "Amit Mudgill"
+            ],
+            "source_url": "https://www.businesstoday.in",
+            "source_name": "Business Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YTJKNmNqQmlNeElDWlc0b0FBUAE",
+                    "topic_name": "Amit Mudgill"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd to provide for Rs 1,960 cr losses in Q4, to take action against staff",
+            "link": "https://m.economictimes.com/markets/stocks/news/indusind-to-provide-for-rs-1960-cr-losses-in-q4-to-take-action-against-staff/articleshow/120680569.cms",
+            "snippet": "Mumbai: IndusInd Bank said on Sunday it would absorb ₹1,959.98 crore-or the full impact-of losses from incorrect accounting practices in its ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120680604,width-1200,height-900,resizemode-4,imgsize-25444/indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxSM05tYjIxQmVFNXFUWGQ1VFJEZ0F4aUFCU2dLTWdhTklhVG5FQXM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T00:47:16.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank shares up 2% as Deputy CEO Arun Khurana resigns on discrepancies in derivatives portfolio",
+            "link": "https://www.moneycontrol.com/news/business/markets/indusind-bank-shares-in-focus-as-deputy-ceo-arun-khurana-resigns-on-discrepancies-in-derivatives-portfolio-13007576.html",
+            "snippet": "Based on the external agency's probe, IndusInd Bank has estimated an impact of 2.27 percent on its net worth as of December 2024.",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250312090825_IndusInd-Bank.jpg?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZaR2xYVjBjMVMxQkxlVlZhVFJDZkF4ampCU2dLTWdZVlY0WnBUZ1E=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T03:00:32.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "Sumant Kathpalia’s exit from IndusInd Bank: Baptism by fire, burnt by lapses",
+            "link": "https://www.financialexpress.com/business/banking-finance/baptism-by-fire-burnt-by-lapses/3826954/",
+            "snippet": "IndusInd Bank CEO Sumant Kathpalia resigned following RBI's signals of discomfort with his leadership and a significant derivatives accounting ...",
+            "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/04/indusindsbank.Reuters_20250429190910.jpg?w=440",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlNakZUUkVOak0zZHZWM0F3VFJEM0FSaTRBeWdLTWdhbFFZenV5QVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:59:38.000Z",
+            "authors": [
+                "Joydeep Ghosh"
+            ],
+            "source_url": "https://www.financialexpress.com",
+            "source_name": "The Financial Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OM01tNW5kaElDWlc0b0FBUAE",
+                    "topic_name": "Joydeep Ghosh"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank CEO Sumant Kathpalia resigns after derivatives accounting lapse",
+            "link": "https://www.indiatoday.in/business/story/indusind-bank-ceo-sumant-kathpalia-resigns-after-derivatives-accounting-lapse-2717031-2025-04-29",
+            "snippet": "Sumant Kathpalia has resigned as the Chief Executive Officer of IndusInd Bank, taking “moral responsibility” for a derivatives accounting ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/indusind-bank-shares-rose-082-per-cent-to-close-at-rs-83730-292238833-16x9.jpg?VersionId=oQBGTpgN14qcegQybft63eLrd1L.Ks8m?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXRYMFpHY0UxNFlWOTNibk5DVFJDZkF4ampCU2dLTWdNVkpRSQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:59:40.000Z",
+            "authors": [
+                "Koustav Das"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGeGNtMW1ZeElDWlc0b0FBUAE",
+                    "topic_name": "Koustav Das"
+                }
+            ]
+        },
+        {
+            "title": "Arun Khurana Quits As IndusInd Bank Deputy CEO",
+            "link": "https://www.ndtvprofit.com/business/arun-khurana-quits-as-indusind-bank-deputy-ceo",
+            "snippet": "Arun Khurana, deputy chief executive officer of IndusInd Bank, has resigned with immediate effect on Monday, the bank told exchanges.",
+            "photo_url": "https://media.assettype.com/bloombergquint/import/indusind-bank_650x400_51476266832.jpg?im=FitAndFill,algorithm=dnn,width=650,height=400?w=1200&auto=format%2Ccompress&q=60&rect=0%2C0%2C3500%2C1969&",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRWR1pxZFRkZlVFUjFlWEZ5VFJDZkF4ampCU2dLTWdZWkJKTEtnUTA=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T15:19:52.000Z",
+            "authors": [
+                "Vishwanath Nair"
+            ],
+            "source_url": "https://www.ndtvprofit.com",
+            "source_name": "NDTV Profit",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbTVrZEhad2NtOW1hWFF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Sa2RqZHpNUklDWlc0b0FBUAE",
+                    "topic_name": "Vishwanath Nair"
+                }
+            ]
+        },
+        {
+            "title": "India’s IndusInd Bank to take $230 million hit in 2024-25 accounts",
+            "link": "https://www.reuters.com/world/india/indias-indusind-bank-take-230-million-hit-2024-25-accounts-2025-04-27/",
+            "snippet": "IndusInd Bank , India's fifth-largest private lender by assets, said on Sunday it would take a $229.56 million hit to its accounts for the ...",
+            "photo_url": "https://www.reuters.com/resizer/v2/U4QJ3NREDNLVLNMEQE76VPGEPI.jpg?auth=5f46792130a201f24c603fab79fa2d6ed7f6e0063984548f3aad6eb8ecef19cf&width=6000&quality=80",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlSMmxZWTBsVFJuWmFWak5EVFJERUF4aW1CU2dLTWdZSnc0cEd6UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-27T15:59:30.000Z",
+            "authors": [
+                "Ira Dugal",
+                "Arpan Chaturvedi"
+            ],
+            "source_url": "https://www.reuters.com",
+            "source_name": "Reuters",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWm5oNWJUVTBkeElDWlc0b0FBUAE",
+                    "topic_name": "Ira Dugal"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGNFpEWTFYeElDWlc0b0FBUAE",
+                    "topic_name": "Arpan Chaturvedi"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank's deputy CEO Arun Khurana resigns amid accounting blunder, share rout",
+            "link": "https://www.hindustantimes.com/business/indusind-banks-deputy-ceo-arun-khurana-resigns-amid-accounting-blunder-share-rout-101745856782998.html",
+            "snippet": "IndusInd Bank's deputy CEO Arun Khurana resigns amid accounting blunder, share rout · Arun Khurana headed the global markets division of the bank ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/28/550x309/INDIA-INDUSIND-11_1745857479984_1745857560839.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUtVRlZMWjBoSE5qTkdhVU5zVFJDMUFoaWxCQ2dLTWdNVkpRSQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T16:31:00.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank Saga: Deputy CEO Arun Khurana resigns amid firm’s plans to rejig top management",
+            "link": "https://www.livemint.com/industry/banking/indusind-bank-saga-deputy-ceo-arun-khurana-resigns-amid-firms-plans-to-rejig-top-management-11745855316355.html",
+            "snippet": "IndusInd Bank Saga: Deputy CEO Arun Khurana resigned on Monday as the bank plans to rejig top management post the ₹1959.98 crore accounting ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/28/600x338/3-0-2544213892-Indusind-bank-0_1676315584438_1745855722092.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpTbFo0WldsemJURXpabk4yVFJEU0FoallCQ2dLTWdhbFFZek9SQVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T15:56:44.000Z",
+            "authors": [
+                "Anubhav Mukherjee"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZW5aemNqYzNaQklDWlc0b0FBUAE",
+                    "topic_name": "Anubhav Mukherjee"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank's MD and CEO Sumant Kathpalia resigns amid derivatives accounting lapses",
+            "link": "https://www.theweek.in/news/biz-tech/2025/04/30/indus-ind-bank-s-md-and-ceo-sumant-kathpalia-resigns-amid-derivatives-accounting-lapses.html",
+            "snippet": "Private sector lender IndusInd Bank's CEO and MD Sumant Kathpalia has resigned with immediate effect. The resignation comes at a time when ...",
+            "photo_url": "https://www.theweek.in/content/dam/week/week/news/biz-tech/images/2025/4/30/Indus%20Ind%20Bank%20.jpg.transform/schema-1x1/image.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtSa3B1ZVZCTk4zSTJkMlZFVFJDcUJCaXFCQ2dLTWdZTmdKckdMZ2c=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T02:25:24.000Z",
+            "authors": [
+                "Nachiket Kelkar"
+            ],
+            "source_url": "https://www.theweek.in",
+            "source_name": "theweek.in",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theweek.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDblJvWlhkbFpXc3VhVzRvQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1YldnM2NUQTVOeElDWlc0b0FBUAE",
+                    "topic_name": "Nachiket Kelkar"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank CEO quits as accounting lapse triggers management shakeup",
+            "link": "https://www.reuters.com/world/india/indias-indusind-bank-ceo-kathpalia-resigns-2025-04-29/",
+            "snippet": "Indian private lender IndusInd Bank said on Tuesday CEO Sumant Kathpalia has resigned with immediate effect, marking a management shakeup ...",
+            "photo_url": "https://www.reuters.com/resizer/v2/43ZKZIPEW5MSNBEE4OAXFUCAWI.jpg?auth=56d622aa9fb5ba9701eae3b34dfba2ec7cfdb0a10fedda18496288ae7dadee60&width=6000&quality=80",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJhR1JhTlhBdGVIRTNSQzA0VFJDNEF4aTVCU2dLTWdhQk00cHd3UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T20:08:10.000Z",
+            "authors": [
+                "Nishit Navin",
+                "Siddhi Nayak",
+                "Nandan Mandayam"
+            ],
+            "source_url": "https://www.reuters.com",
+            "source_name": "Reuters",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZDNZeVh6RjZjQklDWlc0b0FBUAE",
+                    "topic_name": "Nishit Navin"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhrNGVtSnpYeElDWlc0b0FBUAE",
+                    "topic_name": "Siddhi Nayak"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4TW5OZmNXZHNOUklDWlc0b0FBUAE",
+                    "topic_name": "Nandan Mandayam"
+                }
+            ]
+        },
+        {
+            "title": "Panel to run IndusInd Bank till new CEO logs in",
+            "link": "https://m.economictimes.com/industry/banking/finance/banking/panel-to-run-indusind-bank-till-new-ceo-logs-in/articleshow/120774382.cms",
+            "snippet": "Mumbai: The Reserve Bank of India (RBI) has approved IndusInd Bank's proposal to form a \"committee of executives\" to manage the bank's daily ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120774430,width-1200,height-900,resizemode-4,imgsize-376182/indus.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRhbFYwZUhoQ1pWQnNOMFU0VFJEZ0F4aUFCU2dLTWdZQndJcW5UUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T18:58:31.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank board to realign top management after Rs 1,959.98 crore accounting discrepancy",
+            "link": "https://www.moneycontrol.com/banking/indusind-bank-board-to-realign-top-management-after-rs-1-959-98-crore-accounting-discrepancy-article-13006081.html",
+            "snippet": "IndusInd Bank on Sunday said that the board of the bank is taking 'necessary steps' to fix accountability of the persons responsible for the ...",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250312090825_IndusInd-Bank.jpg?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZaR2xYVjBjMVMxQkxlVlZhVFJDZkF4ampCU2dLTWdZVlY0WnBUZ1E=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-27T15:47:01.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank Using Egon Zehnder to Find New CEOs",
+            "link": "https://huntscanlon.com/indusind-bank-using-egon-zehnder-to-find-new-ceos/",
+            "snippet": "The latest: Leadership advisory firm Egon Zehnder is currently assisting IndusInd Bank in identifying candidates for both the CEO and deputy CEO ...",
+            "photo_url": "https://huntscanlon.com/wp-content/uploads/2025/04/story2-22-e1746042973177.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTZXV0phUWtoNFdEZ3lTMkYwVFJEWEF4aUxCU2dLTWdhSndJNnN4UVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T09:05:43.000Z",
+            "authors": [
+                "Scott A. Scanlon"
+            ],
+            "source_url": "https://huntscanlon.com",
+            "source_name": "Hunt Scanlon Media",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://huntscanlon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMmgxYm5SelkyRnViRzl1TG1OdmJTZ0FQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TlRFME1IRTNlaElDWlc0b0FBUAE",
+                    "topic_name": "Scott A. Scanlon"
+                }
+            ]
+        },
+        {
+            "title": "Incorrect accounting of derivatives trades led to IndusInd Bank fiasco: GT",
+            "link": "https://www.business-standard.com/companies/news/indusind-bank-fiasco-gt-flags-errors-in-accounting-of-derivative-trades-125042700669_1.html",
+            "snippet": "Grant Thornton was appointed by IndusInd's board to find out the root cause behind the discrepancy in the derivatives portfolio, among other ...",
+            "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/27/full/1745774893-8047.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5jSEpXTlZGVldtbHlWRm93VFJEZUJCajZBeWdLTWdhSmtJQUhNUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-27T15:54:25.000Z",
+            "authors": [
+                "Subrata Panda"
+            ],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1KZk5uRnJPUklDWlc0b0FBUAE",
+                    "topic_name": "Subrata Panda"
+                }
+            ]
+        },
+        {
+            "title": "Arun Khurana steps down as IndusInd Bank deputy CEO with immediate effect",
+            "link": "https://www.moneycontrol.com/banking/arun-khurana-steps-down-as-indusind-bank-deputy-ceo-with-immediate-effect-article-13007397.html",
+            "snippet": "IndusInd Bank said on Monday that its deputy CEO, Arun Khurana has resigned with immediate effect, weeks after the private lender disclosed ...",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250428152849_indusindbankrtr1.png?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBNR1JEU21aNmREQTVOVmhWVFJDZkF4ampCU2dLTWdZRllZcnlwQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T15:43:31.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank shares decline over 3% as CEO Sumant Kathpalia steps down",
+            "link": "https://www.thehindu.com/business/markets/indusind-bank-shares-decline-over-3-as-ceo-sumant-kathpalia-steps-down/article69508310.ece",
+            "snippet": "Shares of IndusInd Bank on Wednesday declined over 3% after its MD and CEO Sumant Kathpalia resigned with immediate effect, taking moral ...",
+            "photo_url": "https://th-i.thgim.com/public/incoming/kdqi73/article69508343.ece/alternates/LANDSCAPE_1200/2025-04-30T040030Z_1352073219_RC296AA7PN0Y_RTRMADP_3_INDUSIND-BANK-MANAGEMENT-STOCKS.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRaV28wYjBVeVJVVXdNV1ZuVFJDZkF4ampCU2dLTWdhQlE0cHdTUVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:16:00.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindu.com",
+            "source_name": "The Hindu",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWldocGJtUjFMbU52YlNnQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "Why Analysts Expect More Pain for IndusInd Amid Grant Thornton’s Bombshell Findings",
+            "link": "https://www.outlookbusiness.com/explainers/why-analysts-expect-more-pain-for-indusind-amid-grant-thorntons-bombshell-findings",
+            "snippet": "IndusInd Bank's CEO Sumant Kathpalia and Deputy CEO Arun Khurana resigned after the forensic audit report by Grant Thornton was submitted to ...",
+            "photo_url": "https://media.assettype.com/outlookbusiness/2025-05-01/6j0wsxt7/IndusInd-Bank.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJNVlV5T1U1b1VXRmxRVFZGVFJERUF4aW1CU2dLTWdZQlVZVFFJQWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T08:08:03.000Z",
+            "authors": [],
+            "source_url": "https://www.outlookbusiness.com",
+            "source_name": "outlookbusiness.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMjkxZEd4dmIydGlkWE5wYm1WemN5NWpiMjBvQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank remains fundamentally strong despite top management exit: Ashvin Parekh",
+            "link": "https://m.economictimes.com/markets/expert-view/indusind-bank-remains-fundamentally-strong-despite-top-management-exit-ashvin-parekh/articleshow/120753834.cms",
+            "snippet": "IndusInd Bank remains fundamentally strong despite top management exit: Ashvin Parekh ; PE Ratio (x). 8.99 ; EPS - TTM. 93.11 ; MCap (₹ Cr.).",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120753885,width-1200,height-900,resizemode-4,imgsize-3396/ap.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFkbmt0T0U1SGNtUnhVVzFCVFJEZ0F4aUFCU2dLTWdZZFJwUUtJZ2c=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:51:04.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank share price falls nearly 3% after CEO resigns",
+            "link": "https://www.indiatoday.in/business/story/indusind-bank-share-price-falls-over-3-after-ceo-resigns-2717226-2025-04-30",
+            "snippet": "IndusInd Bank shares rose 0.82 per cent to close at Rs 837.30. IndusInd Bank shares fell over 2% in early trade after its CEO resigned with ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/indusind-bank-shares-rose-082-per-cent-to-close-at-rs-83730-292238833-16x9_0.jpg?VersionId=uLXtahg.q1P36DpY9BN6bzYsI_4DvKKK?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXRYMFpHY0UxNFlWOTNibk5DVFJDZkF4ampCU2dLTWdNVkpRSQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T03:52:39.000Z",
+            "authors": [
+                "Koustav Das"
+            ],
+            "source_url": "https://www.indiatoday.in",
+            "source_name": "India Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2x1WkdsaGRHOWtZWGt1YVc0b0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGeGNtMW1ZeElDWlc0b0FBUAE",
+                    "topic_name": "Koustav Das"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank constitutes committee of executives to run bank following CEO's resignation",
+            "link": "https://m.economictimes.com/industry/banking/finance/banking/indusind-bank-constitutes-committee-of-executives-to-run-bank-following-ceos-resignation/articleshow/120756752.cms",
+            "snippet": "IndusInd Bank on Wednesday said its board has appointed a 'committee of executives' to oversee the operations of the bank following ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120756768,width-1200,height-900,resizemode-4,imgsize-615682/indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVTbTQzTTFwRGRsTXhTblIxVFJEZ0F4aUFCU2dLTWdZUlFJRm80UUU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T07:41:55.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank Board To Re-Align Top Management Roles For Accounting Lapses",
+            "link": "https://www.ndtvprofit.com/business/indusind-bank-board-to-re-align-top-management-roles-for-accounting-lapses",
+            "snippet": "IndusInd Bank Ltd. on Sunday said it is taking necessary steps to \"re-align roles and responsibilities of senior management\", ...",
+            "photo_url": "https://media.assettype.com/bloombergquint/2017-07/8837c8b3-c386-4e14-8c8f-f4962f0372f2/Vehicles%20pass%20by%20IndusInd%20Bank%20Branch%20at%20Prabhadevi,%20Mumbai%20on%20Sunday,%2025th%20of%20December,%202016%20Photographer%20Anirudh%20Saligrama%20IIJNM.JPG?w=1200&auto=format%2Ccompress&q=60&rect=0%2C0%2C3500%2C1969&",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNDFPSGRpVkc1dFYxZGlTR1J3VFJDZkF4ampCU2dLTWdNUmdCZw=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-27T14:49:44.000Z",
+            "authors": [
+                "Subhana Shaikh"
+            ],
+            "source_url": "https://www.ndtvprofit.com",
+            "source_name": "NDTV Profit",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbTVrZEhad2NtOW1hWFF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWm1aek9HeGZhaElDWlc0b0FBUAE",
+                    "topic_name": "Subhana Shaikh"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank MD and CEO Sumant Kathpalia resigns with immediate effect",
+            "link": "https://www.business-standard.com/finance/news/indusind-ceo-sumant-kathpalia-resigns-over-derivative-accounting-lapses-125042901304_1.html",
+            "snippet": "Sumant Kathpalia, managing director and chief executive officer (MD & CEO) of IndusInd Bank, resigned on Tuesday with immediate effect, ...",
+            "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/11/full/1741714357-8846.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZSa3BtVlVoSGEwaFBiVlJVVFJEeEF4anBCQ2dLTWdhbFpaYnRxUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T15:10:18.000Z",
+            "authors": [
+                "Subrata Panda"
+            ],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1KZk5uRnJPUklDWlc0b0FBUAE",
+                    "topic_name": "Subrata Panda"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank shares plunge 3% on CEO Sumant Kathpalia's resignation over accounting concerns",
+            "link": "https://www.fortuneindia.com/markets/stock-market/indusind-bank-shares-plunge-3-on-ceo-sumant-kathpalias-resignation-over-accounting-concerns/122572",
+            "snippet": "IndusInd Bank's stock is currently trading at ₹821.40, down 1.86% for the day. Since the disclosure of accounting discrepancies in March, the ...",
+            "photo_url": "https://media.fortuneindia.com/fortune-india/import/2022-04/51e2a00d-6dd9-4b5c-93f7-633836f0a78f/Indusland_Bank_04613_copy.jpg?auto=format,compress&fmt=webp&format=webp&w=1200&h=675&dpr=1.0",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFSemR2VFU5S1pHdGtkMWN6VFJDekF4akFCU2dLTWdZQkVJQlRtQW8=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T04:38:16.000Z",
+            "authors": [
+                "Vidhi Taparia"
+            ],
+            "source_url": "https://www.fortuneindia.com",
+            "source_name": "Fortune India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1p2Y25SMWJtVnBibVJwWVM1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzT1hwbk0zb3dPQklDWlc0b0FBUAE",
+                    "topic_name": "Vidhi Taparia"
+                }
+            ]
+        },
+        {
+            "title": "Exits of top two at India's IndusInd Bank followed external inquiry",
+            "link": "https://www.reuters.com/sustainability/boards-policy-regulation/shares-indias-indusind-bank-fall-after-management-shakeout-2025-04-30/",
+            "snippet": "The top two executives at India's IndusInd Bank resigned this week after an external investigation found they were responsible for improper ...",
+            "photo_url": "https://www.reuters.com/resizer/v2/DJAGSWVIOJJMHKON2XHAMX5OBY.jpg?auth=2954d9ab28061135a1dce67d72d100d2d568600533e81a100d7815d08158ed40&width=1080&quality=80",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxSRXBHYXpObFFXaEZTRkJaVFJDNEF4aTVCU2dLTWdhQk00cHd3UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T12:44:20.000Z",
+            "authors": [
+                "Siddhi Nayak"
+            ],
+            "source_url": "https://www.reuters.com",
+            "source_name": "Reuters",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhrNGVtSnpYeElDWlc0b0FBUAE",
+                    "topic_name": "Siddhi Nayak"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank shares fall over 3% as CEO Sumant Kathpalia resigns",
+            "link": "https://www.thehindubusinessline.com/markets/stock-markets/indusind-bank-shares-fall-over-3-as-ceo-sumant-kathpalia-resigns/article69507998.ece",
+            "snippet": "Shares of IndusInd Bank on Wednesday declined over 3 per cent after its MD and CEO Sumant Kathpalia resigned with immediate effect, ...",
+            "photo_url": "https://bl-i.thgim.com/public/incoming/obv5p6/article69508033.ece/alternates/LANDSCAPE_1200/2025-03-25T110442Z_1150595539_RC26KDAW3JD7_RTRMADP_3_INDIA-BANKS.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUZOMDVqVjJ0MFVEUkNVR3gwVFJDZkF4ampCU2dLTWdtRmdvcE53V1hCRFFJ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:24:04.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_name": "BusinessLine",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqNggKIjBDQklTSGdnTWFob0tHSFJvWldocGJtUjFZblZ6YVc1bGMzTnNhVzVsTG1OdmJTZ0FQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank raises FD interest rates on select tenures and Kotak Mahindra Bank reduces FD rate on select",
+            "link": "https://m.economictimes.com/wealth/invest/mixed-signals-from-private-banks-indusind-raises-cuts-fd-interest-rate-on-select-tenures-and-kotak-reduces-fd-rate-on-select-tenures/articleshow/120756182.cms",
+            "snippet": "The highest FD interest rate of 7.75% and 8.25% is offered on tenure of 1 Year 3 months (15 months) to below 1 Year 4 months (16 months). The ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120756514,width-1200,height-900,resizemode-4,imgsize-1350377/piggy-bank-many.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJhMVV4VTJReVZGRjVkMVZ6VFJEZ0F4aUFCU2dLTWdZQlFJamtyQVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T07:35:48.000Z",
+            "authors": [
+                "Sneha Kulkarni"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTTJRMk9YRmlkeElDWlc0b0FBUAE",
+                    "topic_name": "Sneha Kulkarni"
+                }
+            ]
+        },
+        {
+            "title": "Indias IndusInd Bank drops as CEO quits in wake of accounting lapse",
+            "link": "https://www.livemint.com/companies/news/indias-indusind-bank-drops-as-ceo-quits-in-wake-of-accounting-lapse-11745991419229.html",
+            "snippet": "MUMBAI (Reuters) -Shares of India's IndusInd Bank dropped on Wednesday after the bank's CEO resigned, taking \"moral responsibility\" for ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_2_1733465085102_1733465089141.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpPWFJ5U2tscVVUaFJZV2RMVFJDZkF4ampCU2dLTWdhUmRKS3RNUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:36:58.000Z",
+            "authors": [
+                "Rashmi Aich",
+                "Ira Dugal",
+                "Siddhi Nayak"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyTTJaM1p6STRjaElDWlc0b0FBUAE",
+                    "topic_name": "Rashmi Aich"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhreFkyaG5keElDWlc0b0FBUAE",
+                    "topic_name": "Ira Dugal"
+                },
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhrNGVtSnpYeElDWlc0b0FBUAE",
+                    "topic_name": "Siddhi Nayak"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank share price falls over 3% after CEO Sumant Kathpalia resigns",
+            "link": "https://www.livemint.com/market/stock-market-news/indusind-bank-share-price-falls-over-3-after-ceo-sumant-kathpalia-resigns-11745985525537.html",
+            "snippet": "IndusInd Bank share price fell over 3% on Wednesday, April 30, after the private lender's MD & CEO Sumant Kathpalia resigned from his post.",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/1600x900/2-0-468634687-indusInd-Bank2-0_1680767041447_1745986459604.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpUMlJWWDNCM05XTnJjMHhoVFJDZkF4ampCU2dLTWdZVnhJU3JSUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T04:00:57.000Z",
+            "authors": [
+                "Ankit Gohel"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoZmR6UnVjeElDWlc0b0FBUAE",
+                    "topic_name": "Ankit Gohel"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd reassures investors after CEO's resignation amid Rs 1,960 crore accounting discrepancy",
+            "link": "https://www.telegraphindia.com/business/indusind-bank-reassures-investors-after-ceos-resignation-amid-rs-1960-crore-accounting-discrepancy-prnt/cid/2096925",
+            "snippet": "IndusInd Bank sought to reassure investors and depositors on Wednesday after a series of senior-level resignations, including the bank's CEO ...",
+            "photo_url": "https://assets.telegraphindia.com/telegraph/2023/Jul/1689748242_indusind-bank.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRibWRrTVdKT1NHOUhiVlpuVFJERUF4aW1CU2dLTWdhQmdKalJNQWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T00:57:36.000Z",
+            "authors": [],
+            "source_url": "https://www.telegraphindia.com",
+            "source_name": "Telegraph India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.telegraphindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJsYkdWbmNtRndhR2x1WkdsaExtTnZiU2dBUAE",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank shortlists executive search firm Spencer Stuart for CEO hunt | Company Business News",
+            "link": "https://www.livemint.com/companies/people/indusind-bank-spencer-stuart-ceo-hiring-accounting-discrepancies-derivatives-portfolio-11746000977515.html",
+            "snippet": "IndusInd Bank has shortlisted Spencer Stuart to search for a new chief executive officer. The bank, under scrutiny for accounting discrepancies ...",
+            "photo_url": "https://www.livemint.com/lm-img/img/2025/04/30/1600x900/3-0-39090236-indusind-bank--2--0_1679816486216_1746007745097.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU1kRVYzWkVONmRIcHFURGxsVFJDZkF4ampCU2dLTWdzQklJaWtHYXF4OU5oQmN3=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T11:57:54.000Z",
+            "authors": [
+                "Devina Sengupta"
+            ],
+            "source_url": "https://www.livemint.com",
+            "source_name": "Mint",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER3hwZG1WdGFXNTBMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhvNGJtMXNiaElDWlc0b0FBUAE",
+                    "topic_name": "Devina Sengupta"
+                }
+            ]
+        },
+        {
+            "title": "Sensex, Nifty to open lower; IndusInd Bank, Bajaj Finance, Bajaj Finserv, BPCL, Infosys, SBI shares eyed",
+            "link": "https://www.fortuneindia.com/markets/stock-market/sensex-nifty-to-open-lower-indusind-bank-bajaj-finance-bajaj-finserv-bpcl-infosys-sbi-shares-eyed/122571",
+            "snippet": "Indian stock market are seen opening lower on Wednesday, tracking weak trends in GIFT Nifty futures and mixed Asian cues.",
+            "photo_url": "https://media.fortuneindia.com/fortune-india/import/2024-05/340a319e-7dbf-4457-ae91-20c6d749d294/BSE_DSC_0112_copy__1_.JPG?auto=format,compress&fmt=webp&format=webp&w=1200&h=675&dpr=1.0",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdhVEZqWjBOV09XVnZZV3RXVFJDd0F4akZCU2dLTWdZWmtJRHowQU0=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T03:17:46.000Z",
+            "authors": [
+                "Chitranjan Kumar"
+            ],
+            "source_url": "https://www.fortuneindia.com",
+            "source_name": "Fortune India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1p2Y25SMWJtVnBibVJwWVM1amIyMG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6ZWpOcU1qVTBNeElDWlc0b0FBUAE",
+                    "topic_name": "Chitranjan Kumar"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank up for 5th straight day; gains 41% from March low, here's why",
+            "link": "https://www.business-standard.com/markets/news/indusind-bank-up-for-5th-straight-day-gains-41-from-march-low-here-s-why-125042900190_1.html",
+            "snippet": "IndusInd Bank's share price today: Shares of IndusInd Bank rallied 3 per cent to ₹852.4 on the BSE in Tuesday's intra-day trade, ...",
+            "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/22/full/1713790531-1186.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlNR3g0YzBJemVYZE9XRU16VFJEZkF4aUFCU2dLTWdtRnNZNkhQU1kxTWdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T04:42:17.000Z",
+            "authors": [
+                "Deepak Korgaonkar"
+            ],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTW1NeE0yNXVOUklDWlc0b0FBUAE",
+                    "topic_name": "Deepak Korgaonkar"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank shares sink 3% as MD and CEO Kathpalia tenders resignation",
+            "link": "https://www.business-standard.com/markets/news/indusind-bank-shares-sink-3-as-md-and-ceo-kathpalia-tenders-resignation-125043000329_1.html",
+            "snippet": "The IndusInd Bank's stock fell as much as 3.31 per cent during the day to ₹810.05 per share. The stock pared losses to trade 2.15 per cent lower ...",
+            "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/11/full/1741710576-2841.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpOMk5YZEVZMU9HWlFkRWRvVFJERUF4aW1CU2dLTWdZSnM0eEhUUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T04:59:59.000Z",
+            "authors": [],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank CEO Sumant Kathpalia Resigns, Takes Moral Responsibility for Derivative Accounting Lapse",
+            "link": "https://www.outlookbusiness.com/corporate/indusind-bank-ceo-sumant-kathpalia-resigns-takes-moral-responsibility-for-derivative-accounting-lapse",
+            "snippet": "IndusInd Bank CEO and MD Sumant Kathpalia's resignation marks the end of a leadership era at IndusInd Bank, which he led since March 2020.",
+            "photo_url": "https://media.assettype.com/outlookbusiness/2025-04-29/qg20iq0p/WhatsApp-Image-2025-04-29-at-7.19.19-PM.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhka28yTWpFdFltVllhek41VFJDcUJCaXFCQ2dLTWdZaFZaRE1wUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:52:14.000Z",
+            "authors": [],
+            "source_url": "https://www.outlookbusiness.com",
+            "source_name": "outlookbusiness.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMjkxZEd4dmIydGlkWE5wYm1WemN5NWpiMjBvQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "RBI Approves Interim Committee To Run IndusInd Bank After CEO Exit",
+            "link": "https://www.businessworld.in/article/rbi-approves-interim-committee-to-run-indusind-bank-after-ceo-exit-555377",
+            "snippet": "The Reserve Bank of India (RBI) has approved the formation of an interim \"Committee of Executives\" to manage the operations of IndusInd Bank ...",
+            "photo_url": "https://static.businessworld.in/indusindbig7feb2022-sixteen_nine%20(1)_20240819224404_original_image_18.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRZbFpmYWxkZk9URmxTbVJLVFJDOUFSaUxBaWdCTWdZQkVvWEYxUU0=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T09:58:59.000Z",
+            "authors": [],
+            "source_url": "https://www.businessworld.in",
+            "source_name": "BW Businessworld",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessworld.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkMjl5YkdRdWFXNG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "CEO Kathpalia resigns amid shakeup at IndusInd Bank",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/ceo-kathpalia-resigns-amid-shakeup-at-indusind-bank/articleshow/120744425.cms",
+            "snippet": "MUMBAI: The managing director and chief executive of IndusInd Bank, Sumant Kathpalia, resigned with immediate effect, assuming what he ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120744477,width-1280,height-720,resizemode-4/120744477.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXRkbkZOUzE5WFZsVklMWGxQVFJDZkF4ampCU2dLTWdrSmtwRElOYWM4Y1FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T23:04:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank Share Price Declines After CEO Sumant Kathpalia Resigns",
+            "link": "https://www.ndtvprofit.com/markets/indusind-bank-share-price-declines-after-ceo-sumant-kathpalia-resigns",
+            "snippet": "The shares of IndusInd Bank fell as much as 3.21% to Rs 810.05 apiece, the lowest level since April 25. · IndusInd Bank Share Price Declines.",
+            "photo_url": "https://media.assettype.com/bloombergquint/2025-01-31/dnpqefh1/A%20IndusInd%20Bank%20Ltd.'s%20branch%20in%20Bengaluru.%20(Source%20BQ%20Prime).png?w=1200&auto=format%2Ccompress&q=60&rect=0%2C0%2C3500%2C1969&",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNRbkJCVG5KRmFIQjJSelpmVFJDZkF4ampCU2dLTWdZQmtKaGtzQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:10:58.000Z",
+            "authors": [
+                "Pratiksha Thayil"
+            ],
+            "source_url": "https://www.ndtvprofit.com",
+            "source_name": "NDTV Profit",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbTVrZEhad2NtOW1hWFF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyZVhrNGVUUnROQklDWlc0b0FBUAE",
+                    "topic_name": "Pratiksha Thayil"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank slips as top brass resign amid derivatives accounting probe",
+            "link": "https://www.business-standard.com/markets/capital-market-news/indusind-bank-slips-as-top-brass-resign-amid-derivatives-accounting-probe-125043000295_1.html",
+            "snippet": "IndusInd Bank shares slipped 2.42% to Rs 817, following the abrupt resignation of its managing director and CEO, Sumant Kathpalia.",
+            "photo_url": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_685x385.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVSbUZrYzAwdGNWWkViRXhrVFJDQkF4aXRCU2dLTWdZZGc1S3N1UWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T04:16:00.000Z",
+            "authors": [],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank Expedites CEO Search, Panel to Oversee Operations: Here's All You Need to Know",
+            "link": "https://www.outlookbusiness.com/corporate/indusind-bank-expedites-ceo-search-panel-to-oversee-operations-heres-all-you-need-to-know",
+            "snippet": "IndusInd bank reportedly engaged global executive search firm Egon Zehnder in March to look for suitable candidates for both the CEO and ...",
+            "photo_url": "https://media.assettype.com/outlookbusiness/2025-04-30/kzejy44l/Untitled-design-7.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVdkR1pPT0UxU1luaHpZVmwxVFJEZ0F4aUFCU2dLTWdaQmdvejBOQVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:51:49.000Z",
+            "authors": [],
+            "source_url": "https://www.outlookbusiness.com",
+            "source_name": "outlookbusiness.com",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMjkxZEd4dmIydGlkWE5wYm1WemN5NWpiMjBvQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank CEO Sumant Kathpalia resigns amid derivatives accounting lapse",
+            "link": "https://www.hindustantimes.com/business/indusind-bank-ceo-sumant-kathpalia-resigns-amid-derivatives-accounting-lapse-101745940255049.html",
+            "snippet": "Indian private lender IndusInd Bank said on Tuesday CEO Sumant Kathpalia has resigned with immediate effect, marking a management shakeup ...",
+            "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/29/550x309/Screenshot_2025-04-29_210156_1745940729116_1745940738408.png",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJOR2hrUzBJMVduaFJWVlZmVFJDMUFoaWxCQ2dLTWdZSnM0cEcwUVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T17:11:41.000Z",
+            "authors": [],
+            "source_url": "https://www.hindustantimes.com",
+            "source_name": "Hindustan Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
+            "related_topics": []
+        },
+        {
+            "title": "Fixed deposit interest rates: IndusInd Bank hikes rates, while Kotak Mahindra slashes rates, new tenure added",
+            "link": "https://www.businesstoday.in/personal-finance/investment/story/fixed-deposit-interest-rates-indusind-bank-hikes-rates-while-kotak-mahindras-slashes-rates-new-tenure-added-474239-2025-04-30",
+            "snippet": "Effective from 29 April 2025, the bank adjusted rates for short-term deposits, with the interest for tenures of 61 to 90 days rising from 4.75% ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/68120af274281-icici-bank-303508853-16x9.jpg?size=948:533",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5URkZ1VjJkSVVtd3RlVUV3VFJDZkF4ampCU2dLTWdhWk00eHZxUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T11:37:51.000Z",
+            "authors": [],
+            "source_url": "https://www.businesstoday.in",
+            "source_name": "Business Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank forms executive committee after CEO resignation",
+            "link": "https://www.thehindubusinessline.com/money-and-banking/indusind-bank-forms-executive-committee-after-ceo-resignation/article69507747.ece",
+            "snippet": "IndusInd Bank forms committee to oversee operations, with RBI approval, after CEO resignation, ensuring stability and governance.",
+            "photo_url": "https://bl-i.thgim.com/public/incoming/ik03l3/article69498529.ece/alternates/LANDSCAPE_1200/2025-04-04T090439Z_1399899509_RC296AANYA6V_RTRMADP_3_INDIA-INDUSIND-BANK-ACCOUNTS.JPG",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVlRlpsTFhJMlVGTkZjekpMVFJDZkF4ampCU2dLTWdhdE00Wnd3UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T03:11:15.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_name": "BusinessLine",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqNggKIjBDQklTSGdnTWFob0tHSFJvWldocGJtUjFZblZ6YVc1bGMzTnNhVzVsTG1OdmJTZ0FQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "Sumant Kathpalia resigns as IndusInd Bank CEO, takes 'moral responsibility' of the derivatives debacle",
+            "link": "https://m.economictimes.com/industry/banking/finance/banking/sumant-kathpalia-resigns-as-indusind-bank-ceo-takes-moral-responsibility-of-the-derivatives-debacle/articleshow/120734292.cms",
+            "snippet": "IndusInd Bank CEO Sumant Kathpalia resigned following the revelation of significant losses linked to misaccounted derivative trades, ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120734221,width-1200,height-900,resizemode-4,imgsize-1815650/indusind-bank-to-see-profit-in-q4-even-after-derivatives-losses-md-ceo-sumant-kathpalia.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNTBWVTgyWjJKZk9TMDFkRXR3VFJEZ0F4aUFCU2dLTWdB=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:53:09.000Z",
+            "authors": [
+                "Saloni Shukla"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhSMlptSnFlaElDWlc0b0FBUAE",
+                    "topic_name": "Saloni Shukla"
+                }
+            ]
+        },
+        {
+            "title": "Stocks to Watch Today, 30th April 2025: IndusInd Bank, Bajaj Finance, BPCL, CEAT, and more",
+            "link": "https://groww.in/blog/stocks-to-watch-today-30th-april-2025",
+            "snippet": "Indian markets may open weak on April 30 amid global cues; key stocks in focus include IndusInd Bank, Bajaj Finance, BPCL, CEAT, Infosys, ...",
+            "photo_url": "https://cms-resources.groww.in/uploads/TAX_SLAB_2025_03_28_T093819_988_11zon_8e5dc93297.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtXbXh4YTNCNFgyZHNhMEZNVFJDZkF4ampCU2dLTWdZTlk0WndwUWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T04:44:31.000Z",
+            "authors": [],
+            "source_url": "https://groww.in",
+            "source_name": "Groww",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://groww.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR2R5YjNkM0xtbHVLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "Watch out these stocks: IndusInd Bank, SBI, Strides Pharma, Infosys, Tata Power, Endurance Tech, Praj Ind, Faalcon, Prestige Estates",
+            "link": "https://www.thehindubusinessline.com/markets/watch-out-these-stocks-indusind-bank-sbi-strides-pharma-infosys-tata-power-endurance-tech-praj-ind-faalcon-prestige-estates/article69507666.ece",
+            "snippet": "IndusInd Bank CEO resigns, Strides Pharma acquires ANDAs, SBI strengthens banking services, Endurance Technologies plans new facility.",
+            "photo_url": "https://bl-i.thgim.com/public/incoming/5lvevv/article67844017.ece/alternates/LANDSCAPE_1200/buzzing%20stocks%202.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVZlUzB0YjNGQmIzVk5VREJhVFJDZkF4ampCU2dLTWdrcFFvZ1NuYWR6VGdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T01:40:17.000Z",
+            "authors": [
+                "Ks Badrinarayanan"
+            ],
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_name": "BusinessLine",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqNggKIjBDQklTSGdnTWFob0tHSFJvWldocGJtUjFZblZ6YVc1bGMzTnNhVzVsTG1OdmJTZ0FQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTm1oNWJXY3dOaElDWlc0b0FBUAE",
+                    "topic_name": "Ks Badrinarayanan"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank shares: What's next for stock amid top management rejig, check targets",
+            "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-shares-whats-next-for-stock-amid-top-management-rejig-check-targets-474164-2025-04-30",
+            "snippet": "Shares of IndusInd Bank dropped more than 3.21 per cent to Rs 810.30 on Wednesday, with its total market capitalization slipping below Rs 65,000 ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/6811c95836c12-indusind-bank-share-price-305514468-16x9.jpg?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFTRlJsTkdOc2MyUkdSR0Z4VFJDZkF4ampCU2dLTWdhQkFZWlF3UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:57:58.000Z",
+            "authors": [
+                "Pawan Nahar"
+            ],
+            "source_url": "https://www.businesstoday.in",
+            "source_name": "Business Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OMmNIWXlOUklDWlc0b0FBUAE",
+                    "topic_name": "Pawan Nahar"
+                }
+            ]
+        },
+        {
+            "title": "₹1,959.98 crore impact: Arun Khurana steps down as IndusInd Bank Deputy CEO with immediate effect",
+            "link": "https://www.businesstoday.in/latest/corporate/story/rs195998-crore-impact-arun-khurana-steps-down-as-indusind-bank-deputy-ceo-with-immediate-effect-473944-2025-04-28",
+            "snippet": "IndusInd Bank announced resignation of Deputy CEO Arun Khurana following the disclosure of accounting discrepancies leading to a ₹1,959.98 ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/680fabeabd619-according-to-the-report--the-discrepancies-were-primarily-stemmed-from-the-incorrect-accounting-of-i-282509159-16x9.jpg?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUhhMjVVVkZSWWJYWjZkRU15VFJDZkF4ampCU2dLTWdNVkpRSQ=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T16:26:09.000Z",
+            "authors": [],
+            "source_url": "https://www.businesstoday.in",
+            "source_name": "Business Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank: A Messy, Forgettable Affair Ends, But Questions Remain",
+            "link": "https://www.ndtvprofit.com/business/indusind-bank-a-messy-forgettable-affair-ends-but-questions-remain",
+            "snippet": "To say that Kathpalia had an eventful tenure at IndusInd Bank is probably an understatement. Vishwanath Nair@Vishwanath4389.",
+            "photo_url": "https://media.assettype.com/bloombergquint/2025-03-10/mj6b2hep/thumbnailSumant-Kathpalia.jpg?w=1200&auto=format%2Ccompress&q=60&rect=0%2C0%2C3500%2C1969&",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVROblpFUTFnMGQyOTFUbFpqVFJDZkF4ampCU2dLTWdZdFVKcXVuUWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T10:15:06.000Z",
+            "authors": [
+                "Vishwanath Nair"
+            ],
+            "source_url": "https://www.ndtvprofit.com",
+            "source_name": "NDTV Profit",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbTVrZEhad2NtOW1hWFF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Sa2RqZHpNUklDWlc0b0FBUAE",
+                    "topic_name": "Vishwanath Nair"
+                }
+            ]
+        },
+        {
+            "title": "Market has priced in pain; fresh leadership could drive IndusInd's rebuilding phase: Rahul Malani",
+            "link": "https://m.economictimes.com/markets/expert-view/market-has-priced-in-pain-fresh-leadership-could-drive-indusinds-rebuilding-phase-rahul-malani/articleshow/120752929.cms",
+            "snippet": "The new leader, whoever it may be, will make changes quickly and try to rebuild the organisation. How do you think the market will perceive this ...",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120752878,width-1200,height-900,resizemode-4,imgsize-79862/rahul-malani.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBkbkJKYjJ4Wlh6VkNRbmhrVFJEZ0F4aUFCU2dLTWdheFZKYVBKUWc=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:18:39.000Z",
+            "authors": [],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank CEO resigns amid Rs 1,960 crore derivatives accounting scandal",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/indusind-bank-ceo-resigns-amid-rs-1960-crore-derivatives-accounting-scandal/articleshow/120739083.cms",
+            "snippet": "IndusInd Bank's CEO, Sumant Kathpalia, resigned immediately, accepting responsibility for a Rs 1,960 crore accounting lapse in derivatives. An ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120739115,width-1280,height-720,resizemode-4/120739115.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDROMDF0ZFdOSk1uUnBaV2RIVFJDZkF4ampCU2dLTWdrSmtwRElOYWM4Y1FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T17:40:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": []
+        },
+        {
+            "title": "Indusind Bank Stock Drops 3% As CEO Quits",
+            "link": "https://www.businessworld.in/article/indusind-bank-stock-drops-3-as-ceo-quits-555356",
+            "snippet": "The shares of the nation's fifth-largest private bank dropped 3 per cent at the start of trading, before reducing some losses to 2.5 per cent.",
+            "photo_url": "https://static.businessworld.in/1713239015_jgnKCw_IndusInd.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVFXbU51TjNvNWRGb3daRVJWVFJDeUFSaWFBaWdCTWdtSmtaTEhzZWM4a0FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:26:39.000Z",
+            "authors": [],
+            "source_url": "https://www.businessworld.in",
+            "source_name": "BW Businessworld",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessworld.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkMjl5YkdRdWFXNG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank CEO Sumant Kathpalia Resigns Amid Accounting Lapse Row",
+            "link": "https://www.ndtvprofit.com/business/indusind-bank-ceo-sumant-kathpalia-resigns-amid-accounting-lapse-row",
+            "snippet": "IndusInd Bank CEO Sumant Kathpalia has resigned amid an accounting discrepancy row, according to an exchange filing on Tuesday. The resignation ...",
+            "photo_url": "https://media.assettype.com/bloombergquint/2017-07/8837c8b3-c386-4e14-8c8f-f4962f0372f2/Vehicles%20pass%20by%20IndusInd%20Bank%20Branch%20at%20Prabhadevi,%20Mumbai%20on%20Sunday,%2025th%20of%20December,%202016%20Photographer%20Anirudh%20Saligrama%20IIJNM.JPG?w=1200&auto=format%2Ccompress&q=60&rect=0%2C0%2C3500%2C1969&",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNDFPSGRpVkc1dFYxZGlTR1J3VFJDZkF4ampCU2dLTWdNUmdCZw=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:17:42.000Z",
+            "authors": [
+                "Mohammed Shaikh"
+            ],
+            "source_url": "https://www.ndtvprofit.com",
+            "source_name": "NDTV Profit",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbTVrZEhad2NtOW1hWFF1WTI5dEtBQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YmpabWEzZHFiQklDWlc0b0FBUAE",
+                    "topic_name": "Mohammed Shaikh"
+                }
+            ]
+        },
+        {
+            "title": "Reduce IndusInd Bank; target of Rs 725: Emkay Global Financial",
+            "link": "https://www.moneycontrol.com/news/business/stocks/reduce-indusind-bank-target-of-rs-725-emkay-global-financial-13009222.html",
+            "snippet": "Emkay Global Financial recommended reduce rating on IndusInd Bank with a target price of Rs 725 in its research report dated April 30, 2025.",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2024/10/20241021063146_Reduce-2.png?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5Wako1WkVsS04zVXRMVGQyVFJDZkF4ampCU2dLTWdZSk1aakZuQWs=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T08:27:35.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank and Kotak Mahindra Bank Update Fixed Deposit Rates",
+            "link": "https://observervoice.com/indusind-bank-and-kotak-mahindra-bank-update-fixed-deposit-rates-114023/",
+            "snippet": "Effective April 30, 2025, Kotak Mahindra Bank has revised its fixed deposit interest rates, now ranging from 2.75% to 7.15% for general ...",
+            "photo_url": "https://observervoice.com/wp-content/uploads/2025/05/IndusInd-Bank-and-Kotak-Mahindra-Bank-Update-Fixed-Deposit-Rates.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNTelJFWkhodldVb3daemRwVFJDZkF4ampCU2dLTWdZQlVJclJwQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-05-01T07:57:26.000Z",
+            "authors": [],
+            "source_url": "https://observervoice.com",
+            "source_name": "Observer Voice",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://observervoice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFVzlpYzJWeWRtVnlkbTlwWTJVdVkyOXRLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "ATM charges: Punjab National Bank, HDFC Bank, IndusInd Bank clarify new rates applicable from May 1",
+            "link": "https://www.businesstoday.in/personal-finance/banking/story/atm-charges-punjab-national-bank-hdfc-bank-indusind-bank-clarify-new-rates-applicable-from-may-1-474047-2025-04-29",
+            "snippet": "ATM transaction charges: The Reserve Bank of India (RBI) has rolled out a revised framework for ATM transaction charges, set to take effect ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/6810a75661a8c-rbi-on-100-200-rupee-note-291752264-16x9.jpg?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUJkVkJqTkU1SVlVWnZZMWxZVFJDZkF4ampCU2dLTWdrUk00YXRLV2VEVWdF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T10:21:36.000Z",
+            "authors": [],
+            "source_url": "https://www.businesstoday.in",
+            "source_name": "Business Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank shares extend gains of the last one month after deputy CEO quits",
+            "link": "https://www.cnbctv18.com/market/indusind-bank-share-price-deputy-ceo-quits-derivative-accounting-issue-impact-q4-retail-19595922.htm",
+            "snippet": "IndusInd Bank's shares have recovered nearly 40% from the 52-week low of ₹606 that it made on March 12, a day after witnessing its biggest ...",
+            "photo_url": "https://images.cnbctv18.com/uploads/2025/03/indusindbank-1280-720-mar11-2025-03-451519f91024959587f7c52af16b98ed.jpg?impolicy=website&width=1200&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWtRWGxZYVhGNmFFeERTbWxTVFJEZ0F4aUFCU2dLTWdtZEVZQ000U0V6QlFN=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T01:00:04.000Z",
+            "authors": [
+                "Hormaz Fatakia"
+            ],
+            "source_url": "https://www.cnbctv18.com",
+            "source_name": "CNBC TV18",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER051WW1OMGRqRTRMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4eE5uaG5OQklDWlc0b0FBUAE",
+                    "topic_name": "Hormaz Fatakia"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank CEO Kathpalia Resigns Over Accounting Lapses",
+            "link": "https://www.businessworld.in/article/indusind-bank-ceo-kathpalia-resigns-over-accounting-lapses-555335",
+            "snippet": "IndusInd Bank's managing director and chief executive officer (CEO), Sumant Kathpalia, has stepped down following investigations into ...",
+            "photo_url": "https://static.businessworld.in/indusindbig7feb2022-sixteen_nine%20(1)_20240819224404_original_image_18.webp",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRZbFpmYWxkZk9URmxTbVJLVFJDOUFSaUxBaWdCTWdZQkVvWEYxUU0=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T05:39:13.000Z",
+            "authors": [],
+            "source_url": "https://www.businessworld.in",
+            "source_name": "BW Businessworld",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessworld.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkMjl5YkdRdWFXNG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank deputy CEO Arun Khurana quits amid Rs 1,960 crore derivative loss scrutiny",
+            "link": "https://m.economictimes.com/industry/banking/finance/banking/indusind-bank-deputy-ceo-arun-khurana-quits-amid-rs-1960-crore-derivative-loss-scrutiny/articleshow/120703049.cms",
+            "snippet": "IndusInd Bank's Deputy CEO, Arun Khurana, resigned amidst a Rs 1959.98 crore loss from misaccounted derivative trades.",
+            "photo_url": "https://m.economictimes.com/thumb/msid-120703035,width-1200,height-900,resizemode-4,imgsize-86608/file-photo-an-illuminated-signboard-of-indusind-bank-is-seen-outside-one-of-its-branches-in-new-delhi.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJWVTlIU25WWE1WRlNWMlY0VFJEZ0F4aUFCU2dLTWdZSnc0cEd6UVE=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T16:00:12.000Z",
+            "authors": [
+                "Saloni Shukla"
+            ],
+            "source_url": "https://m.economictimes.com",
+            "source_name": "The Economic Times",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhSMlptSnFlaElDWlc0b0FBUAE",
+                    "topic_name": "Saloni Shukla"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank sees leadership shakeup as CEO Sumant Kathpalia resigns",
+            "link": "https://www.peoplematters.in/news/business/indusind-bank-sees-leadership-shakeup-as-ceo-sumant-kathpalia-resigns-45350",
+            "snippet": "This is the second leadership exit from IndusInd Bank amid an accounting scandal after Deputy CEO Arun Khurana resigned on April 28.",
+            "photo_url": "https://res.cloudinary.com/people-matters/image/upload/f_auto,q_auto,w_800,h_800,c_lpad/v1745939501/1745939497.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVJRWFZFUnpWblkza3hMVkpWVFJDcUJCaXFCQ2dLTWdhTm9wUUl1UVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-28T07:00:00.000Z",
+            "authors": [
+                "Jagriti Kumari"
+            ],
+            "source_url": "https://www.peoplematters.in",
+            "source_name": "peoplematters.in",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.peoplematters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSEJsYjNCc1pXMWhkSFJsY25NdWFXNG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TjJoMFkzWTNaQklDWlc0b0FBUAE",
+                    "topic_name": "Jagriti Kumari"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank, Bajaj Finserv, Eternal & Swiggy: What Kiran Jani of Jainam Broking says on these 4 stocks",
+            "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-bajaj-finserv-eternal-swiggy-what-kiran-jani-of-jainam-broking-says-on-these-4-stocks-474155-2025-04-30",
+            "snippet": "Kiran Jani, Head of Technical Research at Jainam Broking, on Wednesday said benchmark Nifty50 could test 24,800-24,900 levels by next month. On ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/6811c1a4afabb-the-market-expert-said-bajaj-finserv-ltd-looked-promising-on-charts-302222954-16x9.jpg?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNW9aWEF5Wkhrd2JuVlZNVzA1VFJDZkF4ampCU2dLTWdPQmt3Zw=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:23:29.000Z",
+            "authors": [
+                "Prashun Talukdar"
+            ],
+            "source_url": "https://www.businesstoday.in",
+            "source_name": "Business Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWXpVNVpEUmlhQklDWlc0b0FBUAE",
+                    "topic_name": "Prashun Talukdar"
+                }
+            ]
+        },
+        {
+            "title": "After CEO exit, RBI okays IndusInd executives' panel to run the show",
+            "link": "https://www.business-standard.com/finance/news/rbi-approves-committee-of-executives-to-run-indusind-bank-for-three-months-125043001299_1.html",
+            "snippet": "The Reserve Bank of India (RBI) has approved IndusInd Bank's request to form an executive committee to discharge the duties and ...",
+            "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/19/full/1739988308-5885.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlVRWxOUlhsV2NGOU9kMDFXVFJDcUJCaXBCQ2dLTWdZbFpJeXVyUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T13:28:45.000Z",
+            "authors": [
+                "Subrata Panda"
+            ],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1KZk5uRnJPUklDWlc0b0FBUAE",
+                    "topic_name": "Subrata Panda"
+                }
+            ]
+        },  
+        {
+            "title": "Stock Alert: Trent, Hexaware Tech, IndusInd Bank, UCO Bank, Central Bank of India",
+            "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-trent-hexaware-tech-indusind-bank-uco-bank-central-bank-of-india-125042900146_1.html",
+            "snippet": "UCO Banks standalone net profit jumped 24.1% to Rs 652.43 crore on 16.5% increase in total income to Rs 8136.79 crore in Q4 FY25 over Q4 FY24.",
+            "photo_url": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_685x385.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVSbUZrYzAwdGNWWkViRXhrVFJDQkF4aXRCU2dLTWdZZGc1S3N1UWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T03:02:00.000Z",
+            "authors": [],
+            "source_url": "https://www.business-standard.com",
+            "source_name": "Business Standard",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGV0oxYzJsdVpYTnpMWE4wWVc1a1lYSmtMbU52YlNnQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank shares sink 3% after CEO Sumant Kathpalia resigns, Emkay downgrades to 'reduce'",
+            "link": "https://www.moneycontrol.com/news/business/markets/indusind-bank-shares-in-focus-after-ceo-sumant-kathpalia-resigns-emkay-downgrades-to-reduce-13008727.html",
+            "snippet": "Private lender IndusInd Bank's shares sank three in early trade on Wednesday, April 30, after the CEO and Managing Director tendered his ...",
+            "photo_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250326062126_indusind1.jpg?impolicy=website&width=1600&height=900",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVZRMXAwWkdkU1VXNWtObXd6VFJDZkF4ampCU2dLTWdtRmdvcE54V1hCN0FF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T03:25:03.000Z",
+            "authors": [],
+            "source_url": "https://www.moneycontrol.com",
+            "source_name": "Moneycontrol",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzF2Ym1WNVkyOXVkSEp2YkM1amIyMG9BQVAB",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank Shares Sink 3% After CEO Resignation And Accounting Concerns | April 2025",
+            "link": "https://www.samco.in/knowledge-center/articles/indusind-bank-shares-sink-3-amid-ceo-resignation-and-derivative-accounting-concerns/",
+            "snippet": "IndusInd Bank shares dropped 3% on April 30, 2025, following CEO Sumant Kathpalia's resignation amid concerns over accounting lapses in the ...",
+            "photo_url": "https://www.samco.in/knowledge-center/wp-content/uploads/cache/2025/04/IndusInd-Bank-Shares-Sink-3_-Amid-CEO-Resignation-and-Derivative-Accounting-Concerns/2253509639.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtVazV1ZEVsdFpXaDZSazVEVFJDdEF4akxCU2dLTWdZQk1KVE9wQWM=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T06:25:20.000Z",
+            "authors": [],
+            "source_url": "https://www.samco.in",
+            "source_name": "Samco",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.samco.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSE5oYldOdkxtbHVLQUFQAQ",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank's deputy CEO quits over accounting lapses",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/indusind-banks-deputy-ceo-quits-over-accounting-lapses/articleshow/120713184.cms",
+            "snippet": "Mumbai: IndusInd Bank's deputy CEO Arun Khurana has resigned with immediate effect, taking responsibility for a nearly Rs 2,000-crore impact ...",
+            "photo_url": "https://static.toiimg.com/thumb/msid-120713200,width-1280,height-720,resizemode-4/120713200.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZlRkptU2w5Qk9UWTRRMHQ2VFJDZkF4ampCU2dLTWdtSmdaU29yZWM4cndF=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T02:05:00.000Z",
+            "authors": [],
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_name": "Times of India",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JwYldWemIyWnBibVJwWVM1cGJtUnBZWFJwYldWekxtTnZiU2dBUAE",
+            "related_topics": []
+        },
+        {
+            "title": "IndusInd Bank shares slide 3%; CEO steps down, interim committee to take charge",
+            "link": "https://www.financialexpress.com/market/indusind-bank-shares-in-focus-ceo-steps-down-interim-committee-to-take-charge-3827161/",
+            "snippet": "IndusInd Bank share price today, April 30: IndusInd Bank appoints a new executive committee post-CEO resignation amid accounting issues.",
+            "photo_url": "https://www.financialexpress.com/wp-content/uploads/2025/04/diya-2025-04-15T234651.113_20250430032826.jpg?w=440",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNWlXbGxIVm5sME1HcExOMDVIVFJEM0FSaTRBeWdLTWdzdFFvWTJES3Q3U2hrVExn=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-30T03:44:10.000Z",
+            "authors": [
+                "Sparsh Bansal"
+            ],
+            "source_url": "https://www.financialexpress.com",
+            "source_name": "The Financial Express",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR1pwYm1GdVkybGhiR1Y0Y0hKbGMzTXVZMjl0S0FBUAE",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwZDJwdGRIQnRPQklDWlc0b0FBUAE",
+                    "topic_name": "Sparsh Bansal"
+                }
+            ]
+        },
+        {
+            "title": "Top stocks to watch: IndusInd Bank, Tata Tech, Wipro, Trent, Adani Green, Hexaware Tech & CESC",
+            "link": "https://www.businesstoday.in/markets/stocks/story/top-stocks-to-watch-indusind-bank-tata-tech-wipro-trent-adani-green-hexaware-tech-cesc-473949-2025-04-29",
+            "snippet": "Stocks including IndusInd Bank, Tata Technologies, Wipro, Trent, Adani Green Energy, Hexaware Technologies, CESC, Go Digit and PNB Housing ...",
+            "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202504/68102efc93456-mofsl-noted-that-the-long-manufacturing-lead-times-for-cdmo-projects-and-higher-capex-intensity-not-294422800-16x9.jpg?size=1280:720",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVjRWt5WWkxaU9ESnBiVlpMVFJDZkF4ampCU2dLTWdZaEU0aFBuUVU=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T01:45:33.000Z",
+            "authors": [
+                "Pawan Nahar"
+            ],
+            "source_url": "https://www.businesstoday.in",
+            "source_name": "Business Today",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0oxYzJsdVpYTnpkRzlrWVhrdWFXNG9BQVAB",
+            "related_topics": [
+                {
+                    "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OMmNIWXlOUklDWlc0b0FBUAE",
+                    "topic_name": "Pawan Nahar"
+                }
+            ]
+        },
+        {
+            "title": "IndusInd Bank MD, CEO Sumant Kathpalia resigns; takes moral responsibility for derivatives portfolio mishap",
+            "link": "https://www.thehindubusinessline.com/money-and-banking/indusind-bank-md-ceo-sumant-kathpalia-resigns-takes-moral-responsibility-for-derivatives-portfolio-mishap/article69505584.ece",
+            "snippet": "IndusInd Bank CEO resigns over derivative portfolio discrepancies, board seeks RBI approval for interim CEO committee.",
+            "photo_url": "https://bl-i.thgim.com/public/incoming/jswgwq/article69505954.ece/alternates/LANDSCAPE_1200/IMG_BL1202_Banking_Lead__2_1_04CD35KG.jpg",
+            "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpXR1pzUkdWVmNHOUVja0ZoVFJDZkF4ampCU2dLTWdZdFpZTE9MUVk=-w200-h200-p-df-rw",
+            "published_datetime_utc": "2025-04-29T13:56:58.000Z",
+            "authors": [],
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_name": "BusinessLine",
+            "source_logo_url": null,
+            "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_publication_id": "CAAqNggKIjBDQklTSGdnTWFob0tHSFJvWldocGJtUjFZblZ6YVc1bGMzTnNhVzVsTG1OdmJTZ0FQAQ",
+            "related_topics": []
         }
-
-
-
-
-
-
-
-
 
 
 

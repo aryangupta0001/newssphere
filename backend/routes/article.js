@@ -2,11 +2,9 @@ const express = require("express");
 const router = express.Router();
 const Articles = require("../models/Articles");
 const User = require("../models/User");
-const { validationResult, body } = require('express-validator');
-const bcrypt = require('bcryptjs');
-const jwt = require('jsonwebtoken');
 const fetchuser = require("../middleware/fetchuser");
-const { getArticleEmbedding } = require('../bertUtiils');
+const { fetchNews } = require('../fetchNews');
+
 
 const JWT_SECRET = "#365$36884";
 
@@ -14,71 +12,103 @@ const JWT_SECRET = "#365$36884";
 
 router.get("/fetcharticles", fetchuser, async (req, res) => {
     const userId = req.user.id;
+
     try {
         const user = await User.findById(userId).select('-password');
 
+
         const articles = [];
 
-        if (user.bertEmbeddings.length == 0) {
+        const { searchQuery } = req.query;
 
-            const categories = ['WORLD', 'NATIONAL', 'BUSINESS', 'TECHNOLOGY', 'ENTERTAINMENT', 'SPORTS', 'SCIENCE', 'HEALTH'];
 
-            for (const category of categories) {
-                // const recentArticles = await Articles.find({ category: category }).select('-bert_embedding')
-                const recentArticles = await Articles.find({ category: category })
+        if (!searchQuery) {
+
+            if (user.bertEmbeddings.length == 0) {
+
+                const categories = ['WORLD', 'NATIONAL', 'BUSINESS', 'TECHNOLOGY', 'ENTERTAINMENT', 'SPORTS', 'SCIENCE', 'HEALTH'];
+
+                for (const category of categories) {
+                    // const recentArticles = await Articles.find({ category: category }).select('-bert_embedding')
+                    const recentArticles = await Articles.find({ category: category })
+                        .sort({ published_datetime_utc: -1 }) // sort by date descending
+                        .limit(5);
+
+                    // console.log(recentArticles);
+
+                    articles.push(...recentArticles);
+                }
+
+                // const recentArticles = await Articles.find({ category: 'GENERAL' }).select('-bert_embedding')
+                const recentArticles = await Articles.find({ category: 'GENERAL' })
                     .sort({ published_datetime_utc: -1 }) // sort by date descending
-                    .limit(5);
+                    .limit(10);
 
                 // console.log(recentArticles);
 
                 articles.push(...recentArticles);
+
+
+                console.log(Object.keys(articles[0].toObject()));
+                // console.log(articles[0]);
+
+
+                for (let i = articles.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [articles[i], articles[j]] = [articles[j], articles[i]]; // Swap elements
+                }
+
+                console.log("Articles sent to ArticleState : ", articles.length);
+                res.json(articles)
+
+
+
             }
 
-            // const recentArticles = await Articles.find({ category: 'GENERAL' }).select('-bert_embedding')
-            const recentArticles = await Articles.find({ category: 'GENERAL' })
-                .sort({ published_datetime_utc: -1 }) // sort by date descending
-                .limit(10);
+            else {
 
-            // console.log(recentArticles);
+                
+                const N = 40;                    // No. of articles to fetch from the sorted list.
 
-            articles.push(...recentArticles);
+                const userVec = user.bertEmbeddings;
 
+                const articles = await Articles.find({});
 
-            console.log(Object.keys(articles[0].toObject()));
-            // console.log(articles[0]);
+                const rankedArticles = articles.map(article => ({
+                    ...article.toObject(),
 
+                    score: cosineSimilarity(userVec, article.bert_embedding)
+                }))
+                    .sort((a, b) => b.score - a.score);
 
-            for (let i = articles.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [articles[i], articles[j]] = [articles[j], articles[i]]; // Swap elements
+                const topArticles = rankedArticles.slice(0, N);
+
+                console.log("Articles sent to ArticleState : ", topArticles.length);
+                res.json(topArticles);
             }
-
-            console.log("Articles sent to ArticleState : ", articles.length);
-            res.json(articles)
-
-
-
         }
 
+
         else {
+            console.log("Search Query : ", searchQuery);
+            const searchResult = await fetchNews({ type: 'search', query: searchQuery })
 
-            const N = 40;                    // No. of articles to fetch from the sorted list.
 
-            const userVec = user.bertEmbeddings;
+            if (searchResult) {
+                console.log("Type Of : ", typeof (searchResult), Array.isArray(searchResult));
+                console.log("Type Of 0th ele : ", typeof (searchResult[0]), Array.isArray(searchResult[0]));
+                const articles = await Articles.find({ _id: { $in: searchResult } });
+                res.json(articles);
 
-            const articles = await Articles.find({});
+            }
+            else {
+                res.send(['No Article Fetched']);
 
-            const rankedArticles = articles.map(article => ({
-                ...article.toObject(),
+            }
 
-                score: cosineSimilarity(userVec, article.bert_embedding)
-            }))
-                .sort((a, b) => b.score - a.score);
+            // const insertedIds = Object.values(searchResult);
 
-            const topArticles = rankedArticles.slice(0, N);
 
-            console.log("Articles sent to ArticleState : ", topArticles.length);
-            res.json(topArticles);
         }
 
     }

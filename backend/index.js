@@ -2,10 +2,14 @@ const connectToMongo = require("./db");
 const express = require('express')
 const cors = require('cors');
 const { fetchNews } = require('./fetchNews');
+const fixIncompleteArticles = require("./utils/fixIncompleteArticles");
 
 
 connectToMongo();
-fetchNews();
+// fetchNews({ type: 'fetch' });
+
+fixIncompleteArticles();
+
 
 const app = express()
 const port = 5000
@@ -29,6 +33,6 @@ app.listen(port, () => {
 })
 
 
-setInterval(() => {
-  fetchNews();
-}, 60 * 60 * 1000);
+// setInterval(() => {
+//   fetchNews({ type: 'fetch' });
+// }, 60 * 60 * 1000);

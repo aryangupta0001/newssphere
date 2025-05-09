@@ -10,7 +10,7 @@ async function initBERT() {
 }
 
 // Function to get BERT sentence embedding from title + snippet
-async function getArticleEmbedding(texts) {
+async function fetchBertEmbeddings(texts) {
     await initBERT();
 
 
@@ -47,5 +47,5 @@ async function getArticleEmbedding(texts) {
     return sentenceEmbedding; // This is a 768-dim BERT vectors
 }
 module.exports = {
-    getArticleEmbedding
+    fetchBertEmbeddings
 };
